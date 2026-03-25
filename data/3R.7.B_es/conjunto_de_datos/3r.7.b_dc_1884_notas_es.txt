@@ -1,0 +1,2 @@
+﻿"Fuente: Estimaciones con base en la Encuesta Nacional de la Dinámica Demográfica. INEGI.  Encuesta Nacional de la Dinámica Demográfica (ENADID), 2014-2023. "
+"cvegeo: Clave geoestadística"

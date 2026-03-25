@@ -1,0 +1,4 @@
+﻿"Nota: Para el cálculo del indicador para el año 2023, se utilizaron 17,296 registros de parámetros de calidad del agua de 2,185 sitios de monitoreo dentro dell periodo 2020-2022,
+los cuales son generados por la Gerencia de Calidad del Agua de la Subdirección General Técnica de la CONAGUA. El indicador evalua solo los cuerpos de agua superficiales.  Sistema Nacional de Información del Agua (SINA). "
+"Fuente: Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT). Comisión Nacional del Agua (CONAGUA). Gerencia de Planificación Hídrica. Sistema Nacional de Información
+del Agua (SINA). Sistema Nacional de Información del Agua (SINA). "

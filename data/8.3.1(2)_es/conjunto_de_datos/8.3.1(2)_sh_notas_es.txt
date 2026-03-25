@@ -1,0 +1,7 @@
+﻿"Nota: Debido a la contingencia sanitaria originada por el COVID-19 se suspendió el levantamiento de la Encuesta Nacional de Ocupación Empleo (ENOE) en el segundo trimestre
+de 2020. En los meses de abril, mayo y junio se realizó la Encuesta Telefónica de Ocupación y Empleo (ETOE), obteniéndose información agregada sobre el mercado laboral,
+aunque con una representatividad menor que la de los periodos anteriores.  
+ En los trimestres tercero y cuarto se reanudaron los levantamientos de la información con mayor representatividad, recopilándola tanto por vía telefónica como mediante
+entrevistas cara a cara. De esta manera se generó la Encuesta Nacional de Ocupación y Empleo Nueva Edición (ENOEN). Las cifras en que se basa este indicador corresponden
+a un promedio de los cuatro trimestres. "
+"Fuente: STPS, con base en cifras del INEGI. ENE, ENOE (varios años) y ETOE. "

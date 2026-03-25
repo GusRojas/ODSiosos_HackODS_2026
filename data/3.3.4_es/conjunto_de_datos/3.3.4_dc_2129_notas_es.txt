@@ -1,0 +1,4 @@
+﻿"ND No disponible"
+"Fuente: Secretaría de Salud (SS). Anuarios de Morbilidad 1984 a 2024:   
+ https://www.gob.mx/salud/acciones-y-programas/anuarios-de-morbilidad-1984-a-2024  "
+"cvegeo: Clave geoestadística"

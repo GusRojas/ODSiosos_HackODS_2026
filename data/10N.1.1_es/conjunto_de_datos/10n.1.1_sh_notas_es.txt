@@ -1,0 +1,2 @@
+﻿"Fuente: Encuesta Nacional de Ingresos y Gastos de los Hogares. 2016. 2018, 2020, 2022 y 2024. "
+"cvegeo: Clave geoestadística"

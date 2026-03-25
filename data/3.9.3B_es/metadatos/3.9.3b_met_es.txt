@@ -1,0 +1,68 @@
+﻿Title: 3.9.3b Defunciones atribuidas a intoxicaciones involuntarias, según la residencia habitual fuera de México o no especificada
+
+Description: Es el número de defunciones atribuidas a intoxicaciones involuntarias en el año de referencia según la condición de residencia habitual fuera de México.
+
+Modified: 2025-11-14
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Mtra. Manett Vargas García
+Directora General de Evaluación del Desempeño
+Avenida Paseo de la Reforma 450 
+Colonia Juárez, 06600
+Cuauhtémoc, Cuauhtémoc, Ciudad de México
+01 (55) 50621600 Ext. 52697
+manett.vargas@salud.gob.mx
+Dr. Delfino Campos Díaz
+Director de Gestión y Seguimiento para la Evaluación de los Sistemas de Salud
+Av. Agrarismo #227, piso 3, Col. Escandón II Sección D.T. Miguel Hidalgo, C.P. 11800, CDMX.
+01 (55) 50621600 Ext. 52681
+delfino.campos@salud.gob.mx
+Mtro. Arturo Barranco Flores
+Director de Información sobre Necesidades de Salud y Población
+Homero No. 213, Col. Chapultepec Morales. Alcaldía Miguel Hidalgo, CDMX C.P. 11570
+(55) 6392-2300 Ext.52594
+arturo.barranco@salud.gob.mx
+
+Temporal: 1998-2023
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/3.9.3b_es.zip
+
+Goal: 3. Garantizar una vida sana y promover el bienestar de todos a todas las edades 
+
+Target:  Meta 3.9 De aquí a 2030, reducir considerablemente el número de muertes y enfermedades causadas por productos químicos peligrosos y por la polución y contaminación del aire, el agua y el suelo
+
+Type of indicator: Global
+
+Algorithm: 3.9.3b_ES.gif
+
+Description of the indicator: Número de personas muertas debido a intoxicaciones involuntarias en un año (personas con residencia habitual fuera de México o no especificada).
+
+Unit of measure: Defunciones
+
+Geographic coverage: Nacional
+
+Opportunity: 1 año
+
+Source of statistical information used to calculate the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Estadísticas Vitales. Estadísticas de defunciones registradas. Disponible en:  https://www.inegi.org.mx/programas/mortalidad/#Microdatos
+Consejo Nacional de Población (CONAPO). Proyecciones de la Población de México y de las Entidades Federativas, 2020-2070 y Conciliación Demográfica de México, 1950-2019. Disponible en: https://www.gob.mx/conapo/documentos/bases-de-datos-de-la-conciliacion-demografica-1950-a-2019-y-proyecciones-de-la-poblacion-de-mexico-2020-a-2070?idiom=es
+
+Date of next update of indicator: 30 de junio de 2026
+
+Unit of the State responsible for calculating the indicator: Secretaría de Salud (SSA). 
+
+Importance and purpose of the indicator: La medición de la tasa de mortalidad por la ingesta de sustancias tóxicas proporcionan un indicativo del grado en el cual se manejan o gestionan los productos químicos peligrosos, que puedan tener un efecto significativo en el sistema de salud de los países. 
+
+National and/or international reference: Repositorio de metadatos de los ODS, disponible en:   
+ https://unstats.un.org/sdgs/metadata/ 
+
+Observations: Las muertes consideradas en el calculo del indicador corresponden a las claves X40, X43, X46-X48, X49.
+

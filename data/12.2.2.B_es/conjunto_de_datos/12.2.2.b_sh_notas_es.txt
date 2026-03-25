@@ -1,0 +1,4 @@
+﻿"Fuente: Instituto Nacional de Estadística y Geografía (INEGI). Sistema de Cuentas Nacionales de México. Cuentas Económicas y Ecológicas de México. 2024. Cifras preliminares. Año Base 2018. (1 de diciembre de 2025)
+
+De 2003 a 2019: Consejo Nacional de Población (CONAPO), Proyecciones de la población de México y de las entidades federativas 2020-2070.
+De 2020 a 2024:  Encuesta Nacional de Ocupación y Empleo (ENOE), promedio anual considerando del primer trimestre 2020 aI cuarto trimestre de 2024."

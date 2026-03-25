@@ -1,0 +1,3 @@
+﻿"ND No disponible"
+"Fuente: STPS, con base en cifras del INEGI. Módulo de Trabajo Infantil (MTI) de la Encuesta Nacional de Ocupación y Empleo (ENOE) y la Encuesta Nacional de Trabajo Infantil (ENTI), 2019 y 2022. "
+"cvegeo: Clave geoestadística"

@@ -1,0 +1,69 @@
+﻿Title: 1.2.2.a Proporción de hombres, mujeres y niños de todas las edades que viven en la pobreza en todas sus dimensiones, con arreglo a las definiciones nacionales, por desglose geográfico  (Entidad federativa)
+
+Description: Es el porcentaje de la población de referencia que tiene al menos una carencia social y su ingreso es insuficiente para adquirir los bienes y servicios que requiere para satisfacer sus necesidades alimentarias y no alimentarias (Línea de Pobreza por Ingresos).
+
+Modified: 2024-04-22
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+Keyword: Pobres, canasta básica, ingreso insuficiente, miseria, bienestar, rezago, desigualdad, carencia, hambre
+
+ContactPoint: Alida Marcela Gutiérrez Landeros
+Coordinadora General de Análisis de la Pobreza
+Insurgentes Sur #810, Colonia Del Valle, C.P. 03100, Benito Juárez, Ciudad de México
+(55) 54-81-72-00, ext. 70075
+amgutierrez@coneval.org.mx
+David Antonio Rojas Rosey
+Director Ejecutivo de Medición de Pobreza y Seguimiento de Indicadores
+Insurgentes Sur #810, Colonia Del Valle, C.P. 03100, Benito Juárez, Ciudad de México
+(55) 54-81-72-00, ext. 70100
+drojas@coneval.org.mx
+
+Temporal: 2016-2022
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Bienal
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/1.2.2.a_es.zip
+
+Goal: 1. Poner fin a la pobreza en todas sus formas y en todo el mundo 
+
+Target:  Meta 1.2 De aquí a 2030, reducir al menos a la mitad la proporción de hombres, mujeres y niños de todas las edades que viven en la pobreza en todas sus dimensiones con arreglo a las definiciones nacionales
+
+Type of indicator: Global
+
+Algorithm: 1_2_2_a_ES.gif
+
+Description of the indicator: Este indicador resulta de identificar a la población de referencia que cuenta con al menos una carencia social y que su ingreso es insuficiente para satisfacer sus necesidades alimentarias y no alimentarias, dividir dicho número de personas entre la población de referencia total y multiplicar el cociente por 100.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Entidad federativa
+
+Opportunity: 1 año.*/
+
+Source of statistical information used to calculate the indicator: Instituto Nacional de Estadística y Geografía (INEGI) 
+
+Date of next update of indicator: 31 de diciembre de 2025 */
+
+Unit of the State responsible for calculating the indicator: Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL). 
+
+Importance and purpose of the indicator: Este indicador está ligado a la Meta 1.2 de reducir al menos a la mitad la proporción de hombres, mujeres y niños de todas las edades que viven en la pobreza en todas sus dimensiones con arreglo a las definiciones nacionales. Permite dar seguimiento a la evolución de la pobreza en México a través del tiempo, como insumo para la generación de estrategias, políticas y acciones de combate a la pobreza.
+
+National and/or international reference: Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL). 
+
+Observations: 1. El CONEVAL, en cumplimiento con las disposiciones establecidas en los Lineamientos y criterios generales para la definición, identificación y medición de pobreza, publicados en el Diario Oficial de la Federación (DOF) el 30 de octubre de 2018, actualizó la Metodología para la medición de la pobreza, se consideraron los cambios normativos y de carácter técnico. Lo anterior, con la finalidad de que las mediciones a efectuar ofrecieran continuidad y comparabilidad a lo largo del tiempo para evaluar la política social, y pudieran consolidarse entre la ciudadanía. De esta manera el proceso de actualización de la Metodología para la medición multidimensional de la pobreza en México responde a dos elementos centrales: primero, cambios normativos aprobados por el Poder Legislativo a partir de 2010 y, segundo, cambios técnicos producto del proceso de investigación y profundización en las dimensiones de la pobreza realizado por el CONEVAL.
+Los cambios normativos atañen a los indicadores de rezago educativo, acceso a la alimentación y grado de accesibilidad carretera pavimentada, debido a lo siguiente: a) rezago educativo, el 9 de febrero de 2012 se publicó en el DOF la reforma al artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, en la que se considera como obligatoria a la educación media superior; b) acceso a la alimentación nutritiva y de calidad, el 1° de junio de 2016 se reformó la fracción VII del artículo 36 de la LGDS para agregar el carácter nutritivo y de calidad al acceso a la alimentación y, c) grado de accesibilidad carretera pavimentada, el 7 de noviembre de 2013 se adicionó la fracción IX al Artículo 36 de la LGDS para incluir el indicador de accesibilidad a carretera pavimentada como parte de la medición de pobreza. Para mayor información consultar: Metodología para medición multidimensional de la pobreza en México. Tercera edición. Disponible en: https://www.coneval.org.mx/InformesPublicaciones/InformesPublicaciones/Documents/Metodologia-medicion-multidimensional-3er-edicion.pdf
+2. Datos de CONEVAL sobre la pobreza multidimensional:
+Medición de pobreza: https://www.coneval.org.mx/Medicion/Paginas/PobrezaInicio.aspx 
+Metodología para la medición multidimensional de la pobreza en México: https://www.coneval.org.mx/InformesPublicaciones/InformesPublicaciones/Documents/Metodologia-medicion-multidimensional-3er-edicion.pdf
+3. Se utilizan las bases de datos que publicó el INEGI con los nuevos factores de expansión construidos con base en el Marco de Muestreo de Viviendas y los resultados del Censo de Población y Vivienda 2020
+4. El total de la población presentada es para fines de la medición de pobreza, por lo que puede diferir con las cifras de población total reportadas por el INEGI o CONAPO
+5. Para un mejor análisis de la información 2022, consultar la nota técnica:  https://www.coneval.org.mx/Medicion/MP/Documents/MMP_2022/Nota_tecnica_sobre_la_informacion_empleada_para_la_estimacion_de_la_medicion_de_pobreza_en_Mexico_2022.pdf
+*/ La actualización del indicador está sujeta a la publicación de los microdatos por parte del INEGI.
+

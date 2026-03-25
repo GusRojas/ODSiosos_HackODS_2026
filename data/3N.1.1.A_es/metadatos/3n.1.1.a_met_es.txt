@@ -1,0 +1,82 @@
+﻿Title: 3n.1.1.a Porcentaje de la población que presenta carencia por acceso a los servicios de salud, por desglose geográfico y grupo poblacional (Entidad federativa)
+
+Description: Es el porcentaje de población que no cuenta con adscripción o derecho a recibir servicios médicos de alguna institución que los presta, incluyendo el Seguro Popular o INSABI, las instituciones públicas de seguridad social (IMSS, ISSSTE federal o estatal, Pemex, Ejército o Marina) o los servicios médicos privados.
+
+Modified: 2023-12-07
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Alida Marcela Gutiérrez Landeros
+Coordinadora General de Análisis de la Pobreza
+Insurgentes Sur #810, Colonia Del Valle, C.P. 03100, Benito Juárez, Ciudad de México
+(55) 54-81-72-00, ext. 70075
+amgutierrez@coneval.org.mx
+David Antonio Rojas Rosey
+Director Ejecutivo de Medición de Pobreza y Seguimiento de Indicadores
+Insurgentes Sur #810, Colonia Del Valle, C.P. 03100, Benito Juárez, Ciudad de México
+(55) 54-81-72-00, ext. 70100
+drojas@coneval.org.mx
+
+Temporal: 2016-2022
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Bienal
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/3n.1.1.a_es.zip
+
+Goal: 3. Garantizar una vida sana y promover el bienestar de todos a todas las edades 
+
+Target:  Meta 3n.1 Lograr la cobertura universal de salud
+
+Type of indicator: Nacional
+
+Algorithm: 3n.1.1.a_ES.gif
+
+Description of the indicator: Este indicador resulta de identificar a población sin acceso o derecho a los servicios de salud, dividir dicho número de personas entre la población de referencia total y multiplicar el cociente por 100.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Entidad federativa
+
+Opportunity: 1 año */
+
+Source of statistical information used to calculate the indicator: Instituto Nacional de Estadística y Geografía (INEGI) Encuesta Nacional de Ingresos y Gastos de los Hogares (ENIGH) 2016, 2018, 2020 y 2022; con los nuevos factores de expansión construidos con base en el Marco de Muestreo de Viviendas y los resultados del Censo de Población y Vivienda 2020
+
+Date of next update of indicator: 31 de diciembre de 2025 */
+
+Unit of the State responsible for calculating the indicator: Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL). http://www.coneval.org.mx/. 
+
+Importance and purpose of the indicator: El artículo 4° de la Constitución establece que toda la población mexicana tiene derecho a la protección de la salud. En términos de la Ley General de Salud (LGS), este derecho constitucional se refiere al derecho de todos los mexicanos a ser incorporados al Sistema de Protección Social en Salud (artículo 77 bis 1 de la LGS). De esta forma, las familias y personas que no sean derechohabientes de las instituciones de seguridad social, o no cuenten con algún otro mecanismo de previsión social en salud, deben ser inscritas en dicho sistema (artículo 77 bis 3 de la LGS).
+
+National and/or international reference: Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL). http://www.coneval.org.mx/. 
+
+Observations: 1. El 30 de octubre de 2018, se publicó en el DOF los Lineamientos y criterios generales para la definición, identificación y medición de la pobreza, los cuales prevén una actualización de indicadores y umbrales de acuerdo a las dinámicas de la sociedad mexicana y el marco normativo que la gobierna. EL CONEVAL presentó la actualización de la medición multidimensional de la pobreza 2022 a nivel nacional y estatal en agosto de 2023, en este contexto, se propone que estas cifras (2016 - 2022) sean los referentes para la actualización de las metas nacionales.
+2. El CONEVAL adoptó como indicador de precisión estadística al coeficiente de variación (CV), mismo que, por definición, para su estimación tradicional requiere de la varianza del estimador y la media estimada de la variable de análisis. Para el caso de pobreza por grupos poblacionales, con el propósito de conocer la precisión estadística de las cifras que se presentan, se estimó el Error Cuadrático Medio (ECM), como mejor aproximación de la varianza del estimador. Al obtener el ECM, así como la varianza en los indicadores, es posible contar con el CV como una medida de precisión en las estimaciones, de la siguiente forma:
+• La estimación es precisa si CV&#8804;15%, por lo que, la estimación puede ser considerada sin restricciones.
+• La estimación es aceptable cuando 15%&lt;CV&#8804;25%, por lo que, la estimación debe ser utilizada con precaución.
+• La estimación no es precisa si 25%&lt;CV, por lo que, se recomienda omitir su publicación y uso.
+3. Los grupos poblacionales de los que se presentan resultados de los indicadores de pobreza son los siguientes:
+  • Hombres
+  • Mujeres
+  • Niñas, niños y adolescentes: 
+Población de 0 a 17 años
+  • Personas adultas: 
+Población de 30 a 64 años
+  • Personas adultas mayores: 
+Población de 65 años o más
+  • Personas jóvenes: 
+Población de 18 a 29 años
+  • Población indígena:
+De acuerdo con los criterios del Instituto Nacional de los Pueblos Indígenas (INPI), se considera población indígena a todas las personas que forman parte de un hogar indígena, donde el jefe(a) del hogar, su cónyuge y/o alguno de los ascendientes (madre o padre, madrastra o padrastro, abuelo(a), bisabuelo(a), tatarabuelo(a), suegro(a)) declaró ser hablante de lengua indígena. Además, se incluye a personas que declararon hablar alguna lengua indígena y que no forman parte de estos hogares. Disponible en: https://www.gob.mx/inpi/documentos/indicadores-de-la-poblacion-indigena  (consultado el 10 agosto de 2023).
+  • Población rural:
+Se considera población rural a todas las personas que residen en localidades de menos de 2,500 habitantes.
+  • Población urbana:
+Se considera población urbana a todas las personas que residen en localidades de 2,500 o más habitantes.
+4. Para un mejor análisis de la información 2022, consultar la nota técnica:  https://www.coneval.org.mx/Medicion/MP/Documents/MMP_2022/Nota_tecnica_sobre_la_informacion_empleada_para_la_estimacion_de_la_medicion_de_pobreza_en_Mexico_2022.pdf
+*/ La actualización del indicador está sujeta a la publicación de los microdatos por parte de INEGI.
+

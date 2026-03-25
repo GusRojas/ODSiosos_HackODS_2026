@@ -1,0 +1,7 @@
+﻿"Nota: El indicador es calculado a partir de los registros reportados en la publicación "Situación del subsector agua potable, alcantarillado y saneamiento" de la Subdirección
+General de Agua Potable, Drenaje y Saneamiento de la CONAGUA, mismos que se integran en el Sistema Nacional de Información del Agua (SINA),  
+ https://sinav30.conagua.gob.mx:8080/, y de los registros  reportados por la Organización para el Crecimiento y Desarrollo Económico (OCDE) en la página electrónica  
+ https://stats.oecd.org/Index.aspx , consultada el 17 de enero de 2025. "
+"Fuente: Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT). Comisión Nacional del Agua (CONAGUA). Gerencia de Planificación Hídrica. Sistema Nacional de Información
+del Agua (SINA)  
+ https://sinav30.conagua.gob.mx:8080/ "

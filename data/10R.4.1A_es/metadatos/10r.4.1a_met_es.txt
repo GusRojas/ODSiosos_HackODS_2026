@@ -1,0 +1,72 @@
+﻿Title: 10r.4.1a Índice de Gini con transferencias
+
+Description: Con este indicador se mide la desigualdad que existen entre los ingresos de los hogares, siendo el valor mas cercano a cero una menor desigualdad entre los hogares, y mas cercano a 1 denotando la mayor desigualdad entre los ingresos de los hogares.
+
+Modified: 2025-11-14
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Centro de atención a usuarios INEGI
+Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276,
+Aguascalientes, Aguascalientes, Aguascalientes, 
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Nacional sin costo: 800 111 46 34 
+ Internacional: (código internacional) + (52)+(449) 149 1300
+atencion.usuarios@inegi.org.mx
+Octavio Heredia Hernández
+Director General Adjunto de Encuestas Sociodemográficas
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276
+Aguascalientes, Aguascalientes
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Telefóno: 4499105300, Ext. 4322, 4223
+octavio.heredia@inegi.org.mx
+
+Temporal: 2016-2024
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Bienal
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/10r.4.1a_es.zip
+
+Goal: 10. Reducir la desigualdad en los países y entre ellos 
+
+Target:  Meta 10.4 Adoptar políticas, especialmente fiscales, salariales y de protección social, y lograr progresivamente una mayor igualdad
+
+Type of indicator: Regional
+
+Algorithm: 10r.4.1_ES.gif
+
+Description of the indicator: Para el cálculo, la población se divide usualmente en grupos de ingreso. Comúnmente tenemos diez grupos (deciles) con una cantidad similar de individuos en cada grupo. En otros casos los grupos pueden estar basados en rangos de ingreso lo que implica tener diferentes números de individuos en cada grupo. Para el cálculo del coeficiente de Gini, para cada grupo la cantidad de individuos u hogares, y el ingreso total, tienen que estar ordenados de manera que el valor en grupo sea de manera ascendente.
+
+Unit of measure: Índice
+
+Geographic coverage: Nacional y entidad federativa
+
+Opportunity: Bienal
+
+Source of statistical information used to calculate the indicator: Encuesta Nacional de Ingresos y Gastos de los Hogares. 2016. 2018, 2020, 2022 y 2024.
+
+Date of next update of indicator: No definida
+
+Unit of the State responsible for calculating the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Unidad de Estadísticas Sociodemográficas.   
+ https://www.inegi.org.mx  
+
+Importance and purpose of the indicator: Permite identificar la desigualdad entre los ingresos de los hogares a nivel nacional y las entidades federativas.
+
+National and/or international reference: Articulación con el Sistema de Cuentas Nacionales y con las Encuestas de Hogares que levanta el INEGI. 
+Las resoluciones e informes de las Conferencias Internacionales sobre Estadísticas del Trabajo, de la Organización Internacional del Trabajo (OIT). 
+17a Conferencia Internacional de Estadísticos del Trabajo y en el Reporte del Grupo de Canberra. 
+El Reporte final y Recomendaciones del Grupo de Canberra, Grupo de Expertos en las Estadísticas de Ingreso de los Hogares. 
+Manual de Encuestas sobre Hogares. Departamento de Asuntos Económicos y Sociales Internacionales, Oficina de Estadística. Naciones Unidas, Nueva York, 1987. 
+
+Observations: El cálculo de este indicador toma en cuenta las Transferencias.
+Las transferencias son insumos por los cuales el receptor no entrega nada al donante; están motivados por la intención de redistribuir el ingreso, por parte del gobierno o de diferentes entidades privadas. Las transferencias se pueden realizar entre hogares, entre el gobierno y los hogares, o entre organizaciones benéficas y hogares. Pueden ser en forma de efectivo, bienes o servicios. Las transferencias corrientes son aquellas que se repiten periódicamente (en relación con el período de referencia utilizado para el ingreso), suelen ser pequeñas y en su mayoría se utilizan durante el período de referencia. Para mayor información técnica sobre las transferencias, se recomienda consultar el Documento de Diseño Conceptual de la Encuesta Nacional de Ingresos y Gastos de los Hogares (ENIGH). Disponible en:  
+

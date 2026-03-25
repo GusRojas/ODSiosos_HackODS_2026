@@ -1,0 +1,67 @@
+﻿Title: 3.9.1 Tasa de mortalidad atribuida a la contaminación de los hogares y del aire ambiente
+
+Description: El indicador es un porcentaje del total de personas muertas por fenómenos de contaminación de los hogares y del aire ambiente con respecto al total de personas.
+
+Modified: 2025-11-14
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Mtra. Manett Vargas García
+Directora General de Evaluación del Desempeño
+Avenida Paseo de la Reforma 450 
+Colonia Juárez, 06600
+Cuauhtémoc, Cuauhtémoc, Ciudad de México
+01 (55) 50621600 Ext. 52697
+manett.vargas@salud.gob.mx
+Dr. Delfino Campos Díaz
+Director de Gestión y Seguimiento para la Evaluación de los Sistemas de Salud
+Av. Agrarismo #227, piso 3, Col. Escandón II Sección D.T. Miguel Hidalgo, C.P. 11800, CDMX.
+01 (55) 50621600 Ext. 52681
+delfino.campos@salud.gob.mx
+Dr. Horacio Riojas Rodríguez
+Director de Salud Ambiental, Instituto Nacional de Salud Pública
+Universidad No. 655 Colonia Santa María Ahuacatitlán, Cerrada Los Pinos y Caminera. Cuernavaca, Morelos, México
+777 329 3000 ext. 3304
+hriojas@insp.mx
+
+Temporal: 2015-2023
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/3.9.1_es.zip
+
+Goal: 3. Garantizar una vida sana y promover el bienestar de todos a todas las edades 
+
+Target:  Meta 3.9 De aquí a 2030, reducir considerablemente el número de muertes y enfermedades causadas por productos químicos peligrosos y por la polución y contaminación del aire, el agua y el suelo
+
+Type of indicator: Global
+
+Algorithm: 3.9.1_ES.gif
+
+Description of the indicator: Mediante los registros de muertes por contaminación de los hogares y del aire ambiente, se conforma la propoción con respecto al total de personas, por cada 100,000.
+
+Unit of measure: Número de muertes por cada 100,000 habitantes
+
+Geographic coverage: Nacional y entidad federativa
+
+Opportunity: 4 años 
+
+Source of statistical information used to calculate the indicator: Institute for Health Metrics and Evaluation (IHME). Global Burden of Disease (GBD) study.  https://vizhub.healthdata.org/gbd-results/  (Consultado el día 28 de julio de 2024)
+
+Date of next update of indicator: 30 de junio de 2026
+
+Unit of the State responsible for calculating the indicator: Secretaría de Salud (SSA). 
+
+Importance and purpose of the indicator: La mortalidad que deriva de la exposición a la contaminación del aire ambiental, con fuente exógena, así como la doméstiga, que es endógena (esta última sobre todo de las activiades del cocinado en los hogares), es un elemento relevante, puesto que las particulas finas de contaminación resultan ser sumamente perjudiciales a la salud humana, siendo entonces la contaminación del aire uno de los factores de mayor riesgo a la salud humana. 
+
+National and/or international reference: Ficha técnica del indicador global. Disponible en:   
+ https://unstats.un.org/sdgs/metadata/ 
+
+Observations: Las claves de enfermedad que fueron consideradas son  Cardiovasculares (I00-I99);  Enfermedades isquémicas del corazón (EIC) (I20-I25);  Cáncer de Pulmón (C33-C34) y;  Cardiopulmonares (I10-I70; J00-J98).
+

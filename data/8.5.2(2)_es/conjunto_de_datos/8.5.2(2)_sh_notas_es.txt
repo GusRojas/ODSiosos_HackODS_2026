@@ -1,0 +1,13 @@
+﻿"Nota: - Debido a la contingencia sanitaria originada por el COVID-19 se suspendió el levantamiento de la Encuesta Nacional de Ocupación Empleo (ENOE) en el segundo trimestre
+de 2020. En los meses de abril, mayo y junio se realizó la Encuesta Telefónica de Ocupación y Empleo (ETOE), con la cual fue posible obtener información con representatividad
+a nivel nacional, motivo por el cual no hay información disponible para los estados en estos meses y por tanto no se cuenta información basada en promedios
+anuales. 
+ - En los trimestres tercero y cuarto de 2020 se reanudaron los levantamientos de la información con representatividad nacional y estatal, recopilándola tanto por vía
+telefónica como mediante entrevistas cara a cara. De esta manera se generó la Encuesta Nacional de Ocupación y Empleo Nueva Edición (ENOEN). 
+ - Las cifras del periodo 2005-2020 se generaron con el factor de expansión correspondiente a las proyecciones de población revisadas por el Consejo Nacional de Población
+(CONAPO), las cuales se basaron en el Censo de Población y Vivienda 2010 y se difundieron en abril de 2013. 
+ - Esta es una serie histórica de referencia, que ya no se actualiza y que no es comparable con la nueva serie de 2014-2022 basada en el Marco de Muestreo de Viviendas
+del INEGI, con base en el Censo 2020. "
+"ND No disponible"
+"Fuente: STPS, con base en cifras del INEGI. ENE, ENOE (varios años) y ETOE. "
+"cvegeo: Clave geoestadística"

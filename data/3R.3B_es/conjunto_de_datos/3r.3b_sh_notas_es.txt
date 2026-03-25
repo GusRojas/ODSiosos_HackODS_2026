@@ -1,0 +1,4 @@
+﻿"Fuente: Secretaría de Salud.  Bases de datos de mortalidad.
+Consejo Nacional de Población  (CONAPO), Proyecciones de la Población de México y de las Entidades Federativas 2020-2070.
+Disponible en: https://datos.gob.mx/busca/dataset/proyecciones-de-la-poblacion-de-mexico-y-de-las-entidades-federativas-2020-2070  "
+"cvegeo: Clave geoestadística"

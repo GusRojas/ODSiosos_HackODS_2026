@@ -1,0 +1,70 @@
+﻿Title: 16n.1.2 Prevalencia delictiva en unidades económicas
+
+Description: Mide el total de unidades económicas que fueron víctimas de algún delito durante el año entre el total de unidades económicas de la entidad federativa y a nivel nacional.
+
+Modified: 2025-01-15
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Centro de atención a usuarios INEGI
+Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276,
+Aguascalientes, Aguascalientes, Aguascalientes, 
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Nacional sin costo: 800 111 46 34 
+ Internacional: (código internacional) + (52)+(449) 910 53 00 Ext. 315301
+atencion.usuarios@inegi.org.mx
+Dr. Dwight D. Dyer Leal
+Director General de Estadísticas de Gobierno, Seguridad Pública y Justicia
+Av. Patriotismo 711. Colonia San Juan, delegación Benito Juárez, CDMX.
+5552781000, Ext:321592
+dyer@inegi.org.mx
+
+Temporal: 2011-2023
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Bienal
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/16n.1.2_es.zip
+
+Goal: 16. Promover sociedades pacíficas e inclusivas para el desarrollo sostenible, facilitar el acceso a la justicia para todos y construir a todos los niveles instituciones eficaces e inclusivas que rindan cuentas 
+
+Target:  Meta 16n.1 Impulsar una política de paz y seguridad integral
+
+Type of indicator: Nacional
+
+Algorithm: 16n.1.2_ES.gif
+
+Description of the indicator: Total de unidades económicas que reportaron ser víctimas de al menos un delito en el año, entre el total de unidades económicas de la entidad federativa y a nivel nacional, multiplicado por 100, desagregado por sector económico y tamaño.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional y entidad federativa
+
+Opportunity: Los datos se refieren al año previo a la publicación de la encuesta fuente (ENVE), que se publica en el segundo semestre del año que corresponda.
+
+Source of statistical information used to calculate the indicator: Encuesta Nacional de Victimización de Empresas (ENVE) del INEGI.
+
+Date of next update of indicator: 30 de junio de 2027
+
+Unit of the State responsible for calculating the indicator: Instituto Nacional de Estadística y Geografía (INEGI)   
+ https://inegi.org.mx/default.html 
+
+Importance and purpose of the indicator: Conocer el total de unidades económicas en las entidades federativas y a nivel nacional que han sido víctimas de por lo menos un delito.
+
+National and/or international reference: Business, corruption and crime in the Western Balkans: The impact of bribery and other crime on private Enterprise, Vienna, 2013.United Nations Office on Drugs and Crime
+(UNODC). 
+Crime against businesses: findings from the 2015 Commercial Victimisation Survey. London (UK), 2016.Home Office. 
+Survey to assess the level and impact of crimes against businesses in Switzerland, 2013.University of Zurich: Faculty of Law - Institute of Criminology. 
+The crime against businesses in Europe: A pilot survey. Final Report of the Project: EU Survey to assess the level and impact of crimes against business Stage 2: Piloting
+the survey module, Bruselas, Bélgica, 2013.Directorate-General Home Affairs in the European Commission. 
+
+Observations: Los resultados de la variable "Total de unidades económicas víctimas de por lo menos un delito" no incluyen a las unidades económicas que no especificaron si fueron víctimas o no.
+Se consideran los delitos de robo o asalto de mercancía, robo hormiga, extorsión, actos de corrupción, fraude, secuestro, delito informático, otros.
+

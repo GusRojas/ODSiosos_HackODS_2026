@@ -1,0 +1,66 @@
+﻿Title: 3.3.2c Incidencia de la tuberculosis por cada 100,000 habitantes, por entidad federativa, según sexo, grupos de edad y tipo de tuberculosis (2003-2024)
+
+Description: La incidencia de tuberculosis se define como el número de casos confirmados con tuberculosis de todas las formas por cada 100,000 personas.
+
+Modified: 2025-11-15
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Mtra. Manett Vargas García
+Directora General de Evaluación del Desempeño
+Avenida Paseo de la Reforma 450 
+Colonia Juárez, 06600
+Cuauhtémoc, Cuauhtémoc, Ciudad de México
+01 (55) 50621600 Ext. 52697
+manett.vargas@salud.gob.mx
+Dr. Delfino Campos Díaz
+Director de Gestión y Seguimiento para la Evaluación de los Sistemas de Salud
+Av. Agrarismo #227, piso 3, Col. Escandón II Sección D.T. Miguel Hidalgo, C.P. 11800, CDMX.
+01 (55) 50621600 Ext. 52681
+delfino.campos@salud.gob.mx
+
+Temporal: 2003-2024
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/3.3.2c_es.zip
+
+Goal: 3. Garantizar una vida sana y promover el bienestar de todos a todas las edades 
+
+Target:  Meta 3.3 De aquí a 2030, poner fin a las epidemias del SIDA, la tuberculosis, la malaria y las enfermedades tropicales desatendidas y combatir la hepatitis, las enfermedades transmitidas por el agua y otras enfermedades transmisibles
+
+Type of indicator: Global
+
+Algorithm: 3.3.2c_ES.gif
+
+Description of the indicator: Número de casos confirmados de tuberculosis pulmonar por cada 100 mil habitantes (de todas las edades) en un año determinado.
+
+Unit of measure: Tasa
+
+Geographic coverage: Nacional y entidad federativa
+
+Opportunity: 6 meses
+
+Source of statistical information used to calculate the indicator: Secretaría de Salud (SS). Anuarios de Morbilidad 1984 a 2024:  https://www.gob.mx/salud/acciones-y-programas/anuarios-de-morbilidad-1984-a-2024
+Consejo Nacional de Población (CONAPO). Bases de datos de la Conciliación Demográfica 1950 a 2019 y Proyecciones de la población de México 2020 a 2070:  https://www.gob.mx/conapo/es/archivo/documentos?utf8=%E2%9C%93&idiom=es&style=th&order=DESC&filter_id=&filter_origin=archive&tags=&category=446
+
+Date of next update of indicator: 30 de junio de 2026
+
+Unit of the State responsible for calculating the indicator: Secretaría de Salud (SSA), Dirección General de Epidemiología. 
+
+Importance and purpose of the indicator: Se seleccionó la tasa de incidencia de tuberculosis como indicador para medir las reducciones en el número de casos.de la carga de morbilidad.
+
+National and/or international reference: Global tuberculosis report.   
+ https://www.who.int/teams/global-tuberculosis-programme/data  
+Definitions and reporting framework for tuberculosis – 2013 revision: updated December 2014 and January 2020.   
+ https://www.who.int/publications/i/item/9789241505345  
+
+Observations: Para el periodo 1990-2021 la Población a mitad de año corresponde a las Proyecciones de la Población de México y de las Entidades Federativas, 2016-2050 y Conciliación Demográfica de México, 1950-2015. (CONAPO).
+Este indicador forma parte del catálogo Nacional de Indicadores (CNI).
+

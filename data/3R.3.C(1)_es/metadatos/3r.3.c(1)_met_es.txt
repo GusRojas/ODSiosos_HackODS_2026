@@ -1,0 +1,76 @@
+﻿Title: 3r.3.c(1) Incidencia de casos de enfermedades transmitidas por vectores
+
+Description: Se refiere al número de casos confirmados de enfermedades trasmitidas por vectores  (dengue, chagas, leishmaniasis y zika) por cada 100 mil habitantes (de todas las edades) en un año determinado.
+
+Modified: 2025-11-14
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Mtra. Manett Vargas García
+Directora General de Evaluación del Desempeño
+Avenida Paseo de la Reforma 450 
+Colonia Juárez, 06600
+Cuauhtémoc, Cuauhtémoc, Ciudad de México
+01 (55) 50621600 Ext. 52697
+manett.vargas@salud.gob.mx
+Dr. Delfino Campos Díaz
+Director de Gestión y Seguimiento para la Evaluación de los Sistemas de Salud
+Av. Agrarismo #227, piso 3, Col. Escandón II Sección D.T. Miguel Hidalgo, C.P. 11800, CDMX.
+01 (55) 50621600 Ext. 52681
+delfino.campos@salud.gob.mx
+Dra. María Nohemí Colín Soto
+Directora de Vigilancia Epidemiológica de Enfermedades Transmisibles
+55 39 41 49 71
+nohemi.colin@salud.gob.mx
+Dra. Laura Adriana Flores Cisneros
+Subdirectora de Enfermedades Emergentes y Reemergentes
+55 60 94 22 62
+laura.floresc@salud.gob.mx
+
+Temporal: 2017-2024
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/3r.3.c(1)_es.zip
+
+Goal: 3. Garantizar una vida sana y promover el bienestar de todos a todas las edades 
+
+Target:  Meta 3.3 De aquí a 2030, poner fin a las epidemias del SIDA, la tuberculosis, la malaria y las enfermedades tropicales desatendidas y combatir la hepatitis, las enfermedades transmitidas por el agua y otras enfermedades transmisibles
+
+Type of indicator: Regional
+
+Algorithm: 3r.3.c_ES.gif
+
+Description of the indicator: Número de casos de enfermedades trasmitidas por vectores  (dengue, chagas, leishmaniasis y zika) por cada 100 mil habitantes (de todas las edades) en un año determinado.
+
+Unit of measure: Población total
+
+Geographic coverage: Nacional y entidad federativa
+
+Opportunity: Se actualizará una vez que se publique el cierre de información del año siguiente a través de los anuarios de morbilidad en la página de la Secretaría de Salud.
+
+Source of statistical information used to calculate the indicator: - Secretaría de Salud (SS). Anuarios de Morbilidad 1984 a 2024:  https://www.gob.mx/salud/acciones-y-programas/anuarios-de-morbilidad-1984-a-2024  
+- Consejo Nacional de Población (CONAPO). Bases de datos de la Conciliación Demográfica 1950 a 2019 y Proyecciones de la población de México 2020 a 2070. Disponible en: https://www.gob.mx/conapo/es/archivo/documentos?utf8=?&idiom=es&style=th&order=DESC&filter_id=&filter_origin=archive&tags=&category=446
+
+Date of next update of indicator: 30 de junio de 2026
+
+Unit of the State responsible for calculating the indicator: Secretaría de Salud (SSA), Dirección General de Epidemiología. 
+
+Importance and purpose of the indicator: Las principales enfermedades humanas transmitidas por vectores se han convertido en un grave problema de salud pública en la región; en especial, el dengue, la enfermedad de chagas, la enfermedad por el virus zika y la leishmaniasis. Estas enfermedades prevenibles afectan particularmente a la población más pobre y vulnerable, ya que los factores sociales y medioambientales son determinantes para la propagación de los patógenos de transmisión vectorial.
+
+National and/or international reference: Organización Panamericana de la Salud (OPS). Enfermedades desatendidas, tropicales y transmitidas por vectores. Disponible en:  
+ https://www.paho.org/es/temas/enfermedades-desatendidas-tropicales-transmitidas-por-vectores  
+
+Observations: Para dengue se considera la suma de dengue grave, dengue con signos de alarma y dengue no grave.
+Para chagas se incluyen casos de chagas en fase aguda y chagas en fase crónica.
+Para leishmaniasis se considera leishmaniasis cutánea y leishmaniasis visceral.
+Para dengue no grave, la información se refiere a casos estimados.
+Para dengue con signos de alarma, grave, y Zika la información se refiere a casos confirmados.
+Para chagas y leishmaniasis de 2017 a 2020 los casos son registrados por vigilancia convencional, a partir de 2021 se utilizan casos confirmados.
+

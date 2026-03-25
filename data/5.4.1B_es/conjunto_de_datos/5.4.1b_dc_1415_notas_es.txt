@@ -1,0 +1,3 @@
+﻿"Fuente: Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional sobre Uso del Tiempo (ENUT).   
+ https://www.inegi.org.mx/programas/enut/  "
+"cvegeo: Clave geoestadística"

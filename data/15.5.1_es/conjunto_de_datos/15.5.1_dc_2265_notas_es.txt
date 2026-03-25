@@ -1,0 +1,16 @@
+﻿"Nota: 1) Las cifras son las reportadas en los “Catálogos de autoridades taxonómicas de las especies de México” del SNIB, CONABIO, por lo que no representan el número total
+de especies conocidas en el país.   
+ 2) La información más reciente corresponde a la revisión de 2024, año en el que se reportó que, para 2023,  el número de Gimnospermas fue de 191 y de Angiospermas de
+26 086.  
+ 3) Apartir del año 2016, la fuente reporta a las Briofitas por separado. En este indicador se reporta la suma de los Musgos y las Hepáticas, que para el año 2023, fue
+de 1 334 y 294 respectivamente.  
+ 4) En la categoría invertebrados se incluyen solo a los siguientes grupos: Arácnidos, Cnidarios, Crustáceos, Equinodermos, Insectos y Moluscos, al ser los grupos de
+las especies incluidas en la NOM-059-SEMARNAT-2010. Aunque la lista de la norma también incluye una especie del grupo de Merostomados, Conabio no reporta especies de este grupo en su base de datos. 
+ 5) En las Pteridofitas se reporta a las Lycopodiopsida y Polypodiopsida. "
+"Fuente: -Conabio. 2024. Recuento de especies de flora y fauna reportadas en literatura y catalogadas en bases de datos en CONABIO. Base de datos SNIB. Conabio, México. 
+Consultado
+en: Base de Datos Estadísticos del SNIARN (BADESNIARN). [Fecha de consulta: 24 de febrero de 2025]. 
+Disponible en:  http://dgeiawf.semarnat.gob.mx:8080/ibi_apps/WFServlet?IBIF_ex=D3_BIODIV02_13&IBIC_user=dgeia_mce&IBIC_pass=dgeia_mce&NOMBREANIO=*
+
+Disponible en:  http://dgeiawf.semarnat.gob.mx:8080/ibi_apps/WFServlet?IBIF_ex=D3_BIODIV02_14&IBIC_user=dgeia_mce&IBIC_pass=dgeia_mce&NOMBREANIO=*
+ "

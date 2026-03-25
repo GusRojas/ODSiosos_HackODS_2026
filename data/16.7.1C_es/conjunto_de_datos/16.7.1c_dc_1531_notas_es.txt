@@ -1,0 +1,8 @@
+﻿"Nota: Se consideró a la población dentro del rango de 18 a 70 años como la disponible en edad de trabajar. "
+"ND No disponible"
+"Fuente: - Instituto Nacional de Estadística y Geografía (INEGI), Censo Nacional de Impartición de Justicia Federal 2020 a 2023.
+- Instituto Nacional de Estadística y Geografía
+(INEGI), Censo Nacional de Impartición de Justicia Estatal 2020 a 2023.
+- Consejo Nacional de Población (CONAPO), Conciliación Demográfica de 1950 a 2019 y Proyecciones
+de la población de México y de las entidades federativas 2020 a 2070. "
+"cvegeo: Clave geoestadística"

@@ -1,0 +1,60 @@
+﻿Title: 8.8.1 Tasa de incidencia de lesiones ocupacionales mortales y no mortales, desglosada por sexo
+
+Description: Número de accidentes ocurridos con motivo del trabajo por cada 100 trabajadores expuestos al riesgo.
+
+Modified: 2025-11-05
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+Keyword: Prevención de accidentes, accidentes en el trabajo, incapacidad en el trabajo
+
+ContactPoint: Josué Gómez Castellanos
+Director de Estudios e Investigación Laboral
+Dirección General de Investigación y Estadísticas del Trabajo, Boulevard Adolfo López Mateos # 1968, Colonia Los Alpes, 01010, Alcaldía Alvaro Obregón, Ciudad de México
+Dir.(55) 2000 5463, 2000 5300, ext. 63263
+josue.gomez@stps.gob.mx
+
+Temporal: 2008-2024
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/8.8.1_es.zip
+
+Goal: 8. Promover el crecimiento económico sostenido, inclusivo y sostenible, el empleo pleno y productivo y el trabajo decente para todos 
+
+Target:  Meta 8.8 Proteger los derechos laborales y promover un entorno de trabajo seguro y sin riesgos para todos los trabajadores, incluidos los trabajadores migrantes, en particular las mujeres migrantes y las personas con empleos precarios
+
+Type of indicator: Global
+
+Algorithm: 8_8_1_ES.gif
+
+Description of the indicator: Número de accidentes de trabajo (lesiones ocupacionales) registrados por cada 100 trabajadores.
+
+Unit of measure: Lesiones ocupacionales por cada 100 trabajadores
+
+Geographic coverage: Nacional
+
+Opportunity: Nueve meses
+
+Source of statistical information used to calculate the indicator: Instituto Mexicano del Seguro Social (IMSS), Registros administrativos sobre los accidentes (casos terminados) clasificados por año de ocurrencia y Registros administrativos sobre los trabajadores asegurados en el ramo de riesgos de trabajo.
+
+Date of next update of indicator: 30 de noviembre de 2026
+
+Unit of the State responsible for calculating the indicator: Secretaría del Trabajo y Previsión Social (STPS). 
+
+Importance and purpose of the indicator: Este indicador mide la magnitud de los accidentes de trabajo que se registran en el país. Contribuye a la búsqueda de acciones  para la prevención de los mismos, en beneficio de los trabajadores, empleadores y la sociedad mexicana.
+
+National and/or international reference: Organización Internacional del Trabajo (OIT). Programa de la OIT sobre seguridad y salud en el trabajo. OIT, Ginebra, Suiza. http://www.ilo.org/global/topics/safety-and-health-at-work/lang--es/index.htm
+Organización Internacional del Trabajo (OIT). Informe III: Estadísticas de lesiones profesionales, Decimosexta Conferencia Internacional de Estadísticos del Trabajo, OIT, 1998. Ginebra, Suiza. http://www.ilo.org/global/statistics-and-databases/meetings-and-events/international-conference-of-labour-statisticians/WCMS_088377/lang--es/index.htm
+
+Observations: Se cuenta con información sobre accidentes de trabajo para los trabajadores afiliados al IMSS (predominantemente del sector privado), la cual incluye a los que sufrieron lesiones temporales, permanentes o la muerte.
+Se genera una tasa de incidencia por cada 100 trabajadores. El cálculo se realiza con base en el número de casos ocurridos en el año de referencia, los cuales se incorporan a la estadística del año de ocurrencia del riesgo, a medida que el IMSS declara los casos de riesgos de trabajo como terminados. Es por ello que los datos pueden aumentar cada año, incluso en los años menos recientes. Es importante señalar que estos datos difieren de los publicados en la Memoria Estadística del IMSS, en donde los casos se clasifican según el año en que el caso se da por terminado.
+De 2008 a 2012, el total incluye sexo no especificado.
+La serie presenta cifras preliminares.
+

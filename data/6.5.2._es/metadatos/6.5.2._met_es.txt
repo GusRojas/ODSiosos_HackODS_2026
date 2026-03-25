@@ -1,0 +1,58 @@
+﻿Title: 6.5.2. Proporción de la superficie de cuencas transfronterizas sujetas a arreglos operacionales para la cooperación en materia de aguas
+
+Description: Es la proporción de área de las cuencas transfronterizas dentro de un país que cuentan con un arreglo operativo para la cooperación hídrica.
+
+Modified: 2023-12-14
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Gerencia de Planificación Hídrica
+Subgerencia del Sistema Nacional de Información del Agua
+Insurgentes Sur # 2416. Piso 4; Colonia Copilco El Bajo, 04340. Coyoacán, Ciudad de México
++52 55 5174 4000, ext. 2112 y 4458
+sina@conagua.gob.mx
+Gerencia de Cooperación Internacional
+Dirección de Área de Evaluación de Programas y Proyectos
+Insurgentes Sur # 2416. Piso 9; Colonia Copilco El Bajo, 04340. Coyoacán, Ciudad de México
++52 55 5174 4000, ext. 1313
+internacional@conagua.gob.mx
+
+Temporal: 2020-2023
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Trienal
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/6.5.2._es.zip
+
+Goal: 6. Garantizar la disponibilidad y la gestión sostenible del agua y el saneamiento para todos 
+
+Target:  Meta 6.5. De aquí a 2030, implementar la gestión integrada de los recursos hídricos a todos los niveles, incluso mediante la cooperación transfronteriza, según proceda
+
+Type of indicator: Global
+
+Algorithm: 6.5.2_ES.gif
+
+Description of the indicator: Se obtiene sumando el área de superficie en un país de las cuencas de captación de aguas superficiales transfronterizas y los acuíferos transfronterizos que están cubiertos por un arreglo operativo y dividiendo el área obtenida por el área total agregada de todas las cuencas transfronterizas y acuíferos transfronterizos. El resultado se multiplica por 100 para obtenerlo expresado como porcentaje.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: 3 años.
+
+Source of statistical information used to calculate the indicator: Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT). Comisión Nacional del Agua (CONAGUA). Gerencia de Planificación Hídrica. Sistema Nacional de Información del Agua (SINA), a partir de los registros administrativos de la Subdirección General Técnica de la CONAGUA.
+
+Date of next update of indicator: 31 de octubre de 2026
+
+Unit of the State responsible for calculating the indicator: Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT). Comisión Nacional del Agua (CONAGUA). Gerencia de Planificación Hídrica. Sistema Nacional de Información
+del Agua (SINA). 
+
+Importance and purpose of the indicator: Este indicador se enfoca en monitorear si las cuencas transfronterizas están cubiertas por acuerdos de cooperación en funcionamiento. Los criterios que deben cumplirse para la cooperación en una cuenca específica que se considere "operativa" buscan captar si los arreglos realmente proporcionan una base adecuada para la cooperación en la gestión del agua. Las cuencas transfronterizas son cuencas que se comparten con otros países, es decir, de cualquier agua superficial (en particular ríos, lagos) o aguas subterráneas que marcan, cruzan o están ubicadas en los límites entre dos o más países. A los efectos del cálculo de este indicador, para las aguas superficiales, la cuenca es la extensión del área de captación; para las aguas subterráneas, el área considerada es la extensión del acuífero.
+
+Observations: Para el indicador se considera como acuerdo para la cooperación en materia de agua a un tratado, convención, acuerdo u otro acuerdo formal bilateral o multilateral, como un memorando de entendimiento, entre países ribereños que proporciona un marco para la cooperación en la gestión de aguas transfronterizas. Los acuerdos u otro tipo de arreglos formales pueden ser interestatales, intergubernamentales, interministeriales, interinstitucionales o entre autoridades regionales. Para el caso de los acuíferos se consideran las actas y acuerdo firmados de cooperación técnica para la realización de estudios. Para el caso de cuencas, se consideran todas la cuencas transfronterizas tanto de la frontera norte y sur del país, considerándose solamente aquellas con convenio a las cuencas de los ríos Tijuana, Colorado y Bravo.
+

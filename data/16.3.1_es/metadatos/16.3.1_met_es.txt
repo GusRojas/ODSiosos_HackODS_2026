@@ -1,0 +1,65 @@
+﻿Title: 16.3.1 Proporción de víctimas de violencia en los últimos 12 meses que han notificado su victimización a las autoridades competentes u otros mecanismos de resolución de conflictos reconocidos oficialmente
+
+Description: Número de víctimas de delitos violentos en los últimos 12 meses que informaron su victimización a autoridades competentes u otros mecanismos de resolución de conflictos reconocidos oficialmente, dividido entre el número de todas las víctimas de delitos violentos en los 12 meses anteriores (también llamado ´tasa de denuncia de delitos´).
+
+Modified: 2025-11-27
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Centro de atención a usuarios INEGI
+Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276,
+Aguascalientes, Aguascalientes, Aguascalientes, 
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Nacional sin costo: 800 111 46 34 
+ Internacional: (código internacional) + (52)+(449) 149 1300
+atencion.usuarios@inegi.org.mx
+Dr. Dwight D. Dyer Leal
+Titular de la Unidad de Estadísticas de Gobierno, Seguridad Pública y Justicia
+Av. Patriotismo 711. Colonia San Juan, delegación Benito Juárez, CDMX.
+5552781000, Ext:321592
+dyer@inegi.org.mx
+
+Temporal: 2015-2024
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/16.3.1_es.zip
+
+Goal: 16. Promover sociedades pacíficas e inclusivas para el desarrollo sostenible, facilitar el acceso a la justicia para todos y construir a todos los niveles instituciones eficaces e inclusivas que rindan cuentas 
+
+Target:  Meta 16.3. Promover el estado de derecho en los planos nacional e internacional y garantizar la igualdad de acceso a la justicia para todos
+
+Type of indicator: Global
+
+Algorithm: 16.3.1_ES.gif
+
+Description of the indicator: Población de 18 años y más víctima de los delitos de robo en la calle o en el transporte público (con o sin violencia) o de agresiones, o robo total o parcial de vehículo, robo en forma distinta a la anterior que hayan sufrido alguna lesión o daño físico, así como las víctimas de los delitos de hostigamiento sexual, manoseo, exhibicionismo o intento de violación o que fueron obligados(as) mediante violencia física o amenaza por alguien conocido o desconocido a tener una actividad sexual no deseada que, personalmente o algún otro integrante de su hogar, denunciaron su victimización ante el Ministerio Público; entre la población de 18 años y más víctima de violencia física o sexual, multiplicada por 100. Desagregada por sexo (total; hombres; mujeres).
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: Los datos se refieren al año previo a la publicación de la encuesta fuente (ENVIPE), que se publica en el segundo semestre del año.
+
+Source of statistical information used to calculate the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional de Victimización y Percepción sobre Seguridad Pública (ENVIPE).
+
+Date of next update of indicator: 31 de diciembre de 2026
+
+Unit of the State responsible for calculating the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Unidad de Estadísticas de Gobierno, Seguridad Pública y Justicia.   
+ https://www.inegi.org.mx  
+
+Importance and purpose of the indicator: Las tasas de denuncia proporcionan una medida directa de la confianza de las víctimas de delitos en la capacidad de la policía u otras autoridades para proporcionar asistencia y enjuiciar a los perpetradores. Las tendencias de las tasas de denuncia de los delitos violentos pueden utilizarse para monitorear la confianza de la población en las autoridades competentes con base en las experiencias reales y no sobre percepciones.
+
+National and/or international reference: United Nations Survey on Crime Trends (UN-CTS). Oficina de Naciones Unidas contra la Droga y el Delito (UNODC). 
+ Encuestas de victimización. 
+
+Observations: Para 2020, debido a la emergencia sanitaria generada por el virus SARS-CoV2 (COVID-19), el levantamiento de la información se realizó del 17 al 31 de marzo y del 27 de julio al 04 de septiembre. Las estimaciones presentadas corresponden al periodo de levantamiento del 17 al 31 de marzo.
+

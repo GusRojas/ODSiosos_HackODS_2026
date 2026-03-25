@@ -1,0 +1,64 @@
+﻿Title: 1.1.1.a Proporción de la población que vive por debajo del umbral internacional de la pobreza (1.90 dólares diarios), por desglose geográfico
+
+Description: Es el porcentaje de la población de cada una de las entidades federativas que en el año del cálculo vive con menos del equivalente a 1.90 dólares diarios a precios de 2011, según la paridad del poder adquisitivo.
+
+Modified: 2023-02-17
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Alida Marcela Gutiérrez Landeros
+Coordinadora General de Análisis de la Pobreza
+Insurgentes Sur #810, Colonia Del Valle, C.P. 03100, Benito Juárez, Ciudad de México
+(55) 54-81-72-00, ext. 70075
+amgutierrez@coneval.org.mx
+David Antonio Rojas Rosey
+Director Ejecutivo de Medición de Pobreza y Seguimiento de Indicadores
+Insurgentes Sur #810, Colonia Del Valle, C.P. 03100, Benito Juárez, Ciudad de México
+(55) 54-81-72-00, ext. 70100
+drojas@coneval.org.mx
+
+Temporal: 2016-2020
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Bienal
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/1.1.1.a_es.zip
+
+Goal: 1. Poner fin a la pobreza en todas sus formas y en todo el mundo 
+
+Target:  Meta 1.1 De aquí a 2030, erradicar para todas las personas y en todo el mundo la pobreza extrema (actualmente se considera que sufren pobreza extrema las personas que viven con menos de 1,25 dólares de los Estados Unidos al día)
+
+Type of indicator: Global
+
+Algorithm: 1_1_1_a_ES.gif
+
+Description of the indicator: Este indicador resulta de dividir el número de personas con ingreso per cápita inferior a 1.90 dólares diarios a precios de 2011, entre la población de referencia total, multiplicado por 100.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Entidad federativa
+
+Opportunity: 1 año*/
+
+Source of statistical information used to calculate the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional de Ingresos y Gastos en los Hogares (ENIGH) 2016, 2018 y 2020; con los nuevos factores de expansión construidos con base en el Marco de Muestreo de Viviendas y los resultados del Censo de Población y Vivienda 2020.
+
+Date of next update of indicator: Septiembre, 2023*/
+
+Unit of the State responsible for calculating the indicator: Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL). 
+
+Importance and purpose of the indicator: Este indicador busca medir la pobreza con los estándares de los países pobres, por ello generalmente se asocia a la población que vive en pobreza extrema. El indicador está directamente ligado al Objetivo 1 de poner fin a la pobreza en todas sus formas y en todo el mundo y, de la misma forma, está ligado a la Meta 1.1 de erradicar para todas las personas y en todo el mundo la pobreza extrema. Además, el indicador permite dar seguimiento a la evolución de la pobreza a través del tiempo y realizar comparaciones internacionales de los niveles de pobreza en los países.
+
+National and/or international reference: Banco Mundial (BM) http://www.bancomundial.org 
+
+Observations: 1. Cálculo del ingreso Corriente Total Per cápita.- En primer lugar, se utiliza el Ingreso Corriente Total Percápita (ICTPC) de la medición multidimencional de la pobreza reportada por CONEVAL (para mayor información sobre su composición consultar  http://www.coneval.org.mx ). En segundo lugar, se deflacta el ingreso con el Índice Nacional de Precios al Consumidor (INPC, base 2Q de diciembre de 2018=100) al mes de julio de cada año en que INEGI capta la información de ingresos y gastos de los hogares.
+2. Construcción de la línea de referencia.- La línea de la pobreza de $1.90 dólares se construye a partir del tipo de cambio de Paridad de Poder Adquisitivo (PPA) de 2011 publicado por el Banco Mundial (7.673013 pesos por cada dólar americano a precios internacionales). El resultado se lleva a precios de agosto de cada año de medición, utilizando el INPC publicado por el INEGI. Finalmente, se multiplica por 30 para obtener la línea de referencia mensual.
+3. Cálculo del número de personas con ingresos por debajo de la línea. Se compara el ICTPC mensual con la línea de referencia, identificando y contabilizando el número de personas cuyo ingreso es menor a la línea. Se crea el factor de expansión de personas multiplicando el tamaño del hogar por el factor de expansión y se usa para calcular el porcentaje total de personas con ingresos por debajo de la línea de referencia.
+4. Se utilizan las bases de datos que publicó el INEGI con los nuevos factores de expansión construidos con base en el Marco de Muestreo de Viviendas y los resultados del Censo de Población y Vivienda 2020.
+5. El total de población presentada en estas estimaciones, es para fines de la medición de pobreza, por lo que puede diferir con las cifras de población total reportadas por el INEGI o CONAPO.
+*/ La actualización del indicador está sujeta a la publicación de los microdatos por parte de INEGI.
+

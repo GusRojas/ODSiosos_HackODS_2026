@@ -1,0 +1,2 @@
+﻿"Fuente: Secretaría de Salud (SS). Dirección General de Epidemiología (DGE). Sistema Nacional de Vigilancia Epidemiológica (SINAVE). "
+"cvegeo: Clave geoestadística"

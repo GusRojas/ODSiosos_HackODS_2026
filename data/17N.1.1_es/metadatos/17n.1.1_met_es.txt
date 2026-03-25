@@ -1,0 +1,62 @@
+﻿Title: 17n.1.1 Autonomía fiscal de gobiernos subnacionales (ingresos propios como proporción de los ingresos totales de estados)
+
+Description: Porcentaje de ingresos estatales provenientes de impuestos, contribuciones de mejora, cuotas y aportaciones de seguridad social, derechos, productos, aprovechamientos y otros ingresos. (Excluye financiamiento y recursos transferidos por el gobierno federal).
+
+Modified: 2025-11-27
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Centro de atención a usuarios INEGI
+Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276,
+Aguascalientes, Aguascalientes, Aguascalientes, 
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Nacional sin costo: 800 111 46 34 
+ Internacional: (código internacional) + (52)+(449) 149 1300
+atencion.usuarios@inegi.org.mx
+
+Temporal: 2008-2024
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/17n.1.1_es.zip
+
+Goal: 17. Fortalecer los medios de implementación y revitalizar la Alianza Mundial para el Desarrollo Sostenible 
+
+Target:  Meta 17n.1 Consolidar una política tributaria efectiva
+
+Type of indicator: Nacional
+
+Algorithm: 17n.1.1_ES.gif
+
+Description of the indicator: La autonomía fiscal de gobiernos subnacionales considera los ingresos estatales provenientes de impuestos, contribuciones de mejora, cuotas y aportaciones de seguridad social, derechos, productos, aprovechamientos y otros ingresos (excluye financiamiento y recursos transferidos por el gobierno federal) sobre el Total de Ingresos.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: 8 meses después del periodo de referencia
+
+Source of statistical information used to calculate the indicator: Estadísticas de finanzas públicas estatales y municipales de INEGI.
+
+Date of next update of indicator: 30 de abril de 2026
+
+Unit of the State responsible for calculating the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Unidad de Estadísticas Económicas.   
+ https://www.inegi.org.mx  
+
+Importance and purpose of the indicator: La Constitución Política de los Estados Unidos Mexicanos establece a México como una República Federal. Esto quiere decir que los gobiernos estatales y federales tienen distitnas obligaciones y facultades. La Ley de Coordinación Fiscal (LCF) se encarga de determinar la autoridad tributaria y los alcances del ejercicio del gasto en cada nivel de gobierno. 
+Las transferencias de recursos de la federación a los estados puede ser mediante participaciones, las cuales se derivan de los convenios de adhesión al Sistema de Coordinación Fiscal y mediante aportaciones, las cuales se transfieren para que los estados y municipios estén en posibilidad de cumplir sus funciones. Estas transferecnias buscar garantizar un nivel deseable de provisión de bienes públicos.
+En este escenario, las entidades federativas generan un porcentaje muy bajo de sus ingresos, lo cual los mantiene con alta dependencia fiscal. Según un reporte del Instituto Mexicano de la Competitividad, las entidades recaudan en promedio solo 6 de los 18 impuestos que pueden recaudar; es decir, no aprovechan todas sus facultades tributarias. 
+El indicador propuesto da seguimiento al porcentaje de ingresos generados por los estados para sus gastos. Es ideal que los estados tengan una dependencia menor de los recursos federales, puesto que incentiva la recaudación y gobernanza local.
+
+National and/or international reference: Estadísticas de finanzas públicas estatales y municipales de INEGI 
+
+Observations: El cálculo es propio, con datos de las Estadísticas de finanzas públicas estatales y municipales del INEGI. Se sugiere verificar.
+

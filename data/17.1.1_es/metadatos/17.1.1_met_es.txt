@@ -1,0 +1,60 @@
+﻿Title: 17.1.1 Total de los ingresos del gobierno como proporción del PIB, desglosado por fuente
+
+Description: Tentativamente se refiere al porcentaje que los ingresos presupuestarios representan respecto al Producto Interno Bruto (PIB), desglosados por las fuentes. Es decir, al porcentaje que representa el total de "... las contribuciones y accesorios que, de acuerdo con lo estipulado en el Código Fiscal de la Federación, están obligados a pagar las personas físicas y morales para sufragar los gastos públicos en forma de: impuestos, aportaciones de seguridad social, contribución de mejoras y derechos; a los productos provenientes de las contraprestaciones por los servicios que proporciona el Estado en sus funciones de derecho privado, así como por el uso, aprovechamiento y enajenación de bienes del dominio privado; y a los aprovechamientos derivados de funciones de derecho público distintos de los conceptos anteriores y de los ingresos por financiamiento. Además, se incluyen los ingresos que obtienen los organismos descentralizados y las empresas de participación estatal, distintos de contribuciones a la seguridad social y financiamiento." Todo ello respecto al total de bienes y servicios finales producidos en el país, durante el periodo de referencia y desglosados por las fuentes, bajo mejor opinión y criterio, según el Artículo 1° de la Ley de Ingresos de la Federación (LIF), en tributarios y no tributarios y/o en petroleros y no petroleros.
+
+Modified: 2024-07-16
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+Keyword: Impuestos, Ingresos tributarios, ingresos no tributarios, ingresos petroleros, ingresos no petroleros
+
+ContactPoint: Valentín Maya Martínez
+Dirección General de Política de Ingresos Tributarios de la Subsecretaría de Ingresos
+Palacio Nacional, Edificio 4, piso 4.
+(55)  3688 7704
+valentin_maya@hacienda.gob.mx
+Carlos A. Argüello Gómez
+Director de Área de la Unidad de Política de Ingresos Tributarios
+Palacio Nacional, Edificio 4, piso 3.
+(55) 3688 5940
+carlos_arguello@hacienda.gob.mx
+
+Temporal: 1995-2023
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/17.1.1_es.zip
+
+Goal: 17. Fortalecer los medios de implementación y revitalizar la Alianza Mundial para el Desarrollo Sostenible 
+
+Target:  Meta 17.1 Fortalecer la movilización de recursos internos, incluso mediante la prestación de apoyo internacional a los países en desarrollo, con el fin de mejorar la capacidad nacional para recaudar ingresos fiscales y de otra índole
+
+Type of indicator: Global
+
+Algorithm: 17_1_1_ES.gif
+
+Description of the indicator: Se divide el Total de Ingresos del Sector Público anual entre el Producto Interno Bruto anual, los Ingresos Petroleros anuales entre el Producto Interno Bruto anual, los Ingresos No Petroleros anuales entre el Producto Interno Bruto anual y los Ingresos Tributarios No Petroleros anuales entre el Producto Interno Bruto anual.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: Anual.
+
+Source of statistical information used to calculate the indicator: Secretaría de Hacienda y Crédito Público (SHCP). Estadísticas oportunas de finanzas públicas(Consultado el 16 de julio de 2024).
+
+Date of next update of indicator: 31 de julio de 2025
+
+Unit of the State responsible for calculating the indicator: Secretaría de Hacienda y Crédito Público (SHCP). 
+
+Importance and purpose of the indicator: Calcular el porcentaje de ingresos que recibe el Gobierno Federal como proporción de los bienes y servicios finales que se producen a nivel nacional para conocer la capacidad del gobierno para obtener ingresos por impuestos, así como ingresos petroleros y no petroleros.
+
+National and/or international reference: Sin referencia 
+
+

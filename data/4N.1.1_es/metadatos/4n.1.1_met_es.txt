@@ -1,0 +1,56 @@
+﻿Title: 4n.1.1 Porcentaje de alumnos que asisten a escuelas de organización escolar multigrado
+
+Description: Mide el porcentaje alumnos inscritos en escuelas primarias de organización escolar multigrado respecto a la matrícula total del nivel. Se define a las escuelas multigrado como aquéllas en donde un docente imparte más de un grado (incluye a las escuelas con un solo docente), y aquéllas donde el número de grupos es mayor al número de docentes. Las escuelas multigrado son parte importante de la estructura del Sistema Educativo Nacional; de manera general, otorgan servicio a poblaciones de difícil acceso, dispersas y ubicadas en regiones alejadas de los centros urbanos.
+
+Modified: 2024-10-30
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: César Morón Rojas
+Director General de Planeación, Programación y Estadística Educativa
+Av. Universidad 1200, Colonia Xoco, 3330, Benito Juárez, Ciudad de México
+55 3601 2511, ext. 54760
+cesar.mr@nube.sep.gob.mx
+
+Temporal: 2016-2017-2023-2024
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/4n.1.1_es.zip
+
+Goal: 4. Garantizar una educación inclusiva y equitativa de calidad y promover oportunidades de aprendizaje permanente para todos 
+
+Target:  Meta 4n.1 Asegurar el acceso efectivo a educación inclusiva, equitativa, intercultural e integral de calidad con particular atención a grupos en desventaja (desagregación por sexo, población indígena, personas con discapacidad, etc.)
+
+Type of indicator: Nacional
+
+Algorithm: 4n.1.1_ES.gif
+
+Description of the indicator: El indicador resulta de dividir la matrícula de escuelas multigrado de primaria entre la matrícula total de primaria en un ciclo escolar determinado y el resultado multiplicarlo por cien.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: 1 año
+
+Source of statistical information used to calculate the indicator: Secretaría de Educación Pública (SEP). Dirección General de Planeación, Programación y Estadística Educativa. Sistema de Estadísticas Continuas de Educación del Formato 911. Disponible en:  https://www.planeacion.sep.gob.mx/estadisticaeducativas.aspx
+
+Date of next update of indicator: 30 de octubre de 2025
+
+Unit of the State responsible for calculating the indicator: Secretaría de Educación Pública (SEP). Dirección General de Planeación, Programación y Estadística Educativa (DGPPYEE).  
+ https://www.planeacion.sep.gob.mx/ 
+
+Importance and purpose of the indicator: Ofrece información básica que puede utilizarse para advertir sobre la proporción de alumnos atendidos en escuelas que necesitan contar no solo con docentes competentes para aplicar el modelo multigrado a partir de la instrumentación de estrategias pedagógicas pertinentes, sino también con los recursos didácticos, la infraestructura y el apoyo pedagógico, administrativo y de gestión escolar que permitan garantizar la distribución equitativa de oportunidades educativas a los alumnos, contribuyendo así a la consecución de las condiciones mínimas escolares.
+En conjunto, esta información permite mostrar la magnitud de los esfuerzos que el Sistema Educativo debe realizar para generar propuestas que atiendan la diversidad organizativa de los centros escolares, así como sus acciones para ofrecer a los estudiantes condiciones educativas que aseguren la equidad y la eficiencia de los subsistemas. 
+
+National and/or international reference: Nacional 
+
+Observations: Se consideran a los alumnos inscritos en escuelas con organización multigrado y unitarias de educación primaria.
+

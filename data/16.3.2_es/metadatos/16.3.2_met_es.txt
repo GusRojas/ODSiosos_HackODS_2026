@@ -1,0 +1,68 @@
+﻿Title: 16.3.2 Proporción de detenidos que no han sido condenados en el conjunto de la población reclusa total
+
+Description: Personas sin sentencia en los centros penitenciarios y centros especializados de tratamiento o internamiento para personas adolescentes como porcentaje del total de personas privadas de la libertad / internadas en los centros penitenciarios y centros especializados de tratamiento o internamiento para personas adolescentes.
+
+Modified: 2025-10-17
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Centro de atención a usuarios INEGI
+Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276,
+Aguascalientes, Aguascalientes, Aguascalientes, 
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Nacional sin costo: 800 111 46 34 
+ Internacional: (código internacional) + (52)+(449) 149 1300
+atencion.usuarios@inegi.org.mx
+Dr. Dwight D. Dyer Leal
+Titular de la Unidad de Estadísticas de Gobierno, Seguridad Pública y Justicia
+Av. Patriotismo 711. Colonia San Juan, delegación Benito Juárez, CDMX.
+5552781000, Ext:321592
+dyer@inegi.org.mx
+
+Temporal: 2016-2024
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/16.3.2_es.zip
+
+Goal: 16. Promover sociedades pacíficas e inclusivas para el desarrollo sostenible, facilitar el acceso a la justicia para todos y construir a todos los niveles instituciones eficaces e inclusivas que rindan cuentas 
+
+Target:  Meta 16.3. Promover el estado de derecho en los planos nacional e internacional y garantizar la igualdad de acceso a la justicia para todos
+
+Type of indicator: Global
+
+Algorithm: 16.3.2_ES.gif
+
+Description of the indicator: Número de personas privadas de la libertad / internadas en los centros penitenciarios y centros especializados de tratamiento o internamiento para personas adolescentes que aún no han sido sentenciadas, entre la población total de personas privadas de la libertad / internadas en los centros penitenciarios y centros especializados de tratamiento o internamiento para personas adolescentes al cierre del año, multiplicado por 100. Desagregado por sexo (total; hombres; mujeres).
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: Los datos se refieren al año previo a la publicación del proyecto fuente, que se publica en el segundo semestre del año
+
+Source of statistical information used to calculate the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Censo Nacional de Gobierno, Seguridad Pública y Sistema Penitenciario Estatal (CNGSPSPE) 2017-2020. Disponible en: https://www.inegi.org.mx/programas/cngspspe/
+Censo Nacional de Sistemas Penitenciarios Estatales (CNSIPEE) 2021-2025. Disponible en:  https://www.inegi.org.mx/programas/cnsipee/
+Censo Nacional de Sistema Penitenciario Federal (CNSPEF) 2018-2025. Disponible en:  https://www.inegi.org.mx/programas/cnspef/
+
+Date of next update of indicator: 31 de diciembre de 2026
+
+Unit of the State responsible for calculating the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Unidad de Estadísticas de Gobierno, Seguridad Pública y Justicia.   
+ https://www.inegi.org.mx  
+
+Importance and purpose of the indicator: El indicador obedece al principio de que las personas en espera de juicio no deben ser detenidas innecesariamente. Esto, a su vez, se basa en aspectos del derecho a la presunción de inocencia hasta que se pruebe su culpabilidad. Desde una perspectiva de desarrollo, el uso extensivo de la prisión preventiva cuando no es necesario por razones tales como la prevención de fugas, la protección de víctimas o testigos o la prevención de la comisión de nuevos delitos, puede desviar los recursos del sistema de justicia penal y ejercer cargas financieras y de desempleo para el acusado y su familia. Medir el grado relativo en que se utiliza la prisión preventiva puede proporcionar elementos para ayudar a los países a reducir esas cargas y garantizar el uso proporcionado del recurso de prisión preventiva.
+
+National and/or international reference: United Nations Survey on Crime Trends (UN-CTS). Oficina de Naciones Unidas contra la Droga y el Delito (UNODC). 
+
+Observations: Se considera a la población privada de la libertad en centros penitenciarios estatales y federales y centros de internamiento para personas adolescentes. Para los numeradores se consideran: la población adulta en centros penitenciarios estatales con estatus jurídico “Sin sentencia” del CNGSPSPE 2017 al 2020 y del CNSIPEE 2021 al 2025. Para la población adolescente en centros de internamiento, se considera a la población adolescente con estatus jurídico “Sin resolución” del CNGSPSPE 2017 al 2018 y con “Medida cautelar de Internamiento preventivo” del CNGSPSPE 2019 al 2020 y del CNSIPEE 2021 al 2025. Para la población adulta en centros penitenciarios federales se considera a la población con estatus jurídico “Procesados” del CNSPEF 2018 al 2019 y “Sin sentencia” del CNSPEF 2020 al 2025.
+El denominador es la suma de los numeradores más la población adulta  con estatus jurídico “Con sentencia” que se compone de sentencia definitiva, sentencia no definitiva y sentencia no identificada, en los centros penitenciarios estatales y federales del CNGSPSPE 2017 al 2020, del CNSIPEE 2021 al 2025 y del CNSPEF 2018 al 2025; además la población adolescente en centros de internamiento con estatus jurídico “Con resolución” del CNGSPSPE 2017 al 2018 y en “Internamiento”, “Semi - internamiento” o “Internamiento en tiempo libre” que puede ser Definitivo o No definitivo, del CNGSPSPE 2019 al 2020 y del CNSIPEE 2021 al 2025.
+Los Censos Nacionales de Sistemas Penitenciarios Estatales y Federal brindan cifras del año anterior a su publicación, de manera que los Censos de 2017 captan la información del año 2016, y así sucesivamente.
+

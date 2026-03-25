@@ -1,0 +1,3 @@
+﻿"ND No disponible"
+"Fuente: Instituto Nacional de Estadística y Geografía (INEGI). Censo de Población y Vivienda 2020. Cuestionario Básico "
+"cvegeo: Clave geoestadística"

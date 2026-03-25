@@ -1,0 +1,4 @@
+﻿"Nota: Debido a que las estimaciones reportadas se obtienen de un modelo epidemiológico que se realiza cada año, el cual está en un proceso de mejora continua, las cifras de
+toda la serie de años reportados se modificará anualmente toda vez, que las estimaciones de cada año, no son comparables entre sí. "
+"Cifras preliminares a partir de 1990"
+"Fuente: ONUSIDA. SALUD. Estimaciones de personas adultas con VIH. "

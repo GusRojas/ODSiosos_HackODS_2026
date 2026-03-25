@@ -1,0 +1,5 @@
+﻿"Cifras estimadas a partir de 2025"
+"Fuente: - Gasto Federal en Investigación Científica y Desarrollo Experimental (GFIDE): Se obtiene de la Cuenta de Hacienda Pública Federal de la SHCP. 
+  
+ - Producto Interno Bruto (PIB): INEGI, Sistema de Cuentas Nacionales de México. Producto Interno Bruto Trimestral, base 2018. Series Originales / Valores a precios corrientes Obtenido en:    
+ https://www.inegi.org.mx/programas/pib/2018/  "

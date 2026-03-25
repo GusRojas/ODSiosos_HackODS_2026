@@ -1,0 +1,5 @@
+﻿"Nota: Se considera a la población privada de la libertad en centros penitenciarios estatales y federales y centros de internamiento para personas adolescentes. 
+ Además de la presentación de las cifras para el año 2024, también se actualizaron las cifras reportadas anteriormente para el año 2023, debido a un ajuste en los datos
+posterior a la publicación del programa estadístico fuente. "
+"Fuente: INEGI. Censo Nacional de Gobierno, Seguridad Pública y Sistema Penitenciario Estatales (CNGSPSPE) 2017 - 2020, Censo Nacional de Sistema Penitenciario Federal (CNSPEF)
+2018 - 2025 y Censo Nacional de Sistemas Penitenciarios Estatales (CNSIPEE) 2021 - 2025. "

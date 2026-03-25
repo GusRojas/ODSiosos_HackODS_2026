@@ -1,0 +1,62 @@
+﻿Title: 3r.7.1 Necesidad insatisfecha de métodos anticonceptivos en mujeres en edad fértil (15 a 49 años) sexualmente activas
+
+Description: Porcentaje de mujeres en edad fértil sexualmente activas (15 a 49 años), expuestas al riesgo de embarazarse en un momento determinado, que refieren su deseo de limitar o espaciar sus hijos(as), pero no usan métodos anticonceptivos.
+
+Modified: 2025-09-01
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Mirna Hebrero Martínez
+Coordinadora de Estudios Sociodemográficos y Prospectiva
+Doctor José María Vertiz 852, Colonia Narvarte, 03020; Benito Juárez, Ciudad de México
+55 5128 0000, ext. 19511
+mhebrero@conapo.gob.mx
+
+Temporal: 2009-2023
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual irregular
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/3r.7.1_es.zip
+
+Goal: 3. Garantizar una vida sana y promover el bienestar de todos a todas las edades 
+
+Target:  Meta 3.7 De aquí a 2030, garantizar el acceso universal a los servicios de salud sexual y reproductiva, incluidos los de planificación familiar, información y educación, y la integración de la salud reproductiva en las estrategias y los programas nacionales
+
+Type of indicator: Regional
+
+Algorithm: 3r.7.1_ES.gif
+
+Description of the indicator: Es el cociente que resulta de dividir el número de mujeres en edad fértil (15 a 49 años) sexualmente activas que en el momento de referencia (t) desean espaciar el siguiente embarazo, pero no hacen uso de método anticonceptivo alguno. Lo anterior entre el total de mujeres en edad fértil (15 a 49 años) sexualmente activas en el mismo momento de referencia (t).
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional y estatal
+
+Opportunity: Dos meses después de publicarse la base de datos de la Encuesta Nacional de la Dinámica Demográfica. 
+
+Source of statistical information used to calculate the indicator: CONAPO.  Estimaciones con base en la Encuesta Nacional de la Dinámica Demográfica.
+Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional de la Dinámica Demográfica
+
+Date of next update of indicator: Después de publicados los resultados de la nueva ENADID, en 2028 (aprox. 2029)
+
+Unit of the State responsible for calculating the indicator: Consejo Nacional de Población (CONAPO). Coordinación de Estudios Sociodemográficos y Prospectiva. 
+
+Importance and purpose of the indicator: Consolidar las acciones de protección, promoción de la salud y prevención de enfermedades, y dar seguimiento y evaluación de la Estrategia Nacional para la Prevención del Embarazo en Adolescentes. 
+
+National and/or international reference: Bradley, Sarah E.K., Trevor N. Croft, Joy D. Fishel y Charles F. Westoff, (2012) "Revising Unmet Need for Family Planning", DHS Analytical Studies No. 25. Disponible
+en:   
+ https://www.snieg.mx/cni/Contenidos/documentos/Estandares/Revision_necesidad_insatisfecha.pdf 
+Compromiso del Estado Mexicano para alcanzar en el 2015 los ocho Objetivos de Desarrollo del Milenio establecidos en el 2000 en la Cumbre del Milenio de las Naciones
+Unidas. Disponible en:  http://www.objetivosdedesarrollodelmilenio.org.mx/ 
+Perfiles de salud reproductiva, República Mexicana; 2011.Consejo Nacional de Población. Disponible en:   
+ https://www.snieg.mx/cni/Contenidos/documentos/Estandares/Perfiles_SR_Republica_Mexicana.pdf 
+
+Observations: Se consideran mujeres sexualmente activas a aquéllas que tuvieron al menos una relación sexual en el mes previo al levantamiento de la encuesta.
+Este indicador forma parte del Catálogo Nacional de Indicadores (CNI).
+

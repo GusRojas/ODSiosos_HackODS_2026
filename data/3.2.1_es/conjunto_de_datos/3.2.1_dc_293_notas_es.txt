@@ -1,0 +1,4 @@
+﻿"Nota: Para el periodo 1990-2010 el proyecto de información corresponde a las Proyecciones de la Población de México y de las Entidades Federativas, 2016-2050 y Conciliación
+Demográfica de México, 1950-2015. A partir de 2011 se utiliza la información de las base de datos de mortalidad. "
+"Fuente: SALUD. Base de datos del Subsistema de Información sobre Nacimientos. Bases de datos de mortalidad. "
+"cvegeo: Clave geoestadística"

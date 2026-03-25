@@ -1,0 +1,6 @@
+﻿"Nota: El coeficiente de variación de una estimación es una medida relativa de su precisión; conforme sus valores son más próximos a 0 indican que la estimación es más precisa
+y viceversa. "
+"ND No disponible"
+"Fuente: Instituto Nacional de Estadística y Geografía (INEGI), Dirección General de Estadísticas de Gobierno, Seguridad Pública y Justicia (DGEGSPJ). Encuesta Nacional sobre
+la Dinámica de las Relaciones en los Hogares (ENDIREH) 2016 y 2021. "
+"cvegeo: Clave geoestadística"

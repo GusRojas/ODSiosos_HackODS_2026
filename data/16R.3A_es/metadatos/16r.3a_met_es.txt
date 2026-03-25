@@ -1,0 +1,70 @@
+﻿Title: 16r.3a Tasa de ocupación carcelaria federal
+
+Description: Corresponde al total de personas privadas de la libertad en centros penitenciarios federales como porcentaje de la capacidad oficial del sistema penitenciario, en los últimos 12 meses.
+
+Modified: 2025-10-17
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Centro de atención a usuarios INEGI
+Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276,
+Aguascalientes, Aguascalientes, Aguascalientes, 
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Nacional sin costo: 800 111 46 34 
+ Internacional: (código internacional) + (52)+(449) 149 1300
+atencion.usuarios@inegi.org.mx
+Dr. Dwight D. Dyer Leal
+Titular de la Unidad de Estadísticas de Gobierno, Seguridad Pública y Justicia
+Av. Patriotismo 711. Colonia San Juan, delegación Benito Juárez, CDMX.
+5552781000, Ext:321592
+dyer@inegi.org.mx
+
+Temporal: 2018-2024
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/16r.3a_es.zip
+
+Goal: 16. Promover sociedades pacíficas e inclusivas para el desarrollo sostenible, facilitar el acceso a la justicia para todos y construir a todos los niveles instituciones eficaces e inclusivas que rindan cuentas 
+
+Target:  Meta 16.3. Promover el estado de derecho en los planos nacional e internacional y garantizar la igualdad de acceso a la justicia para todos
+
+Type of indicator: Regional
+
+Algorithm: 16r.3a_ES.gif
+
+Description of the indicator: Es la población privada de la libertad al cierre del año en los centros penitenciarios federales, entre la capacidad instalada (camas disponibles) al cierre del año, multiplicada por 100.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: Los datos se refieren al año previo a la publicación del proyecto fuente, que se publica en el segundo semestre del año.
+
+Source of statistical information used to calculate the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Censo Nacional de Sistema Penitenciario Federal. Disponible en: https://www.inegi.org.mx/programas/cnspef/
+
+Date of next update of indicator: 31 de diciembre de 2026
+
+Unit of the State responsible for calculating the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Unidad de Estadísticas de Gobierno, Seguridad Pública y Justicia.   
+ https://www.inegi.org.mx  
+
+Importance and purpose of the indicator: Determinar los niveles de ocupación de los espacios disponibles con fines de reclusión en los centros penitenciarios. 
+
+National and/or international reference: Los ODS en América Latina y el Caribe: Centro de gestión del conocimiento estadístico. Datos, estadísticas y recursos institucionales para el seguimiento de la Agenda
+2030. Disponible en:  
+ https://agenda2030lac.org/estadisticas/technical-sheet.html?lang=es&indicator_id=4143 
+Comisión Interamericana de Derechos Humanos (CIDH), Resolución 1/08, Principios y Buenas Prácticas sobre la Protección de las Personas Privadas de Libertad en las Américas,
+13 Marzo 2008, No. 1/08. Disponible en:   
+ https://www.cidh.oas.org/pdf%20files/resolucion%201-08%20esp%20final.pdf 
+
+Observations: El indicador corresponde al marco regional de los Objetivos de Desarrollo Sostenible y es identificado por la Comisión Económica para América Latina y el Caribe (CEPAL) como el indicador C-16.3 Tasa de hacinamiento penitenciario.
+Los centros penitenciarios federales comprenden todas las instituciones sujetas a la autoridad de la administración penitenciaria en que permanecen internadas personas privadas de su libertad.  
+

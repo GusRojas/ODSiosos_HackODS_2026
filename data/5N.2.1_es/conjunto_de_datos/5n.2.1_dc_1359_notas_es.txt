@@ -1,0 +1,2 @@
+﻿"Fuente: Registro Agrario Nacional (RAN)"
+"cvegeo: Clave geoestadística"

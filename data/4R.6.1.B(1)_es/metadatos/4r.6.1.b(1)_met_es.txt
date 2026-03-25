@@ -1,0 +1,61 @@
+﻿Title: 4r.6.1.b(1) Tasa de alfabetización de las personas de 15 a 24 años, desglosada por sexo y subpoblaciones [CENSO] 
+
+Description: Porcentaje de la población de 15 años o más que sabe leer y escribir un recado.
+
+Modified: 2023-10-11
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Centro de atención a usuarios INEGI
+Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276
+Aguascalientes, Aguascalientes, Aguascalientes 
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Nacional sin costo: 800 111 46 34 
+ Internacional: (código internacional) + (52)+(449) 910 53 00 Ext. 315301
+atencion.usuarios@inegi.org.mx
+
+Temporal: 2020-2020
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Quinquenal
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/4r.6.1.b(1)_es.zip
+
+Goal: 4. Garantizar una educación inclusiva y equitativa de calidad y promover oportunidades de aprendizaje permanente para todos 
+
+Target:  Meta 4.6 De aquí a 2030, asegurar que todos los jóvenes y una proporción considerable de los adultos, tanto hombres como mujeres, estén alfabetizados y tengan nociones elementales de aritmética
+
+Type of indicator: Regional
+
+Algorithm: 4r.6.1.b_ES.gif
+
+Description of the indicator: El indicador se calcula dividiendo a la población alfabeta del grupo de edad de 15 a 24 años entre la población total de ese grupo de edad, expresado en porcentaje.
+Se desglosa la información para  mujeres, hombres, personas hablantes de lengua indígena, personas afrodescendientes, población con alguna discapacidad, país de nacimiento, cambio de residencia 5 años atrás, retornados y residentes de albergues migrantes.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional, entidad federativa y municipio o demarcación territorial
+
+Opportunity: 5 años
+
+Source of statistical information used to calculate the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Censo de Población y Vivienda 2020. Cuestionario Básico
+
+Date of next update of indicator: 31 de diciembre de 2026
+
+Unit of the State responsible for calculating the indicator: Instituto Nacional de Estadística y Geografía (INEGI).  
+ https://www.inegi.org.mx/  
+
+Importance and purpose of the indicator: Planeación, ejecución y evaluación de políticas públicas para la atención del rezago educativo; comparaciones internacionales.
+
+National and/or international reference: Instituto de Estadísticas de la UNESCO (UIS).  http://data.uis.unesco.org/ 
+Repositorio de Indicadores priorizados para el seguimiento de los ODS en América Latina y el Caribe (CEPAL). Disponible en:   
+ https://agenda2030lac.org/estadisticas/indicadores-priorizados-seguimiento-ods.html 
+
+

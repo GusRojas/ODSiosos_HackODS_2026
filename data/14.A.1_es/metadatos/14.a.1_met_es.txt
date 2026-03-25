@@ -1,0 +1,54 @@
+﻿Title: 14.a.1 Proporción del Presupuesto Federal para Investigación Científica y Desarrollo Experimental asignado a la Secretaría de Marina
+
+Description: Presupuesto Federal para Investigación Científica y Desarrollo Experimental asignado a la Secretaría de Marina entre el Presupuesto Federal Total para Investigación Científica y Desarrollo Experimental multiplicado por 100.
+
+Modified: 2025-06-30
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Viridiana Gabriela Yañez Rivas
+Directora de Planeación y Seguimiento (DPS)
+Avenida Insurgentes Sur 1582, 6° Piso Ala Norte, Colonia Crédito Constructor, C.P. 03940; Benito Juárez, Ciudad de México
+55 5322 7700, ext. 3510
+vgyanezri@secihti.mx
+
+Temporal: 2007-2025
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/14.a.1_es.zip
+
+Goal: 14. Conservar y utilizar sosteniblemente los océanos, los mares y los recursos marinos para el desarrollo sostenible 
+
+Target:  Meta 14.a Aumentar los conocimientos científicos, desarrollar la capacidad de investigación y transferir tecnología marina, teniendo en cuenta los Criterios y Directrices para la Transferencia de Tecnología Marina de la Comisión Oceanográfica Intergubernamental, a fin de mejorar la salud de los océanos y potenciar la contribución de la biodiversidad marina al desarrollo de los países en desarrollo, en particular los pequeños Estados insulares en desarrollo y los países menos adelantados
+
+Type of indicator: Global
+
+Algorithm: 14.a.1_ES.gif
+
+Description of the indicator: De la Cuenta de la Hacienda Pública Federal se identifica el Presupuesto Federal Ejercido en Ciencia, Tecnología e Innovación. Éste se clasifica en Investigación Científica y Desarrollo Experimental, Posgrado, Servicios Científicos y Tecnológicos e Innovación y por secretaría de estado. Con estas clasificaciones, se obtiene el dato de las dos variables del indicador.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: Seis meses después de terminado el periodo de referencia
+
+Source of statistical information used to calculate the indicator: Secretaría de Ciencia, Humanidades, Tecnología e Innovación (SECIHTI). Unidad de Políticas Transversales con información de la Cuenta de la Hacienda Pública Federal.
+
+Date of next update of indicator: 30 de junio de 2026
+
+Unit of the State responsible for calculating the indicator: Secretaría de Ciencia, Humanidades, Tecnología e Innovación (SECIHTI). Unidad de Políticas Transversales 
+
+Importance and purpose of the indicator: El indicador mide el grado de involucramiento del país con respecto a conservar y utilizar sosteniblemente los océanos, los mares y los recursos marinos para el desarrollo sostenible.
+
+National and/or international reference: Secretaría de Hacienda y Crédito Público (SHCP), Cuenta de la Hacienda Pública Federal (CHPF). 
+
+Observations: Los datos de las variables del indicador los calcula la Secihti con base en la información publicada en la Cuenta de la Hacienda Pública Federal.
+

@@ -1,0 +1,65 @@
+﻿Title: 10.3.1. Proporción de la población que declara haberse sentido personalmente discriminada o acosada en los últimos 12 meses por motivos de discriminación prohibidos por el derecho internacional de los derechos humanos
+
+Description: Número de personas de 18 años y más que declararon haber sufrido discriminación o haber sido menospreciadas como proporción de la población de 18 años y más.
+
+Modified: 2023-10-18
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Centro de atención a usuarios INEGI
+Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276
+Aguascalientes, Aguascalientes, Aguascalientes 
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Nacional sin costo: 800 111 46 34 
+ Internacional: (código internacional) + (52)+(449) 910 53 00 Ext. 315301
+atencion.usuarios@inegi.org.mx
+
+Temporal: 2017-2022
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual irregular
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/10.3.1._es.zip
+
+Goal: 10. Reducir la desigualdad en los países y entre ellos 
+
+Target:  Meta 10.3. Garantizar la igualdad de oportunidades y reducir la desigualdad de resultados, incluso eliminando las leyes, políticas y prácticas discriminatorias y promoviendo legislaciones, políticas y medidas adecuadas a ese respecto
+
+Type of indicator: Global
+
+Algorithm: 10.3.1._ES.gif
+
+Description of the indicator: Población de 18 años y más que declaró haberse sentido personalmente discriminada por algún motivo de discriminación, entre la población total de 18 años y más, multiplicada por 100. Desagregada por sexo y motivo de discriminación.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: La encuesta se publica 8 meses después del periodo de referencia de las experiencias de discriminación
+
+Source of statistical information used to calculate the indicator: Encuesta Nacional sobre Discriminación (ENADIS) del Instituto Nacional de Estadística y Geografía (INEGI). https://www.inegi.org.mx/programas/enadis/2022/
+
+Date of next update of indicator: No definida
+
+Unit of the State responsible for calculating the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Dirección General de Estadísticas de Gobierno, Seguridad Pública y Justicia. 
+
+Importance and purpose of the indicator: El compromiso de no dejar a nadie atrás y eliminar la discriminación está en el centro de la Agenda 2030 para el Desarrollo Sostenible. La eliminación de la discriminación también está consagrada en la Declaración Universal de Derechos Humanos y los principales tratados internacionales de derechos humanos. El propósito de este indicador es medir una prevalencia de discriminación basada en la experiencia personal reportada por los individuos. Se considera un indicador de resultados que ayuda a medir la eficacia de las leyes, políticas y prácticas no discriminatorias para los grupos de población afectados
+
+National and/or international reference: Convención Internacional sobre la Eliminación de Todas las Formas de Discriminación Racial (ICERD).  
+ https://www.ohchr.org/en/professionalinterest/pages/cerd.aspx  
+Convention on the Elimination of All Forms of Discrimination against Women (CEDAW). 
+Convention on the Rights of Persons with Disabilities (CRPD). 
+Human Rights Committee. 
+Committee on Economic, Social and Cultural Rights. 
+Repositorio de metadatos de los ODS, disponible en:   
+ https://unstats.un.org/sdgs/metadata/ 
+
+Observations: Los motivos de discriminación aparecen tal y como se preguntan en el programa estadístico fuente de la información, la ENADIS, de tal manera que en 2017 algunos motivos no están disponibles porque se preguntaron hasta la edición 2022 de la encuesta.
+

@@ -1,0 +1,75 @@
+﻿Title: 5n.3.1 Proporción de mujeres y niñas a partir de 15 años de edad que han experimentado violencia física o sexual  por otro agresor distinto a la pareja y pidieron apoyo a alguna institución o presentaron una queja o denuncia ante alguna autoridad
+
+Description: Es el número de mujeres y niñas a partir de 15 años de edad que han experimentado  violencia física o sexual  por otro agresor distinto a la pareja y pidieron apoyo a alguna institución o presentaron una queja o denuncia ante alguna autoridad, dividido entre el total de mujeres y niñas de 15 años de edad que vivieron violencia física o sexual  por otro agresor distinto a la pareja , por 100.
+
+Modified: 2022-12-14
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Centro de atención a usuarios INEGI
+Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276
+Aguascalientes, Aguascalientes, Aguascalientes 
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Nacional sin costo: 800 111 46 34 
+ Internacional: (código internacional) + (52)+(449) 910 53 00 Ext. 315301
+atencion.usuarios@inegi.org.mx
+Alejandra Ríos Cázares
+Directora General Adjunta de Desarrollo, Análisis e Indicadores de Gobierno
+Av. Patriotismo 711. Colonia San Juan, Alcaldía Benito Juárez, CDMX
+5552781000, extensión 1698
+alejandra.riosc@inegi.org.mx
+Eloina Meneses Mendoza
+Directora de Desarrollo de Información Gubernamental
+Av. Patriotismo 711. Colonia San Juan, Alcaldía Benito Juárez, CDMX
+5552781000, extensión 1779
+eloina.meneses@inegi.org.mx
+
+Temporal: 2016-2021
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Quinquenal
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/5n.3.1_es.zip
+
+Goal: 5. Lograr la igualdad de género y empoderar a todas las mujeres y las niñas 
+
+Target:  Meta 5n.3 Eliminar todas las formas de violencia contra las mujeres y las niñas en los ámbitos público y privado
+
+Type of indicator: Nacional
+
+Algorithm: 5n.3.1_ES.gif
+
+Description of the indicator: El indicador se calcula como el número de mujeres y niñas de 15 años y más  que experimentaron violencia física o sexual  por otro agresor distinto a la pareja y pidieron apoyo a alguna institución o presentaron una queja o denuncia ante alguna autoridad, dividido entre el total de mujeres de 15 años y más que experimentaron violencia física o sexual  por otro agresor distinto a la pareja, multiplicado por 100. Se considera un desglose por entidad federativa.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional y entidad federativa
+
+Opportunity: 9 meses posteriores al levantamiento de la información.
+
+Source of statistical information used to calculate the indicator: Instituto Nacional de Estadística y Geografía (INEGI).Encuesta Nacional sobre la Dinámica de las Relaciones en los Hogares (ENDIREH). Encuesta Nacional sobre la Dinámica de las Relaciones en los Hogares (ENDIREH). Base de datos.
+
+Date of next update of indicator: 31 de octubre de 2027
+
+Unit of the State responsible for calculating the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Dirección General de Estadísticas de Gobierno, Seguridad Pública y Justicia. 
+
+Importance and purpose of the indicator: La violencia contra las mujeres es uno de los mayores problemas de México en la actualidad y que va en incremento. De acuerdo con la Encuesta Nacional de Victimización y Percepción sobre Seguridad Pública (ENVIPE) 2018, la sensación de inseguridad de las mujeres pasó de 74.7% en 2013 a 82.1% en 2018. Aunque pueda pensarse que la inseguridad es un problema creciente general, datos de la ENVIPE sugieren que se refleja con mayor frecuencia en las mujeres. 
+Existen datos que dan cuenta de la violencia contra las mujeres por parte de su pareja; sin embargo, se propone un indicador complementario, el cual mide el nivel de violencia que viven las mujeres por parte de un agresor distinto a la pareja. Además, este indicador da un signo del empoderamiento de las mujeres, porque considera el reporte o denuncia ante alguna autoridad. 
+Por lo anterior, el indicador permite aproximarnos al nivel de violencia severa que experimentan las mujeres, además el denunciar o pedir ayuda implica un paso en el empoderamiento de las mujeres, así como confianza en el gobierno o estado de derecho, lo que permitirá el diseño, seguimiento y evaluación de políticas públicas para prevenir, atender, sancionar y erradicar la violencia contra las mujeres. 
+
+National and/or international reference: Ley General de Acceso a las Mujeres a una Vida Libre de Violencia 
+CEDAW (Convención sobre la eliminación de todas las formas de discriminación contra la mujer) 
+Objetivos del Desarrollo Sostenible. Objetivo 5. Lograr la igualdad de género y empoderar a todas las mujeres y las niñas. 5.2 Eliminar todas las formas de violencia
+contra todas las mujeres y las niñas en los ámbitos público y privado, incluidas la trata y la explotación sexual y otros tipos de explotación 
+
+Observations: De acuerdo con la ENDIREH, se considera que una mujer sufrió violencia por parte de algún agresor distinto a la pareja, en el ámbito escolar, laboral, comunitario o familiar, si en al menos uno de los actos por los que se indaga la violencia física o sexual, la mujer respondió que sí lo ha experimentado. 
+Actos de violencia física: "La han pellizcado, jalado el cabello, empujado, jaloneado, abofeteado o aventado algún objeto"; "La han pateado o golpeado con el puño"; "La han atacado o agredido con un cuchillo, navaja o arma de fuego". 
+Actos de violencia sexual: "la han manoseado, tocado, besado o se le han arrimado, recargado o encimado sin su consentimiento"; "le han propuesto o insinuado tener relaciones sexuales a cambio de (beneficios)"; "la castigaron, trataron mal o se vengaron, porque se negó a tener relaciones sexuales (la reprobaron, le bajaron la calificación, la expulsaron o sacaron de la escuela, etc.)"; "la han obligado a tener relaciones sexuales en contra de su voluntad"; "le han hecho sentir miedo de ser atacada o abusada sexualmente"; "la han obligado a mirar escenas o actos sexuales o pornográficos (fotos, revistas, vídeos o películas pornográficas)"; "le han dicho piropos groseros u ofensivos de tipo sexual o sobre su cuerpo"; "le han enviado mensajes o publicado comentarios con insinuaciones sexuales, insultos u ofensas, a través del celular, correo electrónico o redes sociales (como Facebook, Twitter, WhatsApp)"; "alguna persona le mostró sus partes íntimas o se las manoseó enfrente de usted"; "le han levantado la falda, el vestido o le han jaloneado la ropa para ver sus partes íntimas o su ropa interior"; "han tratado de obligarla a tener relaciones sexuales en contra de su voluntad".
+

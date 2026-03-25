@@ -1,0 +1,7 @@
+﻿"Nota: Debido al cambio metodológico observado entre MODUTIH y ENDUTIH, al pasar de un informante que responde sobre el uso de las TIC por los demás miembros del hogar, hacia
+un informante seleccionado aleatoriamente que proporciona únicamente el uso que le brinda él mismo a estas tecnologías, las cifras de usuarios no son comparables
+entre 2014 y 2015. "
+"ND No disponible"
+"Fuente: Instituto Federal de Telecomunicaciones (IFT), Coordinación General de Planeación Estratégica. De 1991 a 2000 cálculos con base en las estimaciones de la empresa SELECT.
+Para 2001, 2002, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013 y 2014 con información del Instituto Nacional de Estadística y Geografía (INEGI), Módulo
+sobre Disponibilidad y Uso de Tecnologías de Información en los Hogares (MODUTIH). Para 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023 y 2024 con datos del Instituto Nacional de Estadística y Geografía (INEGI), Encuestas Nacionales sobre Disponibilidad y Uso de Tecnología de Información en los Hogares (ENDUTIH). "

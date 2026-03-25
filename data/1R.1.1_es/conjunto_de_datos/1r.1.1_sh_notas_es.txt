@@ -1,0 +1,2 @@
+﻿"Nota: A partir de 2006 se utiliza la ENIGH con factores ajustados a la proyección de población de CONAPO, actualizadas en abril de 2013. "
+"Fuente: Estimaciones de CONEVAL con información de INEGI, ENIGH varios años (la estimación de 2016, 2018 y 2020 utilizan como fuente el MEC del MCS-ENIGH 2016, 2018 y 2020)."

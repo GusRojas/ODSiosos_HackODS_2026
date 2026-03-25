@@ -1,0 +1,4 @@
+﻿"Nota: Para el periodo 1990-2010 la información corresponde a CONAPO. Conciliación Demográfica de México, 1950-2015. A partir de 2011 se utiliza la información de la Base de
+datos del Subsistema de Información sobre Nacimientos ajustados. "
+"Fuente: Secretaría de Salud (SS). Sistema Nacional de Información en Salud (SINAIS). Base de datos del Subsistema de Información sobre Nacimientos (SINAC). "
+"cvegeo: Clave geoestadística"

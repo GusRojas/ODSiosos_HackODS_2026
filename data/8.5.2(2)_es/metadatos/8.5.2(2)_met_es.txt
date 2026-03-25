@@ -1,0 +1,62 @@
+﻿Title: 8.5.2(2) Tasa de desocupación, desglosada por sexo y edad (1995-2020)
+
+Description: Proporción de las personas desocupadas, respecto de la Población Económicamente Activa.
+
+Modified: 2022-05-02
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Lic. Antonio Amerlinck Assereto
+Director de Estudios e Investigación Laboral. Dirección General de Investigación y Estadísticas del Trabajo
+Boulevard Adolfo López Mateos. No. 1968. Colonia Los Alpes, 01010. Alcaldía Alvaro Obregón, Ciudad de México
+(55) 2000 5463, 2000 5300, ext. 63263
+aamerlinck@stps.gob.mx
+
+Temporal: 1995-2020
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/8.5.2(2)_es.zip
+
+Goal: 8. Promover el crecimiento económico sostenido, inclusivo y sostenible, el empleo pleno y productivo y el trabajo decente para todos 
+
+Target:  Meta 8.5 De aquí a 2030, lograr el empleo pleno y productivo y el trabajo decente para todas las mujeres y los hombres, incluidos los jóvenes y las personas con discapacidad, así como la igualdad de remuneración por trabajo de igual valor
+
+Type of indicator: Global
+
+Algorithm: 8.5.2(2)_ES.gif
+
+Description of the indicator: La tasa de desempleo se refiere al número de personas desocupadas, expresado como porcentaje del total de la población económicamente activa.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional y entidad federativa
+
+Opportunity: 3 meses
+
+Source of statistical information used to calculate the indicator: Instituto Nacional de Estadística y Geografía (INEGI) y Secretaría del Trabajo y Previsión Social (STPS). 
+ 1995-2004: Encuesta Nacional de Empleo (ENE), con proyecciones de población basadas en el Conteo de Población y Vivienda 2005. 
+ A partir de 2005: Encuesta Nacional de Ocupación y Empleo (ENOE), con proyecciones de población basadas en el Censo de Población y Vivienda 2010. 
+
+Date of next update of indicator: Serie que ya no se actualiza
+
+Unit of the State responsible for calculating the indicator: Secretaría del Trabajo y Previsión Social (STPS). 
+
+Importance and purpose of the indicator: Este indicador ilustra la magnitud relativa de las personas que desean trabajar y buscan trabajo, pero no lo han encontrado. Mide la falta de oportunidades y los problemas de desajuste en la información entre la oferta y demanda de trabajo, lo que impide la incorporación de las personas a una ocupación productiva.
+
+National and/or international reference: Programa de las Naciones Unidas para el Desarrollo (PNUD). "Soporte del PNUD para la implementación de la Agenda 2030 para el Desarrollo Sostenible" "Grupo de Naciones
+Unidas para el Desarrollo". 
+Organización Internacional del Trabajo (OIT), Indicadores clave del mercado laboral, 2015. OIT. Ginebra, Suiza. http://www.ilo.org/ilostat/faces/home/statisticaldata/new_link_10?_adf.ctrl-state=15qffd79n1_154&_afrLoop=214033851619998#!
+
+Observations: 1. Para el cálculo de este indicador por edad se consideraron los grupos: a) De 15 a 24 años; b) De 25 a 64; c) De 65 y más.
+2. La información de la Encuesta Nacional de Empleo (ENE) está conceptualmente homologada a la Encuesta Nacional de Ocupación y Empleo (ENOE).
+3. Los datos de 1995 a 1999 corresponden al segundo trimestre de cada año. Los datos de 2000 se calculan con el promedio aritmético de los trimestres segundo, tercero y cuarto.
+4. Los datos absolutos de 1995 a 2004 fueron generados utilizando el factor de expansión correspondiente a las proyecciones de población elaboradas usando como base el Conteo de Población y Vivienda 2005.
+5. Los datos absolutos correspondientes al periodo 2005-2020 se generaron utilizando el factor de expansión correspondiente a las proyecciones de población revisadas por el Consejo Nacional de Población (CONAPO), las cuales fueron elaboradas usando como base el Censo de Población y Vivienda 2010 y se difundieron en abril de 2013.
+

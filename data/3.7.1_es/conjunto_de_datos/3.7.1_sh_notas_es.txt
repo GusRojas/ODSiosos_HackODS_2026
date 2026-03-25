@@ -1,0 +1,20 @@
+﻿"Nota: - Los indicadores de la necesidad insatisfecha de métodos anticonceptivos para los años 2014, 2018 y 2023, a nivel nacional y estatal, corresponden a estimaciones realizadas
+empleando la metodología propuesta por Bradley et al. (2012), en la cual se detallan los cambios involucrados en la revisión de la definición de necesidad
+insatisfecha en el Estudio Analítico No. 25 de las Encuestas de Salud y Demografía (DHS, por sus siglas en inglés). La definición de necesidad insatisfecha de anticoncepción
+se simplificó para mejorar la comparabilidad a lo largo del tiempo. Los resultados del cambio de definición también se resumen en el documento Revising Unmet
+Need: In Brief. Disponible en:  
+ https://www.dhsprogram.com/pubs/pdf/OD63/OD63[12June2012_English].pdf  
+ Derivado de dicha metodología, para la estimación del grupo 2 y grupo 4 en los rubros de necesidad insatisfecha para espaciar o limitar, en lugar de incorporar las
+preguntas, “no quiere más hijas(os)” o “no quiere más hijas(os) en los próximos dos años”, se emplean las preguntas “no desea más hijas(os) en los próximos dos años”
+o “no desea más hijas(os)”. Debido a que estas preguntas se ajustaron en la Encuesta de 2023, se realizó una estimación que contempla en el indicador las preguntas
+“sin intención de hijos(as) en los próximos dos años”  o  “sin intención de más hijas(os)”. Desde 2018, se ajustó el criterio para el grupo 3, considerando “histerectomias”
+y “menopausia”. 
+ Bradley, S.E.K., T.N. Croft, J.D. Fishel, and C. Westoff. 2012. Revising Unmet Need for Family Planning. DHS Analytical Studies No. 25. Calverton, Maryland, USA, ICF
+International.  
+ https://www.dhsprogram.com/publications/publication-AS25-Analytical-Studies.cfm 
+ - La diferencia con lo previamente publicado se debe a un ajuste en la metodología de estimación del indicador, se específica en la nota sombreada en verde, la cual
+se solicita se considere como parte del cuadro a publicar. Esta modificación motivó la actualización de las estimaciones previamente realizadas con base en la ENADID
+2014 y 2018. Cabe señalar que esta actualización metodológica también se realizó en la información que se publica en las plataformas oficiales del CONAPO, así como
+en el Catálogo Nacional de Indicadores del SNIEG, administrado por el INEGI. "
+"Fuente: Consejo Nacional de Población (CONAPO). Estimaciones con base en la Encuesta Nacional de la Dinámica Demográfica (ENADID), 2009-2023. "
+"cvegeo: Clave geoestadística"

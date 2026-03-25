@@ -1,0 +1,5 @@
+﻿"Nota: - La Zona Metropolitana del Valle de México incluye 16 delegaciones de la Ciudad de México, 59 municipios del Estado de México y uno del Estado de Hidalgo. "
+"ND No disponible"
+"Fuente: - Población mayor de 6 años nacional y por estado con datos el Consejo Nacional de Población (CONAPO). Indicadores demográficos 1950 - 2050.
+- Población mayor de 6 años por ciudades con base en información de la Encuesta Nacional sobre Disponibilidad y Uso de Tecnologías de la Información en los Hogares (ENDUTIH) "
+"cvegeo: Clave geoestadística"

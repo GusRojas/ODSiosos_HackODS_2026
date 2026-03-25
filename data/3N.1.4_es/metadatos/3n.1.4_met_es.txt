@@ -1,0 +1,74 @@
+﻿Title: 3n.1.4 Porcentaje de hogares con gasto catastrófico en salud
+
+Description: Es el número de hogares por quintil de ingreso y estrato urbano-rural con gasto catastrófico en salud con respecto al número total de hogares en el mismo quintil de ingreso y estrato en el año del levantamiento de Encuesta Nacional de Ingreso y Gasto de los Hogares.
+Se clasifica como catastrófico al gasto de bolsillo que excede de cierta fracción de los ingresos o del consumo del hogar. Se han utilizado rangos que van desde 10% hasta 40%. En esta metodología se considera como gasto catastrófico si el gasto en salud excede el 30% del ingreso disponible no alimentario. De acuerdo con la metodología del Banco Mundial, se considera ingreso disponible no alimentario o discrecional al total de ingresos del hogar después de los gastos en alimentación, sin considerar el gasto en alimentos consumidos fuera del hogar ni tabaco.
+
+Modified: 2025-11-14
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Mtra. Manett Vargas García
+Directora General de Evaluación del Desempeño
+Avenida Paseo de la Reforma 450 
+Colonia Juárez, 06600
+Cuauhtémoc, Cuauhtémoc, Ciudad de México
+01 (55) 50621600 Ext. 52697
+manett.vargas@salud.gob.mx
+Dr. Delfino Campos Díaz
+Director de Gestión y Seguimiento para la Evaluación de los Sistemas de Salud
+Av. Agrarismo #227, piso 3, Col. Escandón II Sección D.T. Miguel Hidalgo, C.P. 11800, CDMX.
+01 (55) 50621600 Ext. 52681
+delfino.campos@salud.gob.mx
+Oscar Eder Oliva Ramírez
+Subdirector de Evaluación de Proyectos Estratégicos
+Agrarismo 227, piso 2, Colonia Escandon II sección, 11800; Miguel Hidalgo, Ciudad de México
+55 5062 1600, ext. 52365
+oscar.oliva@salud.gob.mx
+
+Temporal: 2006-2024
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Bienal
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/3n.1.4_es.zip
+
+Goal: 3. Garantizar una vida sana y promover el bienestar de todos a todas las edades 
+
+Target:  Meta 3n.1 Lograr la cobertura universal de salud
+
+Type of indicator: Nacional
+
+Algorithm: 3n.1.4_ES.gif
+
+Description of the indicator: El gasto de bolsillo en salud GBS se construye a partir del gasto corriente monetario trimestral que los hogares reportan en salud, del apartado cuidados de la salud que comprende: rubros de atención ambulatoria, hospitalaria y desembolso de medicinas. 
+Se incluyen servicios de salud, medicamentos y materiales de curación y primas voluntarias de seguros de salud.
+La capacidad de pago CdP se calcula a partir del ingreso corriente total del hogar (ICT), quitando el gasto en alimentos básicos.
+El gasto catastrófico GC define comparando el GBS con la capacidad de pago (CdP), si GC es mayor o igual al 30% de la capacidad de pago.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional, urbano y rural.
+
+Opportunity: 12 meses
+
+Source of statistical information used to calculate the indicator: INEGI. Encuesta Nacional de Ingresos y Gastos de los Hogares (ENIGH).
+
+Date of next update of indicator: 30 de junio de 2026
+
+Unit of the State responsible for calculating the indicator: Secretaría de Salud (SSA). Unidad de Análisis Económico e Investigación en Salud. 
+
+Importance and purpose of the indicator: Busca identificar por quintil de ingreso y estrato urbano-rural el número de hogares que incurren en gastos catastróficos por salud, generalmente los hogares más afectados por este tipo de gasto son los hogares pobres sin aseguramiento público en salud.
+Para el seguimiento en términos de protección financiera en salud que buscan eliminar o disminuir el riesgo de los hogares de incurrir en gastos catastróficos.
+
+National and/or international reference: Banco Mundial (s.f.), 2025. Financial Protection. Catastrophic and Impoverishing Health Expenditure. Disponible en:   
+ https://www.worldbank.org/content/dam/Worldbank/document/HDN/Health/Module3FinancialProtection.pdf.  
+Xu, Ke & Organización Mundial de la Salud. (2005). Distribución del gasto en salud y gastos catastróficos: metodología. Organización Mundial de la Salud. Disponible en:   
+ https://iris.who.int/handle/10665/85626  
+
+Observations: Este indicador pertenece al Catálogo Nacional de Indicadores (CNI).
+

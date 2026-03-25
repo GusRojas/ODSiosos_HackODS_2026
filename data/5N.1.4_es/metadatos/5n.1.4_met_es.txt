@@ -1,0 +1,63 @@
+﻿Title: 5n.1.4 Ingreso laboral real promedio de las personas ocupadas según sexo
+
+Description: El indicador expresa el ingreso laboral real promedio que reciben las personas ocupados según sexo en cada una de las 32 entidades federativas del país. Esto permite observar a los estados en donde se encuentra la brecha salarial  real entre  el ingreso laboral  que perciben las mujeres ocupadas, respecto al que perciben los hombres sin considerar el nivel jerárquico.
+El indicador se encuentra deflactado a precios del 1T 2010 y muestra los pesos reales que perciben por su trabajo en cada entidad federativa.
+
+Modified: 2023-12-07
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Alida Marcela Gutiérrez Landeros
+Coordinadora General de Análisis de la Pobreza
+Insurgentes Sur #810, Colonia Del Valle, C.P. 03100, Benito Juárez, Ciudad de México
+(55) 54-81-72-00, ext. 70075
+amgutierrez@coneval.org.mx
+David Antonio Rojas Rosey
+Director Ejecutivo de Medición de Pobreza y Seguimiento de Indicadores
+Insurgentes Sur #810, Colonia Del Valle, C.P. 03100, Benito Juárez, Ciudad de México
+(55) 54-81-72-00, ext. 70100
+drojas@coneval.org.mx
+
+Temporal: 2012-1-2023-2
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Trimestral
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/5n.1.4_es.zip
+
+Goal: 5. Lograr la igualdad de género y empoderar a todas las mujeres y las niñas 
+
+Target:  Meta 5n.1 Participación paritaria y efectiva de las mujeres en la vida política, económica y pública, con énfasis en la disminución de brechas de todo tipo, entre ellas la salarial, en el mercado laboral y la carga doméstica de cuidados
+
+Type of indicator: Nacional
+
+Algorithm: 5n.1.4_ES.gif
+
+Description of the indicator: Este indicador resulta de dividir la sumatoria del Ingreso laboral de la población de 12 años o más según sexo por entidad federativa entre el total de la población de 12 años o más ocupada según sexo por entidad federativa.
+
+Unit of measure: Pesos reales promedio
+
+Geographic coverage: Nacional y entidad federativa
+
+Opportunity: 3 meses */
+
+Source of statistical information used to calculate the indicator: Instituto Nacional de Estadística y Geografía (INEGI)
+
+Date of next update of indicator: 31 de diciembre de 2023
+
+Unit of the State responsible for calculating the indicator: Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL). http://www.coneval.org.mx/. 
+
+Importance and purpose of the indicator: La Constitución de la Organización Internacional del Trabajo plantea una aspiración en cuestión de remuneración laboral, "igual salario por trabajo de igual valor".  La incorporación de las mujeres en el mercado laboral presenta una tendencia creciente, sin embargo, esta incorporación aún se presenta en condiciones de desventaja, una de estas desventajas es en el acceso a ciertos puestos y otra es en las remuneraciones.
+A nivel mundial se ha encontrado un respaldo hacia la igualdad salarial, sin embargo, estas aún persisten, a pesar de los grandes esfuerzos que se han llevado a cabo
+El indicador se integra en el objetivo de dar seguimiento al ingreso laboral real promedio que perciben ambos sexos por su trabajo.
+
+National and/or international reference: Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL). http://www.coneval.org.mx/. 
+
+Observations: El indicador se refiere al salario real percibido en el trabajo principal de la población ocupada de quince años o más sin considerar el mismo nivel jerárquico. Asimismo, se informa que derivado de la contingencia sanitaria por la COVID-19 no se cuenta con datos para el segundo trimestre del 2020 y a partir del tercer trimestre del mismo año la encuesta tendrá cambios en su levantamiento al incorporar encuestas telefónicas según informa el INEGI en la siguiente nota técnica:  https://www.inegi.org.mx/contenidos/programas/enoe/15ymas/doc/enoe_n_nota_tecnica_0720.pdf
+/* La actualización del indicador está sujeta a la publicación de los microdatos por parte de INEGI
+

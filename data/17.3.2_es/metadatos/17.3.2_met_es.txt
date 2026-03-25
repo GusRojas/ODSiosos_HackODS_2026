@@ -1,0 +1,59 @@
+﻿Title: 17.3.2 Volumen de las remesas (en dólares de los Estados Unidos) como proporción del PIB total
+
+Description: Es el porcentaje que representa la cantidad en moneda nacional o extranjera proveniente del exterior, transferida a través de empresas, originada por un remitente (persona física residente en el exterior que transfiere recursos económicos a sus familiares en México) para ser entregada en territorio nacional a un beneficiario (persona física residente en México que recibe los recursos que transfiere el remitente) respecto al Producto Interno Bruto (PIB).
+
+Modified: 2026-02-25
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+Keyword: Dinero proveniente del exterior, envíos de dinero, migrantes
+
+ContactPoint: Ricardo Leyva Bernal
+Jefe de la Oficina de Servicios No Factoriales
+Avenida 5 de Mayo # 2,
+Colonia Centro, C. P. 06059,
+Cuauhtémoc, Cuauhtémoc
+Ciudad de México
+55 52 37 25 99
+rleyva@banxico.org.mx
+
+Temporal: 1996-I-2025-IV
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Trimestral
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/17.3.2_es.zip
+
+Goal: 17. Fortalecer los medios de implementación y revitalizar la Alianza Mundial para el Desarrollo Sostenible 
+
+Target:  Meta 17.3 Movilizar recursos financieros adicionales de múltiples fuentes para los países en desarrollo
+
+Type of indicator: Global
+
+Algorithm: 17_3_2_ES.gif
+
+Description of the indicator: División del monto de remesas totales en un trimestre entre el PIB nominal en dólares de México de ese trimestre.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: 55 días naturales después de concluido el trimestre
+
+Source of statistical information used to calculate the indicator: Para ingresos por remesas, Banco de México (BANXICO), Balanza de Pagos, estadística trimestral; para PIB en dólares, cálculo de Banco de México (BANXICO) con base en la estadística trimestral del PIB nominal en pesos del Instituto Nacional de Estadística y Geografía (INEGI),  Indicadores Económicos de Coyuntura y el tipo de cambio promedio del periodo del peso respecto al dólar de los EE.UU., fecha de determinación (FIX) de Banco de México.
+
+Date of next update of indicator: 25 de mayo de 2026
+
+Unit of the State responsible for calculating the indicator: Banco de México (BANXICO), Dirección General de Investigación Económica. 
+
+Importance and purpose of the indicator: Como una medida de la importancia relativa de la entrada de recursos financieros al país por concepto de remesas, debido al impacto que estos recursos tienen sobre los ingresos de las familias receptoras y los efectos multiplicadores que generan sobre la actividad económica.
+
+National and/or international reference: Sin referencia 
+
+Observations: La series estadísticas del indicador y del "PIB Promedio trimestral no anualizado" son preliminares debido al método de estimación por lo que las series pueden ser modificadas al incorporarse nueva información y, los "Ingresos por remesas" a partir 2024/I.
+

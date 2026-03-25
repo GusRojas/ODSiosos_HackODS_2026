@@ -1,0 +1,11 @@
+﻿"Nota: 1) ZMVM = Zona Metropolitana de Valle de México  
+ 2) ZMM = Zona Metropolitana de Monterrey  
+ 3) ZMVT = Zona Metropolitana de Valle de Toluca  
+ 4) AGEB Urbana - Área Geoestadística Básica Urbana: Se define como la extensión territorial ocupada por un conjunto de manzanas que generalmente son de 1 a 50, perfectamente
+delimitadas por calles, avenidas, andadores o cualquier otro rasgo de fácil identificación en el terreno y cuyo uso del suelo sea principalmente habitacional,
+industrial, de servicios, comercial, etc. Este tipo de AGEB se asigna en áreas geográficas de localidades que tengan una población igual o mayor a 2,500 habitantes,
+o bien que sea cabecera municipal independientemente del número de habitantes de acuerdo al último Censo General o Conteo Nacional de Población y Vivienda. El
+dato de población por AGEB corresponde al reportado por INEGI en el Censo de Población y Vivienda 2020. "
+"Fuente: INEGI. 2021. Censo de Población y Vivienda 2020. Tabulados del Cuestionario Básico. Población total por entidad federativa y grupo quinquenal de edad según sexo, serie
+de años censales de 1990 a 2020. INEGI. México. Consultado en:  
+ https://www.inegi.org.mx/app/tabulados/interactivos/?pxq=Poblacion_Poblacion_01_e60cd8cf-927f-4b94-823e-972457a12d4b&idrt=123&opc=t  "

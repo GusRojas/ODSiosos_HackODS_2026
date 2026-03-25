@@ -1,0 +1,60 @@
+﻿Title: 6.2.1.a Proporción de la población que utiliza servicios de saneamiento gestionados de manera segura
+
+Description: Proporción de la población que tiene acceso a instalaciones de saneamiento mejoradas en sus hogares que no se comparten con otras familias y en las que los excrementos se tratan y eliminan de forma segura in situ o se transportan para ello a otro lugar. Las instalaciones de saneamiento mejoradas incluyen: excusado propio (que no se comparten) y que el drenaje se concentra en la red pública o en una fosa séptica.
+
+Modified: 2023-11-03
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Gerencia de Planificación Hídrica
+Subgerencia del Sistema Nacional de Información del Agua
+Insurgentes Sur # 2416. Piso 4; Colonia Copilco El Bajo, 04340. Coyoacán, Ciudad de México
++52 55 5174 4000, ext. 2112 y 4458
+sina@conagua.gob.mx
+Gerencia de Cooperación Internacional
+Dirección de Área de Evaluación de Programas y Proyectos
+Insurgentes Sur # 2416. Piso 9; Colonia Copilco El Bajo, 04340. Coyoacán, Ciudad de México
++52 55 5174 4000, ext. 1313
+internacional@conagua.gob.mx
+
+Temporal: 2014-2022
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Bienal
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/6.2.1.a_es.zip
+
+Goal: 6. Garantizar la disponibilidad y la gestión sostenible del agua y el saneamiento para todos 
+
+Target:  Meta 6.2. De aquí a 2030, lograr el acceso a servicios de saneamiento e higiene adecuados y equitativos para todos y poner fin a la defecación al aire libre, prestando especial atención a las necesidades de las mujeres y las niñas y las personas en situaciones de vulnerabilidad
+
+Type of indicator: Global
+
+Algorithm: 6.2.1._ES.gif
+
+Description of the indicator: El indicador se calcula dividiendo a la población que tiene inodoro propio y que el drenaje se concentra en la red pública y la que tiene una fosa séptica, entre la población residente en los hogares, expresado en porcentaje. Con la información analizada de la Encuesta Nacional de Ingreso y Gasto en los Hogares (ENIGH) que realiza el Instituto Nacional de Estadística y Geografía (INEGI).
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: 2 años
+
+Source of statistical information used to calculate the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional de Ingreso y Gasto en los Hogares (ENIGH), 2014, 2016, 2018, 2020, 2022
+
+Date of next update of indicator: 31 de octubre de 2025
+
+Unit of the State responsible for calculating the indicator: Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT). Comisión Nacional del Agua (CONAGUA). Gerencia de Planificación Hídrica. Sistema Nacional de Información
+del Agua (SINA), a partir de la información de la Encuesta Nacional de Ingreso y Gasto en los Hogares (ENIGH), 2014, 2016, 2018, 2020, 2022 de INEGI 
+
+Importance and purpose of the indicator: Este indicador incluye la gestión sin riesgos de las materias fecales a lo largo de toda la cadena de saneamiento, desde el depósito hasta el tratamiento. Con el análisis de todos estos aspectos, el indicador 6.2.1 centra la atención de los encargados de la formulación de políticas y de la toma de decisiones en los asuntos que requieren más inversión para obtener resultados en materia de salud, igualdad de género y medio ambiente. Al desglosar los datos por criterios geográficos y estratos socioeconómicos, es posible identificar qué segmentos de la población se están quedando atrás.
+
+National and/or international reference: Comisión Nacional del Agua (Conagua). Programa Nacional Hídrico 2020-2024 
+
+Observations: El valor reportado por el indicador parte de los resultados de la ENIGH. Para el caso del año 2018, la ENIGH consideró en su diseño estadístico una muestra de 87 mil 826 viviendas en el territorio nacional, mientras que para el año 2020, la ENIGH fue diseñada con una muestra de 105 mil 483 viviendas. Por su parte, la ENIGH 2022 se aplicó a una muestra de 105 mil 525 viviendas.
+

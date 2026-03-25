@@ -1,0 +1,57 @@
+﻿Title: 4.c.1.c Proporción del profesorado de educación secundaria, que ha recibido al menos la mínima formación docente organizada previa al empleo o en el empleo (por ejemplo, formación pedagógica) exigida para impartir enseñanza a nivel secundaria en México
+
+Description: Es el porcentaje de maestros en nivel secundaria que han recibido al menos el mínimo de formación docente organizada y práctica necesaria, antes y durante el servicio docente.
+
+Modified: 2025-10-30
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+Keyword: Maestros, capacitación, educación básica, sistema educativo, docencia, empleo, profesores
+
+ContactPoint: César Morón Rojas
+Director General de Planeación, Programación y Estadística Educativa
+Av. Universidad 1200, Colonia Xoco, 3330, Benito Juárez, Ciudad de México
+55 3601 2511, ext. 54760
+cesar.mr@nube.sep.gob.mx
+
+Temporal: 2012-2013-2024-2025
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/4.c.1.c_es.zip
+
+Goal: 4. Garantizar una educación inclusiva y equitativa de calidad y promover oportunidades de aprendizaje permanente para todos 
+
+Target:  Meta 4.c De aquí a 2030, aumentar considerablemente la oferta de docentes calificados, incluso mediante la cooperación internacional para la formación de docentes en los países en desarrollo, especialmente los países menos adelantados y los pequeños Estados insulares en desarrollo
+
+Type of indicator: Global
+
+Algorithm: 4_c_1_c_ES.gif
+
+Description of the indicator: El indicador resulta del número de maestros en nivel secundaria que cuentan con formación y práctica docentes, expresado como porcentaje del total de maestros en dicho nivel educativo.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional y entidad federativa
+
+Opportunity: 1 año
+
+Source of statistical information used to calculate the indicator: Secretaría de Educación Pública (SEP). Dirección General de Planeación, Programación y Estadística Educativa. Sistema de Estadísticas Continuas de Educación del Formato 911. Disponible en:  https://www.planeacion.sep.gob.mx/estadisticaeducativas.aspx
+
+Date of next update of indicator: 30 de octubre de 2026
+
+Unit of the State responsible for calculating the indicator: Secretaría de Educación Pública (SEP). Dirección General de Planeación, Programación y Estadística Educativa (DGPPYEE).  
+ https://www.planeacion.sep.gob.mx/ 
+
+Importance and purpose of the indicator: Los maestros, o docentes, juegan un importante papel para garantizar la impartición de educación de calidad. En un escenario ideal los maestros deben recibir formación pedagógica adecuada, apropiada y relevante para enseñar en el nivel educativo al que se adscriben; y estar bien calificado académicamente en los temas que imparten. Este indicador mide la proporción de fuerza de trabajo bien calificada e instruida en el sector docente. 
+
+National and/or international reference: Instituto de Estadísticas de la UNESCO (UIS).  http://data.uis.unesco.org/ 
+
+Observations: Es importante notar que el "mínimo de formación docente organizada" requerido puede variar considerablemente entre un país y otro. Esta variabilidad entre países disminuye la utilidad del indicador a nivel global debido a que el indicador sólo mostraría el porcentaje con respecto a los estándares nacionales, estrictamente no homologados con los maestros del resto de los países. El trabajo que se debería realizar, de manera adicional, es la homologación de las normas para la formación de los docentes aplicable en todos los países.
+

@@ -1,0 +1,11 @@
+﻿"Nota: - La discriminación por etnicidad se refiere a las personas que fueron discriminadas por ser indígenas o afrodescendientes. 
+ - La discriminación por estado civil también incluye situación de pareja o familiar (embarazada, huérfano(a), adoptado(a)). 
+ - La discriminación por otros motivos incluye color de piel, manera de hablar, estatura o peso y manera de vestir, para 2022 incluye también discriminación por tener
+una enfermedad. "
+"a/ Estas estimaciones tienen un coeficiente de variación (%) en el rango de [15,30), por lo que su nivel de precisión es clasificado como Moderado. "
+"b/ Estas estimaciones tienen un coeficiente de variación (%) de 30 en adelante, por lo que su nivel de precisión es clasificado como Bajo. Una precisión Baja requiere un
+uso cauteloso de la estimación en el que se analicen las causas de la alta variabilidad y se consideren otros indicadores de precisión y confiabilidad, como el intervalo
+de confianza. "
+"ND No disponible"
+"Fuente: Encuesta Nacional sobre Discriminación (ENADIS) del Instituto Nacional de Estadística y Geografía (INEGI).  
+ https://www.inegi.org.mx/programas/enadis/2022/  "

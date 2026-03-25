@@ -1,0 +1,53 @@
+﻿Title: 3r.7.a Porcentaje del último hijo nacido vivo en el periodo de 2013 a 2018, tenido a la edad de 15 a 29 años, que no fue planificado
+
+Description: Mide el porcentaje de último hijo nacido vivo en el periodo de 2013 a 2018 que han tenido mujeres a la edad de 15 a 29 años y que no fueron planificados.
+
+Modified: 2025-09-01
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Mirna Hebrero Martínez
+Coordinadora de Estudios Sociodemográficos y Prospectiva
+Doctor José María Vertiz 852, Colonia Narvarte, 03020; Benito Juárez, Ciudad de México
+55 5128 0000, ext. 19511
+mhebrero@conapo.gob.mx
+
+Temporal: 2014-2023
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual irregular
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/3r.7.a_es.zip
+
+Goal: 3. Garantizar una vida sana y promover el bienestar de todos a todas las edades 
+
+Target:  Meta 3.7 De aquí a 2030, garantizar el acceso universal a los servicios de salud sexual y reproductiva, incluidos los de planificación familiar, información y educación, y la integración de la salud reproductiva en las estrategias y los programas nacionales
+
+Type of indicator: Regional
+
+Algorithm: 3r.7.a_ES.gif
+
+Description of the indicator: Es la relación del último hijo nacido vivo en el periodo de 2013 a 2018 que ha tenido la mujer a la edad de 15 a 29 años y que no fue planificado, respecto al total del último hijo nacido vivo en el periodo de 2013 a 2018 que ha tenido la mujer a la edad de 15 a 29 años, multiplicado por cien.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: No definida
+
+Source of statistical information used to calculate the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional de la Dinámica Demográfica (ENADID): 2014, 2018, 2023. Disponibles en:  https://www.inegi.org.mx/programas/enadid/
+
+Date of next update of indicator: Después de publicados los resultados de la nueva ENADID, en 2028 (aprox 2029)
+
+Unit of the State responsible for calculating the indicator: Consejo Nacional de Población (CONAPO). Coordinación de Estudios Sociodemográficos y Prospectiva. 
+
+Importance and purpose of the indicator: Se creó una Estrategia Nacional para la Prevención del Embarazo en Adolescentes que, mediante acciones interinstitucionales coordinadas con políticas y planes nacionales, estatales y municipales, enfrenta tanto las condiciones que lo motivan, sus determinantes económicas, sociales y culturales, así como sus causas subyacentes. Es un es producto del trabajo conjunto de 13 dependencias del Gobierno Federal y de la consulta a organizaciones de la sociedad civil y a académicas y académicos con larga trayectoria y conocimiento del fenómeno.
+
+National and/or international reference: ONU-CEPAL. Propuesta de indicadores y sus metadatos para el seguimiento regional del Consenso de Montevideo sobre Población y Desarrollo. 
+
+

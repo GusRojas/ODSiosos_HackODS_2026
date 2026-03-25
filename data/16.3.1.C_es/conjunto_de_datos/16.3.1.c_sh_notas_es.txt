@@ -1,0 +1,4 @@
+﻿"Nota: Las estimaciones para el total de la población y para los hombres no se presentan debido a que no cuentan con la calidad estadística requerida. "
+"a/ Estas estimaciones tienen un coeficiente de variación (%) en el rango de [15,30), por lo que su nivel de precisión es clasificado como Moderado. "
+"ND No disponible"
+"Fuente: INEGI. Encuesta Nacional de Victimización y Percepción sobre Seguridad Pública, 2016 a 2025. "

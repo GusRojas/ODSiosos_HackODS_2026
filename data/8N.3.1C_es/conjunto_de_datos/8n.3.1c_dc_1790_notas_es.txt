@@ -1,0 +1,6 @@
+﻿"Nota: • Los totales no coinciden con la suma de los desgloses por nivel educativo debido a la presencia de cinco registros con nivel educativo no especificado. 
+ • Tenencia de cuenta en el banco. Incluye a las personas que declararon tener al menos una cuenta de ahorro formal o tarjeta de ahorro, un crédito formal, un seguro
+o una cuenta de ahorro para el retiro o Afore.   
+ • Sin escolaridad: Incluye sin instrucción y preescolar. 
+ • Media superior: Incluye estudios técnicos con secundaria terminada, normal básica y preparatoria o bachillerato. 
+ • Superior: Incluye estudios técnicos con preparatoria terminada, licenciatura o ingeniería (profesional), maestría o doctorado. "

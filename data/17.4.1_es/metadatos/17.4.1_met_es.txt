@@ -1,0 +1,69 @@
+﻿Title: 17.4.1 Servicio de la deuda como proporción de las exportaciones de bienes y servicios
+
+Description: Es el porcentaje que representan los pagos por servicio de la deuda (capital e intereses) respecto al total de las exportaciones de bienes y servicios. Los servicios de la deuda que se describen en este indicador se refieren, únicamente, a la deuda pública y a la deuda con garantía pública.
+
+Modified: 2021-04-21
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+Keyword: Costos de la deuda, interés de la deuda, amortización
+
+ContactPoint: Juan Andrade Goytortú
+Director de Política de Deuda Pública
+Av. Insurgentes sur 1971,
+Colonia Guadalupe Inn, C.P. 01020,
+Álvaro Obregón, Álvaro Obregón,
+Ciudad de México
+(55) 3688 1215
+juan_andrade@hacienda.gob.mx
+
+Temporal: 2006-2020
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/17.4.1_es.zip
+
+Goal: 17. Fortalecer los medios de implementación y revitalizar la Alianza Mundial para el Desarrollo Sostenible 
+
+Target:  Meta 17.4 Ayudar a los países en desarrollo a lograr la sostenibilidad de la deuda a largo plazo con políticas coordinadas orientadas a fomentar la financiación, el alivio y la reestructuración de la deuda, según proceda, y hacer frente a la deuda externa de los países pobres muy endeudados a fin de reducir el endeudamiento excesivo
+
+Type of indicator: Global
+
+Algorithm: 17_4_1_ES.gif
+
+Description of the indicator: Numerador: Para un año determinado se realiza la suma del costo financiero de la deuda pública externa y el monto de amortizaciones realizadas en el año de deuda pública externa. La deuda pública externa incluye al Gobierno Federal, las empresas productivas del Estado y la Banca de Desarrollo.
+Denominador:  La suma de las exportaciones de bienes y servicios realizadas en un año.
+El resultado total se multiplica por 100.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: 30 días.
+
+Source of statistical information used to calculate the indicator: Secretaría de Hacienda y Crédito Público (SHCP): Informes Trimestrales sobre la situación económica, las finanzas y la deuda pública.
+
+Date of next update of indicator: 31 de mayo de 2022
+
+Unit of the State responsible for calculating the indicator: Secretaría de Hacienda y Crédito Público (SHCP). Unidad de Crédito Público 
+
+Importance and purpose of the indicator: Permite medir la carga que representa para una economía el servicio de su deuda y por lo tanto su sostenibilidad. Un valor alto para esta métrica puede indicar que un país tiene una limitada capacidad para generar las divisas que requiere para cumplir con los pagos relacionados al capital e intereses de su deuda pública.
+
+National and/or international reference: Banco Mundial  (2003). Debt Initiative for the Heavily Indebted Poor Countries (HIPCs). Washington, D.C. (Consultado el 5 de octubre de 2016). 
+Banco Mundial  (ediciones anuales). Global Development Finance, vol. 2, Country Tables. Washington, D.C. Fuente de datos. Metadato (Consultado el 5 de octubre de 2016).
+Fondo Monetario Internacional (2003). Debt Relief under the Heavily Indebted Poor Countries (HIPC) Initiative. Washington, D.C. (Consultado el 5 de octubre de 2016).
+Naciones Unidas  (1998). International Merchandise Trade Statistics—Concepts and Definitions, Serie M, No. 52, Rev. 2. Número de venta E.98.XVII.16. (A, C, E, F, I, R) [Consultado el 5 de octubre de 2016]. 
+Naciones Unidas (2003). Millennium Indicators Database. Sitio de Internet de la División de Estadística. Consultado el 5 de octubre de 2016). 
+Naciones Unidas, Comisión de las Comunidades Europeas, Fondo Monetario Internacional, Organización de Cooperación y Desarrollo Económicos y Banco Mundial (1994). Sistema
+de Cuentas Nacionales 1993 (SCN 1993), Serie F, No. 2, Rev. 4. Número de venta S.94.XVII.4. Disponible en: http://unstats.un.org/unsd/sna1993 (Consultado el 5 de octubre de 2016). 
+
+Observations: Los datos sobre exportación de bienes y servicios se toman de la página de internet del Banco de México en la sección de estadísticas Balanza de Pagos
+Con base en la nueva presentación MBP6 con datos a partir de 2006.
+Los datos de servicio de la deuda externa del sector público se encuentran en los informes trimestrales sobre la situación económica, las finanzas públicas y la deuda pública. Dentro de la deuda externa no se incluyen los valores gubernamentales emitidos en el mercado local en manos de no residentes.
+

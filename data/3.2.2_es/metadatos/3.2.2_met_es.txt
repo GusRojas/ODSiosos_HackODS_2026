@@ -1,0 +1,68 @@
+﻿Title: 3.2.2 Tasa de mortalidad neonatal
+
+Description: La tasa de mortalidad neonatal se refiere al número de niños y niñas nacidos en un año o período específico que murieron durante los primeros 28 días completos de vida por cada mil nacidos vivos en el mismo año.
+
+Modified: 2025-11-14
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Mtra. Manett Vargas García
+Directora General de Evaluación del Desempeño
+Avenida Paseo de la Reforma 450 
+Colonia Juárez, 06600
+Cuauhtémoc, Cuauhtémoc, Ciudad de México
+01 (55) 50621600 Ext. 52697
+manett.vargas@salud.gob.mx
+Dr. Delfino Campos Díaz
+Director de Gestión y Seguimiento para la Evaluación de los Sistemas de Salud
+Av. Agrarismo #227, piso 3, Col. Escandón II Sección D.T. Miguel Hidalgo, C.P. 11800, CDMX.
+01 (55) 50621600 Ext. 52681
+delfino.campos@salud.gob.mx
+Mtro. Arturo Barranco Flores
+Director de Información sobre Necesidades de Salud y Población
+Homero No. 213, Col. Chapultepec Morales. Alcaldía Miguel Hidalgo, CDMX C.P. 11570
+(55) 6392-2300 Ext.52594
+arturo.barranco@salud.gob.mx
+
+Temporal: 1990-2023
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/3.2.2_es.zip
+
+Goal: 3. Garantizar una vida sana y promover el bienestar de todos a todas las edades 
+
+Target:  Meta 3.2 De aquí a 2030, poner fin a las muertes evitables de recién nacidos y de niños menores de 5 años, logrando que todos los países intenten reducir la mortalidad neonatal al menos a 12 por cada 1,000 nacidos vivos y la mortalidad de los niños menores de 5 años al menos a 25 por cada 1,000 nacidos vivos
+
+Type of indicator: Global
+
+Algorithm: 3.2.2_ES.gif
+
+Description of the indicator: Se calcula dividiendo el número de niñas y niños nacidos vivos que murieron durante los primeros 28 días de vida en el periodo t, entre el total de niñas y niños nacidos vivos en el periodo t, y multiplicado por 1000.
+
+Unit of measure: Defunciones de niños en edad neonatal por cada mil nacidos vivos
+
+Geographic coverage: Entidad federativa
+
+Opportunity: Se reporta anualmente con la base de datos oficial de INEGI y los nacimientos del ajustados del SINAC
+
+Source of statistical information used to calculate the indicator: - Bases de datos sobre defunciones generales de la Dirección General de Información en Salud (DGIS) https://www.gob.mx/salud/acciones-y-programas/direccion-general-de-informacion-en-salud-dgis 
+- Registros administrativos de nacimientos de la Secretaría de Salud https://datos.gob.mx/busca/dataset/nacimientos-ocurridos
+
+Date of next update of indicator: 30 de junio de 2026
+
+Unit of the State responsible for calculating the indicator: Secretaría de Salud (SSA). Dirección General de Información en Salud (DGIS). 
+
+Importance and purpose of the indicator: Las tasas de mortalidad entre los niños y las niñas pequeños son un indicador clave de los resultados de la salud y el bienestar infantil y, en general, del desarrollo social y económico. La tasa de mortalidad neonatal refleja el acceso de los niños y las niñas y las comunidades a intervenciones sanitarias básicas como la vacunación, el tratamiento médico de las enfermedades infecciosas y una nutrición adecuada.
+
+National and/or international reference: Repositorio de metadatos de los ODS, disponible en:   
+ https://unstats.un.org/sdgs/metadata/ 
+
+Observations: Las muertes neonatales (muertes entre los nacidos vivos durante los primeros 28 días completos de vida) pueden subdividirse en muertes neonatales tempranas, que ocurren durante los primeros 7 días de vida, y muertes neonatales tardías, que ocurren después del 7º día pero antes del 28º día completo de vida.
+

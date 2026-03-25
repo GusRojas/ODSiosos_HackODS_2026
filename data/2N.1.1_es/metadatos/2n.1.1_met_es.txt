@@ -1,0 +1,63 @@
+﻿Title: 2n.1.1 Porcentaje de la población menor de 5 años que presenta algún tipo de desnutrición
+
+Description: Mide el porcentaje de la población menor de 5 años que presenta algún tipo de desnutrición.
+
+Modified: 2025-11-14
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Mtra. Manett Vargas García
+Directora General de Evaluación del Desempeño
+Avenida Paseo de la Reforma 450 
+Colonia Juárez, 06600
+Cuauhtémoc, Cuauhtémoc, Ciudad de México
+01 (55) 50621600 Ext. 52697
+manett.vargas@salud.gob.mx
+Dr. Delfino Campos Díaz
+Director de Gestión y Seguimiento para la Evaluación de los Sistemas de Salud
+Av. Agrarismo #227, piso 3, Col. Escandón II Sección D.T. Miguel Hidalgo, C.P. 11800, CDMX.
+01 (55) 50621600 Ext. 52681
+delfino.campos@salud.gob.mx
+Lucía Cuevas Nasu
+Dirección de Encuestas Nacionales de Salud
+Avenida Universidad 655, Colonia Santa María Ahuacatitlán, C.P. 62100, Cuernavaca, Morelos
+(777) 3 29 30 00 Ext.7225
+lcuevas@insp.mx
+
+Temporal: 2006-2024
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual irregular
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/2n.1.1_es.zip
+
+Goal: 2. Poner fin al hambre, lograr la seguridad alimentaria y la mejora de la nutrición y promover la agricultura sostenible 
+
+Target:  Meta 2n.1 Acceso a una alimentación nutritiva y de calidad
+
+Type of indicator: Nacional
+
+Algorithm: 2n.1.1_ES.gif
+
+Description of the indicator: Se refiere a los niños y niñas menores de 5 años que presentan algún tipo de desnutrición: emaciación, insuficiencia ponderal o retraso en el crecimiento.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional y estatal (2018)
+
+Opportunity: 12 meses
+
+Source of statistical information used to calculate the indicator: Instituto Nacional de Salud Pública (INSP). Encuesta Nacional de Salud y Nutrición (ENSANUT). Disponible en: https://ensanut.insp.mx/
+
+Date of next update of indicator: 30 de junio de 2026
+
+Unit of the State responsible for calculating the indicator: Secretaría de Salud (SSA). 
+
+Importance and purpose of the indicator: Los indicadores de desnutrición infantil: desnutrición crónica (baja talla para la edad), emaciación (bajo peso para la talla) y la insuficiencia ponderal de peso (bajo peso para la edad) constituyen indicadores de monitoreo del crecimiento y son parte  de los indicadores objetivo de nutrición de la Asamblea Mundial de la Salud.
+
+

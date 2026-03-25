@@ -1,0 +1,2 @@
+﻿"Fuente: Los datos de población mayor de 6 años estimados con datos del Consejo Nacional de Población (CONAPO), la Encuesta Nacional sobre la Disponibilidad y Uso de las Tecnologías
+de la Información en los Hogares (ENDUTIH) y el Instituto Nacional de Estadística y Geografía (INEGI). "

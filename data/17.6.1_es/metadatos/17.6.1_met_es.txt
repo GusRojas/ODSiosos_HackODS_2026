@@ -1,0 +1,61 @@
+﻿Title: 17.6.1 Accesos del servicio fijo de Internet por cada 100 habitantes, desglosados por velocidad
+
+Description: Este indicador nos permitirá conocer la penetración de accesos del servicio fijo de Internet, con una diferenciación por velocidad, de modo que podamos conocer cómo se comporta la tendencia en uso de tecnología. Hecho que permitirá conocer espacios de inversión e industrialización hacia más rápidas y nuevas tecnologías. Así mismo, este indicador nos permitirá medir el acceso universal a internet, a través de las diversas tecnologías. 
+El indicador está actualmente degradado por las siguientes velocidades de suscripción:
+• 256 kbps a menos de 2 Mbps: Se refiere a todos los accesos del servicio fijo de Internet con velocidades de bajada anunciados en el rango entre los 256 kbps y menos de 2 Mbps.
+• 2 Mbps a menos de 10 Mbps: Se refiere a todos los accesos del servicio fijo de Internet con velocidades de bajada anunciados en el rango entre los 2 Mbps y menos de 10 Mbps.
+• Igual o superior a 10 Mbps:  Se refiere a todos los accesos del servicio fijo de Internet con velocidades de bajada anunciados en el rango de 10 Mbps.
+
+Modified: 2025-06-25
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Luis Ivan Garcia Marcelo
+Coordinación General de Planeación Estratégica
+Avenida Insurgentes sur 1143, Colonia Noche Buena, 03720; Benito Juárez, Benito Juárez, Ciudad de México
+55 5015 4371
+luis.garcia@ift.org.mx
+
+Temporal: 2014-1-2024-4
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Trimestral
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/17.6.1_es.zip
+
+Goal: 17. Fortalecer los medios de implementación y revitalizar la Alianza Mundial para el Desarrollo Sostenible 
+
+Target:  Meta 17.6 Mejorar la cooperación regional e internacional Norte-Sur, Sur-Sur y triangular en materia de ciencia, tecnología e innovación y el acceso a estas, y aumentar el intercambio de conocimientos en condiciones mutuamente convenidas, incluso mejorando la coordinación entre los mecanismos existentes, en particular a nivel de las Naciones Unidas, y mediante un mecanismo mundial de facilitación de la tecnología
+
+Type of indicator: Global
+
+Algorithm: 17.6.1_ES.gif
+
+Description of the indicator: Este indicador resulta de dividir el total de accesos del servicio fijo de Internet desagregados por velocidades, entre la población total de dicho año, el resultado se expresa como tasa por cada 100 habitantes.
+
+Unit of measure: Tasa por cada 100 habitantes
+
+Geographic coverage: Nacional
+
+Opportunity: Cuatro meses después del cierre del trimestre a reportar
+
+Source of statistical information used to calculate the indicator: Instituto Federal de Telecomunicaciones (IFT). Coordinación General de Planeación Estratégica con información de los concesionarios.
+
+Date of next update of indicator: 31 de agosto de 2026
+
+Unit of the State responsible for calculating the indicator: Instituto Federal de Telecomunicaciones (IFT)  
+
+Importance and purpose of the indicator: Internet se ha convertido en una herramienta cada vez más importante para proporcionar acceso a la información, y puede ayudar a fomentar y mejorar la cooperación regional e internacional en materia de acceso a la ciencia, la tecnología, las innovaciones, y mejorar el intercambio de conocimientos. La velocidad de conexión a Internet es importante para asegurarse de que los usuarios de Internet tienen acceso de calidad a Internet y pueden tomar ventaja de la creciente cantidad de contenido de Internet - incluyendo el contenido generado por el usuario.
+
+National and/or international reference: Unión Internacional de Telecomunicaciones (UIT). 
+ http://www.itu.int/dms_pub/itu-d/opb/ind/D-IND-ITC_IND_HBK-2011-PDF-S.pdf 
+
+Observations: Los accesos del servicio de fijo de Internet corresponden a la suma del total de accesos activos del Servicio Fijo de Banda Ancha por tipo de tecnología de cada Operador.
+Un acceso activo del Servicio Fijo de Banda Ancha no necesariamente equivale a una suscripción a este servicio. Una suscripción puede tener asociados varios accesos, pero un acceso sólo puede estar asociado a una suscripción. Se excluyen los accesos que hayan sido comercializados a otros Operadores para su reventa.
+UIT recoge datos para este indicador a través de un cuestionario anual de la reglamentación nacional las autoridades o los Ministerios de Tecnología de Información y Comunicación, que recogen los datos de los proveedores de servicios de Internet. Para el año 2014, se disponía de alrededor de 80 economías de datos, a partir de desarrolladas y las regiones en desarrollo, y que cubre todas las regiones globales clave.
+

@@ -1,0 +1,55 @@
+﻿Title: 11.6.2.a Niveles medios anuales de partículas suspendidas (PM2.5) en las ciudades (ponderado por la población)
+
+Description: Concentración promedio anual de partículas suspendidas PM2.5 en áreas seleccionadas ponderada por población.
+
+Modified: 2024-12-12
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Dr. José Abraham Ortínez Álvarez
+Encargado de despacho de la Coordinación General de Laboratorios de Referencia en Investigación sobre Contaminación y Salud Ambiental
+55 5424 6400 Ext. 13180
+abraham.ortinez@inecc.gob.mx
+
+Temporal: 2021-2023
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/11.6.2.a_es.zip
+
+Goal: 11. Lograr que las ciudades y los asentamientos humanos sean inclusivos, seguros, resilientes y sostenibles 
+
+Target:  Meta 11.6. De aquí a 2030, reducir el impacto ambiental negativo per cápita de las ciudades, incluso prestando especial atención a la calidad del aire y la gestión de los desechos municipales y de otro tipo
+
+Type of indicator: Global
+
+Algorithm: 11.6.2.a_ES.gif
+
+Description of the indicator: La concentración promedio anual de partículas suspendidas (PM2.5), ponderada por población, se obtiene a partir de la sumatoria de todos los productos que derivan de la multiplicación de la concentración promedio anual estimada de este contaminante para cada Área Geoestadística Básica (AGEB) urbana por la población de cada AGEB urbana, dividida entre la población total de las AGEBS urbanas en el área de cobertura.
+
+Unit of measure: Microgramos por metro cúbico (µg/m3)
+
+Geographic coverage: Nacional
+
+Opportunity: Diciembre del año inmediato posterior a la conclusión del año calendario de reporte
+
+Source of statistical information used to calculate the indicator: Instituto Nacional de Ecología y Cambio Climático (INECC).  https://www.gob.mx/inecc  Elaboración propia a partir de las concentraciones reportadas por los Sistemas de Monitoreo de la Calidad del Aire de la Ciudad de México, Estado de México y Monterrey.
+INEGI. 2021. Censo de Población y Vivienda 2020. Tabulados del Cuestionario Básico. Población total por entidad federativa y grupo quinquenal de edad según sexo, serie de años censales de 1990 a 2020. INEGI. México. Consultado en: https://www.inegi.org.mx/app/tabulados/interactivos/?pxq=Poblacion_Poblacion_01_e60cd8cf-927f-4b94-823e-972457a12d4b&idrt=123&opc=t
+
+Date of next update of indicator: 15 de diciembre de 2025
+
+Unit of the State responsible for calculating the indicator: Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT)  
+Instituto Nacional de Ecología y Cambio Climático (INECC)  
+
+Importance and purpose of the indicator: Este indicador representa la concentración promedio a la que está expuesta una persona que viva dentro del área de interés, por tanto, tendencias decrecientes del indicador, indican una reducción del impacto ambiental adverso per cápita de las partículas suspendidas PM2.5 en la población.
+
+National and/or international reference: No aplica. 
+
+Observations: El indicador se calcula considerando la calidad del aire y la población de las zonas metropolitanas de Valle de México, Monterrey y Toluca, por contar con redes de monitoreo amplias que permiten una estimación más confiable de los niveles de exposición de la población que ellas habitan.
+

@@ -1,0 +1,60 @@
+﻿Title: 5.b.1 Proporción de personas que utilizan teléfonos móviles, desglosada por sexo
+
+Description: Se entiende como la cantidad de personas, desglosada por sexo, que cuentan con algún dispositivo que les permita tener el servicio de telefonía móvil. Este indicador permite valorar el porcentaje de mujeres y hombres que actualmente cuentan con servicios de telefonía móvil, de modo que podamos medir la convergencia en igualdad de uso en las tecnologías de la información y las comunicaciones.
+
+Modified: 2025-06-25
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+Keyword: Usuarios, dueños de celulares, suscripciones, TICs, igualdad del uso de TICs, equidad de género, independencia y autonomía, empoderamiento de la mujer, brecha de género
+
+ContactPoint: Luis Ivan Garcia Marcelo
+Coordinación General de Planeación Estratégica
+Avenida Insurgentes sur 1143, Colonia Noche Buena, 03720; Benito Juárez, Benito Juárez, Ciudad de México
+55 5015 4371
+luis.garcia@ift.org.mx
+
+Temporal: 2015-2024
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/5.b.1_es.zip
+
+Goal: 5. Lograr la igualdad de género y empoderar a todas las mujeres y las niñas 
+
+Target:  Meta 5.b Mejorar el uso de la tecnología instrumental, en particular la tecnología de la información y las comunicaciones, para promover el empoderamiento de la mujer
+
+Type of indicator: Global
+
+Algorithm: 5_b_1_ES.gif
+
+Description of the indicator: Este indicador se calcula dividiendo el número total de individuos objetivo que son dueños o que poseen un teléfono móvil entre el número total del volumen de los individuos.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional, desglose por entidad federativa.
+
+Opportunity: Al final del 2do trimestre del año siguiente a la realización de la encuesta
+
+Source of statistical information used to calculate the indicator: - Instituto Federal de Telecomunicaciones (IFT). 
+
+Date of next update of indicator: 31 de agosto de 2026
+
+Unit of the State responsible for calculating the indicator: Instituto Federal de Telecomunicaciones (IFT)  
+
+Importance and purpose of the indicator: Las redes de telefonía móvil se han extendido rápidamente en la última década y el número de suscripciones de telefonía móvil y celular, es casi igual al número de las personas que viven en la tierra. Sin embargo, no todas las personas utilizan, o poseen un teléfono celular móvil. La propiedad de teléfonos móviles, en particular suele ser de uso personal, por lo tanto es importante hacer un seguimiento de igualdad de género, considerando que este servicio proporciona un grado de independencia y autonomía, incluso para fines profesionales. Diversos estudios han puesto de relieve el vínculo entre la propiedad del teléfono móvil y el crecimiento de la productividad.
+Los datos existentes sobre la proporción de mujeres que poseen un teléfono móvil nos permiten conocer y realizar un seguimiento en temas de igualdad y empoderamiento de la mujer, de modo que se puedan diseñar políticas dirigidas a reducir la brecha de género. La colección de este indicador fue propuesto por el Grupo de Trabajo sobre Género de la Asociación para la Medición de las TIC para Desarrollo.
+
+National and/or international reference: Unión Internacional de Telecomunicaciones (UIT). 
+ http://www.itu.int/dms_pub/itu-d/opb/ind/D-IND-ITCMEAS-2014-PDF-E.pdf 
+
+Observations: Este indicador es un indicador de la UIT de nuevo desarrollo que fue aprobado por el Simposio Mundial de Indicadores de las Telecomunicaciones / TIC (WTIS) 2014. La definición de indicadores y la metodología se desarrollaron en el marco de la coordinación de la UIT, a través de sus grupos de expertos y tras un amplio proceso de consulta con los países.
+Los datos para la proporción de individuos que poseen un teléfono móvil se recogerán a través de un cuestionario anual que la UIT envía a las oficinas nacionales de estadística (NSO), a partir de 2015. En este cuestionario, a través del cual la UIT ya recoge una serie de indicadores de las TIC, la UIT recoge los valores absolutos. Los porcentajes se calculan a posteriori.
+La metodología de la encuesta se verifica para asegurarse de que cumple con los estándares estadísticos adecuados. Los datos son verificados para asegurar la consistencia con los datos de años anteriores y otros indicadores a nivel de país correspondiente (TIC y económico).
+

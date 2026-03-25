@@ -1,0 +1,2 @@
+﻿"Nota: Se han actualizado los valores de consumo energético correspondiente a energía primaria, tomando los correspondientes a la demanda energética por sectores y centros de transformación "
+"Fuente: Secretaría de Energía (SENER). Balance Nacional de Energía. Matriz Origen y Destino de la Energía a Nivel Nacional. "

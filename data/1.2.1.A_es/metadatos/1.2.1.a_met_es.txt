@@ -1,0 +1,72 @@
+﻿Title: 1.2.1.a Proporción de la población que vive por debajo del umbral nacional de la pobreza, por desglose geográfico (Entidad federativa)
+
+Description: Es el porcentaje de la población de referencia que tiene un ingreso corriente total per cápita inferior al valor monetario de la línea de pobreza por ingresos (canasta alimentaria más la canasta no alimentaria).
+
+Modified: 2024-04-19
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Alida Marcela Gutiérrez Landeros
+Coordinadora General de Análisis de la Pobreza
+Insurgentes Sur #810, Colonia Del Valle, C.P. 03100, Benito Juárez, Ciudad de México
+(55) 54-81-72-00, ext. 70075
+amgutierrez@coneval.org.mx
+David Antonio Rojas Rosey
+Director Ejecutivo de Medición de Pobreza y Seguimiento de Indicadores
+Insurgentes Sur #810, Colonia Del Valle, C.P. 03100, Benito Juárez, Ciudad de México
+(55) 54-81-72-00, ext. 70100
+drojas@coneval.org.mx
+
+Temporal: 2016-2022
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Bienal
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/1.2.1.a_es.zip
+
+Goal: 1. Poner fin a la pobreza en todas sus formas y en todo el mundo 
+
+Target:  Meta 1.2 De aquí a 2030, reducir al menos a la mitad la proporción de hombres, mujeres y niños de todas las edades que viven en la pobreza en todas sus dimensiones con arreglo a las definiciones nacionales
+
+Type of indicator: Global
+
+Algorithm: 1.2.1.a_ES.gif
+
+Description of the indicator: Este indicador resulta de identificar a la población de referencia que cuenta con un ingreso corriente total per cápita inferior al valor monetario de la línea de pobreza por ingresos (canasta alimentaria más la canasta no alimentaria), dividido entre la población de referencia total y multiplicar el cociente por 100.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Entidad federativa
+
+Opportunity: 1 año */
+
+Source of statistical information used to calculate the indicator: Instituto Nacional de Estadística y Geografía (INEGI): 
+
+Date of next update of indicator: 31 de diciembre de 2025 */
+
+Unit of the State responsible for calculating the indicator: Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL). http://www.coneval.org.mx/. 
+
+Importance and purpose of the indicator: Este indicador está ligado a la Meta 1.2 de reducir al menos a la mitad la proporción de hombres, mujeres y niños de todas las edades que viven en la pobreza en todas sus dimensiones de acuerdo con las definiciones nacionales. Permite dar seguimiento a la evolución de la población que carece de un ingreso suficiente para satisfacer sus necesidades alimentarias y no alimentarias, como insumo para la generación de estrategias, políticas y acciones de generación de ingreso.
+
+National and/or international reference: Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL). http://www.coneval.org.mx/. 
+
+Observations: 1. Metodología para la construcción de las Líneas de Pobreza por Ingresos en México:
+Esta metodología se basa en los patrones de gasto de los hogares para aproximar el consumo de energía y micronutrientes de la población. Posteriormente, se ubica un estrato poblacional de referencia, en el cual el consumo de energía coincide con las recomendaciones nutricionales por edad, ámbito de residencia y sexo. Una vez ubicado el estrato poblacional de referencia, se delimita el patrón de consumo de alimentos de acuerdo a criterios de mayor participación en el gasto y mayor frecuencia. De forma adicional, se determina la cantidad de alimentos que satisfagan requerimientos nutricionales de vitaminas, minerales y proteínas. El valor monetario de dicha canasta se obtiene del gasto reportado por el estrato de referencia y dicho valor se actualiza con el Índice Nacional de Precios al Consumidor (INPC).
+2. Una vez que se tiene el umbral de referencia, se define el indicador de ingreso que se utiliza en la medición de la pobreza. El ingreso corriente total per cápita considera los ingresos corrientes monetarios y no monetarios de los integrantes de un hogar. Al sumar todos los ingresos de todos miembros del hogar y dividirlos entre el tamaño del mismo ajustado por adulto equivalente y economías de escala, se obtiene el ingreso corriente total per cápita ajustado.
+3. Para mayor detalle consultar: 
+Construcción de las Líneas de Bienestar. Documento Metodológico: https://www.coneval.org.mx/InformesPublicaciones/InformesPublicaciones/Documents/Lineas_pobreza.pdf
+4. Datos de CONEVAL sobre la pobreza multidimensional:
+Medición de pobreza 
+ https://www.coneval.org.mx/Medicion/Paginas/PobrezaInicio.aspx 
+Metodología para la medición multidimensional de la pobreza en México
+https://www.coneval.org.mx/InformesPublicaciones/InformesPublicaciones/Documents/Metodologia-medicion-multidimensional-3er-edicion.pdf 
+5. Se utilizan las bases de datos que publicó el INEGI con los nuevos factores de expansión construidos con base en el Marco de Muestreo de Viviendas y los resultados del Censo de Población y Vivienda 2020.
+6. El total de la población presentada es para fines de la medición de pobreza, por lo que puede diferir con las cifras de población total reportadas por el INEGI o CONAPO.
+7. Para un mejor análisis de la información 2022, consultar la nota técnica:  https://www.coneval.org.mx/Medicion/MP/Documents/MMP_2022/Nota_tecnica_sobre_la_informacion_empleada_para_la_estimacion_de_la_medicion_de_pobreza_en_Mexico_2022.pdf 
+*/ La actualización del indicador está sujeta a la publicación de los microdatos por parte de INEGI.
+

@@ -1,0 +1,71 @@
+﻿Title: 2.1.2(1) Proporción de la población con inseguridad alimentaria moderada o severa, desglosada por sexo y edad (2016 - 2022)
+
+Description: La inseguridad alimentaria moderada o severa son los grados de inseguridad alimentaria que reflejan la existencia de limitaciones en la cantidad de alimentos en el hogar y experiencias de hambre en la alimentación de los integrantes de los hogares. La clasificación de la situación de seguridad o inseguridad alimentaria se hace con base en la Escala Mexicana de Seguridad Alimentaria (EMSA).
+
+Modified: 2024-04-22
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+Keyword: Hambre, desnutrición, malnutrición, programas de ayuda alimentaria, Escala Mexicana de Seguridad Alimentaria (EMSA), Cruzada Nacional Contra el Hambre
+
+ContactPoint: Alida Marcela Gutiérrez Landeros
+Coordinadora General de Análisis de la Pobreza
+Insurgentes Sur #810, Colonia Del Valle, C.P. 03100, Benito Juárez, Ciudad de México
+(55) 54-81-72-00, ext. 70075
+amgutierrez@coneval.org.mx
+David Antonio Rojas Rosey
+Director Ejecutivo de Medición de Pobreza y Seguimiento de Indicadores
+Insurgentes Sur #810, Colonia Del Valle, C.P. 03100, Benito Juárez, Ciudad de México
+(55) 54-81-72-00, ext. 70100
+drojas@coneval.org.mx
+
+Temporal: 2016-2022
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Bienal
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/2.1.2(1)_es.zip
+
+Goal: 2. Poner fin al hambre, lograr la seguridad alimentaria y la mejora de la nutrición y promover la agricultura sostenible 
+
+Target:  Meta 2.1 De aquí a 2030, poner fin al hambre y asegurar el acceso de todas las personas, en particular los pobres y las personas en situaciones de vulnerabilidad, incluidos los niños menores de 1 año, a una alimentación sana, nutritiva y suficiente durante todo el año
+
+Type of indicator: Global
+
+Algorithm: 2_1_2_a_ES.gif
+
+Description of the indicator: Se determina a partir de una distinción entre los hogares con población menor de dieciocho años y los hogares sin población menor de dieciocho años. Para el total de hogares donde no habitan menores de dieciocho años, se identifican aquellos en los que algún adulto, por falta de dinero o recursos, al menos: no tuvo una alimentación variada; dejó de desayunar, comer o cenar; comió menos de lo que debería comer; se quedaron sin comida; sintió hambre, pero no comió; o hizo sólo una comida o dejó de comer durante todo el día. En el caso del total de hogares donde habitan menores de dieciocho años, se identifican aquellos en los que por falta de dinero o recursos, tanto las personas mayores como las menores de dieciocho años: tuvieron una alimentación variada; comieron menos de lo necesario; se les disminuyeron las cantidades servidas en la comida; sintieron hambre, pero no comieron; o hicieron una comida o dejaron de comer durante todo el día.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: 1 año.*/
+
+Source of statistical information used to calculate the indicator: Instituto Nacional de Estadística y Geografía (INEGI) 
+
+Date of next update of indicator: 31 de diciembre de 2025
+
+Unit of the State responsible for calculating the indicator: Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL). http://www.coneval.org.mx/. 
+
+Importance and purpose of the indicator: El indicador describe el  porcentaje de personas que han visto reducida la cantidad de alimentos y han experimentado episodios de hambre en su hogar.
+
+ Para mayor detalle consultar: 
+ Metodología para la medición multidimensional de la pobreza en México:  
+ https://www.coneval.org.mx/InformesPublicaciones/InformesPublicaciones/Documents/Metodologia-medicion-multidimensional-3er-edicion.pdf 
+ Datos de CONEVAL sobre acceso a la alimentación:   http://www.coneval.gob.mx/Medicion/Paginas/PobrezaInicio.aspx 
+
+Observations: 1. Las escalas de seguridad alimentaria evalúan aspectos como la preocupación por la falta de alimentos, los cambios en la calidad y cantidad de estos, e incluso las experiencias de hambre. Para el caso latinoamericano, un grupo de especialistas en nutrición ha venido desarrollando una adaptación de esta escala, la cual ha sido validada para el caso mexicano después de una serie de estudios y levantamientos de información en el país
+2. Datos de CONEVAL sobre la pobreza multidimensional:
+Medición de pobreza: https://www.coneval.org.mx/Medicion/Paginas/PobrezaInicio.aspx 
+Metodología para la medición multidimensional de la pobreza en México: https://www.coneval.org.mx/InformesPublicaciones/InformesPublicaciones/Documents/Metodologia-medicion-multidimensional-3er-edicion.pdf
+3. Se utilizan las bases de datos que publicó el INEGI con los nuevos factores de expansión construidos con base en el Marco de Muestreo de Viviendas y los resultados del Censo de Población y Vivienda 2020
+4. El total de la población presentada es para fines de la medición de pobreza, por lo que puede diferir con las cifras de población total reportadas por el INEGI o CONAPO
+5. Para un mejor análisis de la información 2022, consultar la nota técnica:  https://www.coneval.org.mx/Medicion/MP/Documents/MMP_2022/Nota_tecnica_sobre_la_informacion_empleada_para_la_estimacion_de_la_medicion_de_pobreza_en_Mexico_2022.pdf 
+*/ La actualización del indicador está sujeta a la publicación de los microdatos por parte de INEGI
+

@@ -1,0 +1,14 @@
+﻿"Nota: a) El dato de la tasa de crecimiento del PIB por persona ocupada de 2005 (4.0%) resultó de aplicar las cifras de población ocupada de 2005 y de 2004, correspondientes
+a la serie anterior, las cuales están determinadas con base en las proyecciones de población basadas en el Conteo de Población y Vivienda 2005. La cifra de población
+ocupada de 2005 que se usó en el cálculo fue de 40,834,388 personas, y no la de 42,079,136 que aparece en el cuadro. 
+ Por su parte, la tasa de crecimiento del PIB por persona ocupada de 2006 (7.4%) utilizó las cifras de población ocupada de 2006 y de 2005 (43,378,461 y 42,079,136 respectivamente)
+de las proyecciones de población basadas en el Censo de Población y Vivienda 2010. Esta misma serie fue también utilizada para calcular las tasas de
+crecimiento de los años siguientes. 
+ b) Debido a la contingencia sanitaria originada por el COVID-19 se suspendió el levantamiento de la Encuesta Nacional de Ocupación Empleo (ENOE) en el segundo trimestre
+de 2020. En los meses de abril, mayo y junio se realizó la Encuesta Telefónica de Ocupación y Empleo (ETOE), obteniéndose información agregada sobre el mercado
+laboral, aunque con una representatividad menor que la de los periodos anteriores.  
+ En los trimestres tercero y cuarto se reanudaron los levantamientos de la información con mayor representatividad, recopilándola tanto por vía telefónica como mediante
+entrevistas cara a cara. De esta manera se generó la Encuesta Nacional de Ocupación y Empleo Nueva Edición (ENOEN). Las cifras en que se basa este indicador corresponden
+a un promedio de los cuatro trimestres. "
+"Fuente: - STPS, con base en información de INEGI. SCNM, ENE y ENOE (varios años)
+- OCDE. Series históricas del tipo de cambio del peso medido a paridad de poder de compra."

@@ -1,0 +1,60 @@
+﻿Title: 9.4.1 Emisiones de dióxido de carbono total por PIB por paridad de poder de compra
+
+Description: Es la cantidad total de dióxido de carbono equivalente emitida anualmente (derivada de los sectores de energía, por procesos industriales y uso de productos, agricultura, silvicultura y otros usos de la tierra, y residuos), por PIB a precios constantes base 2015 expresado en Paridad de Poder de Compra (dólares).
+
+Modified: 2024-05-31
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+Keyword: Contaminación, fuentes renovables, fuentes limpias, efecto invernadero, impacto ambiental
+
+ContactPoint: César E. Rodríguez Ortega
+Director General de Planeación, Evaluación y Estadística Ambiental
+Avenida Ejército Nacional 223, Colonia Anáhuac, 11320; Miguel Hidalgo, Miguel Hidalgo, Ciudad de México
+55 5490 0983, ext. 10983
+cesar.rodriguez@semarnat.gob.mx
+
+Temporal: 1990-2021
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/9.4.1_es.zip
+
+Goal: 9. Construir infraestructuras resilientes, promover la industrialización inclusiva y sostenible y fomentar la innovación 
+
+Target:  Meta 9.4 De aquí a 2030, modernizar la infraestructura y reconvertir las industrias para que sean sostenibles, utilizando los recursos con mayor eficacia y promoviendo la adopción de tecnologías y procesos industriales limpios y ambientalmente racionales, y logrando que todos los países tomen medidas de acuerdo con sus capacidades respectivas
+
+Type of indicator: Global
+
+Algorithm: 9_4_1_ES.gif
+
+Description of the indicator: El indicador resulta de dividir las emisiones totales de dióxido de carbono equivalente derivadas de los sectores de energía, por procesos industriales y uso de productos, agricultura, silvicultura y otros usos de la tierra, y residuos, entre el PIB expresado en paridad de poder de compra a precios constantes en un año específico. El resultado se expresa en kilogramos de CO2e por dólar por paridad de poder de compra.
+
+Unit of measure: Kilogramos de CO2e por dólar
+
+Geographic coverage: Nacional
+
+Opportunity: 1 año 9 meses
+
+Source of statistical information used to calculate the indicator: INECC. 2022. Inventario Nacional de Gases y Compuestos de Efecto Invernadero. Resumen 1990-2019. [Fecha de consulta: mayo de 2024]. Consultado en: BadeSNIARN:  http://dgeiawf.semarnat.gob.mx:8080/ibi_apps/WFServlet?IBIF_ex=D3_AIRE02_19&IBIC_user=dgeia_mce&IBIC_pass=dgeia_mce&NOMBREANIO= 
+INECC. 2023. Inventario Nacional de Emisiones de Gases y Compuestos de Efecto Invernadero, (INEGYCEI) 2020-2021. [Fecha de consulta: mayo de 2024]. Consultado en:   https://www.gob.mx/inecc/documentos/investigaciones-2018-2013-en-materia-de-mitigacion-del-cambio-climatico 
+OCDE. Stat. National Accounts. Gross domestic product (GDP). GDP, US $, constant prices, constant PPPs, reference year 2015, millions. [Fecha de consulta: mayo de 2024]. Consultado en: https://stats.oecd.org/index.aspx?queryid=60702#
+
+Date of next update of indicator: 31 de mayo de 2026
+
+Unit of the State responsible for calculating the indicator: Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT). 
+
+Importance and purpose of the indicator: Los ODS establecieron como una de sus metas promover la sostenibilidad de las industrias, buscando considerar procesos industriales limpios y ambientalmente racionales. Entre las ventajas de alcanzar esta meta podría estar el desacoplamiento de la emisión de gases de efecto invernadero del crecimiento económico. El cambio climático es acelerado por el incremento de gases de efecto invernadero (GEI) en la atmósfera. El CO2 es considerado el GEI más importante debido a su elevada persistencia en la atmósfera (entre 5 y 200 años); a su importancia como mecanismo potencial de cambio climático y al significativo incremento de su concentración en la atmósfera (40 por ciento respecto a la época preindustrial). El indicador refleja la intensidad de emisión de CO2e respecto al PIB PPC y se usa como una medida de la eficiencia, en materia de emisiones, con la que crece la economía de un país, resultando por ello útil para medir el desacoplamiento de la economía con la emisión de GEI.
+
+National and/or international reference: Panel Intergubernamental sobre el Cambio Climático (IPCC).  http://www.ipcc.ch/ 
+
+Observations: El Inventario Nacional de Emisiones de Gases y Compuestos de Efecto Invernadero (INEGyCEI) 1990-2019 fue elaborado con estimaciones que se realizaron de acuerdo con las Directrices del Panel Intergubernamental de Cambio Climático (IPCC, por su nombre en inglés: Intergovernmental Panel on Climate Change) de 2006 para los inventarios nacionales de gases de efecto invernadero, complementadas con el refinamiento a las mismas, adoptado en 2019: 2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories (INECC, 2022). El año de referencia para el cálculo del PIB a precios constantes expresado en Paridad de Poder de Compra (dólares) cambió de 2010 a 2015. 
+El indicador presenta datos anuales. Tiene una periodicidad de cada dos años, debido a la actualización del inventario con base en el artículo 74 de la Ley General de Cambio Climático Fracción II y/o Fracción III. Y tiene un desfase en la información de dos años respecto del año actual, por los tiempos que conlleva a nivel nacional reunir las estadísticas de todos los sectores que integran el inventario. 
+Por lo anterior, las nuevas estimaciones no permiten una comparación directa válida con las cifras reportadas anteriormente.
+

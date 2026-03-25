@@ -1,0 +1,64 @@
+﻿Title: 13n.1.2 Fortalecimiento de capacidades adaptativas de los municipios para responder al cambio climático
+
+Description: De acuerdo con el cálculo de la capacidad adaptativa en el Atlas Nacional de Vulnerabilidad al Cambio Climático, el indicador nos muestra el porcentaje del número de Instrumentos de Capacidad Adaptativa (ICA) con los que cuentan los 273 municipios vulnerables al cambio climático en el año t respecto del total posible de ICA.
+
+Modified: 2023-12-31
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Eduardo Levi León García
+Director de Servicios Ambientales Hidrologícos y Adaptación al Cambio Climático con Enfoque de Cuenca
+Boulevard Adolfo Ruiz Cortines Número Exterior 4209, CDMX
+55 5424 6400 ext. 13344
+eduardo.leon@inecc.gob.mx
+
+Temporal: 2018-2022
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Bienal
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/13n.1.2_es.zip
+
+Goal: 13. Adoptar medidas urgentes para combatir el cambio climático y sus efectos 
+
+Target:  Meta 13n.1 Promover acciones de resiliencia y adaptación a riesgos relacionados con el clima y desastres naturales. Incrementar las capacidades de los municipios para mitigar las condiciones de exposición y vulnerabilidad a los fenómenos extremos relacionados con el clima
+
+Type of indicator: Nacional
+
+Algorithm: 13n.1.2_ES.gif
+
+Description of the indicator: La capacidad adaptativa de los municipios vulnerables al cambio climático se mide mediante el porcentaje del número de Instrumentos de Capacidad Adaptativa (ICA) que tienen los municipios vulnerables en el año t respecto del total posible de ICA. 
+IFCA= Indicador de Fortalecimiento de la Capacidad Adaptativa. Porcentaje del número de instrumentos de capacidad adaptativa que tienen los municipios vulnerables al cambio climático.
+ICA_Año= Valor de Instrumentos de Capacidad Adaptativa por municipio en el año de reporte.
+ICA_VT = Valor Total de Instrumentos de Capacidad Adaptativa.
+Si los 273 municipios vulnerables al cambio climático tuvieran los cuatro ICA posibles, se tendría un valor de 1,092 ICA, lo cual es igual al 100% de los ICA.
+El indicador se obtiene de la Suma del valor de ICA que tienen los municipios en el año t * 100% respecto del total posible de ICA, es decir, respecto a 1,092 (Valor Total de Instrumentos de Capacidad Adaptativa).
+El valor de ICA en el año t se obtiene sumando el resultado de:
+Número de municipios que cuentan con un ICA X 1
+Número de municipios que cuentan con dos ICA X 2
+Número de municipios que cuentan con tres ICA X 3
+Número de municipios que cuentan con cuatro ICA X 4
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: Segundo semestre del año posterior al año del reporte.
+
+Source of statistical information used to calculate the indicator: Elaborado por el Instituto Nacional de Ecología y Cambio Climático (INECC), con información estadística de diferentes instituciones federales.
+
+Date of next update of indicator: 31 de diciembre de 2025
+
+Unit of the State responsible for calculating the indicator: Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT). Instituto Nacional de Ecología y Cambio Climático (INECC). 
+
+Importance and purpose of the indicator: Fortalecer la capacidad adaptativa de los municipios vulnerables a traves de los instrumentos de politica pública para la reducción de los impactos del cambio climático. 
+
+National and/or international reference: Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT). Instituto Nacional de Ecología y Cambio Climático (INECC). URL: No aplica 
+
+Observations: Este indicador se construye con base al "Indicador 2.2 Fortalecimiento de capacidades adaptativas de los municipios para responder al cambio climático del PROMARNAT (2020-2024)" y el "Indicador 1.1 Fortalecimiento de capacidades adaptativas de los municipios para responder al cambio climático del PECC (2021-2024)".
+

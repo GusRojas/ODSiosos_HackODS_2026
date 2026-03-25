@@ -1,0 +1,68 @@
+﻿Title: 12n.1.1 Porcentaje de municipios con disposición adecuada de residuos sólidos urbanos
+
+Description: Porcentaje de municipios que declaran depositar residuos sólidos urbanos en sitios de disposición final controlados respecto al total de municipios que cuentan con sitios de disposición final de residuos sólidos urbanos.
+
+Modified: 2024-07-17
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Centro de atención a usuarios INEGI
+Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276,
+Aguascalientes, Aguascalientes, Aguascalientes, 
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Nacional sin costo: 800 111 46 34 
+ Internacional: (código internacional) + (52)+(449) 149 1300
+atencion.usuarios@inegi.org.mx
+Rodolfo Orozco Gálvez
+Director General Adjunto de Recursos Naturales y Medio Ambiente
+Av. Héroe de Nacozari Sur #2301, Jardines del Parque, 20276 Aguascalientes, Ags.
+449 910 5300, ext. 315333
+rodolfo.orozco@inegi.org.mx
+
+Temporal: 2012-2022
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Bienal
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/12n.1.1_es.zip
+
+Goal: 12. Garantizar modalidades de consumo y producción sostenibles 
+
+Target:  Meta 12n.1 Impulsar la Economía circular, en las cadenas productivas y de consumo, entendida como el rediseño de productos y servicios para disminuir desechos al final de la vida útil de los mismos y desde una perspectiva de valor compartido
+
+Type of indicator: Nacional
+
+Algorithm: 12n.1.1_ES.gif
+
+Description of the indicator: Este indicador resulta de dividir el número de municipios y demarcaciones territoriales que disponen los residuos sólidos urbanos en sitios de disposición final con infraestructura para el control de la fuga de lixiviados y biogases, entre el número de municipios y demarcaciones territoriales con disposición final de residuos sólidos urbanos, multiplicado por 100.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: Tres años
+
+Source of statistical information used to calculate the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Censo Nacional de Gobiernos Municipales y Demarcaciones Territoriales de la Ciudad de México.  https://www.inegi.org.mx/programas/cngmd/
+
+Date of next update of indicator: 31 de julio de 2026
+
+Unit of the State responsible for calculating the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Unidad de Geografía y Medio Ambiente.   
+ https://www.inegi.org.mx  
+
+Importance and purpose of the indicator: Para el diseño de políticas públicas en materia de residuos sólidos urbanos y el seguimiento al Programa Nacional de Prevención y Gestión Integral de los Residuos 2013-2018. 
+
+National and/or international reference: Norma Oficial Mexicana NOM-083-SEMARNAT-2003.Secretaría de Medio Ambiente y Recursos Naturales. Disponible en:   
+ https://www.snieg.mx/cni/Contenidos/documentos/Estandares/NOM_083_SEMARNAT_2003.pdf  
+
+Observations: Se considera disposición adecuada de residuos sólidos urbanos la que se realiza en sitios que cuentan con infraestructura para el control de fugas de lixiviados y biogás.
+1. La Norma Oficial Mexicana NOM-083-SEMARNAT-2003 en su Artículo 9.2 Conformación final del sitio establece: “La conformación final que se debe dar al sitio de disposición final debe contemplar las restricciones relacionadas con el uso del sitio, pendiente estabilidad, linderos del predio, características de la cobertura de cierre final, drenaje superficial y la infraestructura para el control de lixiviados y biogás”.
+2. El cuestionario del Módulo Ambiental de Residuos Sólidos Urbanos del Censo Nacional de Gobiernos Municipales y Delegaciones permite identificar la infraestructura del sitio donde los municipios depositan residuos.
+Este es un indicador que pertenece al Catálogo Nacional de Indicadores (CNI).
+

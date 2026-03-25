@@ -1,0 +1,2 @@
+﻿"Nota: Las estimaciones presentadas en este cuadro tienen un coeficiente de variación (%) en el rango de (0,15), por lo que su nivel de precisión es clasificado como Alto."
+"Fuente: INEGI. Encuesta Nacional de Victimización y Percepción sobre Seguridad Pública, 2016 a 2025. "

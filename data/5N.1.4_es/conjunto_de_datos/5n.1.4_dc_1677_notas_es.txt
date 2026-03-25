@@ -1,0 +1,8 @@
+﻿"Nota: "ND": Debido a la contingencia sanitaria por la COVID-19, el INEGI suspendió la recolección de información de la ENOE referente al segundo trimestre 2020, por lo cual
+no se cuenta con el insumo necesario para el cálculo de los indicadores correspondientes a este periodo. Para mayor información, consultar el comunicado NÚM. 295/20
+del INEGI. Disponible en:  
+ https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2020/Calendario/Camb20-Cal2021_1erSem.pdf  
+ - Ingresos a precios constantes del primer trimestre de 2020. "
+"ND No disponible"
+"Fuente: Elaboración del CONEVAL con base en la ENOE y la ENOE Nueva Edición ENOE Nueva Edición (ENOEN) "
+"cvegeo: Clave geoestadística"

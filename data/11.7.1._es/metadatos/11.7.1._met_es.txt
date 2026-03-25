@@ -1,0 +1,55 @@
+﻿Title: 11.7.1. Proporción media de la superficie edificada de las ciudades que se dedica a espacios abiertos para uso público de todos
+
+Description: Proporción de la superficie urbana destinada a espacios abiertos para uso público de todos.
+
+Modified: 2023-06-07
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Diana Quiroz Benítez
+Directora de Cooperación Internacional
+Nuevo León No. 210 Colonia Hipódromo Condesa, Del. Cuauhtémoc 06100 Ciudad de México
+55 6820 9700, ext. 51702
+diana.quiroz@sedatu.gob.mx
+
+Temporal: 2020-2020
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Quinquenal
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/11.7.1._es.zip
+
+Goal: 11. Lograr que las ciudades y los asentamientos humanos sean inclusivos, seguros, resilientes y sostenibles 
+
+Target:  Meta 11.7. De aquí a 2030, proporcionar acceso universal a zonas verdes y espacios públicos seguros, inclusivos y accesibles, en particular para las mujeres y los niños, las personas de edad y las personas con discapacidad
+
+Type of indicator: Global
+
+Algorithm: 11.7.1._ES.gif
+
+Description of the indicator: Es la proporción de la superficie de manzanas que contiene por lo menos un espacio abierto (Plazas, parques, espacios deportivos y zonas arqueologicas) para uso público de todos en relación a la superficie amanzanada total.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional y entidad federativa
+
+Opportunity: 1 año
+
+Source of statistical information used to calculate the indicator: Elaboración propia con base en Polígonos de manzana y los Servicios e información complementaria de Tipo puntual del Censo de Población y Vivienda 2020.
+
+Date of next update of indicator: 31 de diciembre de 2026
+
+Unit of the State responsible for calculating the indicator: Secretaría de Desarrollo Agrario, Territorial y Urbano, Unidad de Planeación y Desarrollo Institucional. 
+
+Importance and purpose of the indicator: El indicador permite evaluar los espacios abiertos disponibles para cada ciudad. Aumentar los espacios abiertos en las ciudades permitirá tener un mayor disfrute de la ciudad y ejercer su derecho a la ciudad.
+
+National and/or international reference: Repositorio de metadatos de los ODS, disponible en:   
+ https://unstats.un.org/sdgs/metadata/ 
+
+Observations: Es importante señalar que la información sobre los Servicios e información complementaria no muestran el universo completo de espacios abiertos, por lo que el calculo tiene un margen de error que no es posible medir.
+

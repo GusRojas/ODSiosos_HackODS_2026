@@ -1,0 +1,54 @@
+﻿Title: 1.4.2 Proporción del total de la población adulta con derechos seguros de tenencia de la tierra que posee documentación reconocida legalmente al respecto, desglosada por sexo y tipo de tenencia
+
+Description: El indicador 1.4.2 mide la parte relevante de la Meta 1.4 (garantizar que hombres y mujeres tengan los mismos derechos a los recursos económicos, así como el acceso a..., la propiedad y el control de la tierra y otras formas de propiedad, herencia, recursos naturales). Mide los resultados de las políticas que apuntan a fortalecer la seguridad de la tenencia para todos, incluidas las mujeres y otros grupos vulnerables. El indicador 1.4.2 cubre (a) todos los tipos de uso de la tierra (como residencial, comercial, agrícola, forestal, de pastoreo, humedales basados ??en la clasificación estándar de uso de la tierra) tanto en áreas rurales como urbanas; y (b) todos los tipos de tenencia de la tierra reconocidos a nivel de país, tales como dominio absoluto, arrendamiento, tierras públicas, tierras consuetudinarias.
+
+Modified: 2022-11-24
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Abraham Issaí Nuñez Morales
+Subdirector de Vinculación de la Unidad de Planeación y Desarrollo Institucional
+Nuevo León No. 210 Colonia Hipódromo Condesa, Del. Cuauhtémoc 06100 Ciudad de México
+5568209700 Ext. 50710
+abraham.nunez@sedatu.gob.mx
+
+Temporal: 2020-2020
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Quinquenal
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/1.4.2_es.zip
+
+Goal: 1. Poner fin a la pobreza en todas sus formas y en todo el mundo 
+
+Target:  Meta 1.4. De aquí a 2030, garantizar que todos los hombres y mujeres, en particular los pobres y los vulnerables, tengan los mismos derechos a los recursos económicos y acceso a los servicios básicos, la propiedad y el control de la tierra y otros bienes, la herencia, los recursos naturales, las nuevas tecnologías apropiadas y los servicios financieros, incluida la microfinanciación
+
+Type of indicator: Global
+
+Algorithm: 1.4.2_ES.gif
+
+Description of the indicator: Es la población adulta que es dueña del lugar en donde y que cuenta con documentación legalmente reconocida entre el total de la población adulta que es dueña del lugar en donde vive.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional y estatal
+
+Opportunity: Cada 5 años
+
+Source of statistical information used to calculate the indicator: Elaboración propia con base en la encuesta ampliada del Censo de Población y Vivienda 2020 del Instituto Nacional de Estadística y Geografía (INEGI) 
+
+Date of next update of indicator: No definida
+
+Unit of the State responsible for calculating the indicator: Secretaría de Desarrollo Agrario, Territorial y Urbano (SEDATU). Unidad de Planeación y Desarrollo Institucional. 
+
+Importance and purpose of the indicator: El indicador da cuenta sobre los avances que se tienen en materia de Certeza Juridica sobre la propiedad, con la finalidad de que las personas tengan asegurados sus derechos de propiedad.
+
+National and/or international reference: Repositorio de metadatos de los ODS, disponible en:  https://unstats.un.org/sdgs/metadata/ 
+
+Observations: Debido a la disponibilidad de la información y para el calculo del indicador se considera como población urbana aquella que habita en localidades con más de 50,000 personas. Mientras que como población rural aquella que habita en localidades menores a 50 mil personas.
+

@@ -1,0 +1,63 @@
+﻿Title: 6.a.1. Volumen de la asistencia oficial para el desarrollo destinada al agua y el saneamiento que forma parte de un plan de gastos coordinados por el gobierno
+
+Description: Es la cantidad de asistencia oficial para el desarrollo relacionada con el agua y el saneamiento, que forma parte de un plan de gasto coordinado por el gobierno, medida como la proporción entre los desembolsos totales de la Asistencia Oficial para el Desarrollo (AOD) relacionados con el agua y el saneamiento considerados en el presupuesto del gobierno.
+
+Modified: 2025-01-28
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Gerencia de Planificación Hídrica
+Subgerencia del Sistema Nacional de Información del Agua
+Insurgentes Sur # 2416. Piso 4; Colonia Copilco El Bajo, 04340. Coyoacán, Ciudad de México
++52 55 5174 4000, ext. 2112 y 4458
+sina@conagua.gob.mx
+Gerencia de Cooperación Internacional
+Dirección de Área de Evaluación de Programas y Proyectos
+Insurgentes Sur # 2416. Piso 9; Colonia Copilco El Bajo, 04340. Coyoacán, Ciudad de México
++52 55 5174 4000, ext. 1313
+internacional@conagua.gob.mx
+
+Temporal: 2015-2023
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/6.a.1._es.zip
+
+Goal: 6. Garantizar la disponibilidad y la gestión sostenible del agua y el saneamiento para todos 
+
+Target:  Meta 6.a. De aquí a 2030, ampliar la cooperación internacional y el apoyo prestado a los países en desarrollo para la creación de capacidad en actividades y programas relativos al agua y el saneamiento, como los de captación de agua, desalinización, uso eficiente de los recursos hídricos, tratamiento de aguas residuales, reciclado y tecnologías de reutilización.
+
+Type of indicator: Global
+
+Algorithm: 6.a.1._ES.gif
+
+Description of the indicator: Para determinar el valor del indicador se consulta la información del portal de la OCDE en el apartado de datos, seleccionando la opción de "Desarrollo"; se toman los datos reportados en los Flujos basados en proyectos individuales (CRS), dentro del apartado del sistema de reporte de acreedores CRS. Para el caso del indicador, se selecciona la información reportada a precios corrientes dentro del Sector 140: I.4. Abastecimiento de agua y saneamiento. Esta información puede ser consultada en el siguiente vínculo de internet: https://stats.oecd.org/Index.aspx
+Adicionalmente, se hace la conversión de las cifras que están en dólares a pesos mexicanos; para lo cual, se toma el precio promedio del dólar para cada uno de los años de análisis, dicha información es consultada del Sistema de información económica del Banco de México (Banxico):  https://www.banxico.org.mx/SieInternet/
+Posteriormente, se considera la información de inversión aplicada por el Gobierno Mexicano, a través de la Comisión Nacional del Agua (CONAGUA) relacionada con agua potable, drenaje y saneamiento (rubros de agua potable, alcantarillado, saneamiento, mejora de eficiencias y otros), para esto, se consulta el Sistema Nacional de Información del Agua (SINA) que concentra la información generada por la Subdirección General de Agua Potable, Drenaje y Sanemiento de la CONAGUA. Esta información puede consultarse en: http://sina.conagua.gob.mx/sina/tema.php?tema=presupuestoInvertido&ver=reporte&o=3&n=nacional
+Con las cifras homologadas a pesos mexicanos, se procede a hacer el cálculo del indicador, que es la proporción entre los desembolsos totales de la Asistencia Oficial para el Desarrollo (AOD) relacionados con el agua y el saneamiento considerados en el presupuesto del gobierno.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: 1 año
+
+Source of statistical information used to calculate the indicator: Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT). 
+Comisión Nacional del Agua (CONAGUA). 
+Gerencia de Planificación Hídrica. Sistema Nacional de Información del Agua (SINA), a partir de los registros reportados por la Subdirección General de Agua Potable, Drenaje y Saneamiento de la CONAGUA integrados en el SINA, y de los registros reportados por la Organización para el Crecimiento y Desarrollo Económico (OCDE) consultados en https://stats.oecd.org/Index.aspx
+
+Date of next update of indicator: 15 de enero de 2026
+
+Unit of the State responsible for calculating the indicator: Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT). Comisión Nacional del Agua (CONAGUA). Gerencia de Planificación Hídrica. Sistema Nacional de Información
+del Agua (SINA). 
+
+Importance and purpose of the indicator: La cantidad de AOD relacionada con el agua y el saneamiento puede utilizarse como indicador indirecto de la “cooperación internacional y el apoyo para el desarrollo de capacidades” en términos financieros. Es esencial poder evaluar la AOD en proporción de la cantidad del presupuesto del gobierno para comprender si los donantes están alineados con los gobiernos nacionales y, al mismo tiempo, resaltar los desembolsos totales de AOD para agua y saneamiento a los países en desarrollo a lo largo del tiempo. Estrictamente, un valor bajo de este indicador (cerca del 0%) sugeriría que los donantes internacionales están invirtiendo en actividades y programas relacionados con el agua y el saneamiento en el país fuera del alcance del gobierno nacional. Un valor alto (cerca del 100%) indicaría que los donantes están alineados con el gobierno nacional y las políticas y planes nacionales de agua y saneamiento.
+
+Observations: Para los datos de la OCDE se realizó una consulta en el sitio: https://stats.oecd.org/Index.aspx. El dato de AOD y IAPDS están considerados a pesos corrientes, es decir del año de cálculo del indicador. Aunque el metadato internacional indica que el indicador tiene una periodicidad bienal (cada dos años), con los datos recabados se puede tener una  serie histórica anual del valor del indicador.
+

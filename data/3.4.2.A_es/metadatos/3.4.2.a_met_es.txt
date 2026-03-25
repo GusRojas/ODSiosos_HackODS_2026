@@ -1,0 +1,64 @@
+﻿Title: 3.4.2.a Tasa de mortalidad por suicidio
+
+Description: La tasa de mortalidad por suicidio se define como el número de muertes por suicidio en un año, dividido por la población y multiplicado por 100,000.
+
+Modified: 2023-04-17
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Mtra. Manett Vargas García
+Directora General de Evaluación del Desempeño
+Avenida Paseo de la Reforma 450 
+Colonia Juárez, 06600
+Cuauhtémoc, Cuauhtémoc, Ciudad de México
+5553371600 Ext. 41686
+manett.vargas@salud.gob.mx
+Delfino Campos Díaz
+Director de Evaluación del Desempeño de los Sistemas de Salud
+Avenida Paseo de la Reforma 450 
+Colonia Juárez, 06600
+Cuauhtémoc, Cuauhtémoc, Ciudad de México
+55 6392 2300, ext. 52681
+delfino.campos@salud.gob.mx
+
+Temporal: 1990-2020
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/3.4.2.a_es.zip
+
+Goal: 3. Garantizar una vida sana y promover el bienestar de todos a todas las edades 
+
+Target:  Meta 3.4 De aquí a 2030, reducir en un tercio la mortalidad prematura por enfermedades no transmisibles mediante su prevención y tratamiento, y promover la salud mental y el bienestar
+
+Type of indicator: Global
+
+Algorithm: 3.4.2_ES.gif
+
+Description of the indicator: Se calcula dividiendo el número de personas muertas por suicidio entre el total de la población a mitad de periodo por cada 100,000 habitantes.
+
+Unit of measure: Tasa
+
+Geographic coverage: Nacional y entidad federativa
+
+Opportunity: 1 año
+
+Source of statistical information used to calculate the indicator: - Instituto Nacional de Estadística y Geografía (INEGI). Estadísticas Vitales. Estadísticas de defunciones registradas. Disponible en:  https://www.inegi.org.mx/programas/mortalidad/#Microdatos
+- Consejo Nacional de Población (CONAPO). Proyecciones de la Población de México y de las Entidades Federativas, 2016-2050 y Conciliación Demográfica de México, 1950 -2015. Población a mitad del período. Consultado en:  https://www.gob.mx/conapo/acciones-y-programas/conciliacion-demografica-de-mexico-1950-2015-y-proyecciones-de-la-poblacion-de-mexico-y-de-las-entidades-federativas-2016-2050
+
+Date of next update of indicator: No definida
+
+Unit of the State responsible for calculating the indicator: Secretaría de Salud (SSA). 
+
+Importance and purpose of the indicator: Los trastornos mentales se dan en todas las regiones y culturas del mundo. Los más frecuentes son la depresión y la ansiedad, que se calcula que afectan a casi 1 de cada 10 personas. En el peor de los casos, la depresión puede llevar al suicidio. En 2012, se calcula que hubo más de 800.000 muertes por suicidio en todo el mundo. El suicidio fue la segunda causa de muerte entre los adultos jóvenes de 15–29 años, después de las lesiones por accidentes de tráfico.
+
+National and/or international reference: Repositorio de metadatos de los ODS, disponible en:   
+ https://unstats.un.org/sdgs/metadata/ 
+
+

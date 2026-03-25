@@ -1,0 +1,58 @@
+﻿Title: 5.5.1.a Proporción de escaños ocupados por mujeres en la Cámara de Diputados
+
+Description: Es la participación de las mujeres en los puestos de elección popular dentro de la Cámara de Diputados.
+
+Modified: 2019-11-25
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+Keyword: participación de la mujer, mujeres electas, diputadas, curules ocupados por mujeres, puestos de toma de decisión
+
+ContactPoint: María Eugenia Medina Domínguez
+Directora de Estadística
+Boulevard Adolfo López Mateos # 3325 piso 5, Colonia San Jerónimo Lídice, C.P. 10200, Magdalena Contreras, Magdalena Contreras, Ciudad de México
+55 5322 4200
+mmedina@inmujeres.gob.mx
+
+Temporal: 2015-2019
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/5.5.1.a_es.zip
+
+Goal: 5. Lograr la igualdad de género y empoderar a todas las mujeres y las niñas 
+
+Target:  Meta 5.5 Asegurar la participación plena y efectiva de las mujeres y la igualdad de oportunidades de liderazgo a todos los niveles decisorios en la vida política, económica y pública
+
+Type of indicator: Global
+
+Algorithm: 5_5_1_a_ES.gif
+
+Description of the indicator: Proporción de mujeres que fueron electas y/o fungen como diputadas con respecto al total de curules en la Cámara de Diputados.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: 3 meses.
+
+Source of statistical information used to calculate the indicator: Cámara de Diputados http://www.diputados.gob.mx/
+
+Date of next update of indicator: No definida
+
+Unit of the State responsible for calculating the indicator: Secretaría de las Mujeres.   
+ https://www.gob.mx/mujeres  
+
+Importance and purpose of the indicator: Medir la participación de las mujeres en puestos de toma de decisiones que son electas por consulta popular.
+
+National and/or international reference: Sin referencia 
+
+Observations: La información de participación política es muy variante en el tiempo por lo cual no tiene una periodicidad establecida, sin embargo, se considerará a las mujeres que se encuentren en el cargo a la fecha de corte de la información.
+Este indicador forma parte del Catálogo Nacional de Indicadores (CNI).
+

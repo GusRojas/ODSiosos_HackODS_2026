@@ -1,0 +1,59 @@
+﻿Title: 17.8.1 Proporción de personas que usan internet, por entidad federativa
+
+Description: Este indicador nos muestra el porcentaje de personas de 6 años en adelante que usaron internet en los 12 meses anteriores por cada 100 habitantes del país, por entidad federativa y principales ciudades del país.
+
+Modified: 2025-06-25
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+Keyword: Servicio de internet, usuarios de internet, conectividad del país, brecha digital
+
+ContactPoint: Luis Ivan Garcia Marcelo
+Coordinación General de Planeación Estratégica
+Avenida Insurgentes sur 1143, Colonia Noche Buena, 03720; Benito Juárez, Benito Juárez, Ciudad de México
+55 5015 4371
+luis.garcia@ift.org.mx
+
+Temporal: 2015-2024
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/17.8.1_es.zip
+
+Goal: 17. Fortalecer los medios de implementación y revitalizar la Alianza Mundial para el Desarrollo Sostenible 
+
+Target:  Meta 17.8 Poner en pleno funcionamiento, a más tardar en 2017, el banco de tecnología y el mecanismo de apoyo a la creación de capacidad en materia de ciencia, tecnología e innovación para los países menos adelantados y aumentar la utilización de tecnologías instrumentales, en particular la tecnología de la información y las comunicaciones
+
+Type of indicator: Global
+
+Algorithm: 17_8_1_ES.gif
+
+Description of the indicator: Este indicador resulta de dividir el total de individuos que al cierre del año usaron el servicio de internet en cualquier sitio en los 12 meses anteriores, entre la población estimada al cierre del mismo año, el resultado se expresa como porcentaje.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: Al final del 2do trimestre del año siguiente a la realización de la encuesta.
+
+Source of statistical information used to calculate the indicator: - Instituto Federal de Telecomunicaciones (IFT). 
+
+Date of next update of indicator: 31 de agosto de 2026
+
+Unit of the State responsible for calculating the indicator: Instituto Federal de Telecomunicaciones (IFT)  
+
+Importance and purpose of the indicator: La penetración del servicio de Internet representa un factor importante para conocer el nivel de desarrollo de la conectividad del país y el avance en la reducción de la brecha digital.
+
+National and/or international reference: Unión Internacional de Telecomunicaciones (UIT). 
+ http://www.itu.int/es/pages/default.aspx 
+
+Observations: El IFT es el organismo federal encargado de integrar las cifras de este indicador, con base en información de la ENDUTIH, del CONAPO y en reportes administrativos de las empresas que proporcionan el servicio de acceso a Internet.
+El INEGI a través de la ENDUTIH genera información estadística anual sobre la disponibilidad de las tecnologías de la información y comunicaciones en los hogares, así como de sus usos por los individuos, de manera particular los usuarios de Internet; en esta encuesta se define a un usuario de Internet como un individuo de seis o más años de edad que en forma eventual o cotidiana, y de manera autónoma, ha accedido y realizado alguna actividad en Internet en cualquier sitio en los últimos 12 meses.
+Se actualizaron los datos de población desde 1991 a la fecha porque el universo de usuarios de Internet que captura la MODUTIH y ENDUTIH es sólo aquel que es mayor a 6 años de edad, en ese sentido y con el objeto de usar el mismo conjunto de personas, se utilizan las proyecciones de CONAPO usando exclusivamente la población mayor a 6 años de edad.
+

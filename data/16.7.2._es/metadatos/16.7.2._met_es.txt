@@ -1,0 +1,61 @@
+﻿Title: 16.7.2. Proporción de la población que considera que la adopción de decisiones es inclusiva y participativa
+
+Description: Número de personas de 15 años y más que declaró estar de acuerdo en que el gobierno considera sus opiniones para la toma de decisiones, como proporción de la población de 15 años y más.
+
+Modified: 2022-09-01
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Centro de atención a usuarios INEGI
+Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276
+Aguascalientes, Aguascalientes, Aguascalientes 
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Nacional sin costo: 800 111 46 34 
+ Internacional: (código internacional) + (52)+(449) 910 53 00 Ext. 315301
+atencion.usuarios@inegi.org.mx
+
+Temporal: 2020-2020
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: No determinada
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/16.7.2._es.zip
+
+Goal: 16. Promover sociedades pacíficas e inclusivas para el desarrollo sostenible, facilitar el acceso a la justicia para todos y construir a todos los niveles instituciones eficaces e inclusivas que rindan cuentas 
+
+Target:  Meta 16.7. Garantizar la adopción en todos los niveles de decisiones inclusivas, participativas y representativas que respondan a las necesidades
+
+Type of indicator: Global
+
+Algorithm: 16.7.2_ES.gif
+
+Description of the indicator: Población de 15 años y más que respondió que está muy de acuerdo o algo de acuerdo con la afirmación “En México, para la toma de decisiones, el gobierno considera las opiniones de las personas como usted”, entre la población de 15 años y más que respondió con algún nivel de acuerdo o desacuerdo (se excluyen las personas que respondieron no saber o no respondieron la pregunta), multiplicada por 100; desagregada por sexo y rango de edad.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: El proyecto fuente de los datos se levantó en 2020 y no tiene periodicidad definida
+
+Source of statistical information used to calculate the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional de Cultura Cívica (ENCUCI).  https://www.inegi.org.mx/programas/encuci/2020/
+
+Date of next update of indicator: No definida
+
+Unit of the State responsible for calculating the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Dirección General de Estadísticas de Gobierno, Seguridad Pública y Justicia. 
+
+Importance and purpose of the indicator: El indicador mide la ‘eficacia política externa’, es decir, la percepción de la gente sobre si los políticos o las instituciones políticas escuchan las opiniones y responden a las necesidades del ciudadano común. La importancia de medir los niveles de eficacia externa radica en que está correlacionada con la confianza en el gobierno y con las percepciones de la legitimidad de las instituciones públicas. También se espera que los niveles más altos de capacidad de respuesta del sistema se asocien con niveles más altos de participación política, incluido el voto en las elecciones.
+
+National and/or international reference: Metadato del indicador 16.7.2   
+ https://unstats.un.org/sdgs/metadata/files/Metadata-16-07-02.pdf 
+OECD. How´s life? 2017: Measurign well-being (2017). shorturl.at/dIKNQ 
+
+Observations: De acuerdo con el metadato internacional, este indicador se calcula a partir de las respuestas positivas de dos preguntas: una corresponde a la toma de decisiones inclusivas (el proceso que brinda a la gente la oportunidad de hacerse escuchar), y la otra a la toma de decisiones responsiva (el proceso en el que los políticos y/o las instituciones políticas escuchan las demandas y actúan en consecuencia).
+El cálculo del indicador que se presenta aquí corresponde a la pregunta sobre decisiones inclusivas, que pertenece a la pregunta 4.10 de la ENCUCI 2020: "Dígame qué tan de acuerdo o en desacuerdo está con la siguiente afirmación: “En México, para la toma de decisiones, el gobierno considera las opiniones de las personas como usted”".
+

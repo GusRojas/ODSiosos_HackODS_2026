@@ -1,0 +1,58 @@
+﻿Title: 4.1.2c Índice de finalización de enseñanza preparatoria (Media superior), por desglose geográfico
+
+Description: Porcentaje de población de 20 a 22 años de edad que supera la edad prevista para el último grado del nivel enseñanza preparatoria (Media superior) y que ha completado ese grado.
+
+Modified: 2023-04-13
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Centro de atención a usuarios INEGI
+Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276,
+Aguascalientes, Aguascalientes, Aguascalientes,
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Nacional sin costo: 800 111 46 34
+Internacional: (código internacional) + (52)+(449) 910 53 00 Ext. 5301
+atencion.usuarios@inegi.org.mx
+
+Temporal: 2020-2020
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Decenal
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/4.1.2c_es.zip
+
+Goal: 4. Garantizar una educación inclusiva y equitativa de calidad y promover oportunidades de aprendizaje permanente para todos 
+
+Target:  Meta 4.1 De aquí a 2030, asegurar que todas las niñas y todos los niños terminen la enseñanza primaria y secundaria, que ha de ser gratuita, equitativa y de calidad y producir resultados de aprendizaje pertinentes y efectivos
+
+Type of indicator: Global
+
+Algorithm: 4.1.2c_ES.gif
+
+Description of the indicator: El indicador se calcula dividiendo a la población que finalizo el nivel de instrucción del grupo de edad indicado entre el total de la población del grupo de edad indicado en el periodo señalado por 100.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional, entidad federativa y municipio o demarcación territorial
+
+Opportunity: 10 años
+
+Source of statistical information used to calculate the indicator: Censo de Población y Vivienda 2020. INEGI. Cuestionario básico. 
+
+Date of next update of indicator: No definida
+
+Unit of the State responsible for calculating the indicator: Instituto Nacional de Estadística y Geografía (INEGI). https://www.inegi.org.mx/  
+
+Importance and purpose of the indicator: Conocer la evolución y tendencia del porcentaje de la población de determinado grupo de edad con educación  preparatoria (Media superior). En este indicador incluye a la población en el territorio nacional.
+
+Observations: Retornados: Población nacida en México y que en marzo del 2015 residía en otro país.
+Población de 20 a 22 años que finalizó la educación preparatoria (Media Superior): incluye a la población que tiene 3 o más grados aprobados en preparatoria o bachillerato (general o tecnológico); estudios técnicos o comerciales con secundaria terminada; normal básica; licenciatura, normal superior; especialidad, maestría o doctorado. 
+NA: No aplica. Se agrega esta abreviación cuando se tiene divisiones entre cero.
+

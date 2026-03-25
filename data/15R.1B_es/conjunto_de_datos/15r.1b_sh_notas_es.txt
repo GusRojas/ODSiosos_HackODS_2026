@@ -1,0 +1,5 @@
+﻿"Nota: El cálculo se llevó a cabo a partir de los datos oficiales de la Convención sobre los Humedales RAMSAR por parte del personal de la CONANP presentando el valor acumulado
+de la superficie en hectáreas, por lo cual los datos que se repiten a través de los años se refieren a que en ese periodo no se designaron Humedales, por tanto
+la superficie se mantiene constante. "
+"Fuente: Listado de Humedales designados dentro de la Convención sobre los Humedales RAMSAR. [Fecha de Consulta: junio 2025]. Disponible en:   
+ https://rsis.ramsar.org/es/ris-search/?language=es&f[0]=regionCountry_es_ss%3AM%C3%A9xico&pagetab=1   "

@@ -1,0 +1,58 @@
+﻿Title: 1.5.1 Número de personas muertas, desaparecidas y afectadas directamente atribuido a desastres por cada 100 000 habitantes
+
+Description: El indicador mide el número de personas que sufren un efecto negativo a causa de la ocurrencia de un desastre, por cada 100 000 habitantes, para poder dimensionar su impacto en la población nacional. Los desastres tienen un efecto negativo sobre las condiciones de vida de la población, el desempeño económico de los países o regiones en que ocurren, además de que perjudican el acervo y los servicios ambientales.
+
+Modified: 2025-09-19
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Enrique Guevara Ortiz
+Director General del CENAPRED
+Delfín Madrigal 665, colonia Pedregal de Santo Domingo, Ciudad de México
+(55) 5511036000, ext. 72010, eguevara@cenapred.unam.mx,
+direcciongeneral@cenapred.unam.mx
+
+Temporal: 2000-2024
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/1.5.1_es.zip
+
+Goal: 1. Poner fin a la pobreza en todas sus formas y en todo el mundo 
+
+Target:  Meta 1.5 De aquí a 2030, fomentar la resiliencia de los pobres y las personas que se encuentran en situaciones de vulnerabilidad y reducir su exposición y vulnerabilidad a los fenómenos extremos relacionados con el clima y otras perturbaciones y desastres económicos, sociales y ambientales
+
+Type of indicator: Global
+
+Algorithm: 1_5_1_ES.gif
+
+Description of the indicator: Este indicador se calcula a partir del total de personas fallecidas, desaparecidas y afectados a causa de ocurrencia de desastres, entre la población total del país por 100 000 habitantes.
+
+Unit of measure: Tasa por cada 100 mil habitantes
+
+Geographic coverage: Nacional
+
+Opportunity: 4 meses
+
+Source of statistical information used to calculate the indicator: Consejo Nacional de Población (CONAPO), Secretaría General, Dirección General de Estudios Sociodemográficos y Prospectiva.
+Secretaría de Gobernación (SEGOB), Centro Nacional de Prevención de Desastres (CENAPRED).
+A partir del 1 de agosto de 2019, Secretaría de Seguridad y Protección Ciudadana (SSPS). Centro Nacional de Prevención de Desastres (CENAPRED).
+Instituto Nacional de Estadística y Geografía (INEGI). Evaluación del impacto socioeconómico de los principales desastres naturales ocurridos en la República Mexicana.
+
+Date of next update of indicator: 1 de agosto de 2026
+
+Unit of the State responsible for calculating the indicator: Secretaría de Gobernación (SEGOB), Coordinación Nacional de Protección Civil. A partir de 2018 Secretaría de Seguridad y Protección Ciudadana (SSPC) 
+
+Importance and purpose of the indicator: La reducción del impacto directo e indirecto de los desastres, es un elemento que permite abonar a los esfuerzos globales relativos al desarrollo sostenible, mientras que en países con impactos recurrentes con poca preparación, se ha documentado retrasos en el desarrollo económico y social, aquellas naciones que mediante la correcta gestión de sus riesgos han consolidado sus esfuerzos preventivos mismos que se ven reflejados en la reducción del costo de los desastres, lo que permite que estos recursos se asignen a otros procesos de desarrollo.
+
+National and/or international reference: Comisión Económica para América Latina y el Caribe (CEPAL), Manual para la evaluación del impacto socioeconómico y ambiental de los desastres, 2003. 
+
+Observations: Los datos de personas muertas por la ocurrencia de desastres y de personas afectadas por la ocurrencia de desastres incluyen dentro de los fenómenos antrópicos (químicos, socioorganizativos y sanitarios) y dentro de los fenómenos de origen natural (geológicos e hidrometeorológicos).
+No se cuenta con la información sobre personas desaparecidas, ya que dentro de las principales fuentes de información del CENAPRED (CENACOM, Secretaría de Salud) no se dispone de dicha información.
+

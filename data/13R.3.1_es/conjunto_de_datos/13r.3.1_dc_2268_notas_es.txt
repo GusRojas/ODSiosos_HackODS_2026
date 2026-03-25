@@ -1,0 +1,5 @@
+﻿"Nota: Las cifras no incluyen la categoría reportada por la fuente como 3B Tierra, que corresponde a las absorciones, ni las absorciones que aplicaron a la categoria 3D Otros."
+"Fuente: INECC. 2022. Inventario Nacional de Emisiones de Gases y Compuestos de Efecto Invernadero. Sector Agricultura, silvicultura y otros usos de la tierra 1990-2019. Consultado
+en: Base de Datos Estadísticos del SNIARN (BADESNIARN) [Fecha de consulta: marzo de 2025]:
+ http://dgeiawf.semarnat.gob.mx:8080/ibi_apps/WFServlet?IBIF_ex=D3_AIRE02_22&IBIC_user=dgeia_mce&IBIC_pass=dgeia_mce&NOMBREANIO=*
+ "

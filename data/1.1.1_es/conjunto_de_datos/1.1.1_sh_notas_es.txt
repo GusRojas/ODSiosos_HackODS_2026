@@ -1,0 +1,5 @@
+﻿"Nota: - A partir de 2006 se utiliza la ENIGH con factores ajustados a la proyección de población de CONAPO, actualizadas en abril de 2013.  
+ - La información de 1992 se toma de los datos históricos del indicador.  
+ - Urbana: Localidades de 15,000 habitantes y más. 
+ - Rural: Localidades de menos de 15,000 habitantes. "
+"Fuente: Estimaciones del CONEVAL con base en información del INEGI, ENIGH 1992-2014 y el Modelo Estadístico para la Continuidad del MCS-ENIGH 2016, 2018 y 2020. "

@@ -1,0 +1,5 @@
+﻿"Nota: Refiere a datos publicados del primer trimestre de cada año, Para mayor información consultar:  
+  
+ https://www.inegi.org.mx/temas/productividadeco/ "
+"Fuente: Índice Global de Productividad Laboral de la Economía (IGPLE).   
+ https://www.inegi.org.mx/temas/productividadeco/  "

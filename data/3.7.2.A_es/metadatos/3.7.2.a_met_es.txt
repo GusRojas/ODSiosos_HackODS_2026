@@ -1,0 +1,62 @@
+﻿Title: 3.7.2.a Tasa de fecundidad en niñas y adolescentes (de 10 a 14 años) por cada 1 000 niñas y adolescentes en ese grupo de edad
+
+Description: Número de nacimientos ocurridos en niñas y adolescentes entre 10 y 14 años que tienen lugar en un determinado año, por cada 1 000 niñas y adolescentes de 10 a 14 años a mitad de ese año.
+
+Modified: 2025-09-01
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+Keyword: Embarazo adolescente, erradicación del embarazo adolescente, Estrategia Nacional de Prevención del Embarazo en Adolescentes (ENAPEA), usos y costumbres, coerción sexual, matrimonio infantil, estereotipos de las niñas y adolescentes
+
+ContactPoint: Mirna Hebrero Martínez
+Coordinadora de Estudios Sociodemográficos y Prospectiva
+Doctor José María Vertiz 852, Colonia Narvarte, 03020; Benito Juárez, Ciudad de México
+55 5128 0000, ext. 19511
+mhebrero@conapo.gob.mx
+
+Temporal: 2008-2024
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/3.7.2.a_es.zip
+
+Goal: 3. Garantizar una vida sana y promover el bienestar de todos a todas las edades 
+
+Target:  Meta 3.7 De aquí a 2030, garantizar el acceso universal a los servicios de salud sexual y reproductiva, incluidos los de planificación familiar, información y educación, y la integración de la salud reproductiva en las estrategias y los programas nacionales
+
+Type of indicator: Global
+
+Algorithm: 3_7_2_a_ES.gif
+
+Description of the indicator: Es el cociente del número de nacimientos ocurridos en niñas y adolescentes entre 10 y 14 años que tienen lugar en un determinado año entre el total de mujeres de 10 a 14 años a mitad de ese año por 1 000.
+
+Unit of measure: Número de hijos(as) nacidos(as) vivos(as) por cada 1 000 niñas y adolescentes entre 10 y 14 años
+
+Geographic coverage: Nacional y entidad federativa
+
+Opportunity: Una vez que se disponga de la más reciente base de datos de estadísticas vitales de nacimientos y del Subsistema de Información sobre Nacimientos (SINAC), 60 días después podrá actualizarse.
+
+Source of statistical information used to calculate the indicator: - Consejo Nacional de Población (CONAPO).Conciliación Demográfica de México 1990-2019 y las Proyecciones de la Población de México y de las Entidades Federativas 2020-2070.
+- Secretaría de Salud. Subsistema de Información sobre Nacimientos, 2008-2022; INEGI. Encuesta Nacional de la Dinámica Demográfica (ENADID) 2014, 2018 y 2023; INEGI.
+
+Date of next update of indicator: 31 de Diciembre 2025
+
+Unit of the State responsible for calculating the indicator: Consejo Nacional de Población (CONAPO). Coordinación de Estudios Sociodemográficos y Prospectiva (CESP). 
+
+Importance and purpose of the indicator: A través de este indicador es posible medir la ocurrencia de embarazos en niñas y adolescentes de 10 a 14 años para implementar acciones que erradiquen su ocurrencia, dado que en este grupo de edad el embarazo generalmente se asocia a mayores riesgos de morbimortalidad materna, de complicaciones en el parto, de mortalidad infantil y a condiciones precarias de salud en el recién nacido. Las niñas al sufrir un embarazo se ven forzadas a menudo a abandonar la escuela para hacerse cargo de las responsabilidades de su maternidad y del hogar, lo cual representa la cancelación de su derecho a la educación, así como de desarrollar su futuro potencial (UNFPA, 2017). En el caso de México de acuerdo a la Estrategia Nacional de Prevención del Embarazo en Adolescentes (ENAPEA), la erradicación de los embarazos en adolescentes entre 10 y 14 años de edad.
+
+National and/or international reference: Repositorio de metadatos de los ODS, disponible en:   
+ https://unstats.un.org/sdgs/metadata/ 
+Consejo Nacional de Población (CONAPO). Estrategia Nacional para la Prevención del Embarazo en Adolescentes (ENAPEA). http://www.gob.mx/conapo/documentos/estrategia-nacional-para-la-prevencion-del-embarazo-en-adolescentes-enapea-informe-ejecutivo
+
+Observations: * La expresión de fecundidad en el intervalo de 10 a 14 años no es una tasa, sino una razón, bajo el supuesto de que la mayoría de las niñas de 10 y 11 años aún no presentan su primera menstruación, por lo que no pueden considerarse como expuestas al riesgo de un embarazo. Sin embargo, se nombra así para fines de comparación internacional.
+Para subsanar el subregistro de nacimientos en el Subsistema de Información sobre Nacimientos (SINAC), se aplicó la proporción de personas que al momento de nacer no contaban con el certificado de nacimiento expedido por la secretaría de salud, considerando que eran nacimientos que no ocurren dentro de unidades médicas.
+Para comparar resultados con Estadísticas Vitales de Natalidad se hace una reconstrucción** de nacimientos ocurridos en un año determinado más los registrados en cuatro o siete años posteriores y se aplica una proyección logarítmica para estimar nacimientos en los años recientes.
+** La reconstrucción de nacimientos a siete años a partir de los datos de estadísticas vitales de nacimientos; se realiza a través de las bases de datos de nacimientos por año de registro, se contabilizaron los nacimientos en niñas y adolescentes de 10 a 14 años ocurridos en el año t y registrados ese mismo año, más los registrados en t+1, ..., t+7.  A partir del año 2010 se estima el total de nacimientos con una extrapolación logarítmica con base en la reconstrucción de nacimiento.
+

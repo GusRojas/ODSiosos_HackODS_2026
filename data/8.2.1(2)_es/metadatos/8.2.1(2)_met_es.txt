@@ -1,0 +1,69 @@
+﻿Title: 8.2.1(2) Tasa de crecimiento del PIB por persona ocupada (1996-2020)
+
+Description: Variación anual del Producto Interno Bruto (PIB) -ajustado por paridad de poder de compra- por persona ocupada.
+
+Modified: 2022-05-02
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Lic. Antonio Amerlinck Assereto
+Director de Estudios e Investigación Laboral. Dirección General de Investigación y Estadísticas del Trabajo
+Boulevard Adolfo López Mateos. No. 1968. Colonia Los Alpes, 01010. Alcaldía Alvaro Obregón, Ciudad de México
+(55) 2000 5463, 2000 5300, ext. 63263
+aamerlinck@stps.gob.mx
+
+Temporal: 1996-2020
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/8.2.1(2)_es.zip
+
+Goal: 8. Promover el crecimiento económico sostenido, inclusivo y sostenible, el empleo pleno y productivo y el trabajo decente para todos 
+
+Target:  Meta 8.2 Lograr niveles más elevados de productividad económica mediante la diversificación, la modernización tecnológica y la innovación, entre otras cosas centrándose en los sectores con gran valor añadido y un uso intensivo de la mano de obra
+
+Type of indicator: Global
+
+Algorithm: 8.2.1(2)_ES.gif
+
+Description of the indicator: Resulta de dividir el Producto Interno Bruto -ajustado por paridad de poder de compra- por persona ocupada en un año específico entre el Producto Interno Bruto -ajustado por paridad de poder de compra- por persona ocupada en el año inmediato anterior, menos 1, y el resultado se multiplica por 100.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: 3 meses
+
+Source of statistical information used to calculate the indicator: Instituto Nacional de Estadística y Geografía (INEGI) y Secretaría del Trabajo y Previsión Social (STPS). 
+ 1995-2004: Encuesta Nacional de Empleo (ENE), con proyecciones de población basadas en el Conteo de Población y Vivienda 2005. 
+ A partir de 2005: Encuesta Nacional de Ocupación y Empleo (ENOE), con proyecciones de población basadas en el Censo de Población y Vivienda 2010. 
+ Instituto Nacional de Estadística y Geografía (INEGI). Sistema de Cuentas Nacionales de México, Base 2013. Producto Interno Bruto Anual a precios corrientes. 
+ Organización para la Cooperación y el Desarrollo Económicos (OCDE). "PPPs for GDP - Historical series" (Series históricas de la Paridad de Poder de Compra). (27 de febrero de 2018) 
+
+Date of next update of indicator: Serie que ya no se actualiza
+
+Unit of the State responsible for calculating the indicator: Secretaría del Trabajo y Previsión Social (STPS). 
+
+Importance and purpose of the indicator: La medición de la productividad laboral contribuye al conocimiento y evaluación de las posibilidades de la economía de un país para crear y mantener oportunidades de empleo con remuneración justa y equitativa.
+
+National and/or international reference: Programa de las Naciones Unidas para el Desarrollo (PNUD). "Soporte del PNUD para la implementación de la Agenda 2030 para el Desarrollo Sostenible" "Grupo de Naciones
+Unidas para el Desarrollo". 
+Organización Internacional del Trabajo (OIT). Indicadores Clave del Mercado de Trabajo, 2015. OIT,  Ginebra, Suiza. http://www.ilo.org/global/statistics-and-databases/research-and-databases/kilm/WCMS_498940/lang--es/index.htm
+
+Observations: 1. La información de la Encuesta Nacional de Empleo (ENE) está conceptualmente homologada a la Encuesta Nacional de Ocupación y Empleo (ENOE).
+2. Los datos de población ocupada se refieren a las personas ocupadas de 15 años y más: i) Los datos de 1995 a 1999 corresponden al segundo trimestre de cada año; ii) Los datos de 2000 se calculan con el promedio aritmético de los trimestres segundo, tercero y cuarto; iii) A partir de 2001, los datos resultan del promedio aritmético de los cuatro trimestres de cada año.
+3. La paridad poder de compra (PPC) -o paridad de poder adquisitivo- es un tipo de cambio que resulta de un ajuste cuyo propósito es eliminar las diferencias de niveles de precios que prevalecen entre países. Al efectuar la conversión a términos de PPC, el PIB de los diversos países se expresa para un mismo conjunto de precios, de tal forma que las comparaciones de esta medida entre países reflejan sólo las diferencias en el volumen de bienes y servicios comprados.
+Este tipo de cambio se expresa en términos del dólar estadounidense, por lo que el PIB a PPC mide el valor del gasto de un país, referido al nivel de precios vigente en Estados Unidos.
+4. Los datos del PIB tienen base 2013 y están expresadas en precios corrientes.
+5. Las cifras del PIB y las estimaciones del tipo de cambio de Paridad de Poder de Compra están sujetas a revisiones periódicas por parte de las instituciones que las generan, por lo que es posible que se registren cambios frecuentes en el numerador de este indicador, lo cual repercute en el resultado final del mismo.
+6. Las cifras absolutas de población ocupada para el periodo 1995-2004 fueron generadas con el factor de expansión correspondiente a las proyecciones de población elaboradas con base en el Conteo de Población y Vivienda 2005.
+7. Debido a lo anterior, el dato de la tasa de crecimiento del PIB por persona ocupada de 2005 (4.0%) resultó de aplicar las cifras de población ocupada de 2005 y de 2004, correspondientes a la serie anterior, las cuales están ajustadas a las proyecciones de población basadas en el Conteo de Población y Vivienda 2005.
+8. Por su parte, la tasa de crecimiento del PIB por persona ocupada de 2006 (7.0%) utilizó las cifras de población ocupada de 2006 y de 2005 de las proyecciones de población basadas en el Censo de Población y Vivienda 2010. Esta misma serie fue también utilizada para calcular las tasas de crecimiento de los años siguientes.
+9. Las cifras absolutas de la misma variable correspondientes al periodo 2005-2020 se generaron con el factor de expansión correspondiente a las proyecciones de población revisadas por el Consejo Nacional de Población (CONAPO), las cuales se basaron en el Censo de Población y Vivienda 2010 y se difundieron en abril de 2013.
+

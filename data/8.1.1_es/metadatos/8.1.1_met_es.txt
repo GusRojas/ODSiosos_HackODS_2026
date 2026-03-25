@@ -1,0 +1,64 @@
+﻿Title: 8.1.1 Tasa de crecimiento anual del PIB real per cápita
+
+Description: Es el cambio porcentual del producto interno bruto (PIB) per cápita real entre dos años consecutivos. El PIB per cápita real  resulta de dividir el PIB a precios constantes entre la población total de un país o área geográfica.
+
+Modified: 2025-10-31
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+Keyword: Crecimiento económico, desarrollo económico
+
+ContactPoint: Centro de atención a usuarios INEGI
+Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276,
+Aguascalientes, Aguascalientes, Aguascalientes, 
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Nacional sin costo: 800 111 46 34 
+ Internacional: (código internacional) + (52)+(449) 149 1300
+atencion.usuarios@inegi.org.mx
+
+Temporal: 2003-2024
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/8.1.1_es.zip
+
+Goal: 8. Promover el crecimiento económico sostenido, inclusivo y sostenible, el empleo pleno y productivo y el trabajo decente para todos 
+
+Target:  Meta 8.1 Mantener el crecimiento económico per cápita de conformidad con las circunstancias nacionales y, en particular, un crecimiento del producto interno bruto de al menos el 7% anual en los países menos adelantados
+
+Type of indicator: Global
+
+Algorithm: 8_1_1_ES.gif
+
+Description of the indicator: El PIB per cápita real resulta de dividir el PIB a precios constantes entre la población total de un país o area geográfica por cien.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: 1 año
+
+Source of statistical information used to calculate the indicator: - Instituto Nacional de Estadística y Geografía (INEGI). Sistema de Cuentas Nacionales de México. Cuentas de Bienes y Servicios, 2024 preliminar. Base 2018. Anual. (octubre de 2025).
+
+Date of next update of indicator: 31 de octubre de 2026
+
+Unit of the State responsible for calculating the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Unidad de Estadísticas Económicas.   
+ https://www.inegi.org.mx  
+
+Importance and purpose of the indicator: El PIB per cápita mide el ingreso promedio de la población del un país o área geográfica y expresa la capacidad media para satisfacer las necesidades de bienes y servicios por habitante.
+Un cambio porcentual positivo en la tasa de crecimiento anual del PIB real per cápita es interpretado como un incremento en el nivel promedio de vida de los residentes de un país o área.
+
+National and/or international reference: Organización para la Cooperación y el Desarrollo Económicos (OCDE). Gross domestic product (GDP).  
+ Fondo Monetario Internacional (FMI). GDP per capita, current prices. 
+ Banco Mundial (BM). PIB per cápita (US$ a precios actuales). 
+
+Observations: No aplica
+

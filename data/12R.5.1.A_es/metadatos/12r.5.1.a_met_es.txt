@@ -1,0 +1,69 @@
+﻿Title: 12r.5.1.a Proporción de residuos sólidos urbanos recolectados de manera selectiva respecto del total de residuos sólidos urbanos recolectados
+
+Description: Volumen de residuos sólidos urbanos recolectados de manera selectiva como proporción del total de residuos sólidos urbanos recolectados.
+
+Modified: 2024-07-26
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Centro de atención a usuarios INEGI
+Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276,
+Aguascalientes, Aguascalientes, Aguascalientes, 
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Nacional sin costo: 800 111 46 34 
+ Internacional: (código internacional) + (52)+(449) 149 1300
+atencion.usuarios@inegi.org.mx
+Rodolfo Orozco Gálvez
+Director General Adjunto de Recursos Naturales y Medio Ambiente
+Av. Héroe de Nacozari Sur #2301, Jardines del Parque, 20276 Aguascalientes, Ags.
+449 910 5300, ext. 315333
+rodolfo.orozco@inegi.org.mx
+
+Temporal: 2010-2022
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Bienal
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/12r.5.1.a_es.zip
+
+Goal: 12. Garantizar modalidades de consumo y producción sostenibles 
+
+Target:  Meta 12.5 De aquí a 2030, reducir considerablemente la generación de desechos mediante actividades de prevención, reducción, reciclado y reutilización
+
+Type of indicator: Regional
+
+Algorithm: 12r.5.1.a_ES.gif
+
+Description of the indicator: Este indicador resulta de dividir la cantidad de residuos sólidos urbanos recolectados de manera selectiva en los municipios y demarcaciones territoriales con servicio de recolección entre el total de residuos sólidos urbanos recolectados, multiplicado por 100.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: 18 meses
+
+Source of statistical information used to calculate the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Censo Nacional de Gobiernos Municipales y Demarcaciones Territoriales de la Ciudad de México.  https://www.inegi.org.mx/programas/cngmd/
+
+Date of next update of indicator: 31 de julio de 2026
+
+Unit of the State responsible for calculating the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Unidad de Geografía y Medio Ambiente.   
+ https://www.inegi.org.mx  
+
+Importance and purpose of the indicator: La recolección selectiva de los residuos sólidos urbanos desde el origen tiene una gran relevancia, en virtud de que puede detonar una serie de procesos orientados al reciclaje y valorización de los materiales remanentes, evitando su eventual diseminación con efectos contaminantes en suelos, ríos y mares; asimismo, puede representar una disminución en la presión que se ejerce sobre los sitios de disposición final.
+
+National and/or international reference: Repositorio de metadatos de los ODS, disponible en:   
+ https://unstats.un.org/sdgs/metadata/ 
+Repositorio de Indicadores priorizados para el seguimiento de los ODS en América Latina y el Caribe (CEPAL). Disponible en:   
+ https://agenda2030lac.org/estadisticas/indicadores-priorizados-seguimiento-ods.html 
+Comisión Económica de las Naciones Unidas para Europa (UNECE). Disponible en:   
+ https://unece.org/statistics/publications/conference-european-statisticians-framework-waste-statistics  
+
+Observations: La recolección selectiva se refiere a la recolección de residuos que considera la separación o clasificación de los materiales desde el origen, en este caso, desde las viviendas.
+

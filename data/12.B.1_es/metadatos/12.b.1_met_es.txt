@@ -1,0 +1,74 @@
+﻿Title: 12.b.1 Implementación de herramientas contables estándar para supervisar los aspectos económicos y ambientales de la sostenibilidad del turismo
+
+Description: El indicador se refiere al grado de implementación en los países de las tablas de la Cuenta Satélite de Turismo (TSA, por sus siglas en inglés) y del Marco Central del Sistema de Contabilidad Ambiental y Económica (SEEA, por sus siglas en inglés) que hasta la fecha se consideran más relevantes y viables para el seguimiento de la sostenibilidad del turismo.
+
+Modified: 2025-12-18
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Centro de atención a usuarios INEGI
+Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276,
+Aguascalientes, Aguascalientes, Aguascalientes, 
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Nacional sin costo: 800 111 46 34 
+ Internacional: (código internacional) + (52)+(449) 149 1300
+atencion.usuarios@inegi.org.mx
+Raúl Figueroa Díaz
+Director de Cuentas Satélite
+INEGI Oficina Enlace Ciudad de México. Patriotismo 711, Torre A, Nivel 7, Col. San Juan, C.P. 03730
+5552781000 Ext. 321681
+raul.figueroa@inegi.org.mx
+
+Temporal: 2003-2024
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/12.b.1_es.zip
+
+Goal: 12. Garantizar modalidades de consumo y producción sostenibles 
+
+Target:  Meta 12.b. Elaborar y aplicar instrumentos para vigilar los efectos en el desarrollo sostenible, a fin de lograr un turismo sostenible que cree puestos de trabajo y promueva la cultura y los productos locales
+
+Type of indicator: Global
+
+Algorithm: 12.b.1_ES.gif
+
+Description of the indicator: Es el número de tablas implementadas a nivel nacional que hasta la fecha se consideran más relevantes y viables para el seguimiento de la sostenibilidad en el turismo. Las tablas deberán implementarse siguiendo la Cuenta Satélite de Turismo (Cuenta Satélite de Turismo: Recomendaciones sobre el Marco Conceptual 2008) y las tablas ambientales implementadas siguiendo el Marco Central del Sistema de Contabilidad Ambiental y Económica. 2012.
+
+Unit of measure: Número de tablas
+
+Geographic coverage: Nacional
+
+Opportunity: 11 meses después de cerrado el año de referencia
+
+Source of statistical information used to calculate the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Sistema de Cuentas Nacionales de México. Cuenta Satélite del Turismo de México, 2024. Cifras preliminares. Año base 2018. 2025 (18 de diciembre de 2025).
+
+Date of next update of indicator: 14 de diciembre de 2026
+
+Unit of the State responsible for calculating the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Unidad de Estadísticas Económicas.   
+ https://www.inegi.org.mx  
+
+Importance and purpose of the indicator: Este indicador es de relevancia para dar seguimiento a los aspectos económicos y ambientales de la sostenibilidad del turismo, a través del análisis de herramientas contables.
+
+National and/or international reference: Cuenta Satélite de Turismo: Recomendaciones sobre el Marco Conceptual 2008 (CST: RMC 2008) [en línea]. Naciones Unidas, Organización Mundial de Turismo, Comisión de las Comunidades Europeas, Organización de Cooperación y Desarrollo Económicos. Disponible en:  
+ https://unstats.un.org/unsd/publication/seriesf/seriesf_80rev1s.pdf
+Recomendaciones Internacionales sobre Estadísticas de Turismo 2008 (RIET 2008) [en línea]. Naciones
+Unidas, la Organización Internacional del Trabajo (OIT), Organización Mundial del turismo, Organización de Cooperación y Desarrollo Económicos, Comisión de las
+Comunidades Europeas, Fondo Monetario Internacional y Organización Mundial del Comercio. Disponible en:  
+ https://unstats.un.org/unsd/publication/seriesm/seriesm_83rev1s.pdf
+Marco Central del Sistema de Contabilidad Ambiental y Económica (SEEA, por sus siglas en inglés,
+2012) [en línea]. Naciones Unidas, Comisión Europea, Fondo Monetario Internacional, Organización de las Naciones Unidas para la Alimentación y la Agricultura,  Organización de Cooperación y Desarrollo Económicos (OCDE) y el Banco Mundial. Disponible en:  
+ https://unstats.un.org/unsd/envaccounting/seearev/CF_trans/S_march2014.pdf 
+
+Observations: Este indicador proviene de varias fuentes:
+Cuenta Satélite del Turismo de México.
+Cuentas Económicas y Ecológicas de México.
+

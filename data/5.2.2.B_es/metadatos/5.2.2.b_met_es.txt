@@ -1,0 +1,82 @@
+﻿Title: 5.2.2.b Proporción de mujeres y niñas a partir de 15 años de edad que han sufrido violencia sexual a manos de personas que no eran su pareja en los últimos 12 meses, desglosada por edad y lugar del hecho
+
+Description: Porcentaje de mujeres y niñas de 15 años y más que declararon haber experimentado al menos un incidente de violencia sexual infligida por otra persona que no sea un compañero íntimo, durante los 12 meses anteriores a la encuesta.
+
+Modified: 2022-12-14
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+Keyword: Incidente de violencia, agresor, evento, prevención, atención, sanción, erradicación
+
+ContactPoint: Centro de atención a usuarios INEGI
+Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276
+Aguascalientes, Aguascalientes, Aguascalientes 
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Nacional sin costo: 800 111 46 34 
+ Internacional: (código internacional) + (52)+(449) 910 53 00 Ext. 315301
+atencion.usuarios@inegi.org.mx
+Alejandra Ríos Cázares
+Directora General Adjunta de Desarrollo, Análisis e Indicadores de Gobierno
+Av. Patriotismo 711. Colonia San Juan, Alcaldía Benito Juárez, CDMX
+5552781000, extensión 1698
+alejandra.riosc@inegi.org.mx
+Eloina Meneses Mendoza
+Directora de Desarrollo de Información Gubernamental
+Av. Patriotismo 711. Colonia San Juan, Alcaldía Benito Juárez, CDMX
+5552781000, extensión 1779
+eloina.meneses@inegi.org.mx
+
+Temporal: 2011-2021
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Quinquenal
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/5.2.2.b_es.zip
+
+Goal: 5. Lograr la igualdad de género y empoderar a todas las mujeres y las niñas 
+
+Target:  Meta 5.2 Eliminar todas las formas de violencia contra todas las mujeres y las niñas en los ámbitos público y privado, incluidas la trata y la explotación sexual y otros tipos de explotación
+
+Type of indicator: Global
+
+Algorithm: 5_2_2_b_ES.gif
+
+Description of the indicator: Es el resultado de dividir el número de mujeres y niñas del grupo de edad e que vivieron al menos un incidente de violencia sexual por parte de otra persona que no es un actual o último compañero íntimo en los últimos 12 meses y ocurrió en el lugar l, entre el número de mujeres y niñas del grupo de edad e que vivieron al menos un incidente de violencia sexual por parte de otra persona que no es un actual o último compañero íntimo en los últimos 12 meses, multiplicado por cien.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: 7 meses posterior al levantamiento de la encuesta
+
+Source of statistical information used to calculate the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional sobre la Dinámica de las Relaciones en los Hogares (ENDIREH), 2011, 2016 y 2021.
+
+Date of next update of indicator: 31 de octubre de 2027
+
+Unit of the State responsible for calculating the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Dirección General de Estadísticas de Gobierno, Seguridad Pública y Justicia. 
+
+Importance and purpose of the indicator: Para el diseño, seguimiento y evaluación de políticas públicas sobre prevención, atención, sanción y erradicación de la violencia contra las mujeres, alineadas con los instrumentos de planeación nacional:
+Programa Sectorial de Bienestar:
+Objetivo prioritario 5. Contribuir a una cultura para la paz para incidir en la disminución de la violencia en comunidades y territorios
+Estrategia prioritaria 5.3 Contribuir a una cultura para la paz y disminuir las violencias contra las mujeres para lograr su bienestar
+Programa Sectorial de Gobernación:
+Objetivo prioritario 3: Garantizar, promover y proteger los derechos humanos de las personas mediante políticas públicas y mecanismos que aseguren el ejercicio pleno de sus derechos. 
+Estrategia prioritaria 3.3 Garantizar el derecho de las mujeres a una vida libre de violencia, a través de la construcción de medidas que modifiquen los estereotipos y conductas que atentan contra la vida y la dignidad, así como asegurar su acceso a la justicia.
+
+National and/or international reference: Repositorio de metadatos de los ODS, disponible en:   
+ https://unstats.un.org/sdgs/metadata/ 
+Convención sobre la eliminación de todas las formas de discriminación contra la mujer (CEDAW).   
+ https://www.ohchr.org/es/instruments-mechanisms/instruments/convention-elimination-all-forms-discrimination-against-women 
+
+Observations: ENDIREH 2011) Actos de violencia sexual: "la han manoseado, tocado, besado o se le han arrimado, recargado o encimado sin su consentimiento"; "le han propuesto o insinuado tener relaciones sexuales a cambio de algo"; "la castigaron, trataron mal o se vengaron, porque se negó a tener relaciones sexuales"; "la han obligado a tener relaciones sexuales en contra de su voluntad"; "le han hecho sentir miedo de ser atacada o abusada sexualmente"; "la han obligado a realizar actos sexuales por dinero"; "la han obligado a mirar escenas o actos sexuales o pornográficos"; "le han dicho piropos groseros u ofensivos de tipo sexual o sobre su cuerpo".
+ENDIREH 2016 y 2021) Actos de violencia sexual: "la han manoseado, tocado, besado o se le han arrimado, recargado o encimado sin su consentimiento"; "le han propuesto o insinuado tener relaciones sexuales a cambio de (beneficios)"; "la castigaron, trataron mal o se vengaron, porque se negó a tener relaciones sexuales (la reprobaron, le bajaron la calificación, la expulsaron o sacaron de la escuela, etc.)"; "la han obligado a tener relaciones sexuales en contra de su voluntad"; "le han hecho sentir miedo de ser atacada o abusada sexualmente"; "la han obligado a mirar escenas o actos sexuales o pornográficos (fotos, revistas, vídeos o películas pornográficas)"; "le han dicho piropos groseros u ofensivos de tipo sexual o sobre su cuerpo"; "le han enviado mensajes o publicado comentarios con insinuaciones sexuales, insultos u ofensas, a través del celular, correo electrónico o redes sociales (como Facebook, Twitter, WhatsApp)"; "alguna persona le mostró sus partes íntimas o se las manoseó enfrente de usted"; "le han levantado la falda, el vestido o le han jaloneado la ropa para ver sus partes íntimas o su ropa interior"; "han tratado de obligarla a tener relaciones sexuales en contra de su voluntad".
+ENDIREH 2011) Lugares donde ocurrió la agresión: "la calle"; "la escuela"; "la oficina"; "la fábrica o taller"; "la casa"; "el transporte público"; "el cine"; "el centro comercial"; "otro lugar".
+ENDIREH 2016 y 2021) Los lugares donde ocurrió la agresión: "la escuela"; "en las instalaciones del trabajo"; "la calle, parque"; "el transporte público"; "una casa particular"; "mercado, plaza, tianguis, centro comercial, iglesia o templo, una cantina, bar, antro, feria, fiesta, asamblea o junta vecinal"; "otro lugar público"; "otro".
+

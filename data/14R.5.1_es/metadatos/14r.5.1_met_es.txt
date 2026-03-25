@@ -1,0 +1,59 @@
+﻿Title: 14r.5.1 Cobertura de las zonas protegidas en relación con las zonas marinas
+
+Description: Corresponde al porcentaje de la zona económica exclusiva y el mar territorial cubierta por áreas naturales protegidas marinas federales.
+
+Modified: 2025-05-20
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: César E. Rodríguez Ortega
+Director General de Planeación, Evaluación y Estadística Ambiental
+Avenida Ejército Nacional 223, Colonia Anáhuac, 11320; Miguel Hidalgo, Miguel Hidalgo, Ciudad de México
+55 5490 0983, ext. 10983
+cesar.rodriguez@semarnat.gob.mx
+
+Temporal: 1993-2024
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/14r.5.1_es.zip
+
+Goal: 14. Conservar y utilizar sosteniblemente los océanos, los mares y los recursos marinos para el desarrollo sostenible 
+
+Target:  Meta 14.5 De aquí a 2020, conservar al menos el 10% de las zonas costeras y marinas, de conformidad con las leyes nacionales y el derecho internacional y sobre la base de la mejor información científica disponible
+
+Type of indicator: Regional
+
+Algorithm: 14r.5.1_ES.gif
+
+Description of the indicator: El indicador se calcula dividiendo la superficie de las áreas naturales protegidas federales marinas por la superficie de la zona económica exclusiva nacional, expresado en porcentaje.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: 1 año
+
+Source of statistical information used to calculate the indicator: - Conanp. 2025. Listado de las Áreas Naturales Protegidas de México. [Fecha de consulta: mayo de 2025]. Consultado en:  http://dgeiawf.semarnat.gob.mx:8080/ibi_apps/WFServlet?IBIF_ex=D3_BIODIV04_17&IBIC_user=dgeia_mce&IBIC_pass=dgeia_mce&NOMBREANIO=* 
+- INEGI. 2020. Superficie total del territorio nacional (dato de la superficie en km2). [Fecha de consulta: mayo de 2025]. Consultado en:  https://cuentame.inegi.org.mx/descubre/geografia/extension_territorial/
+
+Date of next update of indicator: 30 de mayo de 2026
+
+Unit of the State responsible for calculating the indicator: Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT)  
+
+Importance and purpose of the indicator: Los ODS establecieron como una de sus metas conservar y utilizar en forma sostenible los océanos, los mares y los recursos marinos. Los ecosistemas de las zonas marinas, además de poseer una enorme riqueza biológica, brindan importantes bienes y servicios ambientales a la población. La producción de alimentos, la estabilización de la línea costera, la regulación de la hidrología y el clima, la captura del bióxido de carbono y la producción de oxígeno son sólo algunos de los más importantes. Salvaguardar zonas marinas importantes por sus ecosistemas y biodiversidad es de vital importancia para detener la pérdida de biodiversidad y conservar sus servicios ambientales. En este sentido, el establecimiento de áreas protegidas ha sido un mecanismo importante a nivel global para preservar a la biodiversidad. El indicador sirve como un medio para medir la contribución de la conservación de las zonas marinas hacia el esfuerzo de proteger los ecosistemas nacionales importantes por su biodiversidad, así como para medir el cumplimiento de las obligaciones derivadas de los acuerdos internacionales.
+
+National and/or international reference: Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT). Comisión Nacional de Áreas Naturales Protegidas (CONANP). Página electrónica institucional. Disponible en:  http://www.gob.mx/conanp 
+Los ODS en América Latina y el Caribe: Centro de gestión del conocimiento estadístico: Datos, estadísticas y recursos institucionales para el seguimiento de la Agenda
+2030. Disponible en:   
+ https://statistics.cepal.org/portal/databank/index.html?lang=es&indicator_id=2014&context=sdg 
+
+Observations: El indicador no mide la eficacia de las áreas protegidas para reducir la pérdida de biodiversidad, que depende de una serie de factores de manejo y de aplicación fuera del alcance del indicador. 
+De acuerdo con la Unidad del Estado Responsable del cálculo, este indicador regional presenta los "Datos para el cálculo" en hectáreas (ha), debido a su equivalencia con el indicador ODS global 14.5.1 y su coincidencia con el Indicador Clave: Superficie de áreas naturales marinas protegidas, que forma parte del Catálogo Nacional de Indicadores (CNI). 
+

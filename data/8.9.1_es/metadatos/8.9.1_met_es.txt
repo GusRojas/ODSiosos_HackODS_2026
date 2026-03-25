@@ -1,0 +1,71 @@
+﻿Title: 8.9.1 PIB directo turístico como proporción del PIB total y en tasas de crecimiento
+
+Description: El Producto Interno Bruto Turístico directo (PIBDT) representa el valor de todas las actividades características y conexas del sector que producen bienes y servicios para atender al turismo interno y externo, entonces el indicador denota la contribución de las actividades turísticas directas al Producto Interno Bruto total (PIB).
+
+Modified: 2025-12-18
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+Keyword: Crecimiento económico, desarrollo económico, sector turismo
+
+ContactPoint: Centro de atención a usuarios INEGI
+Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276,
+Aguascalientes, Aguascalientes, Aguascalientes, 
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Nacional sin costo: 800 111 46 34 
+ Internacional: (código internacional) + (52)+(449) 149 1300
+atencion.usuarios@inegi.org.mx
+Raúl Figueroa Díaz
+Director de Cuentas Satélite
+INEGI Oficina Enlace Ciudad de México. Patriotismo 711, Torre A, Nivel 7, Col. San Juan, C.P. 03730
+5552781000 Ext. 321681
+raul.figueroa@inegi.org.mx
+
+Temporal: 1993-2024
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/8.9.1_es.zip
+
+Goal: 8. Promover el crecimiento económico sostenido, inclusivo y sostenible, el empleo pleno y productivo y el trabajo decente para todos 
+
+Target:  Meta 8.9 De aquí a 2030, elaborar y poner en práctica políticas encaminadas a promover un turismo sostenible que cree puestos de trabajo y promueva la cultura y los productos locales
+
+Type of indicator: Global
+
+Algorithm: 8_9_1_ES.gif
+
+Description of the indicator: El Producto Interno Bruto Turístico directo de un determinado año de referencia es dividido entre el Producto Interno Bruto total del mismo año de referencia y su resultado se multiplica por cien.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: 11 meses después de cerrado el año
+
+Source of statistical information used to calculate the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Sistema de Cuentas Nacionales de México. Cuenta Satélite del Turismo de México, 2024. Cifras preliminares. Año base 2018. 2025 (18 de diciembre de 2025).
+
+Date of next update of indicator: 14 de diciembre de 2026
+
+Unit of the State responsible for calculating the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Unidad de Estadísticas Económicas.   
+ https://www.inegi.org.mx  
+
+Importance and purpose of the indicator: Es el indicador de síntesis del sector turístico que miden la aportación de las actividades características y conexas que producen bienes y servicios para atender al turismo Interno y externo al Producto Interno Bruto total, permite conocer y dar seguimiento a la evolución del turismo con gran oportunidad y con ello apoyar la toma de decisiones y la formulación de políticas económicas de los gobiernos, empresas y el sector social.
+
+National and/or international reference: Cuenta Satélite de Turismo: Recomendaciones sobre el Marco Conceptual 2008 (CST: RMC 2008) [en línea]. Naciones Unidas, Organización Mundial de Turismo, Comisión de las Comunidades Europeas, Organización de Cooperación y Desarrollo Económicos. Disponible en:  
+ https://unstats.un.org/unsd/publication/seriesf/seriesf_80rev1s.pdf 
+ Recomendaciones Internacionales sobre Estadísticas de Turismo 2008 (RIET 2008) [en línea]. Naciones Unidas, la Organización Internacional del Trabajo (OIT), Organización
+Mundial del turismo, Organización de Cooperación y Desarrollo Económicos, Comisión de las Comunidades Europeas, Fondo Monetario Internacional y Organización Mundial
+del Comercio. Disponible en:  
+ https://unstats.un.org/unsd/publication/seriesm/seriesm_83rev1s.pdf 
+
+Observations: En la Cuenta satélite del turismo de México se utiliza el indicador PIBT el cual es un equivalente al PIBDT que se señala en el nombre del indicador ODS.
+

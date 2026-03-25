@@ -1,0 +1,6 @@
+﻿"a/ Las estimaciones tienen un coeficiente de variación (%) en el rango de [15,30), por lo que su nivel de precisión es clasificado como Moderado. "
+"b/ Estas estimaciones tienen un coeficiente de variación (%) de 30 en adelante, por lo que su nivel de precisión es clasificado como Bajo. Una precisión Baja requiere un
+uso cauteloso de la estimación en el que se analicen las causas de la alta variabilidad y se consideren otros indicadores de precisión y confiabilidad, como el intervalo
+de confianza. "
+"Fuente: INEGI. Encuesta Nacional de Calidad e Impacto Gubernamental, 2013, 2015, 2017, 2019, 2021 y 2023. "
+"cvegeo: Clave geoestadística"

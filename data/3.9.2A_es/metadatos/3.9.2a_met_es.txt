@@ -1,0 +1,68 @@
+﻿Title: 3.9.2a Tasa de mortalidad atribuida al agua insalubre, el saneamiento deficiente y la falta de higiene (exposición a servicios insalubres de agua, saneamiento e higiene para todos (WASH))
+
+Description: La tasa de mortalidad atribuida al agua insalubre, al saneamiento inseguro y a la falta de higiene (exposición a servicios de Agua, Saneamiento e Higiene para Todos (WASH, por sus siglas en inglés) definidas como el número de muertes por agua, saneamiento inseguro y falta de higiene (exposición a servicios WASH inseguros) en un año, dividido por el población, y multiplicado por 100.000.
+
+Modified: 2025-11-14
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Mtra. Manett Vargas García
+Directora General de Evaluación del Desempeño
+Avenida Paseo de la Reforma 450 
+Colonia Juárez, 06600
+Cuauhtémoc, Cuauhtémoc, Ciudad de México
+01 (55) 50621600 Ext. 52697
+manett.vargas@salud.gob.mx
+Dr. Delfino Campos Díaz
+Director de Gestión y Seguimiento para la Evaluación de los Sistemas de Salud
+Av. Agrarismo #227, piso 3, Col. Escandón II Sección D.T. Miguel Hidalgo, C.P. 11800, CDMX.
+01 (55) 50621600 Ext. 52681
+delfino.campos@salud.gob.mx
+Mtro. Arturo Barranco Flores
+Director de Información sobre Necesidades de Salud y Población
+Homero No. 213, Col. Chapultepec Morales. Alcaldía Miguel Hidalgo, CDMX C.P. 11570
+(55) 6392-2300 Ext.52594
+arturo.barranco@salud.gob.mx
+
+Temporal: 1998-2023
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/3.9.2a_es.zip
+
+Goal: 3. Garantizar una vida sana y promover el bienestar de todos a todas las edades 
+
+Target:  Meta 3.9 De aquí a 2030, reducir considerablemente el número de muertes y enfermedades causadas por productos químicos peligrosos y por la polución y contaminación del aire, el agua y el suelo
+
+Type of indicator: Global
+
+Algorithm: 3.9.2_ES.gif
+
+Description of the indicator: Este indicador resulta de dividir la totalidad de muertes atribuidas a la insalubridad del agua, el saneamiento inseguro y la falta de higiene en un determinado año, entre la población total a mitad del periodo en el mismo año, multiplicado por 100.
+
+Unit of measure: Tasa
+
+Geographic coverage: Nacional y entidad federativa
+
+Opportunity: 1 año
+
+Source of statistical information used to calculate the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Estadísticas Vitales. Estadísticas de defunciones registradas. Disponible en:  https://www.inegi.org.mx/programas/mortalidad/#Microdatos
+Consejo Nacional de Población (CONAPO). Proyecciones de la Población de México y de las Entidades Federativas, 2020-2070 y Conciliación Demográfica de México, 1950-2019. Disponible en:  https://www.gob.mx/conapo/acciones-y-programas/conciliacion-demografica-de-1950-a-2019-y-proyecciones-de-la-poblacion-de-mexico-y-de-las-entidades-federativas-2020-a-2070?tab=
+
+Date of next update of indicator: 30 de junio de 2026
+
+Unit of the State responsible for calculating the indicator: Secretaría de Salud (SSA). Dirección General de Información en Salud. 
+
+Importance and purpose of the indicator: Conocer las regiones con mayores muertes por estas causas, mismas que se usan para que los diferentes programas de la Secretaría de Salud analicen sus resultados para fortalecer sus estrategias donde sea necesario, ya que son muertes totalmente prevenibles. 
+
+National and/or international reference: Estrategia Nacional para la implementación de la Agenda 2030 en México   
+ https://www.gob.mx/agenda2030/documentos/estrategia-nacional-de-la-implementacion-de-la-agenda-2030-para-el-desarrollo-sostenible-en-mexico 
+
+Observations: Muertes atribuibles a agua, saneamiento e higiene inseguros que se centran en servicios WASH inadecuados, expresado por 100.000 habitantes; Las enfermedades incluidas son las fracciones atribuibles a WASH de diarrea (CIE-10 códigos A00, A01, A03, A04, A06-A09), infecciones respiratorias agudas (CIE-10 códigos H65-H66, J20-J22, P23, Y U04) infecciones por nematodos intestinales (CIE-10 códigos B76-B77, B79) y desnutrición proteico-energética (CIE-10 códigos E40-E46). 
+

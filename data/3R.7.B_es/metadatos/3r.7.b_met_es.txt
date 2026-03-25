@@ -1,0 +1,56 @@
+﻿Title: 3r.7.b Porcentaje de mujeres de 15 a 19 años que son madres
+
+Description: Número mujeres entre 15 y 19 años de edad con al menos una hija o hijo nacida(o) viva(o)
+
+Modified: 2025-09-01
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Mirna Hebrero Martínez
+Coordinadora de Estudios Sociodemográficos y Prospectiva
+Doctor José María Vertiz 852, Colonia Narvarte, 03020; Benito Juárez, Ciudad de México
+55 5128 0000, ext. 19511
+mhebrero@conapo.gob.mx
+
+Temporal: 2014-2023
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual irregular
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/3r.7.b_es.zip
+
+Goal: 3. Garantizar una vida sana y promover el bienestar de todos a todas las edades 
+
+Target:  Meta 3.7 De aquí a 2030, garantizar el acceso universal a los servicios de salud sexual y reproductiva, incluidos los de planificación familiar, información y educación, y la integración de la salud reproductiva en las estrategias y los programas nacionales
+
+Type of indicator: Regional
+
+Algorithm: 3r.7.b_ES.gif
+
+Description of the indicator: Es el cociente del número de mujeres entre 15 y 19 años  con al menos una hija o hijo nacida(o) viva(o) entre el total de mujeres de 15 a 19 años a mitad de ese año por 100.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional y entidad federativa
+
+Opportunity: Quinquenal
+
+Source of statistical information used to calculate the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional de la Dinámica Demográfica (ENADID) 2014, 2018 y 2023.  https://www.inegi.org.mx/programas/enadid/
+
+Date of next update of indicator: Después de publicados los resultados de la nueva ENADID, en 2028 (aprox. 2029)
+
+Unit of the State responsible for calculating the indicator: Consejo Nacional de Población (CONAPO). Coordinación de Estudios Sociodemográficos y Prospectiva (CESP). 
+
+Importance and purpose of the indicator: Reducir el porcentaje de mujeres adolescentes de 15 a 19 años que son madres debido a que las mujeres que quedan embarazadas y tienen hijos/as en la adolescencia, están más predispuestas a sufrir carencias sociales y económicas. Además, la prevención de nacimientos a edad temprana en la vida de una mujer es una medida importante para mejorar la salud materna y reducir la mortalidad infantil. Por otra parte, las mujeres que tienen hijos/as a una edad temprana experimentan una reducción en las oportunidades para mejorar su situación socioeconómica, sobre todo porque es poco probable que las madres jóvenes puedan seguir estudiando y, si tienen que trabajar, puede resultar especialmente difícil compaginar las responsabilidades familiares y laborales.  (Fondo de Población de las Naciones Unidas UNFPA, 2020).
+
+National and/or international reference: CEPAL. Consenso de Montevideo sobre población y desarrollo. Plataforma de seguimiento regional: Porcentaje de adolescentes que han tenido hijos nacidos vivos según número
+de hijos.   
+ https://consensomontevideo.cepal.org/es/indicador/porcentaje-de-adolescentes-que-han-tenido-hijos-nacidos-vivos-segun-numero-de-hijos  
+
+Observations: Se consideró como fuente de información a la ENADID debido a que contiene en el módulo de la mujer el apartado de historia de embarazos con el cual es posible conocer el número de hijas o hijos que han nacido vivos que han tenido las mujeres al momento del levantamiento de la encuesta.
+

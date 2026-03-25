@@ -1,0 +1,71 @@
+﻿Title: 3.1.1 Razón de mortalidad materna
+
+Description: Es el número de defunciones de mujeres mientras se encuentren embarazadas o dentro de los 42 días siguientes a la terminación del embarazo, debida a cualquier causa relacionada con o agravada por el embarazo mismo o su atención (con exclusión de las muertes accidentales o incidentales), en un determinado año, por cada 100 mil nacidos vivos en ese mismo año. Representa el riesgo obstétrico.
+
+Modified: 2025-11-14
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+Keyword: Muertes maternas, nacidos vivos, desigualdad, rezago, carencia de servicios de salud, riesgo materno
+
+ContactPoint: Mtra. Manett Vargas García
+Directora General de Evaluación del Desempeño
+Avenida Paseo de la Reforma 450 
+Colonia Juárez, 06600
+Cuauhtémoc, Cuauhtémoc, Ciudad de México
+01 (55) 50621600 Ext. 52697
+manett.vargas@salud.gob.mx
+Dr. Delfino Campos Díaz
+Director de Gestión y Seguimiento para la Evaluación de los Sistemas de Salud
+Av. Agrarismo #227, piso 3, Col. Escandón II Sección D.T. Miguel Hidalgo, C.P. 11800, CDMX.
+01 (55) 50621600 Ext. 52681
+delfino.campos@salud.gob.mx
+Mtro. Arturo Barranco Flores
+Director de Información sobre Necesidades de Salud y Población
+Homero No. 213, Col. Chapultepec Morales. Alcaldía Miguel Hidalgo, CDMX C.P. 11570
+(55) 6392-2300 Ext.52594
+arturo.barranco@salud.gob.mx
+
+Temporal: 1990-2023
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/3.1.1_es.zip
+
+Goal: 3. Garantizar una vida sana y promover el bienestar de todos a todas las edades 
+
+Target:  Meta 3.1 De aquí a 2030, reducir la tasa mundial de mortalidad materna a menos de 70 por cada 100,000 nacidos vivos
+
+Type of indicator: Global
+
+Algorithm: 3_1_1_ES.gif
+
+Description of the indicator: Este indicador resulta de dividir el número de muertes maternas en un determinado año, entre el total de nacidos vivos en el mismo periodo, multiplicado por 100 mil.
+
+Unit of measure: Defunciones de mujeres por cada 100 mil  nacidos vivos
+
+Geographic coverage: Nacional y entidad federativa
+
+Opportunity: 10 meses
+
+Source of statistical information used to calculate the indicator: SALUD. Base de datos del Subsistema de Información sobre Nacimientos. Bases de datos de mortalidad.
+
+Date of next update of indicator: 30 de junio de 2026
+
+Unit of the State responsible for calculating the indicator: Secretaría de Salud (SSA). Dirección General de Información en Salud (DGIS). 
+
+Importance and purpose of the indicator: La disminución de la mortalidad materna es un desafío enorme para el sistema de salud, su importancia radica en  su vinculación con la desigualdad, el rezago social y económico del país. En las últimas décadas, mejorar la salud materna y en especial reducir las muertes  se ha convertido en una prioridad para el sector salud con la implementación de diversas estrategias como: El Hospital Amigo del Niño y de la Madre, el programa Arranque Parejo en la vida, la vigilancia del embarazo y la dotación de suplemento alimenticio a mujeres embarazadas y en periodo de lactancia, a través del programa de Desarrollo Humano Prospera y la estrategia Embarazo Saludable, a través del Seguro Popular de Salud.  El combate de la  mortalidad materna no es tarea exclusiva de los servicios de salud, por lo que es necesario involucrar a otros actores como la familia, la comunidad y la sociedad civil organizada, a fin de sentar las bases de una nueva cultura del cuidado a la salud y con ello reducir los riesgos durante el embarazo, parto y puerperio.
+
+National and/or international reference: Repositorio de metadatos de los ODS, disponible en:   
+ https://unstats.un.org/sdgs/metadata/ 
+
+Observations: Este indicador pertenece al catálogo de CNI.
+Las series estadísticas se ajustaron con base en las proyecciones de la población de México y de las entidades federativas 2020-2070 publicadas por el CONAPO en 2023. Los datos del periodo 1990-2001 corresponden a razones de mortalidad materna estimadas. Para este periodo, la estimación a nivel nacional se basó en diversos estudios nacionales e internacionales sobre el subregistro de la mortalidad materna, y en datos de la Encuesta Nacional de la Dinámica Demográfica. La estimación para las entidades federativas se calculó respecto a la estimación nacional, tomando en cuenta la distribución porcentual de las muertes maternas observadas, por lo que los datos no consideraron la heterogeneidad del subregistro entre entidades. Sin embargo, a partir de 2002, este indicador se calcula considerando para el numerador el número de defunciones maternas de 10 a 54 años ocurridas en el año por entidad de residencia habitual, según las estadísticas vitales de defunciones del INEGI/SS que corresponden a los resultados de la "Búsqueda Intencionada y Reclasificación de muertes maternas". A partir de 2007 se excluyen defunciones con residencia en el extranjero y a partir de 2009 se excluyen las muertes maternas registradas de manera extemporánea. En cuanto a los nacidos vivos, las cifras se corrigen a través de un factor de ajuste por entidad federativa, que se obtiene a partir de la tendencia de las diferencias porcentuales entre los nacimientos estimados del CONAPO y los nacidos vivos ocurridos del SINAC. Según la Clasificación Internacional de Enfermedades 10a rev. (CIE-10) se considera una defunción materna a la clasificada en los códigos O00-O99, A34, D392, F53, M830 y embarazadas con B20-B24 (que a partir de 2014 se envían al código O987). Excluye muertes maternas tardías (O96 y O97) y defunciones por coriocarcinoma (C58). 
+Los códigos CIE9 correspondientes son 630-679. La descripción de los códigos de la Clasificación Internacional de Enfermedades 10a rev. (CIE-10) se encuentra disponible en la siguiente dirección: https://ais.paho.org/classifications/Chapters/
+

@@ -1,0 +1,5 @@
+﻿"Fuente: - Bases de datos sobre defunciones generales de la Dirección General de Información en Salud (DGIS)  
+ https://www.gob.mx/salud/acciones-y-programas/direccion-general-de-informacion-en-salud-dgis 
+- Registros administrativos de nacimientos de la Secretaría de Salud  
+ https://datos.gob.mx/busca/dataset/nacimientos-ocurridos  "
+"cvegeo: Clave geoestadística"

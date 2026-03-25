@@ -1,0 +1,59 @@
+﻿Title: 7.2.1 Proporción de la energía renovable en el consumo final total de energía
+
+Description: Mide la participación de energías renovables en el consumo final energético en el país. Se determina sumando el consumo energético de Biogas, Bagazo de Caña, Eólica, Geotermia, Hidráulica, Leña y Solar, dividida por el consumo final de energía (Carbón, Coque, Renovables, Petrolíferos, Gas seco y Energía Electrica).
+
+Modified: 2026-02-10
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+Keyword: Combustibles no fósiles, energía limpia, uso de energía alternativas
+
+ContactPoint: Eder García Jiménez
+Subdirector de Planeación del Sector Eléctrico y Energías Renovables
+Avenida Insurgentes 20, Roma Norte  C.P.06700. Cuauhtémoc, CDMX
+01 (55) 5000 6000 Ext 6758
+egarciaj@energia.gob.mx
+
+Temporal: 2004-2024
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/7.2.1_es.zip
+
+Goal: 7. Garantizar el acceso a una energía asequible, fiable, sostenible y moderna para todos 
+
+Target:  Meta 7.2 De aquí a 2030, aumentar considerablemente la proporción de energía renovable en el conjunto de fuentes energéticas
+
+Type of indicator: Global
+
+Algorithm: 7_2_1_ES.gif
+
+Description of the indicator: Se calcula dividiendo el consumo de energía de todas las fuentes renovables entre el consumo energético total del país, multiplicado por 100.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: 1 año
+
+Source of statistical information used to calculate the indicator: Secretaría de Energía. Dirección General de Planeación e Integración Energética.
+
+Date of next update of indicator: No definida
+
+Unit of the State responsible for calculating the indicator: Secretaría de Energía (SENER)   
+ https://www.gob.mx/sener 
+
+Importance and purpose of the indicator: Muestra el avance del uso de fuentes de energías renovables en la matriz energética del país.
+
+National and/or international reference: Sin referencia 
+
+Observations: Consumo total de energía renovable se obtiene a partir de sumar:
+1. La generación bruta de electricidad a partir de energías renovables (Hidráulica, Eólica, Geotermia, Solar fotovoltaica, Bagazo, Biogás), al cual se resta perdidas de energía por transmisión y distribución.
+2. Más el consumo final de Leña, Bagazo de caña y Solar.
+

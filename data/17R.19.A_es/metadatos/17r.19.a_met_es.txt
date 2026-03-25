@@ -1,0 +1,59 @@
+﻿Title: 17r.19.a Porcentaje del presupuesto público que representa a) la oficina nacional de estadística, b) el sistema estadístico nacional, c) el instituto geográfico nacional y d) el sistema geográfico nacional
+
+Description: Porcentaje del presupuesto público que representa el Instituto Nacional de Estadística y Geografía y el Sistema Nacional de Información Estadística y Geográfica.
+
+Modified: 2025-03-10
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Centro de atención a usuarios INEGI
+Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276,
+Aguascalientes, Aguascalientes, Aguascalientes, 
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Nacional sin costo: 800 111 46 34 
+ Internacional: (código internacional) + (52)+(449) 149 1300
+atencion.usuarios@inegi.org.mx
+
+Temporal: 2015-2025
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/17r.19.a_es.zip
+
+Goal: 17. Fortalecer los medios de implementación y revitalizar la Alianza Mundial para el Desarrollo Sostenible 
+
+Target:  Meta 17.19 De aquí a 2030, aprovechar las iniciativas existentes para elaborar indicadores que permitan medir los progresos en materia de desarrollo sostenible y complementen el producto interno bruto, y apoyar la creación de capacidad estadística en los países en desarrollo
+
+Type of indicator: Regional
+
+Algorithm: 17r.19.a_ES.gif
+
+Description of the indicator: Se obtiene dividiendo el presupuesto autorizado por la H. Cámara de Diputados al Instituto Nacional de Estadística y Geografía entre el presupuesto de egresos de la Federación, el resultado multiplicado por 100.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: 6 meses
+
+Source of statistical information used to calculate the indicator: Secretaría de Hacienda y Crédito Público (SHCP). Presupuesto de Egresos de la Federación por ejercicio fiscal. Disponible en:  https://www.pef.hacienda.gob.mx/#:~:text=El%20Presupuesto%20de%20Egresos%20de,de%20Hacienda%20y%20Cr%C3%A9dito%20P%C3%BAblico
+
+Date of next update of indicator: Al final del 2do trim. del año siguiente a la aprobación del PEF
+
+Unit of the State responsible for calculating the indicator: Instituto Nacional de Estadística y Geografía (INEGI), Dirección General de Administración. 
+
+Importance and purpose of the indicator: Medir la asignación para el gasto público en las oficinas nacionales de estadística es esencial para garantizar la transparencia, la eficiencia y la efectividad en la producción de datos estadísticos y geográficos, lo que a su vez fortalece la toma de decisiones informadas y el desarrollo económico y social de un país.
+
+National and/or international reference: Repositorio de Indicadores priorizados para el seguimiento de los ODS en América Latina y el Caribe (CEPAL). Disponible en:   
+ https://agenda2030lac.org/estadisticas/indicadores-priorizados-seguimiento-ods.html 
+
+Observations: El indicador refleja el presupuesto autorizado al Instituto Nacional de Estadística (INEGI) y al Sistema Nacional de Información Estadística y Geográfica (SNIEG), y no incluye el resto de las Unidades de Estados del SNIEG que realizan actividades estadísticas y geográficas.
+

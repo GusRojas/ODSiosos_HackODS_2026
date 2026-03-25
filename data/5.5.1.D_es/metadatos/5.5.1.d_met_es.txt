@@ -1,0 +1,76 @@
+﻿Title: 5.5.1.d Proporción de mujeres en los cabildos municipales
+
+Description: Mujeres en posiciones de presidentas, síndicas y regidoras o concejales municipales como proporción del total de integrantes de los cabildos municipales.
+
+Modified: 2024-05-02
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Centro de atención a usuarios INEGI
+Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276
+Aguascalientes, Aguascalientes, Aguascalientes 
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Nacional sin costo: 800 111 46 34 
+ Internacional: (código internacional) + (52)+(449) 910 53 00 Ext. 315301
+atencion.usuarios@inegi.org.mx
+Dr. Dwight D. Dyer Leal
+Director General de Estadísticas de Gobierno, Seguridad Pública y Justicia
+Av. Patriotismo 711. Colonia San Juan, delegación Benito Juárez, CDMX.
+5552781000, Ext:321592
+dyer@inegi.org.mx
+
+Temporal: 2018-2022
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Bienal
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/5.5.1.d_es.zip
+
+Goal: 5. Lograr la igualdad de género y empoderar a todas las mujeres y las niñas 
+
+Target:  Meta 5.5 Asegurar la participación plena y efectiva de las mujeres y la igualdad de oportunidades de liderazgo a todos los niveles decisorios en la vida política, económica y pública
+
+Type of indicator: Global
+
+Algorithm: 5.5.1.d_ES.gif
+
+Description of the indicator: Número de mujeres que fueron electas y/o fungen como presidentas, síndicas, regidoras o concejales municipales, entre el total de integrantes de los cabildos de los municipios del país, multiplicado por 100.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional y entidad federativa
+
+Opportunity: Tres meses después de la publicación de los programas estadísticos fuente
+
+Source of statistical information used to calculate the indicator: Numerador:
+Censo Nacional de Gobiernos Municipales y Demarcaciones Territoriales de la Ciudad de México 2019 - 2023 
+ https://www.inegi.org.mx/programas/cngmd/2023/ 
+Denominador:
+Censo Nacional de Gobiernos Municipales y Demarcaciones Territoriales de la Ciudad de México 2019 - 2023
+ https://www.inegi.org.mx/programas/cngmd/2023/
+
+Date of next update of indicator: 30 de junio de 2026
+
+Unit of the State responsible for calculating the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Dirección General de Estadísticas de Gobierno, Seguridad Pública y Justicia. 
+
+Importance and purpose of the indicator: Medir el grado en que se ha logrado el equilibrio de género y las mujeres tienen igual acceso a la toma de decisiones políticas en el gobierno local.
+
+National and/or international reference: Instituto Europeo para la Equidad de Género. 2022. Gender balance in politics: November 2022.  
+ https://eige.europa.eu/publications/gender-balance-politics-november-2022  
+ONU MUJERES. 2021. Women representation in local government: A global analysis. Disponible en:  
+ https://www.unwomen.org/sites/default/files/2022-01/Womens-representation-in-local-government-en.pdf  
+PNUD. 2015. Gender Equality: Women participation and leadership in governments at the local level. Asia and the Pacific 2013. Disponible en:  
+ https://www.undp.org/asia-pacific/publications/gender-equality-women%E2%80%99s-participation-and-leadership-governments-local-level  
+Metadato internacional del indicador 5.5.1b Proportion of seats held by women in (b) local governments. Disponible en:  
+ https://unstats.un.org/sdgs/metadata/files/Metadata-05-05-01b.pdf  
+
+Observations: En México, los cabildos municipales son el órgano de gobierno y toma de decisiones en el nivel local. Están conformados por los presidentes(as) municipales, síndicos(as) y regidores(as) o concejales, que son los representantes populares elegidos por la ciudadanía para integrar el ayuntamiento.
+El total incluye las presidentas y presidentes, síndicas y síndicos, regidores y regidoras o conejales municipales al 31 de diciembre de cada año, se omiten puestos vacantes y valores no especificados.
+

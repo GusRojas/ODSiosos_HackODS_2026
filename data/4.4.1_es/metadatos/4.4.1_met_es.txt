@@ -1,0 +1,68 @@
+﻿Title: 4.4.1 Proporción de jóvenes y adultos con conocimientos de tecnología de la información y las comunicaciones (TIC), desglosada por tipo de conocimiento técnico
+
+Description: El indicador busca conocer en que medida la poblacion es capaz de usar o manejar la tecnologia de la informacion y las telecomunicaciones, desglosados por el tipo de conocimiento adquirido (la lista completa de estos conocimientos se encuentra en la sección de "Descripción narrativa del cálculo del indicador" de esta misma ficha) y por nivel de complejidad.
+
+Modified: 2025-06-25
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+Keyword: TICs, población que usa o maneja TICs, computadoras, teléfonos inteligentes, tabletas digitales, multifuncionales, archivos digitales, e-mail, hoja de cálculo, software, hardware, base de datos
+
+ContactPoint: Luis Ivan Garcia Marcelo
+Coordinación General de Planeación Estratégica
+Avenida Insurgentes sur 1143, Colonia Noche Buena, 03720; Benito Juárez, Benito Juárez, Ciudad de México
+55 5015 4371
+luis.garcia@ift.org.mx
+
+Temporal: 2016-2024
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/4.4.1_es.zip
+
+Goal: 4. Garantizar una educación inclusiva y equitativa de calidad y promover oportunidades de aprendizaje permanente para todos 
+
+Target:  Meta 4.4 De aquí a 2030, aumentar considerablemente el número de jóvenes y adultos que tienen las competencias necesarias, en particular técnicas y profesionales, para acceder al empleo, el trabajo decente y el emprendimiento
+
+Type of indicator: Global
+
+Algorithm: 4_4_1_ES.gif
+
+Description of the indicator: Este indicador se calcula dividiendo la población de determinados grupos de edad, que tienen alguna de las sig. características
+1.  Enviar y recibir correo electrónico
+2.  Descargar contenidos de Internet (música, videos,
+documentos, etcétera)
+3.  Copiar archivos entre directorios (carpetas)
+4. Crear archivos de texto
+5. Crear hojas de cálculo
+6. Crear presentaciones
+7. Instalar dispositivos periféricos (impresora, proyector, etcétera)
+8. Crear o usar bases de datos
+Entre el total de la población.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional, desglose por entidad federativa.
+
+Opportunity: Al final del 2do trimestre del año siguiente a la realización de la encuesta
+
+Source of statistical information used to calculate the indicator: - Instituto Federal de Telecomunicaciones (IFT). 
+
+Date of next update of indicator: 31 de agosto de 2026
+
+Unit of the State responsible for calculating the indicator: Instituto Federal de Telecomunicaciones (IFT)  
+
+Importance and purpose of the indicator: Las Habilidades o conocimiento en Tecnologías de la comunicación y las telecomunicaciones permiten conocer el uso efectivo que se les da a las herramientas. La ausencia de este conocimiento dificulta el beneficio potencial del uso de estas tecnologías. De modo que este indicador permite medir el nivel de perfeccionamiento en el uso de las TICS y el impacto en la adopción de las mismas.
+
+National and/or international reference: Compilation of Metadata for the Proposed Global Indicators for the Review of the 2030 Agenda for Sustainable Development (IAEG-SDGs)
+http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-4.pdf
+
+Observations: La medición de este indicador esta disponible desde 2016, pues es una pregunta de reciente adición a la Encuesta Nacional sobre Disponibilidad y Uso de Tecnología de Información en los Hogares (ENDUTIH).
+Se actualizaron los datos de población debido a que el universo de usuarios de Internet que captura la MODUTIH y ENDUTIH es sólo aquel que es mayor a 6 años de edad, en ese sentido y con el objeto de usar el mismo conjunto de personas, se utilizan las proyecciones de CONAPO considerando exclusivamente la población mayor a 6 años de edad.
+

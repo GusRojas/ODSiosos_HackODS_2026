@@ -1,0 +1,8 @@
+﻿"Nota: Excepto las estimaciones con notas /a, /b, /c y /d, las estimaciones presentadas en este cuadro tienen un coeficiente de variación (%) en el rango de (0,15), por lo que su nivel de precisión es clasificado como Alto. "
+"a/ En 2021 estas estimaciones tienen un coeficiente de variación (%) en el rango de [15,30), por lo que su nivel de precisión es clasificado como Moderado. "
+"b/ En 2021 estas estimaciones tienen un coeficiente de variación (%) de 30 en adelante, por lo que su nivel de precisión es clasificado como Bajo. "
+"c/ En 2011 y 2016 estas estimaciones tienen un coeficiente de variación (%) de 25 en adelante, por lo que su nivel de precisión es clasificado como Bajo. "
+"d/ En 2011 y 2016 estas estimaciones tienen un coeficiente de variación (%) en el rango de [15,25), por lo que su nivel de precisión es clasificado como Moderado. "
+"Fuente: Instituto Nacional de Estadística y Geografía (INEGI), Dirección General de Estadísticas de Gobierno, Seguridad Pública y Justicia (DGEGSPJ). Encuesta Nacional sobre
+la Dinámica de las Relaciones en los Hogares (ENDIREH) 2011, 2016 y 2021. "
+"cvegeo: Clave geoestadística"

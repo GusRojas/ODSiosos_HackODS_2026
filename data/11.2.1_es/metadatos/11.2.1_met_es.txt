@@ -1,0 +1,55 @@
+﻿Title: 11.2.1 Proporción de la población que tiene fácil acceso al transporte público, desglosada por sexo, edad y personas con discapacidad
+
+Description: Este indicador será monitoreado por la proporción de la población que tiene acceso conveniente al transporte público. El acceso al transporte público se considera conveniente cuando una persona no tiene que tomar otro medio de transporte para tener acceso al transporte público.
+
+Modified: 2022-12-12
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Abraham Issaí Nuñez Morales
+Subdirector de Vinculación de la Unidad de Planeación y Desarrollo Institucional
+Nuevo León No. 210 Colonia Hipódromo Condesa, Del. Cuauhtémoc 06100 Ciudad de México
+5568209700 Ext. 50710
+abraham.nunez@sedatu.gob.mx
+
+Temporal: 2020-2020
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Quinquenal
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/11.2.1_es.zip
+
+Goal: 11. Lograr que las ciudades y los asentamientos humanos sean inclusivos, seguros, resilientes y sostenibles 
+
+Target:  Meta 11.2. De aquí a 2030, proporcionar acceso a sistemas de transporte seguros, asequibles, accesibles y sostenibles para todos y mejorar la seguridad vial, en particular mediante la ampliación del transporte público, prestando especial atención a las necesidades de las personas en situación de vulnerabilidad, las mujeres, los niños, las personas con discapacidad y las personas de edad
+
+Type of indicator: Global
+
+Algorithm: 11.2.1_ES.gif
+
+Description of the indicator: El indicador resulta de dividir a la población que tiene fácil acceso a transporte público y que no necesita otro medio para acceder al transporte público en sus traslados al trabajo entre la población que utiliza el transporte público para llegar a sus trabajos, multiplicado por 100.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional y entidad federativa
+
+Opportunity: 1 año.
+
+Instituto Nacional de Estadística y Geografía (INEGI). Censo de Población y Vivienda 2020 (Censo 2020). Cuestionario ampliado. Disponible en: https://www.inegi.org.
+mx/programas/ccpv/2020/
+
+Date of next update of indicator: 2026
+
+Unit of the State responsible for calculating the indicator: Secretaría de Desarrollo Agrario, Territorial y Urbano (SEDATU). Unidad de Planeación y Desarrollo Institucional.
+
+Importance and purpose of the indicator: El indicador permite medir la accesibilidad al transporte público para permitir una movilidad equitativa en todas las ciudades.
+
+National and/or international reference: Repositorio de metadatos de los ODS. Disponible en:  https://unstats.un.org/sdgs/metadata/
+
+Observations: Debido a la limitación de la información, se hace el cálculo con la información disponible y sólo considerando los viajes perpendiculares de la población que se traslada al trabajo. No se considera a la población que sólo útiliza el vehículo, bicicleta o transporte del trabajo como medio de traslado, ni a la población que sólo se traslada a pie para llegar a su trabajo.
+

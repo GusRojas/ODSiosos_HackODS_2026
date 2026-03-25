@@ -1,0 +1,59 @@
+﻿Title: 8.5.2 Tasa de desocupación, desglosada por sexo y edad
+
+Description: Proporción de las personas desocupadas, respecto de la Población Económicamente Activa.
+
+Modified: 2025-05-14
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+Keyword: Trabajo, desempleo, desocupada
+
+ContactPoint: Josué Gómez Castellanos
+Director de Estudios e Investigación Laboral
+Dirección General de Investigación y Estadísticas del Trabajo, Boulevard Adolfo López Mateos # 1968, Colonia Los Alpes, 01010, Alcaldía Alvaro Obregón, Ciudad de México
+Dir.(55) 2000 5463, 2000 5300, ext. 63263
+josue.gomez@stps.gob.mx
+
+Temporal: 2006-2024
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/8.5.2_es.zip
+
+Goal: 8. Promover el crecimiento económico sostenido, inclusivo y sostenible, el empleo pleno y productivo y el trabajo decente para todos 
+
+Target:  Meta 8.5 De aquí a 2030, lograr el empleo pleno y productivo y el trabajo decente para todas las mujeres y los hombres, incluidos los jóvenes y las personas con discapacidad, así como la igualdad de remuneración por trabajo de igual valor
+
+Type of indicator: Global
+
+Algorithm: 8_5_2_ES.gif
+
+Description of the indicator: La tasa de desempleo se refiere al número de personas desocupadas, expresado como porcentaje del total de la población económicamente activa.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional y entidad federativa
+
+Opportunity: Tres meses
+
+Source of statistical information used to calculate the indicator: A partir de 2006: Encuesta Nacional de Ocupación y Empleo (ENOEN), con estimaciones trimestrales de población que genera el Marco de Muestreo de Viviendas del INEGI, con base en el Censo 2020.
+
+Date of next update of indicator: 31 de mayo de 2026
+
+Unit of the State responsible for calculating the indicator: Secretaría del Trabajo y Previsión Social (STPS). 
+
+Importance and purpose of the indicator: Este indicador ilustra la magnitud relativa de las personas que desean trabajar y buscan trabajo, pero no lo han encontrado. Mide la falta de oportunidades y los problemas de desajuste en la información entre la oferta y demanda de trabajo, lo que impide la incorporación de las personas a una ocupación productiva.
+
+National and/or international reference: Programa de las Naciones Unidas para el Desarrollo (PNUD). Soporte del PNUD para la implementación de la Agenda 2030 para el Desarrollo Sostenible  Grupo de Naciones
+Unidas para el Desarrollo 
+ Organización Internacional del Trabajo (OIT). Indicadores Clave del Mercado de Trabajo, 2015. OIT,  Ginebra, Suiza. 
+ http://www.ilo.org/global/statistics-and-databases/research-and-databases/kilm/WCMS_498940/lang--es/index.htm 
+
+Observations: A partir de 2006, la información utiliza las estimaciones trimestrales de población que genera el Marco de Muestreo de Viviendas del INEGI, con base en el Censo 2020.
+

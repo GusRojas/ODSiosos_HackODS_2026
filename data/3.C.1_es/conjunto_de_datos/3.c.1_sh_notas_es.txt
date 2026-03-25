@@ -1,0 +1,5 @@
+﻿"Fuente: Numerador:  
+  
+ - Para Instituciones Privadas la fuente es: INEGI. Estadísticas de salud en establecimientos particulares. Disponible en:   
+ https://www.inegi.org.mx/programas/salud/#Tabulados "
+"cvegeo: Clave geoestadística"

@@ -1,0 +1,59 @@
+﻿Title: 17.1.2 Proporción del presupuesto nacional financiado por impuestos internos
+
+Description: Es el porcentaje que representa la "Entrada de recursos financieros que no se pueden vincular directamente con la recepción de un bien y servicio", respecto al total del presupuesto, o ingreso presupuestario, nacional. "Se pueden subdividir por la base del impuesto y el impuesto específico".
+
+Modified: 2021-05-07
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+Keyword: Balance fiscal, balance general
+
+ContactPoint: Sergio Robles Salgado
+Subdirector de Estadística de Finanzas Públicas
+Av. Insurgentes sur 1971, C.P. 01020,
+Colonia Guadalupe Inn,
+Álvaro Obregón, Álvaro Obregón,
+Ciudad de México
+(55) 3688 1217
+sergio_robles@hacienda.gob.mx
+
+Temporal: 1990-2020
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/17.1.2_es.zip
+
+Goal: 17. Fortalecer los medios de implementación y revitalizar la Alianza Mundial para el Desarrollo Sostenible 
+
+Target:  Meta 17.1 Fortalecer la movilización de recursos internos, incluso mediante la prestación de apoyo internacional a los países en desarrollo, con el fin de mejorar la capacidad nacional para recaudar ingresos fiscales y de otra índole
+
+Type of indicator: Global
+
+Algorithm: 17_1_2_ES.gif
+
+Description of the indicator: Es el resultado de dividir los ingresos tributarios observados del gobierno central en millones de pesos entre el gasto neto pagado observado del gobierno central en millones de pesos multiplicado por cien.
+Ingresos tributarios.- Se refiere a los impuestos de acuerdo a lo estipulado en el artículo 2, fracción I del Código Fiscal de la Federación.
+Gasto neto presupuestario.- Se refiere a la totalidad de las erogaciones realizadas por el Gobierno Federal, los organismos y empresas de control presupuestario directo y las empresas productivas del Estado, en cumplimiento de sus atribuciones para proveer bienes y servicios públicos a la población, las cuales no incluyen las amortizaciones de la deuda pública.
+Gobierno Central.- Se define como la suma del Gobierno Federal más Seguridad Social (IMSS e ISSSTE).
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: 30 días posteriores del cierre del año de referencia.
+
+Source of statistical information used to calculate the indicator: Secretaría de Hacienda y Crédito Público (SHCP). Estadísticas oportunas de finanzas públicas(Consultado el 5 de septiembre de 2016).
+
+Date of next update of indicator: 31 de mayo de 2022
+
+Unit of the State responsible for calculating the indicator: Secretaría de Hacienda y Crédito Público (SHCP). 
+
+Importance and purpose of the indicator: Mostrar qué proporción del gasto del sector público está financiado con ingresos tributarios a fin de medir la eficiencia recaudatoria.
+
+

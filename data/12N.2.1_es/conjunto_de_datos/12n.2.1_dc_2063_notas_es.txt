@@ -1,0 +1,3 @@
+﻿"Nota: - A partir de 2023 el INEGI dejó de generar la información de producción de fertilizantes, por lo que deberá solicitarse la misma a tal dependencia. 
+  - A partir de diciembre de 2023 el SIAP no podrá procesar la información de comercio exterior, debido a recortes de personal. "
+"Fuente: Los datos de 2022 son de INEGI, para las cifras de producción de fertilizantes, mientras que los de comercio exterior son procesados por el SIAP, con base en cifras de SHACP-ANAM. La superficie sembrada fertilizada es dato del SIAP. "

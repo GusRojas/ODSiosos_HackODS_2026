@@ -1,0 +1,2 @@
+﻿"Fuente: Instituto Nacional de Estadística y Geografía (INEGI). Sistema de Cuentas Nacionales de México. Cuentas económicas y ecológicas de México, 2017 preliminar. Año base 2013. (30 de noviembre de 2018) "
+"cvegeo: Clave geoestadística"

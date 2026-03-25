@@ -1,0 +1,4 @@
+﻿"Fuente: Secretaría de Educación Pública (SEP). Dirección General de Planeación, Programación y Estadística Educativa. Sistema de Estadísticas Continuas de Educación del Formato
+911. Disponible en:   
+ https://www.planeacion.sep.gob.mx/estadisticaeducativas.aspx  "
+"cvegeo: Clave geoestadística"

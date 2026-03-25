@@ -1,0 +1,58 @@
+﻿Title: 8.10.1.b Número de cajeros automáticos por cada 100 000 adultos
+
+Description: El indicador denota el número de cajeros automáticos por cada 100 000 adultos en México.
+
+Modified: 2024-07-02
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+Keyword: sistema bancario, Instituciones financieras, Infraestructura bancaria
+
+ContactPoint: Socorro Mayec Vargas Arias
+Directora General para el Acceso a los Servicios Financieros
+Avenida Insurgentes Sur 1971 Colonia Guadalupe Inn, 01020, Álvaro Obregón, Álvaro Obregón, Ciudad de México
+(55) 1454 6000, ext. 6061
+inclusion_financiera@cnbv.gob.mx
+
+Temporal: 2013-2022
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/8.10.1.b_es.zip
+
+Goal: 8. Promover el crecimiento económico sostenido, inclusivo y sostenible, el empleo pleno y productivo y el trabajo decente para todos 
+
+Target:  Meta 8.10 Fortalecer la capacidad de las instituciones financieras nacionales para fomentar y ampliar el acceso a los servicios bancarios, financieros y de seguros para todos
+
+Type of indicator: Global
+
+Algorithm: 8_10_1_b_ES.gif
+
+Description of the indicator: El indicador señala la concentración de cajeros automáticos en proporción con la población adulta que habita en el país. Mientras mayor sea este indicador, se entiende que la población tiene una mayor posibilidad de acceder al sistema financiero a través de estos canales.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: Anual.
+
+Source of statistical information used to calculate the indicator: Este indicador es calculado por el Fondo Monetario Internacional (FMI) a partir de la información que le provee la Dirección General para el Acceso a los Servicios Financieros de la Comisión Nacional Bancaria y de Valores (CNBV) sobre el número de cajeros automáticos; a su vez, el dato sobre la población adulta se obtiene de los Indicadores del Desarrollo Mundial del Banco Mundial.
+
+Date of next update of indicator: 31 de diciembre de 2024
+
+Unit of the State responsible for calculating the indicator: Secretaría de Hacienda y Crédito Público (SHCP). 
+
+Importance and purpose of the indicator: Los cajeros automáticos son fundamentales para el uso de productos y servicios financieros. Este indicador se refiere al número de cajeros automáticos que son el punto de acceso de la población con las instituciones financieras para realizar operaciones como retiro de efectivo, consulta de saldo, depósito de efectivo, entre otras. A medida que la infraestructura financiera se expanda y las instituciones financieras provean productos acordes a las necesidades de la población, mayor será el uso de los productos financieros formales.
+
+National and/or international reference: Fondo Monetario Internacional. Encuesta de Acceso Financiero (FAS, por sus siglas en inglés) 
+
+Observations: Este indicador es útil para comparaciones internacionales. Adicionalmente a este indicador, la Comisión Nacional Bancaria y de Valores (CNBV) calcula y publica el valor de este indicador incluyendo no solo a los bancos, sino también a las entidades de ahorro y crédito popular (Socap y Sofipo) utilizando una métrica de cada 10 mil adultos.
+El valor de los cajeros automáticos a diciembre de 2015 se actualizó debido a un reenvío de información por parte de las instituciones financieras.
+El valor de la población que reportó el IMF en la última Encuesta de Acceso Financiero (FAS) cambió para todos los periodos. Se actualizaron los valores de acuerdo al último archivo recibido.
+

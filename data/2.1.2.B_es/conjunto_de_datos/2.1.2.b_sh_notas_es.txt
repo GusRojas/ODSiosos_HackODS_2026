@@ -1,0 +1,20 @@
+﻿"Nota: -La población presentada en estos cuadros tiene un propósito exclusivamente estadístico: está calibrada para que, en las estimaciones de pobreza, la suma de la población
+municipal sea igual a la población de cada entidad federativa reportada con base en la información del MCS-ENIGH 2010, MEC del MCS-ENIGH 2015 o MEC del MCS-ENIGH
+2020 publicados. Por lo anterior, estas cifras de población podrían diferir de las reportadas por el INEGI o CONAPO a nivel municipal.							 
+ -En 2020 para los municipios de Seybaplaya (04012) en Campeche, Honduras de la Sierra (07125) en Chiapas y La Magdalena Tlaltelulco (29048) en Tlaxcala no se puede generar estimaciones de los indicadores debido a que la muestra del Censo de Población y Vivienda 2020 es insuficiente, como lo especifica el INEGI  en:  
+ https://www.inegi.org.mx/contenidos/programas/ccpv/2020/doc/Censo2020_Resultados_complementarios_EUM.pdf 
+  -Los municipios de San Quintín (02006) en Baja California; Seybaplaya (04012) en Campeche; El Parral (07122), Emiliano Zapata (07123), Mezcalapa (07124), Capitán Luis
+Ángel Vidal (07120), Rincón Chamula San Pedro (07121) y Honduras de la Sierra (07125) en Chiapas; Coatetelco (17034), Xoxocotla (17035) y Hueyapan en Morelos; Bacalar
+(23010) y Puerto Morelos (23011) en Quintana Roo son de nueva creación, como lo especifica el INEGI en:  
+ https://www.inegi.org.mx/contenidos/programas/ccpv/2020/doc/Censo2020_CPV_nuevos_municipios_a.pdf , por lo cual pueden no tener estimaciones 2010, 2015 o 2020. 
+  -"ND": hace referencia a los municipios que por ser de nueva creación o por no poseer información suficiente, no cuenta con estimación en algún año. 
+ -"NDEstimación Sin Precisión": hace referencia a las estimaciones no presentadas por falta de precisión estadística. "
+"a/ Estimación sin precisión; el coeficiente de variación es mayor que 25% (la información proviene de encuestas de hogares con diseño muestral probabilístico) "
+"ND No disponible"
+"NA No aplicable"
+"Fuente: Estimaciones del CONEVAL con base en las mediciones de pobreza a nivel municipal, e información del MCS-ENIGH 2010, la muestra del Censo de Población y Vivienda 2010,
+el Modelo Estadístico 2015 para la continuidad del MCS-ENIGH, la Encuesta Intercensal 2015, el Modelo Estadístico 2020 para la continuidad del MCS-ENIGH y la muestra
+del Censo de Población y Vivienda 2020, INEGI.
+Dirección Ejecutiva de Estadística y Análisis Territorial (DEEAT) y Coordinación General de Análisis de la Pobreza
+(CGAP), Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL). "
+"cvegeo: Clave geoestadística"

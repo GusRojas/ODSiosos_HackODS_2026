@@ -1,0 +1,66 @@
+﻿Title: 5.4.1c Proporción de tiempo dedicado al trabajo doméstico y de cuidado no remunerado, desglosada por hablantes de lengua indígena
+
+Description: Este indicador se define como la proporción del tiempo dedicado al trabajo doméstico y de cuidado no remunerado para el propio hogar como para otros hogares. El trabajo doméstico no remunerado incluye la preparación de alimentos, el lavado de platos, la limpieza y el mantenimiento de una vivienda, la lavandería, el planchado, la jardinería, el cuidado de mascotas, las compras, la instalación, el mantenimiento y la reparación de artículos personales y domésticos. Estas actividades se enumeran en ICATUS 2016 bajo la división principal “3. Unpaid domestic services for household and family members ” y la división principal 4 "Unpaid caregiving services for household and family members". En el caso de la Clasificación Mexicana de Uso del Tiempo (CMAUT) 2014 que es la referencia para ENUT, son las actividades que se enumeran bajo la división principal 2 " Trabajo doméstico no remunerado para el propio hogar", la división principal “3. Trabajo no remunerado de cuidado para miembros del propio hogar;  excluyendo el tiempo de trabajo de cuidados pasivos. Así como la división 41 "Trabajo de apoyo a otros hogares no remunerado".
+
+Modified: 2026-02-20
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Centro de atención a usuarios INEGI
+Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276,
+Aguascalientes, Aguascalientes, Aguascalientes, 
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Nacional sin costo: 800 111 46 34 
+ Internacional: (código internacional) + (52)+(449) 149 1300
+atencion.usuarios@inegi.org.mx
+
+Temporal: 2014-2024
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Quinquenal
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/5.4.1c_es.zip
+
+Goal: 5. Lograr la igualdad de género y empoderar a todas las mujeres y las niñas 
+
+Target:  Meta 5.4. Reconocer y valorar los cuidados y el trabajo doméstico no remunerados mediante servicios públicos, infraestructuras y políticas de protección social, y promoviendo la responsabilidad compartida en el hogar y la familia, según proceda en cada país
+
+Type of indicator: Global
+
+Algorithm: 5.4.1c_ES.gif
+
+Description of the indicator: El indicador se calcula sobre la base del número promedio de horas que la población dedica al trabajo doméstico y de cuidado no remunerado por día en el propio hogar y otros hogares, respecto al tiempo total del día, lo que representa la proporción del tiempo dedicado a este tipo de actividades. Este tipo de medidas se pueden utilizar para comparar diferentes grupos poblacionales, desgloses geográficos y evaluar cambios a lo largo del tiempo.
+El indicador se presenta desagregado de acuerdo la población de 15 años y más, por sexo y según la condición de habla de lengua indígena. Este indicador no incluye cuidados pasivos.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: 8 meses después del levantamiento
+
+Source of statistical information used to calculate the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional sobre Uso del Tiempo (ENUT).  https://www.inegi.org.mx/programas/enut/
+
+Date of next update of indicator: 31 de diciembre de 2030
+
+Unit of the State responsible for calculating the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Unidad de Estadísticas Sociodemográficas.   
+ https://www.inegi.org.mx  
+
+Importance and purpose of the indicator: Permite conocer la cantidad de tiempo que la población de 12 años y más dedica a proporcionar trabajo doméstico y de cuidados no remunerados. Este indicador muestra la desigual carga de trabajo de las mujeres y de los hombres en el propio hogar y otros hogares. Es útil para la formulación de políticas públicas encaminadas a tener una mejor distribución de las cargas de trabajo doméstico y de cuidados no remunerado entre las mujeres, los hombres, las empresas y el Estado, así como para sustentar elaboración de las políticas y programas públicos orientados al desarrollo de sistemas de cuidados.  
+
+National and/or international reference: Sistema de Cuentas Nacionales 2008 (SCN 2008) 
+Adopción de la Resolución sobre estadísticas de trabajo, empleo y subutilización de la mano de obra por la Conferencia Internacional de Estadísticos del Trabajo (CIET)
+en su 19.a reunión en 2013. 
+Clasificación internacional de actividades para estadísticas de uso del tiempo 2016 (ICATUS 2016) 
+Clasificación Mexicana de Actividades de Uso del Tiempo (CMAUT) 2014. 
+
+Observations: Los datos presentados para este indicador se expresan como una proporción de tiempo total que se dedica en un día al trabajo doméstico y de cuidado. Los datos promedio por día se dividen entre 24 horas y se multiplican por 100. Lo cual, corresponde a la fórmula de cálculo propuesta en el metadato NU pero expresada de manera diferente.
+El número promedio de horas dedicadas al trabajo doméstico y de cuidados no remunerado se deriva de las estadísticas de uso del tiempo que se recopilan mediante la Encuesta Nacional de Uso del Tiempo (ENUT).
+El 28 de agosto de 2025, se reemplazaron los microdatos de la ENUT 2014 y 2019, debido a que se actualizaron las estimaciones de población, con base en la propia actualización del Marco de Muestreo del INEGI.
+

@@ -1,0 +1,52 @@
+﻿Title: 11n.1.1 Porcentaje de viviendas en rezago habitacional
+
+Description: Es el pocentaje total de viviendas a nivel nacional en condiciones de rezago habitacional.
+
+Modified: 2022-11-23
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Abraham Issaí Nuñez Morales
+Subdirector de Vinculación de la Unidad de Planeación y Desarrollo Institucional
+Nuevo León No. 210 Colonia Hipódromo Condesa, Del. Cuauhtémoc 06100 Ciudad de México
+5568209700 Ext. 50710
+abraham.nunez@sedatu.gob.mx
+
+Temporal: 2015-2020
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Quinquenal
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/11n.1.1_es.zip
+
+Goal: 11. Lograr que las ciudades y los asentamientos humanos sean inclusivos, seguros, resilientes y sostenibles 
+
+Target:  Meta 11n.1 Acceso efectivo de las personas a viviendas y servicios básicos bajo una perspectiva de derechos, adecuados, seguros y asequibles con énfasis en los grupos en desventaja
+
+Type of indicator: Nacional
+
+Algorithm: 11n.1.1_ES.gif
+
+Description of the indicator: Se identifican las viviendas por sus materiales en paredes, en techo y pisos para generar la variable de materiales deteriorados. Después se calculan los residentes por cuarto en cada vivienda y se clasifican las que presentan hacinamiento. Luego, se identifican las viviendas que no cuentan con excusado. Por último, se genera una variable que clasifica cada vivienda según su condición de rezago habitacional y se aplican los factores de expansión de la base de datos para conocer la estimación poblacional. Para el cálculo del rezago habitacional por vivienda se utiliza la base de datos Viviendas del Conteo o CPV.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: Seis meses a un año
+
+Source of statistical information used to calculate the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Intercensal 2015. Microdatos.  https://www.inegi.org.mx/programas/intercensal/2015/#Microdatos
+Instituto Nacional de Estadística y Geografía (INEGI). Censo de Población y Vivienda 2020. Microdatos.  https://www.inegi.org.mx/programas/ccpv/2020/#Microdatos
+
+Date of next update of indicator: 31 de diciembre de 2025
+
+Unit of the State responsible for calculating the indicator: Comisión Nacional de Vivienda (CONAVI). Subdirección General de Análisis de Vivienda, Prospectiva y Sustentabilidad 
+
+Importance and purpose of the indicator: Como una medida de la importancia relativa de la evidencia de hogares en condiciones de rezago habitacional.
+
+

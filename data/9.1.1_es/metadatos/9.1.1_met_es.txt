@@ -1,0 +1,60 @@
+﻿Title: 9.1.1 Proporción de la población rural que vive a menos de 2 km de una carretera transitable todo el año
+
+Description: Proporción de personas que viven en localidades rurales a menos de 2 km (aproximadamente 25 a 30 minutos a pie) de la carretera más cercana, transitable todo el año.
+
+Modified: 2021-10-22
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Centro de atención a usuarios INEGI
+Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276,
+Aguascalientes, Aguascalientes, Aguascalientes,
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Nacional sin costo: 800 111 46 34
+Internacional: (código internacional) + (52)+(449) 910 53 00 Ext. 5301
+atencion.usuarios@inegi.org.mx
+
+Temporal: 2010-2020
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Decenal
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/9.1.1_es.zip
+
+Goal: 9. Construir infraestructuras resilientes, promover la industrialización inclusiva y sostenible y fomentar la innovación 
+
+Target:  Meta 9.1. Desarrollar infraestructuras fiables, sostenibles, resilientes y de calidad, incluidas infraestructuras regionales y transfronterizas, para apoyar el desarrollo económico y el bienestar humano, haciendo especial hincapié en el acceso asequible y equitativo para todos
+
+Type of indicator: Global
+
+Algorithm: 9.1.1_ES.gif
+
+Description of the indicator: El indicador resulta de dividir la población rural que vive a menos de 2 km de una carretera transitable todo el año (área del buffer) entre la población rural total de la localidad rural (población rural delimitada).
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional, entidad federativa y municipio o demarcación territorial
+
+Opportunity: 3 meses después de la publicación de los principales resultados por localidad (ITER) del Censo de Población y Vivienda
+
+Source of statistical information used to calculate the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Dirección General de Geografía y Medio Ambiente.
+
+Date of next update of indicator: Octubre del 2031
+
+Unit of the State responsible for calculating the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Dirección General de Geografía y Medio Ambiente.
+
+Importance and purpose of the indicator: Desarrollar infraestructuras fiables, sostenibles, resilientes y de calidad, incluidas infraestructuras regionales y transfronterizas, para apoyar el desarrollo económico y el bienestar humano, haciendo especial hincapié en el acceso asequible y equitativo para todos.
+
+Transport & ICT (2016), Measuring Rural Access: Using New Technologies, Washington DC, World Bank, License: Creative Commons Attribution CC BY 3.0, consultado el 01
+ de junio de 2021.World Bank (2016), Work Plans for Tier III Indicators (as of 03 March 2017), 9.1.1 Proportion of the rural population who live within 2 km of an 
+all-season road, NY, Sustainable Development Goal indicators website, consultado el 01 de junio de2021.
+
+Observations: El indicador se mide combinando tres conjuntos de datos geoespaciales: dónde viven las personas, la distribución espacial de la red de carreteras y la transitabilidad de las carreteras. No existen criterios específicos definidos para conceptualizar "carretera transitable todo el año".
+

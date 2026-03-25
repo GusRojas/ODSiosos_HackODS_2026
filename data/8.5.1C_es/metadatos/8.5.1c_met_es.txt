@@ -1,0 +1,74 @@
+﻿Title: 8.5.1c Ingreso medio por hora de empleadas y empleados, desglosado por tipo de ocupación
+
+Description: Este indicador proporciona información sobre los ingresos medios por hora del empleo remunerado de los empleados por sexo y tipos de ocupación.
+
+Modified: 2025-06-30
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Centro de atención a usuarios INEGI
+Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276,
+Aguascalientes, Aguascalientes, Aguascalientes, 
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Nacional sin costo: 800 111 46 34 
+ Internacional: (código internacional) + (52)+(449) 149 1300
+atencion.usuarios@inegi.org.mx
+Octavio Heredia Hernández
+Director General Adjunto de Encuestas Sociodemográficas
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276
+Aguascalientes, Aguascalientes
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Telefóno: 4499105300, Ext. 4322, 4223
+octavio.heredia@inegi.org.mx
+
+Temporal: 2016-2024
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/8.5.1c_es.zip
+
+Goal: 8. Promover el crecimiento económico sostenido, inclusivo y sostenible, el empleo pleno y productivo y el trabajo decente para todos 
+
+Target:  Meta 8.5 De aquí a 2030, lograr el empleo pleno y productivo y el trabajo decente para todas las mujeres y los hombres, incluidos los jóvenes y las personas con discapacidad, así como la igualdad de remuneración por trabajo de igual valor
+
+Type of indicator: Global
+
+Algorithm: 8.5.1c_ES.gif
+
+Description of the indicator: Este indicador considera la relación entre la remuneración media por hora y el total de horas trabajadas de las personas ocupadas según el tipo de ocupación y se calcula como el cociente entre el ingreso mensual de las y los ocupados en el periodo de referencia, entre el total de horas trabajadas por las y los ocupados en el mismo periodo de referencia.
+
+Unit of measure: Pesos mexicanos
+
+Geographic coverage: Nacional
+
+Opportunity: 60 días después de concluido el último trimestre del año
+
+Source of statistical information used to calculate the indicator: Encuesta Nacional de Ocupación y Empleo (ENOE). Primer trimestre de 2016 al primer trimestre de 2020.
+
+Date of next update of indicator: No definida
+
+Unit of the State responsible for calculating the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Dirección General de Estadísticas Sociodemográficas.   
+ https://www.inegi.org.mx  
+
+Importance and purpose of the indicator: Los ingresos son un aspecto clave de la calidad del empleo y las condiciones de vida. La información sobre los ingresos por hora desglosados por varias clasificaciones (sexo, edad, ocupación) proporciona alguna indicación de la medida en que se respeta o se logra la igualdad de remuneración.
+
+National and/or international reference: La OIT es el centro de coordinación de las Naciones Unidas para las estadísticas laborales. Establece estándares internacionales para las estadísticas del trabajo a
+través de la Conferencia Internacional de Estadísticos del Trabajo. También compila y produce estadísticas laborales con el objetivo de difundir conjuntos de datos
+comparables a nivel internacional, y brinda asistencia técnica y capacitación a los Estados miembros de la OIT para apoyar sus esfuerzos por producir datos del mercado
+laboral de alta calidad. 
+ Resolución sobre la Clasificación Internacional de la Situación en el Empleo (CISE), adoptada por la Decimoquinta Conferencia Internacional de Estadísticos del Trabajo
+(enero de 1993). 
+ Manual de la OIT: Un sistema integrado de estadísticas de salarios. 
+
+Observations: Los datos se calculan con el promedio aritmético de los trimestres de los cuales se disponga información. 
+Los datos absolutos correspondientes al periodo 2016-2022 se generaron utilizando el factor de expansión correspondiente que considera las estimaciones poblacionales trimestrales generadas por el Marco de Muestreo del INEGI.
+

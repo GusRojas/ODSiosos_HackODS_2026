@@ -1,0 +1,15 @@
+﻿"Nota: No se presentan las cifras a nivel federal en 2015, ya que el Censo Nacional de Gobierno Federal comenzó en 2017.					 
+ Las sumas por edades pueden no coincidir con el total, ya que se consideran los registros de sexo y edad no especificados dentro del total.							 
+ A partir de 2019 se omiten vacantes y se contabilizan solo una vez a aquellos titulares que estaban al frente de dos o más instituciones, en el resto de años no se puede conocer dicha información.							 
+ La metodología desarrollada por el PNUD, custodio internacional del indicador, requiere la exclusión del personal militar y empresas de gobierno, por lo que los totales
+de toda la serie excluyen a los titulares y al personal adscrito a las empresas productivas del estado (PEMEX, CFE y subsidiarias) y puestos vacantes. A nivel federal, a partir de 2020 se excluyen titulares y personal de la Secretaría de la Defensa Nacional y Secretaría de Marina y puestos vacantes, para el resto de años no es posible hacer la exclusión.							 
+ Se consideró a la población dentro del rango de 18 a 70 años como la disponible en edad de trabajar. "
+"a/ Los registros sin edad especificada representan más de 20% del total "
+"ND No disponible"
+"Fuente: • Instituto Nacional de Estadística y Geografía (INEGI), Censo Nacional de Gobiernos Estatales 2021 - 2024.
+• Instituto Nacional de Estadística y Geografía (INEGI), Censo Nacional de Gobierno, Seguridad Pública y Sistema Penitenciario Estatales 2016 - 2020.
+• Instituto Nacional de Estadística y Geografía (INEGI), Censo Nacional de Gobierno Federal 2017 a 2024.
+• Instituto Nacional de Estadística y Geografía (INEGI), Censo Nacional de Procuración de Justicia Federal 2020 - 2024.
+
+• Consejo Nacional de Población (CONAPO), Conciliación Demográfica de 1950 a 2019 y Proyecciones de la población de México y de las entidades federativas 2020 a 2070."
+"cvegeo: Clave geoestadística"

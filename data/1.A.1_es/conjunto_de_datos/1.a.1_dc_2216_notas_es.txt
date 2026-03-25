@@ -1,0 +1,10 @@
+﻿"Nota: Los servicios sociales básicos y la ayuda alimentaria para el desarrollo, que se centran en la reducción de la pobreza, se definen utilizando los siguientes códigos de propósito del Sistema de Informes de los Acreedores de la OCDE, que identifican el sector al que se destina la actividad: 
+ • Educación básica (códigos CRS 112xx) 
+ • Salud básica (códigos CRS (122xx) 
+ • Suministro de agua y saneamiento (códigos CRS 140xx) 
+ • Ayudas multisectoriales para servicios sociales básicos (código CRS 16050) 
+ • Ayuda alimentaria para el desarrollo (código CRS52010) 
+ La lista detallada de códigos de propósito de CRS y sus definiciones están disponibles aquí: http://www.oecd.org/dac/stats/purposecodessectorclassification.htm  "
+"Fuente: Donaciones totales de AOD para reducción de la pobreza: Organización para la Cooperación y el Desarrollo Económico. 2021. Disponible en:   
+ https://www.oecd.org/mexico/aid-at-a-glance.htm#recipients;  
+ https://stats.oecd.org/  "

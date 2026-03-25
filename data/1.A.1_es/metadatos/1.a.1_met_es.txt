@@ -1,0 +1,61 @@
+﻿Title: 1.a.1 Total de las subvenciones de asistencia oficial para el desarrollo de todos los donantes que se centran en la reducción de la pobreza como porcentaje del ingreso nacional bruto del país receptor
+
+Description: Subvenciones totales de asistencia oficial para el desarrollo (AOD) de todos los donantes que se centran en la reducción de la pobreza como parte del ingreso nacional bruto del país receptor.
+
+Modified: 2024-06-06
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Mtra. Fabiola Soto Narváez
+Directora de Cooperación Multilateral, Foros y Mecanismos de Cooperación
+Av. Juárez 20, Colonia Centro, Centro, Cuauhtémoc, 06010 Ciudad de México, CDMX
+55 3686 5100 Ext. 6634
+fsoto@sre.gob.mx
+
+Temporal: 2018-2021
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/1.a.1_es.zip
+
+Goal: 1. Poner fin a la pobreza en todas sus formas y en todo el mundo 
+
+Target:  Meta 1.a Garantizar una movilización significativa de recursos procedentes de diversas fuentes, incluso mediante la mejora de la cooperación para el desarrollo, a fin de proporcionar medios suficientes y previsibles a los países en desarrollo, en particular los países menos adelantados, para que implementen programas y políticas encaminados a poner fin a la pobreza en todas sus dimensiones
+
+Type of indicator: Global
+
+Algorithm: 1.a.1_ES.gif
+
+Description of the indicator: La suma de las donaciones totales de AOD de todos los donantes que se centran en la reducción de la pobreza como porcentaje de la renta nacional bruta del país en el periodo de reporte.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: No determinada; la información puede tardar hasta dos años en ser publicada por la OCDE.
+
+Source of statistical information used to calculate the indicator: Donaciones totales de AOD para reducción de la pobreza: Organización para la Cooperación y el Desarrollo Económico. 2021. Disponible en:  https://www.oecd.org/mexico/aid-at-a-glance.htm#recipients; https://stats.oecd.org/
+
+Date of next update of indicator: Cada marzo se reportarán cifras de los últimos datos disponibles
+
+Unit of the State responsible for calculating the indicator:  Agencia Mexicana para de Cooperación Internacional para el Desarrollo (AMEXCID)  
+
+Importance and purpose of the indicator: El indicador se basa en el Partner Report on Support to Statistics (PRESS) que está diseñado y administrado por PARIS21 para proporcionar una instantánea del valor en dólares del apoyo al trabajo estadístico en los países en desarrollo (PARIS21 citada en UNSTATS, 2016; pp.1).
+
+National and/or international reference: Repositorio de metadatos de los ODS, disponible en:   
+ https://unstats.un.org/sdgs/metadata/ 
+
+Observations: Los servicios sociales básicos y la ayuda alimentaria para el desarrollo, que se centran en la reducción de la pobreza, se definen utilizando los siguientes códigos de propósito del Sistema de Informes de los Acreedores de la OCDE, que identifican el sector al que se destina la actividad:
+• Educación básica (códigos CRS 112xx)
+• Salud básica (códigos CRS (122xx)
+• Suministro de agua y saneamiento (códigos CRS 140xx)
+• Ayudas multisectoriales para servicios sociales básicos (código CRS 16050)
+• Ayuda alimentaria para el desarrollo (código CRS52010)
+La lista detallada de códigos de propósito de CRS y sus definiciones están disponibles aquí: https://www.oecd.org/development/financing-sustainable-development/development-finance-standards/purposecodessectorclassification.htm 
+

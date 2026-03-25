@@ -1,0 +1,61 @@
+﻿Title: 3.7.2.b Tasa de fecundidad en adolescentes (de 15 a 19 años) por cada 1 000 mujeres de ese grupo de edad
+
+Description: Es el número de nacimientos por cada mil mujeres entre 15 y 19 años de edad.
+
+Modified: 2025-09-01
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+Keyword: Embarazo adolescente, erradicación del embarazo adolescente, Estrategia Nacional de Prevención del Embarazo en Adolescentes (ENAPEA), usos y costumbres, coerción sexual, matrimonio infantil, estereotipos de las niñas y adolescentes
+
+ContactPoint: Mirna Hebrero Martínez
+Coordinadora de Estudios Sociodemográficos y Prospectiva
+Doctor José María Vertiz 852, Colonia Narvarte, 03020; Benito Juárez, Ciudad de México
+55 5128 0000, ext. 19511
+mhebrero@conapo.gob.mx
+
+Temporal: 2010-2025
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/3.7.2.b_es.zip
+
+Goal: 3. Garantizar una vida sana y promover el bienestar de todos a todas las edades 
+
+Target:  Meta 3.7 De aquí a 2030, garantizar el acceso universal a los servicios de salud sexual y reproductiva, incluidos los de planificación familiar, información y educación, y la integración de la salud reproductiva en las estrategias y los programas nacionales
+
+Type of indicator: Global
+
+Algorithm: 3_7_2_b_ES.gif
+
+Description of the indicator: Es el cociente del número de nacimientos ocurridos en mujeres entre 15 y 19 años que tienen lugar en un determinado año entre el total de mujeres de 15 a 19 años a mitad de ese año por 1 000.
+
+Unit of measure: Número de hijos(as) nacidos(as) vivos(as) por cada 1 000 adolescentes entre 15 y 19 años
+
+Geographic coverage: Nacional y entidad federativa
+
+Opportunity: Una vez que se cuente con las proyecciones actualizadas, en el momento que se requiera el dato puede proporcionarse
+
+Source of statistical information used to calculate the indicator: Consejo Nacional de Población (CONAPO). Conciliación Demográfica de México 1950 a 2019 y las Proyecciones de la Población de México y de las Entidades Federativas 2020 a 2070.
+
+Date of next update of indicator: 31 de agosto de 2028
+
+Unit of the State responsible for calculating the indicator: Consejo Nacional de Población (CONAPO). Coordinación de Estudios Sociodemográficos y Prospectiva (CESP). 
+
+Importance and purpose of the indicator: La reducción de la fecundidad en las adolescentes y hacer frente a los múltiples factores subyacentes, son aspectos esenciales para mejorar la salud sexual y reproductiva, y el bienestar social y económico de las adolescentes.  Existe un acuerdo sustancial en la bibliografía que las mujeres que quedan embarazadas y tienen hijos/as a edades tempranas de su vida reproductiva; están sujetas a un mayor riesgo de complicaciones o incluso la muerte durante el embarazo y el parto; y se considera que su descendencia es, también, más vulnerable. Por lo tanto, la prevención de nacimientos a edad temprana en la vida de una mujer es una medida importante para mejorar la salud materna y reducir la mortalidad infantil. Por otra parte, las mujeres que tienen hijos/as a una edad temprana experimentan una reducción en las oportunidades para mejorar su situación socioeconómica, sobre todo porque es poco probable que las madres jóvenes puedan seguir estudiando y, si tienen que trabajar, puede resultar especialmente difícil compaginar las responsabilidades familiares y laborales. La tasa de fecundidad entre las adolescentes también proporciona evidencia indirecta sobre el acceso a los servicios de salud pertinentes ya que los jóvenes, y en particular las mujeres adolescentes solteras, a menudo experimentan dificultades en el acceso a servicios de salud sexual y reproductiva (Naciones Unidas, Departamento de Asuntos Económicos y Sociales; División de Estadísticas, 2016).
+
+National and/or international reference: Naciones Unidas (UN).  
+ https://www.un.org/development/desa/pd/content/fertility-and-marriage-0  
+Consejo Nacional de Población (CONAPO). Conciliación Demográfica de 1950 a 2019 y Proyecciones de la población de México y de las entidades federativas 2020 a 2070.   
+ https://www.gob.mx/conapo/acciones-y-programas/conciliacion-demografica-de-1950-a-2019-y-proyecciones-de-la-poblacion-de-mexico-y-de-las-entidades-federativas-2020-a-2070
+Consejo Nacional de Población (CONAPO). Documentos metodológicos.   
+ https://www.gob.mx/conapo/documentos/documentos-metodologicos  
+
+Observations: Las tasas específicas de fecundidad son el resultado del cociente de los nacimientos ocurridos entre mujeres en edades fértiles (15-49) durante un periodo de referencia, entre el total de mujeres de dichas edades, en el mismo periodo. De manera convencional, las tasas específicas se expresan por mil y se interpretan como el número de nacimientos observados por cada mil mujeres en un grupo de edad determinado.
+

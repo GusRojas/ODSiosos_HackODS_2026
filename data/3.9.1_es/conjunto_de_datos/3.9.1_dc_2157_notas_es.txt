@@ -1,0 +1,3 @@
+﻿"Fuente: Institute for Health Metrics and Evaluation (IHME). Global Burden of Disease (GBD) study.   
+ https://vizhub.healthdata.org/gbd-results/  (Consultado el día 28 de julio de 2024) "
+"cvegeo: Clave geoestadística"

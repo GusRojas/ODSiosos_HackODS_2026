@@ -1,0 +1,72 @@
+﻿Title: 1n.2.1 Proporción de partos con asistencia de personal sanitario capacitado
+
+Description: Es el porcentaje de partos con asistencia de personal calificado para ofrecer la necesaria supervisión, atención y asesoramiento a las mujeres durante el embarazo, el parto y el posparto con respecto al total de partos atendidos durante un periodo determinado.
+
+Modified: 2025-11-14
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Mtra. Manett Vargas García
+Directora General de Evaluación del Desempeño
+Avenida Paseo de la Reforma 450 
+Colonia Juárez, 06600
+Cuauhtémoc, Cuauhtémoc, Ciudad de México
+01 (55) 50621600 Ext. 52697
+manett.vargas@salud.gob.mx
+Dr. Delfino Campos Díaz
+Director de Gestión y Seguimiento para la Evaluación de los Sistemas de Salud
+Av. Agrarismo #227, piso 3, Col. Escandón II Sección D.T. Miguel Hidalgo, C.P. 11800, CDMX.
+01 (55) 50621600 Ext. 52681
+delfino.campos@salud.gob.mx
+Mtro. Arturo Barranco Flores
+Director de Información sobre Necesidades de Salud y Población
+Homero No. 213, Col. Chapultepec Morales. Alcaldía Miguel Hidalgo, CDMX C.P. 11570
+(55) 6392-2300 Ext.52594
+arturo.barranco@salud.gob.mx
+
+Temporal: 1990-2023
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/1n.2.1_es.zip
+
+Goal: 1. Poner fin a la pobreza en todas sus formas y en todo el mundo 
+
+Target:  Meta 1n.2 Atención integral en la primera infancia
+
+Type of indicator: Nacional
+
+Algorithm: 1n.2.1_ES.gif
+
+Description of the indicator: Este indicador resulta de dividir el número de partos atendidos por personal calificado en un determinado año, entre el total de partos atendidos en el mismo periodo, multiplicado por 100.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional y entidad federativa
+
+Opportunity: 4 meses
+
+Source of statistical information used to calculate the indicator: Secretaría de Salud (SS). Sistema Nacional de Información en Salud (SINAIS). Base de datos del Subsistema de Información sobre Nacimientos (SINAC).
+
+Date of next update of indicator: 30 de junio de 2026
+
+Unit of the State responsible for calculating the indicator: Secretaría de Salud (SSA). Dirección General de Información en Salud (DGIS). 
+
+Importance and purpose of the indicator: Permite conocer el número de mujeres atendidas por médicos en el momento del parto, lo cual implica una mayor calidad en la atención y con ello menos riesgo de fallecer por una causa materna. Un bajo nivel de este indicador mostraría la necesidad de contar con un mayor número de médicos gineco-obstetras, clínicas de salud y mejorar la atención durante el embarazo.
+
+National and/or international reference: Organización de las Naciones Unidas (ONU).  Indicadores para el seguimiento de los Objetivos de Desarrollo del Milenio. 
+
+Observations: Este indicador pertenece al Catálogo Nacional de Indicadores (CNI).
+Las series estadísticas se ajustaron con base en las proyecciones de la población de México y de las entidades federativas 2020-2070 publicadas por el CONAPO en 2023.
+Las Naciones Unidas mencionan que el indicador puede expresarse como el número de nacimientos en presencia de personal de salud capacitado con respecto al total de nacimientos.
+Se entiende por personal calificado (sanitario capacitado) a aquellas personas debidamente capacitadas y que tienen equipo y medicamentos adecuados. No se incluyen los asistentes de tipo tradicional, aún cuando hayan recibido un breve curso de capacitación.
+Para 1990 a 2010, debido al registro tardío en los nacimientos registrados en la base de datos del INEGI, se utiliza el número de nacimientos ocurridos y registrados en el año n, más los nacimientos ocurridos en el año n pero registrados en el año n+1 y n+2 (reconstrucción de nacimientos).
+A partir de 2011 se utilizan los nacidos vivos ocurridos del Subsistema de Información sobre Nacimientos (SINAC) que capta la información a través del certificado de nacimiento y ha logrado una mejora en su cobertura, proporciona información de manera oportuna, con diferentes desagregaciones y mide el hecho vital al momento de la ocurrencia del mismo. Además, la Junta de Gobierno del INEGI determinó, el 23 de mayo de 2013, al SINAC en el marco del sector salud como Información de Interés Nacional, y por tanto, es oficial y de uso obligatorio para el cálculo de los indicadores que se incluyan en el Catálogo Nacional de Indicadores. Sin embargo, cabe destacar que en las siguientes entidades: Baja California, Colima, Chiapas, Chihuahua, Guerrero, Hidalgo, México, Nayarit, Oaxaca, San Luis Potosí, Sinaloa, Sonora, Veracruz y Yucatán, aún falta mejorar la cobertura del SINAC, por lo cual las cifras se corrigen a través de un factor de ajuste por entidad federativa, que se obtiene a partir de la tendencia de las diferencias porcentuales entre los nacimientos estimados del CONAPO y los nacidos vivos ocurridos del SINAC.
+El cálculo del indicador a nivel entidad federativa se hace por entidad de ocurrencia del parto.
+

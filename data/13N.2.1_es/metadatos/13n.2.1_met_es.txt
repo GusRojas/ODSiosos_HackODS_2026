@@ -1,0 +1,53 @@
+﻿Title: 13n.2.1 Intensidad de carbono por la quema de combustibles fósiles
+
+Description: Es la cantidad total nacional de bióxido de carbono emitida , por la quema de combustibles fósiles por unidad de producto interno bruto expresado en dólares de EU a paridad de poder de compra corriente.
+
+Modified: 2023-12-21
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Dr. José Abraham Ortinez Alvarez
+Coordinador General de Mitigación del Cambio Climático
+5554246400 ext 13101
+abraham.ortinez@inecc.gob.mx
+
+Temporal: 1990-2021
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/13n.2.1_es.zip
+
+Goal: 13. Adoptar medidas urgentes para combatir el cambio climático y sus efectos 
+
+Target:  Meta 13n.2 Reducción de Gases de Efecto Invernadero (GEI), fomentando la reducción de emisiones en los sectores productivos
+
+Type of indicator: Nacional
+
+Algorithm: 13n.2.1_ES.gif
+
+Description of the indicator: La emisión de dióxido de carbono por la quema de combustibles por unidad de producto interno bruto es la división de las emisiones de dióxido de carbono por quema de combustibles fósiles entre el producto interno bruto en millones de dólares internacionales a paridad del poder de compra corriente.
+
+Unit of measure: Kilogramos de CO2 (Kg CO2) /PIB en millones de dólares a paridad de poder de compra corriente (ppc)
+
+Geographic coverage: Nacional
+
+Opportunity: 1 año 9 meses
+
+Source of statistical information used to calculate the indicator: Instituto Nacional de Ecología y Cambio Clímático. Inventario Nacional de Emisiones de Gases y Compuestos de Efecto Invernadero (INEGYCEI) (INECC, 2023) 
+
+Date of next update of indicator: No definida
+
+Unit of the State responsible for calculating the indicator: Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT). Instituto Nacional de Ecología y Cambio Climático (INECC). Coordinación General de Mitigación del Cambio
+Climático (CGMCC) 
+
+Importance and purpose of the indicator: Medir la intensidad de emisiones de CO2 de las actividades de quema de combustibles fósiles conforme a su producto interno bruto a paridades de poder de compra corrientes (PIB PPC) en un año específico. Este indicador está en base al ODS N° 13 "Acción por el clima"
+
+Observations: La periodicidad de reporte del Inventario Nacional de Emisiones de Gases y Compuestos de Efecto Invernadero se especifica en el artículo 74 de la Ley General de Cambio Climático. Para la quema de combsutibles fósiles la periodicidad es de acuerdo a la fracción primera el cual indica la anualidad.
+Las emisiones observadas de CO2 por la quema de combustible se reportan con dos años de desfase debido a los tiempos que conlleva a nivel nacional reunir las estadísticas de todos los sectores usuarios de dichos combustibles.
+

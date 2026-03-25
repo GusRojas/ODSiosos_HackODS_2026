@@ -1,0 +1,3 @@
+﻿"Fuente: Secretaría de Educación Pública (SEP). Dirección General de Planeación, Programación y Estadística Educativa (DGPPyEE). Sistema de Estadísticas Continuas de Educación
+del Formato 911. "
+"cvegeo: Clave geoestadística"

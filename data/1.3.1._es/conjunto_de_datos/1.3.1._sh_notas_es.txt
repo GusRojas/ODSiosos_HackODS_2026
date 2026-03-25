@@ -1,0 +1,8 @@
+﻿"Nota: - Se utilizan los factores de expansión que fueron construidos a partir de la actualización en las estimaciones de población con base en el Marco de Muestreo de Viviendas
+y los resultados del Censo de Población y Vivienda 2020.  
+  Para un mejor análisis de la información 2022, consultar la nota técnica:  
+ https://www.coneval.org.mx/Medicion/MP/Documents/MMP_2022/Nota_tecnica_sobre_la_informacion_empleada_para_la_estimacion_ 
+ de_la_medicion_de_pobreza_en_Mexico_2022.pdf   
+  - Dirección Ejecutiva de Lineamientos de Medición de Pobreza y Desarrollo Social (DELMPDS), Coordinación General de Análisis de la Pobreza (CGAP), Consejo Nacional
+de Evaluación de la Política de Desarrollo Social (CONEVAL). "
+"Fuente: Estimaciones del CONEVAL con base en la ENIGH 2016, 2018, 2020 y 2022 "

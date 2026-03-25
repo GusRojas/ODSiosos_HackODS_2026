@@ -1,0 +1,68 @@
+﻿Title: 3.c.1 Densidad y distribución del personal sanitario
+
+Description: El indicador es la suma del personal médico, de enfermería y partería, dentista y farmaceútico por cada 10,000 habitantes.
+
+Modified: 2025-11-14
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Mtra. Manett Vargas García
+Directora General de Evaluación del Desempeño
+Avenida Paseo de la Reforma 450 
+Colonia Juárez, 06600
+Cuauhtémoc, Cuauhtémoc, Ciudad de México
+01 (55) 50621600 Ext. 52697
+manett.vargas@salud.gob.mx
+Dr. Delfino Campos Díaz
+Director de Gestión y Seguimiento para la Evaluación de los Sistemas de Salud
+Av. Agrarismo #227, piso 3, Col. Escandón II Sección D.T. Miguel Hidalgo, C.P. 11800, CDMX.
+01 (55) 50621600 Ext. 52681
+delfino.campos@salud.gob.mx
+Mtro. Arturo Barranco Flores
+Director de Información sobre Necesidades de Salud y Población
+Homero No. 213, Col. Chapultepec Morales. Alcaldía Miguel Hidalgo, CDMX C.P. 11570
+(55) 6392-2300 Ext.52594
+arturo.barranco@salud.gob.mx
+
+Temporal: 2012-2022
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/3.c.1_es.zip
+
+Goal: 3. Garantizar una vida sana y promover el bienestar de todos a todas las edades 
+
+Target:  Meta 3.c Aumentar considerablemente la financiación de la salud y la contratación, el perfeccionamiento, la capacitación y la retención del personal sanitario en los países en desarrollo, especialmente en los países menos adelantados y los pequeños Estados insulares en desarrollo
+
+Type of indicator: Global
+
+Algorithm: 3.c.1_ES.gif
+
+Description of the indicator: Se refiere al personal sanitario reportado por las instituciones públicas y privadas de unidades médicas (hospitales y de atención ambulatoria) por cada 10,000 habitantes.
+
+Unit of measure: Densidad
+
+Geographic coverage: Nacional y entidad federativa
+
+Opportunity: Cifras actualizadas en junio del siguiente año de referencia
+
+Source of statistical information used to calculate the indicator: Numerador: 
+
+Date of next update of indicator: 30 de junio de 2026
+
+Unit of the State responsible for calculating the indicator: Secretaría de Salud (SSA). Dirección General de Información en Salud (DGIS). 
+
+Importance and purpose of the indicator: La cobertura de personal médico es clave para garantizar el acceso a los servicios médicos de la población, que garantice el acceso y cuidado del personal hacia los habitantes y que con ello se logren satisfacer las demandas asociadas.
+
+National and/or international reference: Repositorio de metadatos de los ODS, disponible en:   
+ https://unstats.un.org/sdgs/metadata/ 
+
+Observations: Se refiere al personal sanitario reportado por las instituciones públicas y privadas (médicos, médicos generales, médicos especialistas, pasantes de medicina y residentes, enfermeras, parteras, dentistas y farmacobiólogos) por cada 10,000 habitantes. La cifra de farmacéuticos solamente incluye instituciones públicas y es referido a farmacobiólogos que es el único tipo de personal farmacéutico desagregado. La información de parteras solamente se tiene para instituciones públicas y solamente se registran las que se incluyen dentro del clasificador de puestos de Secretaría de Salud.
+En el caso de personal por sexo y edad no se cuenta con información de todas las instituciones y por ello no es posible calcularlo. El personal sanitario reportado es de hospitales y unidades médicas de atención ambulatoria.
+

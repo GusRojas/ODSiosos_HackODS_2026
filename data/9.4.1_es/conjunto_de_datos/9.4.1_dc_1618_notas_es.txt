@@ -1,0 +1,5 @@
+﻿"a/ Cifras preliminares "
+"b/ Cifras estimadas "
+"Fuente: OCDE. Stat. National Accounts. Gross domestic product (GDP). GDP, US $, constant prices, constant PPPs, reference year 2015, millions. [Fecha de consulta: mayo de 2024].
+Consultado en:  
+ https://stats.oecd.org/index.aspx?queryid=60702#  "

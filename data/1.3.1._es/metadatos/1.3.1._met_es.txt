@@ -1,0 +1,79 @@
+﻿Title: 1.3.1. Proporción de la población cubierta por sistemas o niveles mínimos de protección social, desglosada por sexo y grupos edad
+
+Description: Se considera en situación de NO carencia por acceso a la seguridad social, a la población que cumple alguno de los siguientes criterios:
+• Población económicamente activa asalariada que dispone de las prestaciones establecidas en el artículo 2° de la Ley de Seguridad Social (o sus equivalentes en las legislaciones aplicables al apartado B del artículo 123 constitucional), por parte de su trabajo.
+•Personas que disponen de servicios médicos como prestación laboral o por contratación voluntaria al régimen obligatorio del IMSS.
+• Población jubilada o pensionada o es familiar de una persona dentro o fuera del hogar con acceso a la seguridad social.
+• Población de 65 años o más beneficiaria de algún programa social de pensiones para adultos equivalente o superior al promedio de la Línea de Pobreza Extrema por Ingresos (LPEI) rural y urbana.
+
+Modified: 2024-04-25
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Alida Marcela Gutiérrez Landeros
+Coordinadora General de Análisis de la Pobreza
+Insurgentes Sur #810, Colonia Del Valle, C.P. 03100, Benito Juárez, Ciudad de México
+(55) 54-81-72-00, ext. 70075
+amgutierrez@coneval.org.mx
+Héctor Figueroa Palafox
+Director Ejecutivo de Lineamientos de Medición de Pobreza y Desarrollo Social
+Insurgentes Sur #810, Colonia Del Valle, C.P. 03100, Benito Juárez, Ciudad de México
+(55) 54-81-72-00, ext. 70135
+hfigueroa@coneval.org.mx
+
+Temporal: 2016-2022
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Bienal
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/1.3.1._es.zip
+
+Goal: 1. Poner fin a la pobreza en todas sus formas y en todo el mundo 
+
+Target:  Meta 1.3. Implementar a nivel nacional sistemas y medidas apropiados de protección social para todos, incluidos niveles mínimos, y, de aquí a 2030, lograr una amplia cobertura de las personas pobres y vulnerables
+
+Type of indicator: Global
+
+Algorithm: 1_3_1_ES.gif
+
+Description of the indicator: El primer criterio identifica a la población ocupada con acceso a la seguridad social y a las personas que reciben una jubilación o pensión. Se determina si la población ocupada dispone de servicios médicos y Afore, ya sea por prestación laboral o por contratación voluntaria. Adicionalmente, se identifica a los integrantes del hogar que, por su relación de parentesco tienen acceso a la seguridad social a través de otros miembros del hogar.
+Se identifica a los integrantes del hogar que cuentan con servicios médicos por contratación propia, así como a sus familiares o beneficiarios de acuerdo con la normatividad vigente.
+El último criterio comprende a la población adulta mayor que reciben ingresos de un programa de adultos mayores cuyo monte es igual o superior al promedio de las líneas de pobreza extrema por ingresos rural y urbana.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: 1 año*/
+
+Source of statistical information used to calculate the indicator: Encuesta Nacional de Ingresos y Gastos de los Hogares (ENIGH) 2016 - 2022, INEGI
+
+Date of next update of indicator: 31 de diciembre de 2025 */
+
+Unit of the State responsible for calculating the indicator: Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL). 
+
+Importance and purpose of the indicator: La seguridad social puede ser definida como el conjunto de mecanismos diseñados para garantizar los medios de subsistencia de los individuos y sus familias ante eventualidades, como accidentes o enfermedades, o ante circunstancias socialmente reconocidas, como la vejez y el embarazo. La exclusión de los mecanismos sociales de protección vulnera la capacidad de los individuos para enfrentar contingencias fuera de su control que pueden disminuir de modo significativo su nivel de vida y el de sus familias (CEPAL, 2006).
+
+National and/or international reference: Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL). http://www.coneval.org.mx/. 
+
+Observations: 1. El CONEVAL hace mención que el indicador de no carencia por acceso a la seguridad social del Sistema de Información de Derechos Sociales (SIDS) constituye un proxy del indicador: proporción de la población cubierta por sistemas o niveles mínimos de protección social.
+Esta observación es crucial dadas las diferencias y similitudes existentes entre los conceptos de seguridad social y protección social. 
+De acuerdo con la OIT,  la seguridad social es la protección que una sociedad proporciona a los individuos y los hogares para asegurar el acceso a la asistencia médica y garantizar la seguridad del ingreso, en particular en caso de vejez, desempleo, enfermedad, invalidez, accidentes del trabajo, maternidad o pérdida del sostén de familia. Por otro lado, la protección social, según la definición de la OIT, es un derecho mediante el cual se garantiza que todas y todos puedan acceder a asistencia médica e ingresos mínimos. También es una forma de asegurar que a pesar de alguna circunstancia anómala como enfermedad, incapacidad o desempleo pueda subsistir. La protección social comprende una serie de políticas y programas formulados para mitigar y evitar situaciones de pobreza y vulnerabilidad en nuestra vida.
+Para más información se proporcionan las siguientes referencias:
+1) https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/documents/publication/wcms_067592.pdf
+2) https://www.ilo.org/global/topics/social-security/lang--es/index.htm
+2. Datos de CONEVAL sobre la pobreza multidimensional:
+Medición de pobreza: https://www.coneval.org.mx/Medicion/Paginas/PobrezaInicio.aspx
+Metodología para la medición multidimensional de la pobreza en México: https://www.coneval.org.mx/InformesPublicaciones/InformesPublicaciones/Documents/Metodologia-medicion-multidimensional-3er-edicion.pdf
+Sistema de Información de Derechos Sociales (SIDS): https://sistemas.coneval.org.mx/SIDS/Serie2016-2022
+3. Se utilizan las bases de datos que publicó el INEGI con los nuevos factores de expansión construidos con base en el Marco de Muestreo de Viviendas y los resultados del Censo de Población y Vivienda 2020
+4. El total de la población presentada es para fines de la medición de pobreza, por lo que puede diferir con las cifras de población total reportadas por el INEGI o CONAPO
+5. Para un mejor análisis de la información 2022, consultar la nota técnica:  https://www.coneval.org.mx/Medicion/MP/Documents/MMP_2022/Nota_tecnica_sobre_la_informacion_empleada_para_la_estimacion_de_la_medicion_de_pobreza_en_Mexico_2022.pdf
+*/ La actualización del indicador está sujeta a la publicación de los microdatos por parte del INEGI.
+Este indicador pertenece al Catálogo Nacional de Indicadores (CNI).
+

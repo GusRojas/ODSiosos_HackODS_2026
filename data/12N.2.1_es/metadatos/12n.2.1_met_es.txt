@@ -1,0 +1,57 @@
+﻿Title: 12n.2.1 Uso de fertilizante fosfatados (Kg/Ha)
+
+Description: Son los kg de fertilizantes fosfatados utilizados por hectárea.
+
+Modified: 2023-12-14
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Lic. Patricia Ornelas Ruiz
+Directora en Jefe del Servicio de información Agroalimentaria y Pesquera (SIAP)
+Benjamín Franklin 146, Col. Escandón, delegación Miguel Hidalgo, México, D.F. C.P. 11800
+patricia.ornelas@siap.gob.mx
+
+Temporal: 2005-2022
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual irregular
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/12n.2.1_es.zip
+
+Goal: 12. Garantizar modalidades de consumo y producción sostenibles 
+
+Target:  Meta 12n.2 Promover el aprovechamiento sustentable de los recursos naturales
+
+Type of indicator: Nacional
+
+Algorithm: 12n.2.1_ES.gif
+
+Description of the indicator: El consumo anual de todos los fertilizantes, no exclusivamente los fosfatados, resulta de dividir el consumo aparente de todos los fertilizantes (producción + importaciones - exportaciones), entre la superficie anual fertilizada
+
+Unit of measure: Kilogramos por Hectárea (Kg/Ha)
+
+Geographic coverage: Nacional
+
+Opportunity: Se esperaba actualizar el indicador cada seis meses, pero el INEGI suspendió la publicación de la información de producción de fertilizantes a partir de 2023.
+
+Source of statistical information used to calculate the indicator: El sector alimentario en México, ediciones 2010, 2011 y 2014 (INEGI, 2010b, 2011c y 2014a) 
+Sistema Integral de Información Agroalimentaria y Pesquera, Sistema de Información Agroalimentaria de Consulta, 1980-2014 (Sagarpa, s.f.). 
+
+Date of next update of indicator: No definida
+
+Unit of the State responsible for calculating the indicator: Secretaría de Agricultura y Desarrollo Rural 
+
+Importance and purpose of the indicator: La utilización de fertilizantes, insecticidas y plaguicidas constituye una fuente importante de contaminación y degradación de los suelos. 
+La disponibilidad futura de fertilizantes fosfatados está fuertemente comprometida a nivel mundial, por lo que se deben realizar esfuerzos para un consumo responsable de estos. 
+Se ha visto una tendencia creciente en el uso de fertilizantes por hectárea; sin embargo,  esto no es siempre necesario, más bien se debe buscar un uso equilibrado y eficiente de los recursos y evitar la degradación de los suelos.
+
+National and/or international reference: Pendiente 
+
+Observations: Sin actualizaciones por suspensión del INEGI en 2023 de la publicación de producción de fertilizantes.
+El cálculo del indicador puede diferir de los anteriores cálculos, debido a diferencias en la forma de obtenerlo.
+

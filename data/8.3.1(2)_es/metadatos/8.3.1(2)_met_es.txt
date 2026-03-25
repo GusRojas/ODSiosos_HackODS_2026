@@ -1,0 +1,67 @@
+﻿Title: 8.3.1(2) Proporción del empleo informal en el empleo no agropecuario, desglosada por sexo (1995-2020)
+
+Description: Proporción de las personas ocupadas cuya situación laboral es vulnerable por carecer de seguridad social y de otras garantías que ofrece el orden legal vigente, respecto de la población ocupada en el ámbito no agropecuario.
+
+Modified: 2022-05-02
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Lic. Antonio Amerlinck Assereto
+Director de Estudios e Investigación Laboral. Dirección General de Investigación y Estadísticas del Trabajo
+Boulevard Adolfo López Mateos. No. 1968. Colonia Los Alpes, 01010. Alcaldía Alvaro Obregón, Ciudad de México
+(55) 2000 5463, 2000 5300, ext. 63263
+aamerlinck@stps.gob.mx
+
+Temporal: 1995-2020
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/8.3.1(2)_es.zip
+
+Goal: 8. Promover el crecimiento económico sostenido, inclusivo y sostenible, el empleo pleno y productivo y el trabajo decente para todos 
+
+Target:  Meta 8.3 Promover políticas orientadas al desarrollo que apoyen las actividades productivas, la creación de puestos de trabajo decentes, el emprendimiento, la creatividad y la innovación, y fomentar la formalización y el crecimiento de las microempresas y las pequeñas y medianas empresas, incluso mediante el acceso a servicios financieros
+
+Type of indicator: Global
+
+Algorithm: 8.3.1(2)_ES.gif
+
+Description of the indicator: La proporción de empleo informal en el empleo total no agropecuario se refiere al número de trabajadores informales expresadas como porcentaje del total de empleo no agropecuario.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: 3 meses
+
+Source of statistical information used to calculate the indicator: Instituto Nacional de Estadística y Geografía (INEGI) y Secretaría del Trabajo y Previsión Social (STPS). 
+ 1995-2004: Encuesta Nacional de Empleo (ENE), con proyecciones de población basadas en el Conteo de Población y Vivienda 2005. 
+ A partir de 2005: Encuesta Nacional de Ocupación y Empleo (ENOE), con proyecciones de población basadas en el Censo de Población y Vivienda 2010. 
+
+Date of next update of indicator: Serie que ya no se actualiza
+
+Unit of the State responsible for calculating the indicator: Secretaría del Trabajo y Previsión Social (STPS). 
+
+Importance and purpose of the indicator: Esta tasa ilustra la magnitud de la problemática de los trabajadores que carecen de la protección de la seguridad social  por parte de su empleador o de las personas que se desempeñan, por su cuenta o dependiendo de un tercero, en unidades económicas no registradas, circunstancia que los coloca en una situación de vulnerabilidad legal en el ámbito laboral y/o patrimonial.
+En esta categoría se incluyen: i) los ocupados en actividades no agropecuarias que laboran en unidades económicas no registradas (sector informal); ii) los trabajadores del servicio doméstico remunerado que no tienen seguridad social; iii) los trabajadores no remunerados; iv) los trabajadores subordinados y remunerados cuyos servicios son utilizados por unidades económicas registradas y laboran sin la protección de la seguridad social.
+
+National and/or international reference: Organización Internacional del Trabajo (OIT). Resolución sobre las estadísticas del empleo en el sector informal, adoptada por la Decimoquinta Conferencia Internacional
+de Estadísticos del Trabajo, enero de 1993. OIT, Ginebra, Suiza. 
+Organización Internacional del Trabajo (OIT). Decimoséptima Conferencia Internacional de Estadísticos del Trabajo, Informe de la Conferencia (2003). OIT, Ginebra, Suiza.
+Organización Internacional del Trabajo (OIT). Measuring informality: a Statistical Manual on the informal sector and informal employment (2012). 
+Instituto Nacional de Estadística y Geografía (INEGI). La informalidad laboral: Encuesta Nacional de Ocupación y Empleo: marco conceptual y metodológico (2014). 
+Programa de las Naciones Unidas para el Desarrollo (PNUD). "Soporte del PNUD para la implementación de la Agenda 2030 para el Desarrollo Sostenible" "Grupo de Naciones
+Unidas para el Desarrollo". 
+
+Observations: 1. La información de la Encuesta Nacional de Empleo está conceptualmente homologada a la Encuesta Nacional de Ocupación y Empleo (ENOE).
+2. Los datos de 1995 a 1999 corresponden al segundo trimestre de cada año. Los datos de 2000 se calculan con el promedio aritmético de los trimestres segundo, tercero y cuarto.
+A partir de 2001 los datos resultan del promedio aritmético de los cuatro trimestres de cada año.
+3. Las cifras absolutas de 1995 a 2004 fueron generadas utilizando el factor de expansión correspondiente a las proyecciones de población elaboradas usando como base el Conteo de Población y Vivienda 2005.
+4. Las cifras absolutas correspondientes al periodo 2005-2020 se generaron con el factor de expansión correspondiente a las proyecciones de población revisadas por el Consejo Nacional de Población (CONAPO), las cuales se basaron en el Censo de Población y Vivienda 2010 y se difundieron en abril de 2013. 
+

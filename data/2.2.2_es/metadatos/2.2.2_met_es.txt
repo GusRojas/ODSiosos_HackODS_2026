@@ -1,0 +1,72 @@
+﻿Title: 2.2.2 Prevalencia de la malnutrición (peso para la estatura, desviación típica > +2 o < -2 de la mediana de los patrones de crecimiento infantil de la OMS) entre la población menor a 5 años, desglosada por tipo (emaciación y sobrepeso)
+
+Description: Prevalencia de la malnutrición (peso para la estatura, desviación típica > +2 o < -2 de la mediana de los patrones de crecimiento infantil de la OMS) entre los niños menores de 5 años, desglosada por tipo (emaciación y sobrepeso).
+
+Modified: 2025-11-14
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Mtra. Manett Vargas García
+Directora General de Evaluación del Desempeño
+Avenida Paseo de la Reforma 450 
+Colonia Juárez, 06600
+Cuauhtémoc, Cuauhtémoc, Ciudad de México
+01 (55) 50621600 Ext. 52697
+manett.vargas@salud.gob.mx
+Dr. Delfino Campos Díaz
+Director de Gestión y Seguimiento para la Evaluación de los Sistemas de Salud
+Av. Agrarismo #227, piso 3, Col. Escandón II Sección D.T. Miguel Hidalgo, C.P. 11800, CDMX.
+01 (55) 50621600 Ext. 52681
+delfino.campos@salud.gob.mx
+Lucía Cuevas Nasu
+Dirección de Encuestas Nacionales de Salud
+Avenida Universidad 655, Colonia Santa María Ahuacatitlán, C.P. 62100, Cuernavaca, Morelos
+(777) 3 29 30 00 Ext.7225
+lcuevas@insp.mx
+
+Temporal: 2006-2024
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual irregular
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/2.2.2_es.zip
+
+Goal: 2. Poner fin al hambre, lograr la seguridad alimentaria y la mejora de la nutrición y promover la agricultura sostenible 
+
+Target:  Meta 2.2. De aquí a 2030, poner fin a todas las formas de malnutrición, incluso logrando, a más tardar en 2025, las metas convenidas internacionalmente sobre el retraso del crecimiento y la emaciación de los niños menores de 5 años, y abordar las necesidades de nutrición de las adolescentes, las mujeres embarazadas y lactantes y las personas de edad
+
+Type of indicator: Global
+
+Algorithm: 2_2_2_ES.gif
+
+Description of the indicator: Este porcentaje se calcula dividiendo el número de niños y niñas menores de 5 años con emaciación (peso para la estatura +2 desviación estándar de la mediana del Patrón de Crecimiento Infantil de la Organización Mundial de la Salud (OMS)) entre el total de niños y niñas menores de 5 años, multiplicado por 100.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional y estatal
+
+Opportunity: 12 meses
+
+Source of statistical information used to calculate the indicator: Instituto Nacional de Salud Pública (INSP). Encuesta Nacional de Salud y Nutrición (ENSANUT). Disponible en: https://ensanut.insp.mx/
+
+Date of next update of indicator: 30 de junio de 2026
+
+Unit of the State responsible for calculating the indicator: Secretaría de Salud (SSA). 
+
+Importance and purpose of the indicator: El crecimiento infantil es un área de resultados aceptada internacionalmente que refleja el estado nutricional del niño. El sobrepeso infantil se refiere a un niño que pesa demasiado para su estatura. Esta forma de malnutrición es el resultado de gastar muy pocas calorías para la cantidad de alimentos consumidos y aumenta el riesgo de padecer enfermedades no transmisibles más adelante en la vida. La emaciación infantil se refiere a un niño que está demasiado delgado para su estatura y es el resultado de una rápida pérdida de peso reciente o de la imposibilidad de ganar peso. Un niño con emaciación moderada o grave tiene un mayor riesgo de muerte, pero es posible tratarlo. La emaciación infantil y el sobrepeso infantil son parte  de los indicadores objetivo de nutrición de la Asamblea Mundial de la Salud.
+
+National and/or international reference: Repositorio de metadatos de los ODS, disponible en:   
+ https://unstats.un.org/sdgs/metadata/ 
+
+Observations: El tamaño de la muestra levantado en 2018 (32,000 viviendas para el componente de nutrición) permite contar con información nacional, y desagregada por entidad federativa y tamaño de localidad. Para los otros años, solo es posible contar con la información nacional y por tamaño de localidad.
+Para la estimación de los indicadores se utiliza la metodología estandarizada sobre Patrones de Crecimiento Infantil de la Organización Mundial de la Salud (OMS). Los índices antropométricos fueron transformados a puntajes Z usando la norma de referencia de la OMS de 2006. Véase: https://www.who.int/tools/child-growth-standards/software
+El Grupo de Trabajo Conjunto de Estimaciones de Malnutrición Infantil (JME, por sus siglas en inglés) de UNICEF, la OMS y el Banco Mundial, en su función de custodio conjunto, realiza estimaciones propias del indicador basado en un modelo estadístico que homogeniza los datos de los países, a fin de brindar información comparable de manera anual del indicador. Por lo anterior, pudieran existir diferencias entre las cifras nacionales y las calculadas por el JME. Véase: https://data.unicef.org/resources/data-collection-analysis-reporting-on-anthropometric-indicators-in-children-under-5/
+El indicador 2.2.2 proviene de la suma de dos condiciones: la prevalencia de emaciación (bajo peso para la estatura) en menores de 5 años y la prevalencia de sobrepeso más obesidad (alto peso para la estatura) en menores de 5 años. El INSP, en los reportes de la ENSANUT:
+a) Calcula cada una de las condiciones por separado. 
+b) Calcula el indicador referente a sobrepeso y obesidad en menores con base en el Índice de Masa Corporal, por lo que las estimaciones difieren respecto de las del indicador 2.2.2 (2).
+

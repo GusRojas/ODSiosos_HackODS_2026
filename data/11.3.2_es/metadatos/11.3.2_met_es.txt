@@ -1,0 +1,55 @@
+﻿Title: 11.3.2 Proporción de ciudades con una estructura de participación directa de la sociedad civil en la planificación y la gestión urbanas que opera regular y democráticamente
+
+Description: Porcentaje de zonas zonas metropolitanas que han instalado un Consejo Consultivo de Desarrollo Metropolitano, el cual cuenta con una estructura de participación directa de la sociedad civil en la planificación y la gestión urbanas y funcionan con regularidad y democráticamente.
+
+Modified: 2023-02-10
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Abraham Issaí Nuñez Morales
+Subdirector de Vinculación de la Unidad de Planeación y Desarrollo Institucional
+Nuevo León No. 210 Colonia Hipódromo Condesa, Del. Cuauhtémoc 06100 Ciudad de México
+5568209700 Ext. 50710
+abraham.nunez@sedatu.gob.mx
+
+Temporal: 2018-2022
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/11.3.2_es.zip
+
+Goal: 11. Lograr que las ciudades y los asentamientos humanos sean inclusivos, seguros, resilientes y sostenibles 
+
+Target:  Meta 11.3. De aquí a 2030, aumentar la urbanización inclusiva y sostenible y la capacidad para la planificación y la gestión participativas, integradas y sostenibles de los asentamientos humanos en todos los países
+
+Type of indicator: Global
+
+Algorithm: 11.3.2_ES.gif
+
+Description of the indicator: Proporción de zonas metropolitanas que cuentan con un Consejo Consultivo de Desarrollo Metropolitano, donde tienen una estructura de participación directa de la sociedad civil en la planificación y la gestión urbanas y funcionan con regularidad y democráticamente, respecto al total de zonas metropolitanas de acuerdo con el Sistema Urbano Nacional.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: Febrero de cada año
+
+Source of statistical information used to calculate the indicator: Base de datos de Consejos Consultivo de Desarrollo Metropolitano instalados en el país de la Secretaría de Desarrollo Agrario, Territorial y Urbano.
+
+Date of next update of indicator: 29 de febrero de 2024
+
+Unit of the State responsible for calculating the indicator: Secretaría de Desarrollo Agrario, Territorial y Urbano (SEDATU). 
+
+Importance and purpose of the indicator: El indicador permite medir el avance que se tiene sobre incluir la participación ciudadana dentro de la toma de decisiones de la gestión urbana de las ciudades y en especifico de las zonas metropolitanas.
+
+National and/or international reference: Repositorio de metadatos de los ODS, disponible en:   
+ https://unstats.un.org/sdgs/metadata/ 
+
+Observations: Se consideraron a todas las zonas metropolitanas por su propia naturaleza y definición del Sistema Urbano Nacional.
+

@@ -1,0 +1,74 @@
+﻿Title: 5r.4.1a Promedio de horas semanales dedicadas al trabajo no remunerado y remunerado combinados (carga total de trabajo), desglosado por sexo
+
+Description: Según la resolución de la Decimonovena Conferencia Internacional de Estadísticos del Trabajo:
+El trabajo comprende todas las actividades realizadas por personas de cualquier sexo y edad con el fin de producir bienes o prestar servicios para el consumo de terceros o el autoconsumo.  
+El tiempo total de trabajo se define como: tiempo total de horas dedicadas al trabajo remunerado (tiempo de trabajo para el mercado, incluye la búsqueda de trabajo y el tiempo de traslado al trabajo o búsqueda), así como el tiempo dedicado al trabajo no remunerado (inlcuye el tiempo de trabajo doméstico y de cuidados (directos) no remunerado para el hogar y otros hogares).
+
+Modified: 2026-02-20
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Centro de atención a usuarios INEGI
+Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276,
+Aguascalientes, Aguascalientes, Aguascalientes, 
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Nacional sin costo: 800 111 46 34 
+ Internacional: (código internacional) + (52)+(449) 149 1300
+atencion.usuarios@inegi.org.mx
+
+Temporal: 2014-2024
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Quinquenal
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/5r.4.1a_es.zip
+
+Goal: 5. Lograr la igualdad de género y empoderar a todas las mujeres y las niñas 
+
+Target:  Meta 5.4. Reconocer y valorar los cuidados y el trabajo doméstico no remunerados mediante servicios públicos, infraestructuras y políticas de protección social, y promoviendo la responsabilidad compartida en el hogar y la familia, según proceda en cada país
+
+Type of indicator: Regional
+
+Algorithm: 5r.4.1_ES.gif
+
+Description of the indicator: El tiempo total de trabajo resulta de la suma del tiempo de trabajo remunerado y el tiempo de trabajo no remunerado.
+El tiempo de trabajo remunerado se calcula como el cociente entre la suma de las horas dedicadas a actividades de trabajo remunerado y el total de personas que declararon haber realizado algún tipo de trabajo (remunerado y/o no remunerado).
+El tiempo de trabajo no remunerado se calcula como el cociente entre la suma de las horas dedicadas a actividades de trabajo no remunerado y el total de personas que declararon haber realizado algún tipo de trabajo (remunerado y/o no remunerado).
+El indicador se encuentra desagregado por sexo y por entidad federativa (2019).
+
+Unit of measure: Horas a la semana
+
+Geographic coverage: Nacional y estatal
+
+Opportunity: El parámetro de oportunidad de la ENUT son 9 meses, concluido el levantamiento
+
+Source of statistical information used to calculate the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional de Uso del Tiempo 2014, 2019 y 2024.  https://www.inegi.org.mx/programas/enut/2024
+
+Date of next update of indicator: 31 de diciembre de 2030
+
+Unit of the State responsible for calculating the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Unidad de Estadísticas Sociodemográficas.   
+ https://www.inegi.org.mx  
+
+Importance and purpose of the indicator: El tiempo total de horas dedicadas al trabajo remunerado y al trabajo no remunerado, permite conocer la carga global de trabajo productivo (tanto el que se hace para el mercado, como para el consumo final propio y de los hogares), lo que permite conocer la sobrecarga de trabajo, principalmente de las mujeres al considerar el trabajo no remunerado y estimar brechas en relación con los hombres en sus tiempos totales de trabajo.
+
+National and/or international reference: Repositorio de Indicadores priorizados para el seguimiento de los ODS en América Latina y el Caribe (CEPAL). Disponible en:   
+ https://agenda2030lac.org/estadisticas/indicadores-priorizados-seguimiento-ods.html 
+
+Observations: Trabajo remunerado: Comprende todo el trabajo para la producción de bienes o prestación de servicios realizado para terceros, a cambio de una remuneración o beneficio. Este indicador incluye:
+-El trabajo en los sectores estructurado y de los hogares
+-La búsqueda de trabajo y creación de negocios
+-Los traslados para realizar el trabajo en los sectores estructurado y de los hogares.
+Trabajo no remunerado de los hogares: Comprende las actividades productivas que se realizan para uso final propio o para terceros, pero sin recibir remuneración. Incluye el trabajo de producción de los hogares, prestación de servicios para los integrantes del hogar (trabajo doméstico y de cuidados), para otros hogares o para la comunidad; también incluye el trabajo que se realiza de forma voluntaria en organizaciones sin fines de lucro. 
+Trabajo doméstico no remunerado de los hogares: Comprende las actividades de preparación y servicio de alimentos; limpieza de la vivienda; limpieza y cuidado de ropa y calzado; mantenimiento, instalación y reparaciones menores de la vivienda y otros bienes del hogar; compras; pagos y trámites; gestión y administración del hogar.
+Trabajo de cuidados no remunerado de los hogares: Comprende las actividades específicas para atender, asistir, acompañar, vigilar y brindar apoyo a los integrantes del hogar o a otras personas, con la finalidad de buscar su bienestar físico y, en el caso de los niños pequeños, la satisfacción de sus necesidades. Se señala como cuidados directos cuando no incluye los cuidados pasivos, esto es, la actividad de vigilar o estar al pendiente mientras se hace otra cosa.
+Cuidado pasivo: Actividad de cuidado simultánea o secundaria en que se está al pendiente o al cuidado de otra persona mientras se realiza otra actividad (principal).
+El cálculo del indicador no incluye cuidados pasivos.
+El 28 de agosto de 2025, se reemplazaron los microdatos de la ENUT 2014 y 2019, debido a que se actualizaron las estimaciones de población, con base en la propia actualización del Marco de Muestreo del INEGI.
+

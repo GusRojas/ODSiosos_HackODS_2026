@@ -1,0 +1,94 @@
+﻿Title: 1n.3.3.b Porcentaje de la población que presenta carencia por acceso a la seguridad social, por desglose geográfico y grupo poblacional  (Municipio o demarcación territorial)
+
+Description: Es posible identificar el porcentaje de población con carencia por acceso a la seguridad social de acuerdo con los siguientes criterios:
+a) No disponga de acceso directo a la seguridad social
+b) No cuente con parentesco directo con alguna persona dentro del hogar que tenga acceso directo
+c) No recibe servicios médicos por parte de algún familiar dentro o fuera del hogar, por muerte del asegurado o por contratación propia
+d) No recibe ingreso por parte de un programa de adultos mayores donde el monto sea mayor o igual al valor promedio de la canasta alimentaria rural y urbana.
+
+Modified: 2023-12-07
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Alida Marcela Gutiérrez Landeros
+Coordinadora General de Análisis de la Pobreza
+Insurgentes Sur #810, Colonia Del Valle, C.P. 03100, Benito Juárez, Ciudad de México
+(55) 54-81-72-00, ext. 70075
+amgutierrez@coneval.org.mx
+Jesus Emanuel Paredes Romero
+Director Ejecutivo de Estadística y Análisis Territorial (DEEAT)
+Insurgentes Sur #810, Colonia Del Valle, C.P. 03100, Benito Juárez, Ciudad de México
+(55) 54-81-72-00, ext. 70081
+jparedes@coneval.org.mx
+
+Temporal: 2010-2020
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Quinquenal
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/1n.3.3.b_es.zip
+
+Goal: 1. Poner fin a la pobreza en todas sus formas y en todo el mundo 
+
+Target:  Meta 1n.3 Construcción de un sistema de protección social con un enfoque de derechos
+
+Type of indicator: Nacional
+
+Algorithm: 1n.3.3.b_ES.gif
+
+Description of the indicator: Este indicador resulta de dividir a la población sin acceso a la seguridad social en un determinado año, entre la población de referencia total del mismo periodo, multiplicado por 100.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Municipio o demarcación territorial
+
+Opportunity: 1 año */
+
+Source of statistical information used to calculate the indicator: Instituto Nacional de Estadística y Geografía (INEGI)
+Para datos municipales:
+- Módulo de  Condiciones Socioeconómicas (MCS) -ENIGH 2010
+- Muestra del Censo de Población y Vivienda 2010
+- Modelo Estadístico 2015 para la continuidad del MCS-ENIGH
+- Encuesta Intercensal 2015
+- Modelo Estadístico 2020 para la continuidad del MCS-ENIGH
+- Muestra del Censo de Población y Vivienda 2020
+
+Date of next update of indicator: 31 de diciembre de 2026 */
+
+Unit of the State responsible for calculating the indicator: Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL). http://www.coneval.org.mx/. 
+
+Importance and purpose of the indicator: Este indicador es de importancia a nivel nacional ya que identifica los mecanismos o medios de subsistencia ante alguna eventualidad de los trabajadores y sus familias. El no contar con esta protección social puede disminuir la calidad de vida de las personas, ya que al no contar con los medios para hacer frente a eventos catastróficos, esta podría verse afectada. Por lo cual, este indicador muestra la falta de coberturas sociales mínimas en el mercado laboral que deben percibir los trabajadores y en consecuencia sus familias. 
+La seguridad social se encuentra establecida en el artículo 123 de la Constitución Politica de los Estados Unidos Mexicanos, relativo al trabajo, dentro del cual se definen coberturas sociales mínimas que deben otorgarse a los trabajadores y sus familiares. La Ley del Seguro Social (LSS), establece que la finalidad de la seguridad social es garantizar el derecho a la salud, la asistencia médica, la protección de los medios de subsistencia y los servicios sociales necesarios para el bienestar individual y colectivo.
+
+National and/or international reference: Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL). http://www.coneval.org.mx/. 
+
+Observations: 1. La Metodología para la medición multidimensional de la pobreza en los municipios de México sentó las bases para realizar las estimaciones de pobreza por grupos poblacionales a nivel municipal, ya que retoma la identificación de pobreza realizada por el CONEVAL, así como los principios estadísticos para cuantificar la precisión estadística de los indicadores. Esta metodología fue formulada con base en los Lineamientos y criterios generales para la definición, identificación y medición de la pobreza, publicados por el CONEVAL en junio de 2010.
+2. El CONEVAL adoptó como indicador de precisión estadística al coeficiente de variación (CV), mismo que, por definición, para su estimación tradicional requiere de la varianza del estimador y la media estimada de la variable de análisis. Para el caso de pobreza por grupos poblacionales, con el propósito de conocer la precisión estadística de las cifras que se presentan, se estimó el Error Cuadrático Medio (ECM), como mejor aproximación de la varianza del estimador. Al obtener el ECM, así como la varianza en los indicadores, es posible contar con el CV como una medida de precisión en las estimaciones, de la siguiente forma:
+• La estimación es precisa si CV&#8804;15%, por lo que, la estimación puede ser considerada sin restricciones.
+• La estimación es aceptable cuando 15%&lt;CV&#8804;25%, por lo que, la estimación debe ser utilizada con precaución.
+• La estimación no es precisa si 25%&lt;CV, por lo que, se recomienda omitir su publicación y uso.
+3. Los grupos poblacionales de los que se presentan resultados de los indicadores de pobreza son los siguientes:
+  • Hombres
+  • Mujeres
+  • Niñas, niños y adolescentes: 
+Población de 0 a 17 años
+  • Personas adultas: 
+Población de 30 a 64 años
+  • Personas adultas mayores: 
+Población de 65 años o más
+  • Personas jóvenes: 
+Población de 18 a 29 años
+  • Población indígena:
+De acuerdo con los criterios del Instituto Nacional de los Pueblos Indígenas (INPI), se considera población indígena a todas las personas que forman parte de un hogar indígena, donde el jefe(a) del hogar, su cónyuge y/o alguno de los ascendientes (madre o padre, madrastra o padrastro, abuelo(a), bisabuelo(a), tatarabuelo(a), suegro(a)) declaró ser hablante de lengua indígena. Además, se incluye a personas que declararon hablar alguna lengua indígena y que no forman parte de estos hogares. Disponible en:
+https://www.gob.mx/inpi/documentos/indicadores-de-la-poblacion-indigena  (consultado el 10 agosto de 2023).
+  • Población rural:
+Se considera población rural a todas las personas que residen en localidades de menos de 2,500 habitantes.
+  • Población urbana:
+Se considera población urbana a todas las personas que residen en localidades de 2,500 o más habitantes.
+*/ La actualización del indicador está sujeta a la publicación de los microdatos por parte de INEGI.
+

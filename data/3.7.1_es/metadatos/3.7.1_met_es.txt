@@ -1,0 +1,60 @@
+﻿Title: 3.7.1 Porcentaje de mujeres en edad fértil (15 a 49 años) unidas con demanda satisfecha de métodos anticonceptivos modernos
+
+Description: Prevalencia de uso de métodos anticonceptivos modernos en mujeres en edad fértil (15 a 49 años) unidas respecto a la demanda total de uso de métodos anticonceptivos de mujeres en edad fértil (15 a 49 años) unidas.
+
+Modified: 2025-09-01
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+Keyword: MEFU, usuarias, prevalencia anticonceptiva, autonomía de las mujeres, acceso a anticonceptivos, embarazos tempranos o tardíos, prevención de las ETS, demanda satisfecha, comportamiento sexual y reproductivo
+
+ContactPoint: Mirna Hebrero Martínez
+Coordinadora de Estudios Sociodemográficos y Prospectiva
+Doctor José María Vertiz 852, Colonia Narvarte, 03020; Benito Juárez, Ciudad de México
+55 5128 0000, ext. 19511
+mhebrero@conapo.gob.mx
+
+Temporal: 2009-2023
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual irregular
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/3.7.1_es.zip
+
+Goal: 3. Garantizar una vida sana y promover el bienestar de todos a todas las edades 
+
+Target:  Meta 3.7 De aquí a 2030, garantizar el acceso universal a los servicios de salud sexual y reproductiva, incluidos los de planificación familiar, información y educación, y la integración de la salud reproductiva en las estrategias y los programas nacionales
+
+Type of indicator: Global
+
+Algorithm: 3_7_1_ES.gif
+
+Description of the indicator: Se calcula con el cociente de la prevalencia de uso de métodos anticonceptivos modernos en mujeres en edad fértil (de 15 a 49 años) unidas en el momento t, entre la demanda total de anticoncepción en mujeres en edad fértil (de 15 a 49 años) unidas en el momento t, multiplicado por cien.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional y entidad federativa
+
+Opportunity: 2 meses después de publicarse la base de datos de la Encuesta Nacional de la Dinámica Demográfica (ENADID).
+
+Source of statistical information used to calculate the indicator: Consejo Nacional de Población (CONAPO). Estimaciones con base en la Encuesta Nacional de la Dinámica Demográfica (ENADID).
+
+Date of next update of indicator: Después de publicados los resultados de la nueva ENADID 2028 (aprox. 2029)
+
+Unit of the State responsible for calculating the indicator: Consejo Nacional de Población (CONAPO). Dirección General de Estudios Sociodemográficos y Prospectiva (DGESP). 
+
+Importance and purpose of the indicator: Es un indicador que visibiliza el acceso que tienen las mujeres a los servicios de planificación familiar, por lo cual permite dar cuenta de la cobertura del sector salud respecto a la oferta de métodos anticonceptivos. Además, este indicador permite dar seguimiento a las metas establecidas por organismos internacionales.
+
+National and/or international reference: Bradley, Sarah E.K., Trevor N. Croft, Joy  D. Fishel, and Charles F. Westoff. 2012. Revising Unmet Need for Family Planning. DHS Analytical Studies No. 25. Calverton,
+Maryland, USA: ICF International. 
+Departamento de Asuntos Económicos y Sociales de las Naciones Unidas. World Contraceptive Use 2016. 
+Comisión Económica para América Latina y el Caribe (CEPAL). Consenso de Montevideo. 
+
+Observations: Se consideran mujeres unidas a aquellas casadas o en unión libre.
+A partir de los resultados de ENADID 2023 la metodología de estimación fue adecuada para incorporar el número de casos no especificados, ya que se considera que corresponden a mujeres que también forman parte de la población objetivo. Esta modificación motivó la actualización de las estimaciones previamente realizadas con base en la ENADID 2014 y 2018, las cuales ahora guardan mayor comparabilidad con la ENADID 2023.
+

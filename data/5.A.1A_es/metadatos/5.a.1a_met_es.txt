@@ -1,0 +1,55 @@
+﻿Title: 5.a.1a Proporción del total de la población agrícola con derechos de propiedad o derechos seguros sobre tierras agrícolas, desglosada por sexo, desglosada por tipo de tenencia
+
+Description: El subindicador 5.a.1 (a) es una medida de prevalencia. Mide la prevalencia de personas en la población agrícola con propiedad o derechos seguros sobre tierras agrícolas, desagregado por sexo.
+
+Modified: 2022-11-29
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Abraham Issaí Nuñez Morales
+Subdirector de Vinculación de la Unidad de Planeación y Desarrollo Institucional
+Nuevo León No. 210 Colonia Hipódromo Condesa, Del. Cuauhtémoc 06100 Ciudad de México
+5568209700 Ext. 50710
+abraham.nunez@sedatu.gob.mx
+
+Temporal: 2020-2020
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Quinquenal
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/5.a.1a_es.zip
+
+Goal: 5. Lograr la igualdad de género y empoderar a todas las mujeres y las niñas 
+
+Target:  Meta 5.a. Emprender reformas que otorguen a las mujeres igualdad de derechos a los recursos económicos, así como acceso a la propiedad y al control de la tierra y otros tipos de bienes, los servicios financieros, la herencia y los recursos naturales, de conformidad con las leyes nacionales
+
+Type of indicator: Global
+
+Algorithm: 5a.1a_ES.gif
+
+Description of the indicator: Es el porcentaje de la población agricola que es dueña de la propiedad en la que vive con derechos de propiedad o derechos seguros sobre tierras agricolas.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional y estatal
+
+Opportunity: 6 meses
+
+Source of statistical information used to calculate the indicator: Elaboración propia con base en la encuesta ampliada del Censo de Población y Vivienda 2020 del Instituto Nacional de Estadística y Geografía (INEGI)
+
+Date of next update of indicator: 31 de diciembre de 2026
+
+Unit of the State responsible for calculating the indicator: Secretaría de Desarrollo Agrario, Territorial y Urbano (SEDATU). 
+
+Importance and purpose of the indicator: Es el porcentaje de la población agrícola que dueña de la propiedad en la que vive con derechos de propiedad o derechos seguros sobre tierras agrícolas.
+
+National and/or international reference: Repositorio de metadatos de los ODS, disponible en:   
+ https://unstats.un.org/sdgs/metadata/ 
+
+Observations: La población agricola incluye a todas las personas que trabajan en actividades agrícolas, ganaderas, forestales, caza y pesca.
+

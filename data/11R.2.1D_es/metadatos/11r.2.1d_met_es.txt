@@ -1,0 +1,61 @@
+﻿Title: 11r.2.1d Tiempo promedio (en minutos) de traslado al trabajo, desglosado por grupo de edad
+
+Description: Este indicador mide el tiempo promedio que la población de 15 años y más dedica a trasladarse al trabajo a la semana, se trata de la suma de tiempo dedicado al traslado para el trabajo, entre la población que se dedica a dicha actividad. Se desagrega por sexo, población hablante de lengua indígena, grupo de edad y tamaño de la localidad.
+
+Modified: 2026-02-03
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Centro de atención a usuarios INEGI
+Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276,
+Aguascalientes, Aguascalientes, Aguascalientes, 
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Nacional sin costo: 800 111 46 34 
+ Internacional: (código internacional) + (52)+(449) 149 1300
+atencion.usuarios@inegi.org.mx
+
+Temporal: 2014-2024
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Quinquenal
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/11r.2.1d_es.zip
+
+Goal: 11. Lograr que las ciudades y los asentamientos humanos sean inclusivos, seguros, resilientes y sostenibles 
+
+Target:  Meta 11.2. De aquí a 2030, proporcionar acceso a sistemas de transporte seguros, asequibles, accesibles y sostenibles para todos y mejorar la seguridad vial, en particular mediante la ampliación del transporte público, prestando especial atención a las necesidades de las personas en situación de vulnerabilidad, las mujeres, los niños, las personas con discapacidad y las personas de edad
+
+Type of indicator: Regional
+
+Algorithm: 11r.2.1d_ES.gif
+
+Description of the indicator: Este indicador mide el tiempo promedio que la población de 15 años y más dedica a trasladarse al trabajo a la semana, se trata de la suma de tiempo dedicado al traslado para el trabajo, entre la población que se dedica a dicha actividad. Se desagrega por sexo, población hablante de lengua indígena, grupo de edad y tamaño de la localidad.
+
+Unit of measure: Promedio (minutos por semana)
+
+Geographic coverage: Nacional
+
+Opportunity: 8 meses después del levantamiento
+
+Source of statistical information used to calculate the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional de Uso del Tiempo 2014, 2019 y 2024.  https://www.inegi.org.mx/programas/enut/
+
+Date of next update of indicator: No definida
+
+Unit of the State responsible for calculating the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Unidad de Estadísticas Sociodemográficas.   
+ https://www.inegi.org.mx  
+
+Importance and purpose of the indicator: El indicador permite conocer el tiempo promedio que las personas tardan en trasladarse al trabajo.
+
+National and/or international reference: Repositorio de Indicadores priorizados para el seguimiento de los ODS en América Latina y el Caribe (CEPAL). Disponible en:   
+ https://agenda2030lac.org/estadisticas/indicadores-priorizados-seguimiento-ods.html 
+
+Observations: El nombre del indicador propuesto en el marco regional por CEPAL es: "Tiempo promedio (en minutos) de desplazamiento al trabajo". Con el objetivo de homologar el nombre del indicador con la forma en qué se pregunta en la ENUT (Sección V. Trabajo y sus características. Pregunta 5.4) se cambió por "Tiempo promedio (en minutos) de traslado al trabajo".
+El 28 de agosto de 2025, se reemplazaron los microdatos de la ENUT 2014 y 2019, debido a que se actualizaron las estimaciones de población, con base en la propia actualización del Marco de Muestreo del INEGI.
+

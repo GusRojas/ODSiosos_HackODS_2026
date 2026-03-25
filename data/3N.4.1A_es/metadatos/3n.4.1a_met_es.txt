@@ -1,0 +1,65 @@
+﻿Title: 3n.4.1a Porcentaje de la población con sobrepeso y obesidad, desglosado por sexo y edad
+
+Description: Porcentaje de la población con Índice de Masa Corporal que los ubican dentro de las categorías de sobrepeso y obesidad.
+
+Modified: 2025-11-14
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Mtra. Manett Vargas García
+Directora General de Evaluación del Desempeño
+Avenida Paseo de la Reforma 450 
+Colonia Juárez, 06600
+Cuauhtémoc, Cuauhtémoc, Ciudad de México
+01 (55) 50621600 Ext. 52697
+manett.vargas@salud.gob.mx
+Dr. Delfino Campos Díaz
+Director de Gestión y Seguimiento para la Evaluación de los Sistemas de Salud
+Av. Agrarismo #227, piso 3, Col. Escandón II Sección D.T. Miguel Hidalgo, C.P. 11800, CDMX.
+01 (55) 50621600 Ext. 52681
+delfino.campos@salud.gob.mx
+Lucía Cuevas Nasu
+Dirección de Encuestas Nacionales de Salud
+Avenida Universidad 655, Colonia Santa María Ahuacatitlán, C.P. 62100, Cuernavaca, Morelos
+(777) 3 29 30 00 Ext.7225
+lcuevas@insp.mx
+
+Temporal: 2006-2024
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual irregular
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/3n.4.1a_es.zip
+
+Goal: 3. Garantizar una vida sana y promover el bienestar de todos a todas las edades 
+
+Target:  Meta 3n.4 Fomentar la cultura preventiva, de atención temprana y hábitos saludables para enfermedades no transmisibles, con énfasis en la prevención de la obesidad adulta e infantil
+
+Type of indicator: Nacional
+
+Algorithm: 3n.4.1_ES.gif
+
+Description of the indicator: Para toda la población escolar (5 a 11 años) y adolescente (12 a 19 años)* se calculó el puntaje Z del IMC (índice de masa corporal) para la edad. De acuerdo con el patrón de referencia de la OMS-2007, se clasificó con sobrepeso a los escolares y adolescentes con puntajes Z por arriba de +1 y hasta +2 y arriba de +2 desviaciones estándar para obesidad. Se consideraron como válidos datos de IMC entre -5.0 y +5.0 puntos Z.
+La evaluación del estado nutrición de la población mayor de 20 años de edad se realizó mediante el indicador del Índice de Masa Corporal (IMC). Para el caso del IMC, se consideraron como datos válidos todos aquellos valores de talla entre 1.3 y 2.0 m, y los valores de IMC entre 10 y 58 kg/m2. Los datos fuera de estos intervalos para talla y para IMC, así como los casos de mujeres embarazadas fueron excluidos del análisis. La clasificación utilizada para categorizar el IMC fue la de la OMS, que propone cuatro categorías: desnutrición (<18.5 kg/m2), IMC normal (18.5 a 24.9 kg/m2), sobrepeso (25.0 a 29.9 kg/m2), y obesidad (=30.0 kg/m2).
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: No definida
+
+Source of statistical information used to calculate the indicator: Instituto Nacional de Salud Pública (INSP). Encuesta Nacional de Salud y Nutrición (ENSANUT). Disponible en: https://ensanut.insp.mx/
+
+Date of next update of indicator: 30 de junio de 2026
+
+Unit of the State responsible for calculating the indicator: Secretaría de Salud (SSA). 
+
+Importance and purpose of the indicator: El sobrepeso y la obesidad en México representan un problema creciente, en todas las áreas del país. México es uno de los países con mayores tasas de incidencia de sobrepeso y obesidad en el mundo. Estas enfermedades representan un gran costo para el sistema de salud en el país, no solo por sí mismas, sino porque estas incrementan significativamente el riesgo de padecer enfermedades crónicas no trasmisibles, la mortalidad prematura y el costo social de la salud.
+Las tendencias marcan un aumento de diabetes asociado al incremento en obesidad y sobrepeso, además se asocian con otras enfermedades como enfermedades cardiovasculares, padecimientos osteomusculares, cáncer, etc. Además de la carga de estas enfermedades tiene incidencia como comorbilidades en otras enfermedades. 
+
+

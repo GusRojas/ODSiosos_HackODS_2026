@@ -1,0 +1,53 @@
+﻿Title: 9n.2.1 Multiplicador del subsidio a la investigación científica y desarrollo experimental financiada por las empresas
+
+Description: Mide la contribución del sector privado a la atención de prioridades nacionales mediante la realización de proyectos de investigación científica y desarrollo experimental como respuesta a los incentivos otorgados por el gobierno.
+
+Modified: 2025-06-30
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Viridiana Gabriela Yañez Rivas
+Directora de Planeación y Seguimiento (DPS)
+Avenida Insurgentes Sur 1582, 6° Piso Ala Norte, Colonia Crédito Constructor, C.P. 03940; Benito Juárez, Ciudad de México
+55 5322 7700, ext. 3510
+vgyanezri@secihti.mx
+
+Temporal: 2017-2024
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/9n.2.1_es.zip
+
+Goal: 9. Construir infraestructuras resilientes, promover la industrialización inclusiva y sostenible y fomentar la innovación 
+
+Target:  Meta 9n.2 Fomento del desarrollo tecnológico, investigación e innovación para la industria, con énfasis en el uso por MIPyMEs
+
+Type of indicator: Nacional
+
+Algorithm: 9n.2.1_ES.gif
+
+Description of the indicator: Mide la relación de la inversión privada en proyectos de investigación científica y desarrollo experimental respecto al incentivo recibido por parte del gobierno. El resultado nos muestra el monto de la inversión privada por cada peso público invertido.
+
+Unit of measure: Número
+
+Geographic coverage: Nacional
+
+Opportunity: Mes de junio del año siguiente al que se está midiendo el indicador
+
+Source of statistical information used to calculate the indicator: Registros administrativos del Programa de Estímulo Fiscal a la Investigación y Desarrollo Tecnológico (EFIDT) de la Secretaría de Ciencia, Humanidades, Tecnología e Innovación, SECIHTI
+
+Date of next update of indicator: 30 de junio de 2026
+
+Unit of the State responsible for calculating the indicator: Secretaría de Ciencia, Humanidades, Tecnología e Innovación (SECIHTI). Unidad de Políticas Transversales 
+
+Importance and purpose of the indicator: Este indicador permite dimensionar la inversión las empresas para realizar proyectos de investigación científica y desarrollo experimental  como resultado de los creditos fiscales otorgados por el Gobierno Federal para esa inversión.
+
+National and/or international reference: Programa Especial de Ciencia, Tecnología e Innovación 2021-2024 
+
+

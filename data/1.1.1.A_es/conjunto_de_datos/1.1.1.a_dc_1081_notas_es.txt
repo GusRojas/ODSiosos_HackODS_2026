@@ -1,0 +1,7 @@
+﻿"Nota: Se utilizan los factores de expansión construidos a partir de la actualización en las estimaciones de población que genera el Marco de Muestreo de Viviendas INEGI. "
+"NA No aplicable"
+"Fuente: Estimaciones del CONEVAL con base en la ENIGH 2016, 2018 y 2020. 
+ 
+Dirección Ejecutiva de Medición de Pobreza y Seguimiento de Indicadores (DEMPSI), Coordinación General
+de Análisis de la Pobreza (CGAP), Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL). "
+"cvegeo: Clave geoestadística"

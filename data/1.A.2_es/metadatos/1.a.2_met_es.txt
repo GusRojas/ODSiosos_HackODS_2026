@@ -1,0 +1,56 @@
+﻿Title: 1.a.2 Proporción del gasto público total en servicios esenciales (educación, salud y protección social)
+
+Description: El indicador mide el gasto en las funciones de salud, educación y protección social que se invirtió en el año anterior al del reporte, de acuerdo con la Cuenta Pública, como proporción del Gasto Neto Total.
+
+Modified: 2021-04-21
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+Keyword: Erogaciones, inversión física, inversión financiera, transferencias, ayudas, becas, 70 y más, PROSPERA
+
+ContactPoint: José Luis Estrada Barranco
+Director General Adjunto
+Constituyentes 1001,
+Colonia Belén de las Flores, C.P. 1110,
+Álvaro Obregón, Álvaro Obregón,
+Ciudad de México
+(55) 3688 5124
+jose_estrada@hacienda.gob.mx
+
+Temporal: 2006-2020
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/1.a.2_es.zip
+
+Goal: 1. Poner fin a la pobreza en todas sus formas y en todo el mundo 
+
+Target:  Meta 1.a Garantizar una movilización significativa de recursos procedentes de diversas fuentes, incluso mediante la mejora de la cooperación para el desarrollo, a fin de proporcionar medios suficientes y previsibles a los países en desarrollo, en particular los países menos adelantados, para que implementen programas y políticas encaminados a poner fin a la pobreza en todas sus dimensiones
+
+Type of indicator: Global
+
+Algorithm: 1_a_2_ES.gif
+
+Description of the indicator: Es la suma del monto ejercido en las funciones de salud, educación y protección social, del año anterior al reportado respecto a la cifra de cierre anual correspondiente al gasto neto total, expresado como porcentaje.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: 120 días posterior al cierre del ejercicio
+
+Source of statistical information used to calculate the indicator: Secretaría de Hacienda y Crédito Público (SHCP), Cuenta Pública [Anual]
+
+Date of next update of indicator: 31 de mayo de 2022
+
+Unit of the State responsible for calculating the indicator: Secretaría de Hacienda y Crédito Público (SHCP), Unidad de Política y Control Presupuestario. 
+
+Importance and purpose of the indicator: El indicador busca medir la proporción del gasto que se utiliza para proveer de servicios esenciales a la población, tales como los relativos a educación, salud y protección social, que son prioritarios para el estado mexicano y la información del indicador será de utilidad para considerar la dimensión presupuestaria de la atención a estas funciones.
+
+

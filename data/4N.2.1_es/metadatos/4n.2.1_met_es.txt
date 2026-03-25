@@ -1,0 +1,75 @@
+﻿Title: 4n.2.1 Prevalencia de la violencia en el ámbito escolar  entre las mujeres de 15 años y más en los últimos 12 meses
+
+Description: Mujeres de 15 años y más que han experimentado al menos un incidente de violencia en el ámbito escolar en los últimos 12 meses, dividido entre las mujeres de 15 años y más que estudiaron en los últimos 12 meses, multiplicado por cien.
+
+Modified: 2022-12-14
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Centro de atención a usuarios INEGI
+Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276
+Aguascalientes, Aguascalientes, Aguascalientes 
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Nacional sin costo: 800 111 46 34 
+ Internacional: (código internacional) + (52)+(449) 910 53 00 Ext. 315301
+atencion.usuarios@inegi.org.mx
+Alejandra Ríos Cázares
+Directora General Adjunta de Desarrollo, Análisis e Indicadores de Gobierno
+Av. Patriotismo 711. Colonia San Juan, Alcaldía Benito Juárez, CDMX
+5552781000, extensión 1698
+alejandra.riosc@inegi.org.mx
+Eloina Meneses Mendoza
+Directora de Desarrollo de Información Gubernamental
+Av. Patriotismo 711. Colonia San Juan, Alcaldía Benito Juárez, CDMX
+5552781000, extensión 1779
+eloina.meneses@inegi.org.mx
+
+Temporal: 2016-2021
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Quinquenal
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/4n.2.1_es.zip
+
+Goal: 4. Garantizar una educación inclusiva y equitativa de calidad y promover oportunidades de aprendizaje permanente para todos 
+
+Target:  Meta 4n.2 Disposición de entornos favorables para el proceso de enseñanza-aprendizaje
+
+Type of indicator: Nacional
+
+Algorithm: 4n.2.1_ES.gif
+
+Description of the indicator: El indicador se calcula como el  número de mujeres y niñas de 15 años y más  que experimentaron al menos un incidente de violencia en el ámbito escolar en los últimos 12 meses, dividido entre el total de mujeres de 15 años y más que asistieron a la escuela en los últimos 12 meses, multiplicado por 100. Se considera un desglose por entidad federativa y grandes grupos de edad.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional y entidad federativa
+
+Opportunity: 9 meses posteriores al levantamiento de la información.
+
+Source of statistical information used to calculate the indicator: Instituto Nacional de Estadística y Geografía (INEGI).Encuesta Nacional sobre la Dinámica de las Relaciones en los Hogares (ENDIREH).  https://www.inegi.org.mx/programas/endireh/2016/ Base de datos.
+
+Date of next update of indicator: 31 de octubre de 2027
+
+Unit of the State responsible for calculating the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Dirección General de Estadísticas de Gobierno, Seguridad Pública y Justicia. 
+
+Importance and purpose of the indicator: La violencia en el ámbito escolar es una realidad que afecta cada día a millones de niñas, niños y jóvenes en su derecho humano fundamental a la educación. Este fenómeno afecta de manera desproporcionada a las niñas y mujeres, así como a aquellas personas que no se ajustan a las normas predominantes.
+Las escuelas que no son inclusivas o seguras violan el derecho a la educación proclamado por la Convención sobre los Derechos del Niño adoptada por las Naciones Unidas, e incumplen con la Convención relativa a la Lucha contra las Discriminaciones en la Esfera de la Enseñanza, cuyo objetivo es eliminar cualquier discriminación, así como impulsar las medidas que garantizan la igualdad de oportunidades y de trato digno para todas las personas.
+Eliminar la violencia y el acoso escolar, incluida la violencia escolar por motivo de orientación sexual, y prevenir la discriminación de alumnos y docentes por razones de salud o de género, son ejes prioritaros de las políticas públicas.
+
+National and/or international reference: Ley General de Acceso de las Mujeres a una Vida Libre de Violencia. 
+CEDAW (Convención sobre la eliminación de todas las formas de discriminación contra la mujer) 
+Objetivos del Desarrollo Sostenible. Objetivo 4. Garantizar una educación inclusiva y equitativa de calidad y promover oportunidades de aprendizaje permanente para todos.
+4.a  Construir y adecuar instalaciones educativas que tengan en cuenta las necesidades de los niños y las personas con discapacidad y las diferencias de género,
+y que ofrezcan entornos de aprendizaje seguros, no violentos, inclusivos y eficaces para todos. 
+
+Observations: De acuerdo con la ENDIREH, se considera que una mujer sufrió violencia en el ámbito escolar,  si en al menos uno de los actos por los que se indaga la violencia la mujer respondió que sí lo ha experimentado. 
+Actos de violencia: "La han pateado o golpeado con el puño"; "La han atacado o agredido con un cuchillo, navaja o arma de fuego"; "alguna persona le mostró sus partes íntimas o se las manoseó enfrente de usted"; "Le han hecho comentarios ofensivos acerca de que las mujeres no deberían estudiar"; "Le han hecho sentir miedo de ser atacada o abusada sexualmente"; "La han pellizcado, jalado el cabello, empujado, jaloneado, abofeteado o aventado algún objeto"; "la han obligado a mirar escenas o actos sexuales o pornográficos (fotos, revistas, vídeos o películas pornográficas)"; "han tratado de obligarla a tener relaciones sexuales en contra de su voluntad"; "La han vigilado o seguido al salir de la escuela";  "le han propuesto o insinuado tener relaciones sexuales a cambio de calificaciones, cosas o beneficios en la escuela" ; "la castigaron, trataron mal o se vengaron, porque se negó a tener relaciones sexuales (la reprobaron, le bajaron la calificación, la expulsaron o sacaron de la escuela, etc.)";  "le han dicho piropos groseros u ofensivos de tipo sexual o sobre su cuerpo"; "La han ofendido o humillado por el hecho de ser mujer"; "la han manoseado, tocado, besado o se le han arrimado, recargado o encimado sin su consentimiento";  "la han obligado a tener relaciones sexuales en contra de su voluntad"; "la han ignorado o no la han tomado en cuenta, por ser mujer";  "le han enviado mensajes o publicado comentarios con insinuaciones sexuales, insultos u ofensas, a través del celular, correo electrónico o redes sociales (como Facebook, Twitter, WhatsApp)".
+

@@ -1,0 +1,66 @@
+﻿Title: 6.3.2. Proporción de cuerpos de agua con buena calidad de agua
+
+Description: El indicador se define como la proporción de cuerpos de agua en el país que tienen una buena calidad de agua. La calidad del agua se refiere al agua natural no tratada de ríos, lagos y aguas subterráneas, representando una combinación de influencias naturales junto con los impactos de todas las actividades antropogénicas.
+
+Modified: 2023-11-03
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Gerencia de Planificación Hídrica
+Subgerencia del Sistema Nacional de Información del Agua
+Insurgentes Sur # 2416. Piso 4; Colonia Copilco El Bajo, 04340. Coyoacán, Ciudad de México
++52 55 5174 4000, ext. 2112 y 4458
+sina@conagua.gob.mx
+Gerencia de Cooperación Internacional
+Dirección de Área de Evaluación de Programas y Proyectos
+Insurgentes Sur # 2416. Piso 9; Colonia Copilco El Bajo, 04340. Coyoacán, Ciudad de México
++52 55 5174 4000, ext. 1313
+internacional@conagua.gob.mx
+
+Temporal: 2020-2023
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Trienal
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/6.3.2._es.zip
+
+Goal: 6. Garantizar la disponibilidad y la gestión sostenible del agua y el saneamiento para todos 
+
+Target:  Meta 6.3 De aquí a 2030, mejorar la calidad del agua reduciendo la contaminación, eliminando el vertimiento y minimizando la emisión de productos químicos y materiales peligrosos, reduciendo a la mitad el porcentaje de aguas residuales sin tratar y aumentando considerablemente el reciclado y la reutilización sin riesgos a nivel mundial
+
+Type of indicator: Global
+
+Algorithm: 6.3.2_ES.gif
+
+Description of the indicator: El indicador se calcula en dos etapas: 
+1. En el primer paso, se clasifican los cuerpos de agua de acuerdo con una evaluación en función del cumplimiento de los límites permisibles para cada uno de los parámetros seleccionados.
+2. En un segundo paso, los resultados de la clasificación se utilizan para calcular el indicador como la proporción del número de cuerpos de agua clasificados como de buena calidad en relación con el número total de cuerpos de agua considerados en el análisis.
+El indicador se basa en datos de calidad del agua derivados de mediciones in situ y el análisis de muestras recolectadas de aguas superficiales. La calidad del agua se evalúa mediante parámetros físicos y químicos que reflejan la calidad del agua. El estado de la calidad de los cuerpos de agua individuales se clasifica en función del cumplimiento de los límites permisibles para evaluar la calidad del agua disponibles. 
+Para el caso de México, los parámetros considerados para evaluar la calidad del agua en los cuerpos de agua son: porcentaje de saturación de oxígeno, conductividad eléctrica, pH, fósforo total y nitrógeno de nitratos.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: 3 años
+
+Source of statistical information used to calculate the indicator: Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT). Comisión Nacional del Agua (CONAGUA). Gerencia de Planificación Hídrica. Sistema Nacional de Información del Agua (SINA), a partir de los registros administrativos de la Gerencia de Calidad del Agua de la Subdirección General Técnica.
+
+Date of next update of indicator: 31 de octubre de 2026
+
+Unit of the State responsible for calculating the indicator: Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT). Comisión Nacional del Agua (CONAGUA). Gerencia de Planificación Hídrica. Sistema Nacional de Información
+del Agua (SINA). 
+
+Importance and purpose of the indicator: La buena calidad del agua es esencial para proteger los ecosistemas acuáticos y los servicios que brindan, incluyendo: la preservación de la biodiversidad; la protección de la salud humana, tanto en el uso recreativo como en el suministro de agua potable; el apoyo a la nutrición humana mediante el suministro de peces y agua para riego; la habilitación de una variedad de actividades económicas; y el fortalecimiento de la resiliencia de las personas frente a los desastres relacionados con el agua. Por lo tanto, la buena calidad del agua está estrechamente relacionada con el logro de muchos otros Objetivos de Desarrollo Sostenible.
+
+National and/or international reference: Comisión Nacional del Agua (Conagua). Programa Nacional Hídrico 2020-2024 
+Global Environment Monitoring System for Water (GEMS/Water) 
+
+Observations: El valor reportado para el año 2020, correspondió al análisis de datos recopilados en un periodo de 3 años que le antecede; es decir, se analizaron los datos en el periodo 2017-2019.
+En octubre de 2022 se informó un cambio el metadato internacional en la periodicidad de cálculo del indicador, por lo que ahora, se calculará cada 3 años; el valor del indicador que se reportará en el año 2023, corresponde al análisis de la información de calidad del agua para el periodo 2020-2022.
+

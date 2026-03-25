@@ -1,0 +1,60 @@
+﻿Title: 9.b.1 Proporción del valor añadido por la industria de tecnología mediana y alta en el valor agregado bruto
+
+Description: La proporción del valor agregado de la industria de tecnología media-alta y alta (MHT) en el valor agregado total de la manufactura (MVA) es un valor de relación entre el valor agregado de la industria MHT y MVA.
+
+Modified: 2025-10-08
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Centro de atención a usuarios INEGI
+Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276,
+Aguascalientes, Aguascalientes, Aguascalientes, 
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Nacional sin costo: 800 111 46 34 
+ Internacional: (código internacional) + (52)+(449) 149 1300
+atencion.usuarios@inegi.org.mx
+
+Temporal: 2003-2024
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/9.b.1_es.zip
+
+Goal: 9. Construir infraestructuras resilientes, promover la industrialización inclusiva y sostenible y fomentar la innovación 
+
+Target:  Meta 9.b. Apoyar el desarrollo de tecnologías, la investigación y la innovación nacionales en los países en desarrollo, incluso garantizando un entorno normativo propicio a la diversificación industrial y la adición de valor a los productos básicos, entre otras cosas
+
+Type of indicator: Global
+
+Algorithm: 9.b.1_ES.gif
+
+Description of the indicator: Conforme al algoritmo del renglón anterior, el cual muestra la división entre el valor agregado bruto expresado en valores corrientes con el valor agregado bruto correspondiente a la industria manufacturera, previamente inicia con la agregación de las ramas de actividad económica de la industria manufacturera de la publicación de Cuentas de Bienes y Servicios del Sistema  de Cuentas Nacionales de México, que se apoya con base a la tabla 1 de la OECD Science, Technology and Industry Working Papers. 1997/02. Revision of the High- Technology Sector and Product Classification  Thomas Hatzichronoglou.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: 10 meses después del cierre del año calendario. Es decir, aproximadamente en octubre del año inmediato posterior.
+
+Source of statistical information used to calculate the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Cuentas de Bienes y Servicios/SCNM
+
+Date of next update of indicator: 31 de octubre de 2026
+
+Unit of the State responsible for calculating the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Unidad de Estadísticas Económicas.   
+ https://www.inegi.org.mx  
+
+Importance and purpose of the indicator: Describe el peso que tienen las actividades económicas generadoras de tecnología mediana y alta en el total de la industria manufacturera.
+
+National and/or international reference: Repositorio de metadatos de los ODS, disponible en:   
+ https://unstats.un.org/sdgs/metadata/ 
+
+Observations: Ninguna. 
+

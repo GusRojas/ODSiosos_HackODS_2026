@@ -1,0 +1,66 @@
+﻿Title: 3n.1.3.a Porcentaje de población derechohabiente que no gastó en servicios médicos la última vez que recibió atención médica, por desglose geográfico
+
+Description: Es el porcentaje de población derechohabiente a las instituciones públicas de salud (IMSS, ISSSTE, ISSSTE estatal, PEMEX, Defensa, Marina, IMSS-Prospera y otros) y de la población afiliada al Seguro Popular que no tuvo que pagar por conceptos como: consulta, medicamentos, estudios de laboratorio, hospitalización, instrumental médico y otros, la última vez que tuvo problemas de salud y buscó y recibió atención en alguna institución pública de salud.
+
+Modified: 2023-12-07
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Alida Marcela Gutiérrez Landeros
+Coordinadora General de Análisis de la Pobreza
+Insurgentes Sur #810, Colonia Del Valle, C.P. 03100, Benito Juárez, Ciudad de México
+(55) 54-81-72-00, ext. 70075
+amgutierrez@coneval.org.mx
+Héctor Figueroa Palafox
+Director Ejecutivo de Lineamientos de Medición de Pobreza y Desarrollo Social
+Insurgentes Sur #810, Colonia Del Valle, C.P. 03100, Benito Juárez, Ciudad de México
+(55) 54-81-72-00, ext. 70135
+hfigueroa@coneval.org.mx
+
+Temporal: 2016-2022
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Bienal
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/3n.1.3.a_es.zip
+
+Goal: 3. Garantizar una vida sana y promover el bienestar de todos a todas las edades 
+
+Target:  Meta 3n.1 Lograr la cobertura universal de salud
+
+Type of indicator: Nacional
+
+Algorithm: 3n.1.3.a_ES.gif
+
+Description of the indicator: Este indicador resulta de dividir la población derechohabiente a las instituciones públicas de salud y de la población afiliada al Seguro Popular que se atiende en las instituciones públicas de salud y que no gastó en servicios médicos entre la población derechohabiente y afiliada al Seguro Popular que buscó y recibió atención en las instituciones públicas de salud la última vez que tuvo problemas de salud.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Entidad federativa
+
+Opportunity: 1 año */
+
+Source of statistical information used to calculate the indicator: Instituto Nacional de Estadística y Geografía (INEGI)
+-Encuesta Nacional de Ingresos y Gastos de los Hogares (ENIGH) 2016, 2018, 2020 y 2022; con los nuevos factores de expansión construidos con base en el Marco de Muestreo de Viviendas y los resultados del Censo de Población y Vivienda 2020
+
+Date of next update of indicator: 31 de diciembre de 2025 */
+
+Unit of the State responsible for calculating the indicator: Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL). http://www.coneval.org.mx/. 
+
+Importance and purpose of the indicator: Uno de los obstáculos que impiden el acceso de la población a la atención médica y medicamentos es el gasto directo que las personas deben realizar para acceder a servicios sanitarios, es decir, el gasto de bolsillo. La OMS refiere que este gasto no debe exceder del 30% del gasto en salud, por encima de esto sería un gasto catastrófico por motivos de salud.
+La Ley General de Salud establece como unos de los objetivos del Sistema Nacional de Salud es proporcionar servicios gratuitos a toda la población.
+El indicador permite conocer la eficacia del sector público del sistema de salud mexicano en cuanto a brindar acceso a la población a los servicios médicos sin afectar su economía.
+
+National and/or international reference: Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL). http://www.coneval.org.mx/. 
+
+Observations: 1. Para un mejor análisis de la información 2022, consultar la nota técnica:
+https://www.coneval.org.mx/Medicion/MP/Documents/MMP_2022/Nota_tecnica_sobre_la_informacion_empleada_para_la_estimacion_de_la_medicion_de_pobreza_en_Mexico_2022.pdf
+En 2020 se crea el Instituto de Salud para el Bienestar como un organismo de la Secretaría de Salud de México el cual tiene la finalidad de proveer servicios de salud a las personas que no tienen seguridad social por parte del IMSS o el ISSSTE. Esto podría afectar el cálculo del indicador, por lo que, se sugiere verificar con la institución de reporte, cómo se integrará el INSABI, y considerar la actualización del indicador.
+La meta se plante de forma retadora con el fin de lograr una cobertura universal de salud en la que no se comprometan los recursos de la población.
+*/ La actualización del indicador está sujeta a la publicación de los microdatos por parte de INEGI
+

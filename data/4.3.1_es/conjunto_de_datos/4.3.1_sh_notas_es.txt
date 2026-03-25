@@ -1,0 +1,9 @@
+﻿"ND No disponible"
+"Fuente: • Secretaría de Educación Pública (SEP). Dirección General de Planeación, Programación y Estadística Educativa. Sistema de Estadísticas Continuas de Educación del Formato
+911. Disponible en:   
+ https://www.planeacion.sep.gob.mx/estadisticaeducativas.aspx 
+• Consejo Nacional de Población (CONAPO), Conciliación Demográfica de 1950 a 2019 y Proyecciones de la
+población de México y de las entidades federativas 2020 a 2070.   
+ https://www.gob.mx/conapo/acciones-y-programas/conciliacion-demografica-de-1950-a-2019-y-proyecciones-de-la-poblacion-de-mexico-y-de-las-entidades-federativas-2020-a-2070
+ "
+"cvegeo: Clave geoestadística"

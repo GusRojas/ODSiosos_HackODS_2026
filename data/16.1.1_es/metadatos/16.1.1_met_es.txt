@@ -1,0 +1,77 @@
+﻿Title: 16.1.1 Número de defunciones por homicidio por cada 100 000 habitantes, desglosado por sexo y edad
+
+Description: Es el número de defunciones por homicidio por entidad de registro durante el año, dividido entre el total de la población a mitad del año, por 100 000.
+
+Modified: 2025-12-12
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+Keyword: Muertes violentas, asesinatos, delitos, muerte intencional, violencia, crimen
+
+ContactPoint: Centro de atención a usuarios INEGI
+Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276,
+Aguascalientes, Aguascalientes, Aguascalientes, 
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Nacional sin costo: 800 111 46 34 
+ Internacional: (código internacional) + (52)+(449) 149 1300
+atencion.usuarios@inegi.org.mx
+Dr. Dwight D. Dyer Leal
+Titular de la Unidad de Estadísticas de Gobierno, Seguridad Pública y Justicia
+Av. Patriotismo 711. Colonia San Juan, delegación Benito Juárez, CDMX.
+5552781000, Ext:321592
+dyer@inegi.org.mx
+
+Temporal: 2010-2024
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/16.1.1_es.zip
+
+Goal: 16. Promover sociedades pacíficas e inclusivas para el desarrollo sostenible, facilitar el acceso a la justicia para todos y construir a todos los niveles instituciones eficaces e inclusivas que rindan cuentas 
+
+Target:  Meta 16.1 Reducir significativamente todas las formas de violencia y las correspondientes tasas de mortalidad en todo el mundo
+
+Type of indicator: Global
+
+Algorithm: 16_1_1_ES.gif
+
+Description of the indicator: El indicador se calcula como el número de defunciones por homicidio (por entidad de registro) en el año, dividido entre el total de población a mitad de año, multiplicado por cien mil. Se considera un desglose por sexo, por grupos de edad: personas menores de 15 años; 15-24; 25-64; 65 o más años, y entidad federativa.
+
+Unit of measure: Casos por cada 100 000 habitantes
+
+Geographic coverage: Nacional y entidad federativa
+
+Opportunity: Las cifras preliminares de un determinado año se publican durante el mes de julio del año siguiente.
+Las cifras definitivas  de un determinado año se publican en el último trimestre del año siguiente.
+
+Source of statistical information used to calculate the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Estadísticas vitales: Base de datos de mortalidad.  https://www.inegi.org.mx/programas/mortalidad/
+Consejo Nacional de Población (CONAPO), Conciliación Demográfica de 1950 a 2019 y Proyecciones de la población de México y de las entidades federativas 2020 a 2070.  https://www.gob.mx/conapo/acciones-y-programas/conciliacion-demografica-de-1950-a-2019-y-proyecciones-de-la-poblacion-de-mexico-y-de-las-entidades-federativas-2020-a-2070
+
+Date of next update of indicator: 31 de diciembre de 2026
+
+Unit of the State responsible for calculating the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Unidad de Estadísticas de Gobierno, Seguridad Pública y Justicia.   
+ https://www.inegi.org.mx  
+
+Importance and purpose of the indicator: Este indicador se utiliza ampliamente a nivel nacional e internacional para medir la forma más extrema de los crímenes violentos y también proporciona un indicio directo de la falta de seguridad. La seguridad frente a la violencia es un requisito previo para que las personas disfruten de una vida segura y eficaz, y para que las sociedades y las economías se desarrollen libremente. Los homicidios intencionales ocurren en todos los países del mundo y este indicador tiene una aplicabilidad a escala mundial.
+Para el caso de México, el Instituto Nacional de Estadística y Geografía recopila la información sobre las defunciones por homicidio provenientes de los registros administrativos (certificados de defunción), los cuales se basan en la Clasificación Estadística Internacional  de Enfermedades y Problemas Relacionados con la Salud, Décima Revisión (CIE-10).
+De acuerdo con la CIE-10 el homicidio se define como las "lesiones ocasionadas por otra persona con intento de lesionar o matar, por cualquier medio" y abarca los códigos X85 a Y09.
+Desde su adopción por los países miembros de la Organización Mundial de la Salud (OMS) en 1994, la CIE-10 constituye uno de los estándares más usados a nivel internacional para elaborar estadísticas de morbilidad y mortalidad en el mundo; cuyo propósito es permitir el registro sistemático, el análisis, la interpretación y la comparación de los datos de mortalidad y morbilidad recolectados en diferentes países o áreas, y en diferentes momentos.
+
+National and/or international reference: Oficina de Naciones Unidas contra la Droga y el Delito (UNODC). 
+Organización Mundial de la Salud (OMS). 
+Clasificación Estadística Internacional  de Enfermedades y Problemas Relacionados con la Salud, Décima Revisión (CIE-10). 
+
+Observations: 1. Los resultados se derivan de la información sobre las estadísticas vitales captada de los registros administrativos de defunciones accidentales y violentas, generados por las entidades federativas. Comprende el total de registros con códigos de causa básica para homicidios (X85-Y09) según la Clasificación Estadística Internacional de Enfermedades y Problemas Relacionados con la Salud, Décima Revisión. (CIE-10).
+2. Se consideran homicidios por año y entidad de registro.
+3. La suma de las entidades no coinciden con los totales por las defunciones que no especifican sexo en el registro.
+4. El número absoluto de homicidios desagregados por sexo no coincide con las cifras publicadas en el sitio oficial internacional de los ODS (https://unstats.un.org/sdgs/dataportal ), debido a que los “no especificados” por sexo fueron prorrateados en alguna de las categorías de hombre o mujer de manera proporcional. Asimismo, las tasas pueden variar ligeramente, ya que por comparabilidad internacional la ONU utiliza como denominador sus propias proyecciones de población.
+5. En 2023 se actualizaron los denominadores de la serie del indicador conforme a las nuevas proyecciones de población del Consejo Nacional de Población publicadas en agosto de 2023, disponibles en:  https://www.gob.mx/conapo/acciones-y-programas/conciliacion-demografica-de-1950-a-2019-y-proyecciones-de-la-poblacion-de-mexico-y-de-las-entidades-federativas-2020-a-2070 
+

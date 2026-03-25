@@ -1,0 +1,64 @@
+﻿Title: 10.2.1a Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, desglosada por sexo, edad y personas con discapacidad, por desglose geográfico (Entidad federativa)
+
+Description: Es el porcentaje de la población de referencia que vive con un ingreso inferior al 50% de la mediana del ingreso corriente total per cápita.
+
+Modified: 2024-04-22
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Alida Marcela Gutiérrez Landeros
+Coordinadora General de Análisis de la Pobreza
+Insurgentes Sur #810, Colonia Del Valle, C.P. 03100, Benito Juárez, Ciudad de México
+(55) 54-81-72-00, ext. 70075
+amgutierrez@coneval.org.mx
+David Antonio Rojas Rosey
+Director Ejecutivo de Medición de Pobreza y Seguimiento de Indicadores
+Insurgentes Sur #810, Colonia Del Valle, C.P. 03100, Benito Juárez, Ciudad de México
+(55) 54-81-72-00, ext. 70100
+drojas@coneval.org.mx
+
+Temporal: 2016-2022
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Bienal
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/10.2.1a_es.zip
+
+Goal: 10. Reducir la desigualdad en los países y entre ellos 
+
+Target:  Meta 10.2. De aquí a 2030, potenciar y promover la inclusión social, económica y política de todas las personas, independientemente de su edad, sexo, discapacidad, raza, etnia, origen, religión o situación económica u otra condición
+
+Type of indicator: Global
+
+Algorithm: 10.2.1a_ES.gif
+
+Description of the indicator: Este indicador se calcula estimando la proporción (en porcentaje) de la población que reporta menos del 50% de la mediana de la distribución del ingreso corriente total per cápita. La mediana resulta de la misma distribución del indicador, por lo tanto, el  umbral del 50% de la mediana variará en el tiempo. El ingreso corriente total per cápita se estima utilizando el ingreso corriente total de los hogares divididos por el tamaño escalado del hogar, considerando economías de escala.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Entidad federativa
+
+Opportunity: 1 año */
+
+Source of statistical information used to calculate the indicator: Instituto Nacional de Estadística y Geografía (INEGI) 
+
+Date of next update of indicator: 31 de diciembre de 2025
+
+Unit of the State responsible for calculating the indicator: Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL). http://www.coneval.org.mx/. 
+
+Importance and purpose of the indicator: Este indicador está ligado a la Meta 10.2 la cual plantea que de aquí a 2030, potenciar y promover la inclusión social, económica y política de todas las personas, independientemente de su edad, sexo, discapacidad, raza, etnia, origen, religión o situación económica u otra condición. Permite dar seguimiento a la evolución de la población que tiene un ingreso inferior al nivel de vida medio, aproximándose a una medida de exclusión social.
+
+National and/or international reference: Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL). http://www.coneval.org.mx/. 
+
+Observations: 1. Este indicador refiere al porcentaje de la población que vive con menos del 50% de la mediana del nivel de ingreso (es decir, su ingreso está por debajo del 50% de la mediana de la distribución del ingreso). Este indicador permite aproximar el nivel y las tendencias de la inclusión social, pobreza relativa y desigualdad. El uso de la mediana permite identificar una distribución asimétrica del ingreso, debido a que esta se puede considerar que es una medida más adecuada para conocer la desigualdad de ingresos 
+2. Se considera el indicador de ingreso que se utiliza en la medición multidimensional de la pobreza. El ingreso corriente total per cápita considera los ingresos corrientes monetarios y no monetarios de los integrantes de un hogar. Al sumar todos los ingresos de todos miembros del hogar y dividirlos entre el tamaño de este, es ajustado por adulto equivalente y economías de escala, se obtiene el ingreso corriente total per cápita ajustado
+3. Se utilizan las bases de datos que publicó el INEGI con los nuevos factores de expansión construidos con base en el Marco de Muestreo de Viviendas y los resultados del Censo de Población y Vivienda 2020
+4. El total de población presentada en estas estimaciones, es para fines de la medición de pobreza, por lo que puede diferir con las cifras de población total reportadas por el INEGI o CONAPO
+5. Para un mejor análisis de la información 2022, consultar la nota técnica:  https://www.coneval.org.mx/Medicion/MP/Documents/MMP_2022/Nota_tecnica_sobre_la_informacion_empleada_para_la_estimacion_de_la_medicion_de_pobreza_en_Mexico_2022.pdf  
+*/ La actualización del indicador está sujeta a la publicación de los microdatos por parte de INEGI
+

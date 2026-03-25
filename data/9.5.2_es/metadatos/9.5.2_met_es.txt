@@ -1,0 +1,59 @@
+﻿Title: 9.5.2 Personas investigadoras por millón de habitantes
+
+Description: Es el número de personas investigadoras que cuentan con membresía en el Sistema Nacional de Investigadoras e Investigadores.
+
+Modified: 2025-06-12
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+Keyword: PREZI, tecnología, ciencia, innovación
+
+ContactPoint: Viridiana Gabriela Yañez Rivas
+Directora de Planeación y Seguimiento (DPS)
+Avenida Insurgentes Sur 1582, 6° Piso Ala Norte, Colonia Crédito Constructor, C.P. 03940; Benito Juárez, Ciudad de México
+55 5322 7700, ext. 3510
+vgyanezri@secihti.mx
+
+Temporal: 2012-2024
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/9.5.2_es.zip
+
+Goal: 9. Construir infraestructuras resilientes, promover la industrialización inclusiva y sostenible y fomentar la innovación 
+
+Target:  Meta 9.5 Aumentar la investigación científica y mejorar la capacidad tecnológica de los sectores industriales de todos los países, en particular los países en desarrollo, entre otras cosas fomentando la innovación y aumentando considerablemente, de aquí a 2030, el número de personas que trabajan en investigación y desarrollo por millón de habitantes y los gastos de los sectores público y privado en investigación y desarrollo
+
+Type of indicator: Global
+
+Algorithm: 9_5_2_ES.gif
+
+Description of the indicator: Número de personas investigadoras con reconocimiento en el Sistema Nacional de Investigadoras e Investigadores por cada 1,000,000 de habitantes del país.
+
+Unit of measure: Personas investigadoras por cada millón de habitantes del país
+
+Geographic coverage: Nacional
+
+Opportunity: Dos meses después del periodo de referencia
+
+Source of statistical information used to calculate the indicator: Secretaría de Ciencia, Humanidades, Tecnología e Innovación (SECIHTI)
+Consejo Nacional de Población (CONAPO), Proyecciones de la población de México 2020-2070
+
+Date of next update of indicator: 30 de junio de 2026
+
+Unit of the State responsible for calculating the indicator: Secretaría de Ciencia, Humanidades, Tecnología e Innovación (SECIHTI). Unidad de Políticas Transversales 
+
+Importance and purpose of the indicator: Conocer cómo en número de personas investigadoras se comporta en el tiempo con relación a la población.
+
+National and/or international reference: Repositorio de metadatos de los ODS, disponible en:   
+ https://unstats.un.org/sdgs/metadata/ 
+
+Observations: El indicador es un Proxi relacionado con el indicador Global de Investigadores (valor equivalente a tiempo completo) por millón de habitantes.
+Este indicador no incluye a investigadoras e investigadores sin institución de adscripción o que se encuentran en el exterior, pero que sí cuentan con membresía en el Sistema Nacional de Investigadoras e Investigadores.
+

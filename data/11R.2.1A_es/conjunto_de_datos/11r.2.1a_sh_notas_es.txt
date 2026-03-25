@@ -1,0 +1,4 @@
+﻿"ND No disponible"
+"Fuente: Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional de Uso del Tiempo 2014, 2019 y 2024.   
+ https://www.inegi.org.mx/programas/enut/  "
+"cvegeo: Clave geoestadística"

@@ -1,0 +1,13 @@
+﻿"ND No disponible"
+"Fuente: Instituto Mexicano del Seguro Social (IMSS). Coordinación de Planeación y Evaluación. Información Estadística de los Puestos de trabajo registrados por los patrones
+en el IMSS. 2019, 2020, 2021 y 2022 SNIEG. Información de Interés Nacional.
+
+El indicador no se publica, pero lo datos con base en los cuáles se calcula provienen
+del programa de información “Puestos de trabajo registrados por los patrones en el IMSS” y pueden ser consultados en: http://www.imss.gob.mx/conoce-al-imss/cubos y
+ 
+ https://public.tableau.com/app/profile/imss.cpe/viz/FaseIIProgramapilotodeincorporacindePersonasTrabajadorasdelHogar/PTH
+
+La metodología del programa de los “Puestos
+de trabajo registrados por los patrones en el IMSS” puede ser consultada en:  
+ https://www.inegi.org.mx/rnm/index.php/catalog/765 "
+"cvegeo: Clave geoestadística"

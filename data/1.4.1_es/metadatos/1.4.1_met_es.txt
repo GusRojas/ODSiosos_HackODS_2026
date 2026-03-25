@@ -1,0 +1,68 @@
+﻿Title: 1.4.1 Proporción de la población que vive en hogares con acceso a los servicios básicos
+
+Description: Proporción de población con servicios públicos que satisfacen las necesidades básicas como son: el acceso al agua potable, saneamiento, energías limpias, desechos de residuos y tecnologías.
+
+Modified: 2025-11-14
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Centro de atención a usuarios INEGI
+Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276,
+Aguascalientes, Aguascalientes, Aguascalientes, 
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Nacional sin costo: 800 111 46 34 
+ Internacional: (código internacional) + (52)+(449) 149 1300
+atencion.usuarios@inegi.org.mx
+Octavio Heredia Hernández
+Director General Adjunto de Encuestas Sociodemográficas
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276
+Aguascalientes, Aguascalientes
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Telefóno: 4499105300, Ext. 4322, 4223
+octavio.heredia@inegi.org.mx
+
+Temporal: 2016-2024
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Bienal
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/1.4.1_es.zip
+
+Goal: 1. Poner fin a la pobreza en todas sus formas y en todo el mundo 
+
+Target:  Meta 1.4. De aquí a 2030, garantizar que todos los hombres y mujeres, en particular los pobres y los vulnerables, tengan los mismos derechos a los recursos económicos y acceso a los servicios básicos, la propiedad y el control de la tierra y otros bienes, la herencia, los recursos naturales, las nuevas tecnologías apropiadas y los servicios financieros, incluida la microfinanciación
+
+Type of indicator: Global
+
+Algorithm: 1_4_1_ES.gif
+
+Description of the indicator: Este indicador es una combinación de varios componentes de los servicios básicos que por sí solos ya están existentes como indicadores independientes de los ODS. Como resultado, el equipo de expertos asesoró y acordó que Estos deben presentarse como un panel. Sus metadatos proporcionan las metodologías específicas para calcular estos indicadores.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional y entidad federativa
+
+Opportunity: 2 años
+
+Source of statistical information used to calculate the indicator: Encuesta Nacional de Ingresos y Gastos de los Hogares. 2016. 2018, 2020, 2022 y 2024.
+
+Date of next update of indicator: No definida
+
+Unit of the State responsible for calculating the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Unidad de Estadísticas Sociodemográficas.   
+ https://www.inegi.org.mx  
+
+Importance and purpose of the indicator: La pobreza tiene muchas dimensiones. No es sólo falta de bienestar material sino también falta de oportunidades. vivir una vida tolerable. La línea internacional de pobreza extrema se actualizó en 2015 a 1,90 dólares por día utilizando la paridad del poder adquisitivo de 2011 (BM 2015). Vivir bajo el umbral de la pobreza extrema a menudo implica privaciones de agua potable, saneamiento adecuado, acceso a energía moderna, movilidad sostenible para recursos económicos, tecnologías de la información, salud, educación, etc.
+
+National and/or international reference: Ficha técnica del indicador global. Disponible en:  
+ https://unstats.un.org/sdgs/metadata/  
+
+Observations: Para la construcción del indicador se consideró a la población con acceso al agua entubada, hidrante o captadores de agua de lluvia, así como a las energías limpias que incluyen: la luz eléctrica obtenida del servicio público o de una planta solar o los combustibles para cocinas no solidos como gas de tanque (LP), gas de tubería (Natural) o electricidad, también se considera el saneamiento donde se tiene acceso a un excusado de uso exclusivo de la vivienda conectado a la red pública o a una fosa séptica, así como la eliminación de la basura sea por medio de un camión recolector o que se tire en basureros públicos o en un contenedor municipal, del igual forma se tomaron en cuenta las tecnologías como son que el hogar cuente con conexión a internet o con un teléfono celular.
+

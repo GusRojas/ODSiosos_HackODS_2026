@@ -1,0 +1,61 @@
+﻿Title: 9.2.1.a Valor agregado por manufactura como proporción del PIB
+
+Description: Es el porcentaje que reprenta el total de los valores agregados de todas las unidades productivas manufactureras residentes respecto al Producto Interno Bruto (PIB).
+
+Modified: 2025-10-08
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+Keyword: Crecimiento económico, desarrollo económico, sector manufacturero, PIB
+
+ContactPoint: Centro de atención a usuarios INEGI
+Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276,
+Aguascalientes, Aguascalientes, Aguascalientes, 
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Nacional sin costo: 800 111 46 34 
+ Internacional: (código internacional) + (52)+(449) 149 1300
+atencion.usuarios@inegi.org.mx
+
+Temporal: 2003-2024
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/9.2.1.a_es.zip
+
+Goal: 9. Construir infraestructuras resilientes, promover la industrialización inclusiva y sostenible y fomentar la innovación 
+
+Target:  Meta 9.2 Promover una industrialización inclusiva y sostenible y, de aquí a 2030, aumentar significativamente la contribución de la industria al empleo y al producto interno bruto, de acuerdo con las circunstancias nacionales, y duplicar esa contribución en los países menos adelantados
+
+Type of indicator: Global
+
+Algorithm: 9_2_1_a_ES.gif
+
+Description of the indicator: El valor agregado de manufacturas entre el PIB a precios constantes.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: 1 año
+
+Source of statistical information used to calculate the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Sistema de Cuentas Nacionales de México. Cuentas de Bienes y Servicios, 2024 preliminar, base 2018 (octubre de 2025). Disponible en https://www.inegi.org.mx/programas/pibact/
+
+Date of next update of indicator: 31 de octubre de 2026
+
+Unit of the State responsible for calculating the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Unidad de Estadísticas Económicas.   
+ https://www.inegi.org.mx  
+
+Importance and purpose of the indicator: Mide la proporción del Valor Agregado Bruto de las Manufacturas respecto del Producto Interno Bruto total, permite conocer y dar seguimiento a la evolución de las manufacturas  y con ello apoyar la toma de decisiones y la formulación de políticas económicas de los gobiernos, empresas y el sector social.
+
+National and/or international reference: Banco Mundial (BM). Industria, valor agregado (% del PIB). (5 de junio de 2018) 
+
+Observations: No aplica
+

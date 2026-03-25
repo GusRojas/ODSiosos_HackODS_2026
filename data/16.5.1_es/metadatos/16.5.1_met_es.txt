@@ -1,0 +1,67 @@
+﻿Title: 16.5.1 Proporción de personas que han tenido al menos un contacto con un funcionario público y que han pagado un soborno a un funcionario público, o a las que un funcionario público les ha pedido un soborno, durante los últimos 12 meses
+
+Description: Personas que pagaron al menos un soborno (le dieron dinero, hicieron un regalo o favor) a un servidor público, o un servidor público les pidió un soborno en los últimos 12 meses, como porcentaje de las personas que tuvieron al menos un contacto con un servidor público en el mismo periodo.
+
+Modified: 2024-04-04
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Centro de atención a usuarios INEGI
+Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276
+Aguascalientes, Aguascalientes, Aguascalientes 
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Nacional sin costo: 800 111 46 34 
+ Internacional: (código internacional) + (52)+(449) 910 53 00 Ext. 315301
+atencion.usuarios@inegi.org.mx
+Dr. Dwight D. Dyer Leal
+Director General de Estadísticas de Gobierno, Seguridad Pública y Justicia
+Av. Patriotismo 711. Colonia San Juan, delegación Benito Juárez, CDMX.
+5552781000, Ext:321592
+dyer@inegi.org.mx
+
+Temporal: 2015-2023
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual irregular
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/16.5.1_es.zip
+
+Goal: 16. Promover sociedades pacíficas e inclusivas para el desarrollo sostenible, facilitar el acceso a la justicia para todos y construir a todos los niveles instituciones eficaces e inclusivas que rindan cuentas 
+
+Target:  Meta 16.5 Reducir considerablemente la corrupción y el soborno en todas sus formas
+
+Type of indicator: Global
+
+Algorithm: 16.5.1_ES.gif
+
+Description of the indicator: Número total de personas que pagaron al menos un soborno a un funcionario público o a las que un funcionario público les solicitó un soborno en los últimos 12 meses, entre el total de personas que tuvieron al menos un contacto con un funcionario público en el mismo periodo, multiplicado por 100. Desagregada por sexo (total, hombres, mujeres) y entidad federativa.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional y entidad federativa
+
+Opportunity: Los datos se refieren al año previo a la publicación de la encuesta fuente (ENCIG), que se publica en el primer semestre del año que corresponda.
+
+Source of statistical information used to calculate the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional de Calidad e Impacto Gubernamental (ENCIG).  https://www.inegi.org.mx/programas/encig/
+
+Date of next update of indicator: 30 de junio de 2026
+
+Unit of the State responsible for calculating the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Dirección General de Estadísticas de Gobierno, Seguridad Pública y Justicia. 
+
+Importance and purpose of the indicator: La corrupción es un antónimo de la igualdad de acceso a los servicios públicos y del correcto funcionamiento de la economía; como tal, tiene un impacto negativo en la distribución justa de los recursos y las oportunidades de desarrollo. Además, la corrupción erosiona la confianza pública en las autoridades y el estado de derecho; cuando el soborno administrativo se convierte en una experiencia recurrente de grandes sectores de la población y las empresas, sus efectos tienen un impacto negativo profundo en el estado de derecho, los procesos democráticos y la justicia. Al proporcionar una medida directa de la experiencia del soborno, este indicador proporciona una medida objetiva de la corrupción, así como un criterio para monitorear el progreso en la lucha contra la corrupción.
+
+National and/or international reference: Oficina de Naciones Unidas contra la Droga y el Delito (UNODC). United Nations Surveys on Crime Trends and the Operations of Criminal Justice Systems (UN-CTS). Disponible
+en:  
+ https://www.unodc.org/unodc/en/data-and-analysis/United-Nations-Surveys-on-Crime-Trends-and-the-Operations-of-Criminal-Justice-Systems.html 
+International Classification of Crime for Statistical Purposes (ICCS). 
+Convención de las Naciones Unidas contra la Corrupción (artículos 15, 16 y 21). 
+
+Observations: Los datos se refieren al año previo a la publicación de la encuesta fuente (ENCIG), que se publica en el primer semestre del año que corresponda.
+

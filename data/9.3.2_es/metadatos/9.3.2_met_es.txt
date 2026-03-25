@@ -1,0 +1,67 @@
+﻿Title: 9.3.2 Proporción de las pequeñas industrias que han obtenido un préstamo o una línea de crédito
+
+Description: Muestra el porcentaje de unidades económicas manufactureras micro y pequeñas (que ocupan hasta 50 personas) que contaron con financiamiento (línea de crédito) respecto al total  de unidades económicas manufactureras micro y pequeñas.
+
+Modified: 2025-09-30
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Centro de atención a usuarios INEGI
+Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276,
+Aguascalientes, Aguascalientes, Aguascalientes, 
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Nacional sin costo: 800 111 46 34 
+ Internacional: (código internacional) + (52)+(449) 149 1300
+atencion.usuarios@inegi.org.mx
+Daniel Vargas Montenegro
+Director de Censos Económicos
+Oficinas, Dirección General Estadísticas Económicas y Órgano Interno de Control. Piso 3. José María Chávez, 1913, Prados de Villasunción, C.P. 20280
+5552781000, Ext:5707 y 7866
+daniel.vargas@inegi.org.mx
+
+Temporal: 2008-2023
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Quinquenal
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/9.3.2_es.zip
+
+Goal: 9. Construir infraestructuras resilientes, promover la industrialización inclusiva y sostenible y fomentar la innovación 
+
+Target:  Meta 9.3. Aumentar el acceso de las pequeñas industrias y otras empresas, particularmente en los países en desarrollo, a los servicios financieros, incluidos créditos asequibles, y su integración en las cadenas de valor y los mercados
+
+Type of indicator: Global
+
+Algorithm: 9.3.2_ES.gif
+
+Description of the indicator: Resulta de dividir el número de establecimientos de la pequeña industria con una línea de crédito o préstamo entre el total de establecimientos de la pequeña industria, multiplicado por 100.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: 19 meses
+
+Source of statistical information used to calculate the indicator: Censos Económicos 2004,  2009, 2014, 2019 y 2024: 
+ https://www.inegi.org.mx/programas/ce/
+
+Date of next update of indicator: No definida
+
+Unit of the State responsible for calculating the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Unidad de Estadísticas Económicas.   
+ https://www.inegi.org.mx  
+
+Importance and purpose of the indicator: Aumentar el acceso de las pequeñas industrias y otras empresas, particularmente en los países en desarrollo, a los servicios financieros, incluidos créditos asequibles, y su integración en las cadenas de valor y los mercados.
+
+National and/or international reference: Repositorio de metadatos de los ODS, disponible en:   
+ https://unstats.un.org/sdgs/metadata/ 
+
+Observations: Esta información se comenzó a captar a partir de los Censos económicos 2009.
+Censos Económicos. Metadatos Estándar (DDI).  https://www.inegi.org.mx/rnm/index.php/catalog/547 
+

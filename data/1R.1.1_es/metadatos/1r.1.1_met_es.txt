@@ -1,0 +1,69 @@
+﻿Title: 1r.1.1 Porcentaje de la población que vive por debajo del umbral de pobreza extrema regional, desglosada por sexo, edad, condición de actividad, ubicación geográfica (urbana y rural) y etnia
+
+Description: Es el porcentaje de la población  que en el año del cálculo vive con menos del equivalente a 1.25 dólares diarios a precios de 2020, según la paridad del poder adquisitivo.
+
+Modified: 2023-09-14
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Alida Marcela Gutiérrez Landeros
+Coordinadora General de Análisis de la Pobreza
+Insurgentes Sur #810, Colonia Del Valle, C.P. 03100, Benito Juárez, Ciudad de México
+(55) 54-81-72-00, ext. 70075
+amgutierrez@coneval.org.mx
+David Antonio Rojas Rosey
+Director Ejecutivo de Medición de Pobreza y Seguimiento de Indicadores
+Insurgentes Sur #810, Colonia Del Valle, C.P. 03100, Benito Juárez, Ciudad de México
+(55) 54-81-72-00, ext. 70100
+drojas@coneval.org.mx
+
+Temporal: 1992-2020
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual irregular
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/1r.1.1_es.zip
+
+Goal: 1. Poner fin a la pobreza en todas sus formas y en todo el mundo 
+
+Target:  Meta 1.1 De aquí a 2030, erradicar para todas las personas y en todo el mundo la pobreza extrema (actualmente se considera que sufren pobreza extrema las personas que viven con menos de 1,25 dólares de los Estados Unidos al día)
+
+Type of indicator: Regional
+
+Algorithm: 1r.1.1_ES.gif
+
+Description of the indicator: Este indicador resulta de dividir el número de personas con ingreso per cápita inferior a 1.25 dólares diarios a precios de 2020, entre la población de referencia total, multiplicado por 100.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional, urbano y rural.
+
+Opportunity: 1 año*/
+
+Source of statistical information used to calculate the indicator: Instituto Nacional de Estadística y Geografía (INEGI):  
+ - Índice Nacional de Precios al Consumidor. https://www.inegi.org.mx/programas/inpc/2018/  
+   - Encuesta Nacional de Ingresos y Gastos de los Hogares (ENIGH) 1992-2014 y el Modelo Estadístico para la Continuidad (MEC) del MCS-ENIGH 2016, 2018 y 2020. 
+ - Banco de Información Económica (BIE). Serie de datos para el PIB y Consumo Privado. 
+Banco Mundial (BM):  
+ -Global Purchasing Power Parities and Real Expenditures. 2011 International Comparison Program.  https://www.worldbank.org/en/programs/icp#1"  
+
+Date of next update of indicator: No definida
+
+Unit of the State responsible for calculating the indicator: Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL). http://www.coneval.org.mx/. 
+
+Importance and purpose of the indicator: Este indicador busca medir la pobreza a través de un estándar internacional acorde a los países con menores ingresos, por ello, generalmente se asocia a la población que vive en pobreza extrema. El indicador está directamente ligado al Objetivo 1, especifico, de la  Meta 1.1. Erradicar la pobreza extrema para todas las personas en el mundo. Este indicador permite dar seguimiento a la evolución de la pobreza extrema a través del tiempo y permite realizar comparaciones internacionales de pobreza en los países.
+
+National and/or international reference: Banco Mundial (BM) http://www.bancomundial.org 
+
+Observations: 1. Cálculo del ingreso per cápita ajustado.- En primer lugar, se utiliza el ingreso corriente total per cápita utilizado en la medición de pobreza por ingresos reportada por CONEVAL (para mayor información sobre su composición consultar: https://www.coneval.org.mx/Paginas/principal.aspx  )En segundo lugar, se deflacta el ingreso con el Índice Nacional de Precios al Consumidor (INPC, base 2ª quincena de julio de 2018=100) al mes de agosto de cada año en que INEGI capta la información de ingresos y gastos de los hogares. Posteriormente, se realiza un ajuste a los ingresos multiplicándolos por la propensión marginal al consumo. Esta propensión se estima a partir de la razón entre el Consumo Privado y el Producto Interno Bruto (PIB) con series originales base 2013 a precios corrientes. 
+2. Construcción de la línea de referencia.- La línea de la pobreza de $1.25 dólares diarios se construye a partir del tipo de cambio de Paridad de Poder Adquisitivo (PPA) de 2020 publicado por el Banco Mundial (9.522285 pesos por cada dólar americano a precios internacionales). El resultado se lleva a precios de agosto de cada año de medición, utilizando el INPC publicado por el INEGI. Finalmente, se multiplica por 30 para obtener la línea de referencia mensual.
+3. Cálculo del número de personas con ingresos ajustados por debajo de la línea.- Se compara el ingreso per cápita ajustado mensual con la línea de referencia para identificar el número de personas cuyo ingreso es menor a la línea. 
+La ENIGH 2005, a diferencia de las llevadas a cabo en años anteriores de manera bienal, corresponde a una edición especial, por lo que la ENIGH continuará actualizándose cada dos años.
+*/ La actualización del indicador está sujeta a la publicación de los microdatos por parte de INEGI.
+1/ Para el año 2005 se realizó una medición.
+

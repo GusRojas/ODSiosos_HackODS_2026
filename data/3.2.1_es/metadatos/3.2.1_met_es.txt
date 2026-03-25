@@ -1,0 +1,70 @@
+﻿Title: 3.2.1 Tasa de mortalidad de niños menores de 5 años
+
+Description: Es el número de defunciones de niños menores de 5 años de edad por cada mil nacidos vivos, en el año de referencia.
+
+Modified: 2025-11-14
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+Keyword: Defunciones de niños, rezago social, accesos a servicios de salud
+
+ContactPoint: Mtra. Manett Vargas García
+Directora General de Evaluación del Desempeño
+Avenida Paseo de la Reforma 450 
+Colonia Juárez, 06600
+Cuauhtémoc, Cuauhtémoc, Ciudad de México
+01 (55) 50621600 Ext. 52697
+manett.vargas@salud.gob.mx
+Dr. Delfino Campos Díaz
+Director de Gestión y Seguimiento para la Evaluación de los Sistemas de Salud
+Av. Agrarismo #227, piso 3, Col. Escandón II Sección D.T. Miguel Hidalgo, C.P. 11800, CDMX.
+01 (55) 50621600 Ext. 52681
+delfino.campos@salud.gob.mx
+Mtro. Arturo Barranco Flores
+Director de Información sobre Necesidades de Salud y Población
+Homero No. 213, Col. Chapultepec Morales. Alcaldía Miguel Hidalgo, CDMX C.P. 11570
+(55) 6392-2300 Ext.52594
+arturo.barranco@salud.gob.mx
+
+Temporal: 1990-2023
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/3.2.1_es.zip
+
+Goal: 3. Garantizar una vida sana y promover el bienestar de todos a todas las edades 
+
+Target:  Meta 3.2 De aquí a 2030, poner fin a las muertes evitables de recién nacidos y de niños menores de 5 años, logrando que todos los países intenten reducir la mortalidad neonatal al menos a 12 por cada 1,000 nacidos vivos y la mortalidad de los niños menores de 5 años al menos a 25 por cada 1,000 nacidos vivos
+
+Type of indicator: Global
+
+Algorithm: 3_2_1_ES.gif
+
+Description of the indicator: Este indicador resulta de dividir las defunciones de la población menor de 5 años de edad en un determinado año, entre los nacidos vivos del mismo periodo, multiplicado por mil.
+
+Unit of measure: Defunciones de menores de 5 años por cada mil nacidos vivos
+
+Geographic coverage: Nacional y entidad federativa
+
+Opportunity: 1 año
+
+Source of statistical information used to calculate the indicator: SALUD. Base de datos del Subsistema de Información sobre Nacimientos. Bases de datos de mortalidad.
+
+Date of next update of indicator: 30 de junio de 2026
+
+Unit of the State responsible for calculating the indicator: Secretaría de Salud (SSA). Dirección General de Información en Salud (DGIS). 
+
+Importance and purpose of the indicator: Es un indicador del nivel de rezago social y las condiciones de salud de la población menor de cinco años, permite observar el comportamiento de la mortalidad de este grupo poblacional en un momento y lugar determinados, aportando información valiosa acerca de la disponibilidad y acceso a los servicios de salud.
+
+National and/or international reference: Repositorio de metadatos de los ODS, disponible en:   
+ https://unstats.un.org/sdgs/metadata/ 
+
+Observations: Las series estadísticas se ajustaron con base en las proyecciones de la población de México y de las entidades federativas 2020-2070 publicadas por CONAPO en 2023. Las defunciones registradas para niños menores de cinco años se corrigen por subregistro con respecto a las defunciones estimadas por el CONAPO, la corrección se realiza por un lado para el grupo de niños menores de 1 año y en el grupo de 1 a 4 años. Los nacidos vivos ocurridos del SINAC correspondiente del 2011 en adelante fueron corregidos con respecto a los nacimientos estimados por el CONAPO. La corrección de las defunciones se basa en el cálculo de un factor de ajuste que se obtiene a través de la tendencia de las diferencias porcentuales entre las defunciones estimadas del CONAPO y las defunciones registradas del INEGI/SALUD. En tanto que para los nacidos vivos se obtiene la tendencia de las diferencias porcentuales entre los nacimientos estimados del CONAPO y los nacidos vivos ocurridos del SINAC. - Las defunciones registradas de INEGI/SALUD se reportan por entidad de residencia y año de registro y los nacidos vivos ocurridos del SINAC por entidad de residencia y año de ocurrencia.
+Este indicador pertenece al Catálogo Nacional de Indicadores (CNI).
+

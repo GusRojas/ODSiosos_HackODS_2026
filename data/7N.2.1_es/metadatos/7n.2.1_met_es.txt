@@ -1,0 +1,59 @@
+﻿Title: 7n.2.1 Intensidad energética nacional
+
+Description: Es el cociente del consumo nacional de energía en petajoules del año de referencia entre el valor promedio del Producto Interno Bruto trimestral del año de referencia del total de la actividad económica medido en millones de pesos referido a un año base.
+
+Modified: 2026-02-10
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Eder García Jiménez
+Subdirector de Planeación del Sector Eléctrico y Energías Renovables
+Avenida Insurgentes 20, Roma Norte  C.P.06700. Cuauhtémoc, CDMX
+01 (55) 5000 6000 Ext 6758
+egarciaj@energia.gob.mx
+
+Temporal: 2002-2024
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/7n.2.1_es.zip
+
+Goal: 7. Garantizar el acceso a una energía asequible, fiable, sostenible y moderna para todos 
+
+Target:  Meta 7n.2 Incentivar la Eficiencia Energética
+
+Type of indicator: Nacional
+
+Algorithm: 7n.2.1_ES.gif
+
+Description of the indicator: Este indicador considera la relación entre consumo energético y la actividad económica y se calcula como el cociente entre el consumo energético final a nivel nacional y el producto interno bruto
+
+Unit of measure: Kilojoules por peso de PIB producido
+
+Geographic coverage: Nacional
+
+Opportunity: 1 año
+
+Source of statistical information used to calculate the indicator: Secretaría de Energía. Dirección General de Planeación e Integración Energética.
+
+Date of next update of indicator: No definida
+
+Unit of the State responsible for calculating the indicator: Secretaría de Energía (SENER)   
+ https://www.gob.mx/sener 
+
+Importance and purpose of the indicator: Para el diseño de políticas públicas en materia de eficiencia energética de la economía nacional a nivel global, y para el seguimiento y la evaluación de las políticas públicas en eficiencia energética de la economía nacional a nivel global.
+
+National and/or international reference: Indicadores de Eficiencia Energética: Bases Esenciales para el Establecimiento de Políticas, Agencia Internacional de Energía (AIE), 2015 
+Cuaderno de Metodología de Indicadores de Eficiencia Energética, Departamento de Energía de los Estados Unidos de América.   
+ https://www.snieg.mx/cni/Contenidos/documentos/Estandares/Energy_Efficiency_Indicators_Methodology_Booklet.pdf  
+
+Observations: La Matriz Energética Nacional está considera en la Información de Origen y Destino de la Energía a Nivel Nacional.
+Aunque la unidad de medida de este indicador es el número de Kilojoules por peso de PIB producido, las series estadísticas de este indicador presentan la relación Petajoules por millones pesos del PIB producidos según el año que corresponda.
+Este es un indicador que pertenece al Catálogo Nacional de Indicadores (CNI).
+

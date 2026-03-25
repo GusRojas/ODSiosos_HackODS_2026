@@ -1,0 +1,6 @@
+﻿"ND No disponible"
+"NA No aplicable"
+"Fuente: 
+Para el dato nacional y por entidad federativa: Estimaciones de CONEVAL con información de INEGI. MCS-ENIGH 2008, 2010 y 2012.
+Para municipio: Muestra del Censo de Población y Vivienda 2000 y 2010."
+"cvegeo: Clave geoestadística"

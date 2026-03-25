@@ -1,0 +1,66 @@
+﻿Title: 16.1.3.c Proporción de la población que ha sufrido violencia sexual en los últimos 12 meses
+
+Description: Número de personas que han sido víctimas de violencia sexual en los últimos 12 meses como proporción del total de la población
+
+Modified: 2025-11-27
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Centro de atención a usuarios INEGI
+Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276,
+Aguascalientes, Aguascalientes, Aguascalientes, 
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Nacional sin costo: 800 111 46 34 
+ Internacional: (código internacional) + (52)+(449) 149 1300
+atencion.usuarios@inegi.org.mx
+Dr. Dwight D. Dyer Leal
+Titular de la Unidad de Estadísticas de Gobierno, Seguridad Pública y Justicia
+Av. Patriotismo 711. Colonia San Juan, delegación Benito Juárez, CDMX.
+5552781000, Ext:321592
+dyer@inegi.org.mx
+
+Temporal: 2015-2024
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/16.1.3.c_es.zip
+
+Goal: 16. Promover sociedades pacíficas e inclusivas para el desarrollo sostenible, facilitar el acceso a la justicia para todos y construir a todos los niveles instituciones eficaces e inclusivas que rindan cuentas 
+
+Target:  Meta 16.1 Reducir significativamente todas las formas de violencia y las correspondientes tasas de mortalidad en todo el mundo
+
+Type of indicator: Global
+
+Algorithm: 16.1.3c_ES.gif
+
+Description of the indicator: Población de 18 años y más que reportó haber sido víctima de alguien que en contra de su voluntad lo(a) haya agredido mediante hostigamiento sexual, manoseo, exhibicionismo o intento de violación o que fueron obligados(as) mediante violencia física o amenaza por alguien conocido o desconocido a tener una actividad sexual no deseada, entre la población de 18 años y más, multiplicada por 100. Desagregada por sexo (total; hombres; mujeres).
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: Los datos se refieren al año previo a la publicación de la encuesta fuente (ENVIPE), que se publica en el segundo semestre del año.
+
+Source of statistical information used to calculate the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional de Victimización y Percepción sobre Seguridad Pública (ENVIPE).
+
+Date of next update of indicator: 31 de diciembre de 2026
+
+Unit of the State responsible for calculating the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Unidad de Estadísticas de Gobierno, Seguridad Pública y Justicia.   
+ https://www.inegi.org.mx  
+
+Importance and purpose of the indicator: Tiene relevancia mundial ya que la violencia en diversas formas se produce en todas las regiones y países del mundo. Dado que los actos de violencia no se notifican en gran medida a las autoridades, este indicador debe basarse en datos recopilados a través de encuestas por muestreo de la población adulta.
+
+National and/or international reference: United Nations Survey on Crime Trends (UN-CTS). Oficina de Naciones Unidas contra la Droga y el Delito (UNODC). International Classification of Crime for Statistical
+Purposes (ICCS). 
+
+Observations: El nombre completo del indicador global es Proporción de la población que ha sufrido a)violencia física, b) violencia psicológica y c) violencia sexual en los últimos 12 meses, y a nivel internacional está a cargo de la Oficina de Naciones Unidas contra la Droga y el Delito (UNODC), que lo reporta en tres subindicadores, este subindicador 16.1.3c corresponde a las víctimas de violencia sexual únicamente.
+Para 2020, debido a la emergencia sanitaria generada por el virus SARS-CoV2 (COVID-19), el levantamiento de la información se realizó del 17 al 31 de marzo y del 27 de julio al 04 de septiembre. Las estimaciones presentadas corresponden al periodo de levantamiento del 17 al 31 de marzo.
+

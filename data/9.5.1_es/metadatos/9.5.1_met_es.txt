@@ -1,0 +1,57 @@
+﻿Title: 9.5.1 Gasto federal en investigación científica y desarrollo experimental como proporción del PIB
+
+Description: Se refiere al porcentaje del PIB destinado a realizar investigación científica y desarrollo experimental por el Gobierno Federal, esto es el gasto público utilizado para realizar actividades de investigación científica y desarrollo experimental dentro del país en un año dado (t). Muestra la inversión del gobierno federal en investigación científica y desarrollo experimental que ses lleva a cabo para apoyar el desarrollo nacional.
+
+Modified: 2025-06-26
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+Keyword: PREZI, tecnología, ciencia, innovación
+
+ContactPoint: Viridiana Gabriela Yañez Rivas
+Directora de Planeación y Seguimiento (DPS)
+Avenida Insurgentes Sur 1582, 6° Piso Ala Norte, Colonia Crédito Constructor, C.P. 03940; Benito Juárez, Ciudad de México
+55 5322 7700, ext. 3510
+vgyanezri@secihti.mx
+
+Temporal: 2012-2025
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/9.5.1_es.zip
+
+Goal: 9. Construir infraestructuras resilientes, promover la industrialización inclusiva y sostenible y fomentar la innovación 
+
+Target:  Meta 9.5 Aumentar la investigación científica y mejorar la capacidad tecnológica de los sectores industriales de todos los países, en particular los países en desarrollo, entre otras cosas fomentando la innovación y aumentando considerablemente, de aquí a 2030, el número de personas que trabajan en investigación y desarrollo por millón de habitantes y los gastos de los sectores público y privado en investigación y desarrollo
+
+Type of indicator: Global
+
+Algorithm: 9.5.1_ES.gif
+
+Description of the indicator: Proporción del PIB que el Gobierno Federal destina a la investigación científica y desarrollo experimental en un año en específico.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: Mes de junio del año siguiente al que se está midiendo el indicador
+
+Source of statistical information used to calculate the indicator: Gasto Federal en Investigación Científica y Desarrollo Experimental (GFIDE): Se obtiene de la Cuenta de Hacienda Pública Federal de la SHCP.
+
+Date of next update of indicator: 30 de junio de 2026
+
+Unit of the State responsible for calculating the indicator: Secretaría de Ciencia, Humanidades, Tecnología e Innovación (SECIHTI). Unidad de Políticas Transversales 
+
+Importance and purpose of the indicator: Este indicador permite dimensionar y dar seguimiento al monto de los recursos monetarios que el gobierno federal destina a actividades de investigación científica y desarrollo experimental mediante el porcentaje que representan del PIB. Igualmente, refleja el esfuerzo de un país por destinar recursos e incentivar la inversión del Gobierno Federal para la investigación científica y desarrollo experimental.
+
+National and/or international reference: Organización para la Cooperación y el Desarrollo Económicos (OCDE). Manual de Frascati 2015. 
+
+Observations: Este indicador es un valor Proxi del indicador Gasto en Investigación Científica y Desarrollo Experimental (GIDE) como proporción del PIB, y se propone debido a que la fuente de información del GIDE ya no se encuentra disponible.
+El valor del indicador que se reporta en el último año de la serie, es estimado.
+

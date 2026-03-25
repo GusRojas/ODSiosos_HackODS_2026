@@ -1,0 +1,4 @@
+﻿"Fuente: 
+Instituto Nacional de Estadística y Geografía (INEGI). Censo de Población y Vivienda 2020 (Censo 2020). Cuestionario ampliado. Disponible en: https://www.inegi.org.
+mx/programas/ccpv/2020/"
+"cvegeo: Clave geoestadística"

@@ -1,0 +1,8 @@
+﻿"ND No disponible"
+"NA No aplicable"
+"Fuente: Instituto Nacional de Estadística y Geografía (INEGI). Estadísticas Vitales. Estadísticas de defunciones registradas. Consultado en:  
+ https://www.inegi.org.mx/programas/mortalidad/#Microdatos
+Consejo Nacional de Población (CONAPO). Proyecciones de la Población de México y de las Entidades Federativas,
+2020-2070 y Conciliación Demográfica de México, 1950 -2019. Población a mitad del período. Consultado en:   
+ https://www.gob.mx/conapo/documentos/bases-de-datos-de-la-conciliacion-demografica-1950-a-2019-y-proyecciones-de-la-poblacion-de-mexico-2020-a-2070 "
+"cvegeo: Clave geoestadística"

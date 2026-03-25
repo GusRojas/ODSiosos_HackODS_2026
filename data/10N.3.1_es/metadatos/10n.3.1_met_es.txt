@@ -1,0 +1,69 @@
+﻿Title: 10n.3.1 Porcentaje de la población de 18 años y más, bisexual, gay o lesbiana u otra orientación  que declaró la negación de sus derechos en los últimos cinco años
+
+Description: Es el porcentaje de la población que se identificó como bisexual, gay o lesbiana y con otra identificación u orientación sexual  y a la que se le negó alguno de sus derechos en los últimos 5 años con respecto al total de la población bisexual, gay o lesbiana u otra orientación.
+
+Modified: 2024-04-12
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Centro de atención a usuarios INEGI
+Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276
+Aguascalientes, Aguascalientes, Aguascalientes 
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Nacional sin costo: 800 111 46 34 
+ Internacional: (código internacional) + (52)+(449) 910 53 00 Ext. 315301
+atencion.usuarios@inegi.org.mx
+
+Temporal: 2017-2022
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/10n.3.1_es.zip
+
+Goal: 10. Reducir la desigualdad en los países y entre ellos 
+
+Target:  Meta 10n.3 Eliminar la negación de derechos por motivos de orientación sexual
+
+Type of indicator: Nacional
+
+Algorithm: 10n.3.1._ES.gif
+
+Description of the indicator: El porcentaje se calculó tomando la población de 18 años y más, bisexual, gay o lesbiana u otra orientación que declaró la negación de sus derechos en los últimos cinco años entre la población de 18 años y más bisexual, gay o lesbiana u otra orientación.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: No definida
+
+Source of statistical information used to calculate the indicator: Encuesta Nacional sobre Discriminación (ENADIS) del Instituto Nacional de Estadística y Geografía (INEGI). https://www.inegi.org.mx/programas/enadis/2022/
+
+Date of next update of indicator: No definida
+
+Unit of the State responsible for calculating the indicator: Instituto Nacional de Estadística y Geografía (INEGI)   
+ https://inegi.org.mx/default.html 
+
+Importance and purpose of the indicator: La Constitución Política establece que todas las personas gozarán de los derechos humanos reconocidos en la Constitución y en los tratados internacionales. La Ley Federal para Prevenir y Eliminar la Discriminación busca prevenir y eliminar todas las formas de discriminación que se ejerzan contra cualquier persona. Además, establece que la discriminación es " toda distinción, exclusión, restricción o preferencia que, por acción u omisión, con intención o sin ella, no sea objetiva, racional ni proporcional y tenga por objeto o resultado obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos humanos y libertades,  cuando se base en uno o más de los siguientes motivos: el origen étnico o nacional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, la religión, la apariencia física, las características genéticas, la situación migratoria, el embarazo, la lengua, las opiniones, las preferencias sexuales, la identidad o filiación política, el estado civil, la situación familiar, las responsabilidades familiares, el idioma, los antecedentes penales o cualquier otro motivo"
+La ENADIS, integra información sobre diferentes tipos de discriminación. A pesar de que existe normativa para proteger los derechos de las personas y contra la discriminación, en los resultados de la ENADIS se observan grandes diferencias en el acceso a los derechos. 
+En este sentido, se platea el indicador, el cual da cuenta de la discriminación en el acceso a los derechos según orientación sexual, esto para cerrar brechas y no dejar a nadie atrás.
+
+National and/or international reference: Metadato del indicador 10.3.1   
+ https://unstats.un.org/sdgs/metadata/files/Metadata-10-03-01.pdf  
+Indicadores de Derechos Humanos de ACNUDH   
+ https://www.ohchr.org/sites/default/files/Documents/Publications/Human_rights_indicators_sp.pdf  
+Enfoque de datos basado en los Derechos Humanos de ACNUDH   
+ https://www.ohchr.org/sites/default/files/Documents/Issues/HRIndicators/GuidanceNoteonApproachtoData_SP.pdf  
+
+Observations: Fuente: INEGI. 
+1. Los porcentajes se calcularon respecto al total de la población según su orientación sexual. 
+2. Esta negación se refiere a la declaración de al menos uno de los derechos captados, los cuales son: la atención médica o medicamentos, la atención o servicios en alguna oficina de gobierno, la entrada o permanencia en algún negocio, centro comercial o banco, recibir apoyos de programas sociales, obtener algún crédito de vivienda, préstamo o tarjeta, y la oportunidad de obtener un empleo. Para 2022 la encuesta fuente también indagó sobre la negación de la renta de un lugar para vivir y la posibilidad de seguir estudiando.
+No se cuenta con una serie histórica del indicador, pero se propone la meta con base en el análisis de tendencias de otros indicadores disponibles.
+

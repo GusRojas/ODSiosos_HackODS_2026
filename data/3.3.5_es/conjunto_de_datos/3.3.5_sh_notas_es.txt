@@ -1,0 +1,4 @@
+﻿"Nota: Algunas entidades no tienen valor en el indicador porque no hay casos nuevos y repetidores con paludismo. "
+"NA No aplicable"
+"Fuente: Secretaría de Salud (SS). Dirección General de Epidemiología (DGE). Sistema Nacional de Vigilancia Epidemiológica (SINAVE). "
+"cvegeo: Clave geoestadística"

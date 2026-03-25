@@ -1,0 +1,63 @@
+﻿Title: 8.6.1c Proporción de jóvenes (de 15 a 24 años) que no estudian, no tienen empleo ni reciben capacitación, desglosado según el lugar de nacimiento y de residencia
+
+Description: Porcentaje de jóvenes del grupo de edad de 15 a 24 años que no estudian, trabajan ni reciben capacitación, respecto al total de jóvenes de la misma edad, para cada año.
+
+Modified: 2025-06-30
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Centro de atención a usuarios INEGI
+Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276,
+Aguascalientes, Aguascalientes, Aguascalientes, 
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Nacional sin costo: 800 111 46 34 
+ Internacional: (código internacional) + (52)+(449) 149 1300
+atencion.usuarios@inegi.org.mx
+
+Temporal: 2017-2024
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/8.6.1c_es.zip
+
+Goal: 8. Promover el crecimiento económico sostenido, inclusivo y sostenible, el empleo pleno y productivo y el trabajo decente para todos 
+
+Target:  Meta 8.6. De aquí a 2020, reducir considerablemente la proporción de jóvenes que no están empleados y no cursan estudios ni reciben capacitación
+
+Type of indicator: Global
+
+Algorithm: 8.6.1c(1)_ES.gif
+
+Description of the indicator: Este indicador resulta de identificar la diferencia del total de jóvenes del grupo de edad e en ocupación y del total de jóvenes de la misma edad que no estudian, trabajan ni reciben capacitación en el mismo año de referencia, con respecto al total de la población de referencia total y multiplicar el cociente por 100.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: 60 días después de concluido el último trimestre del año
+
+Source of statistical information used to calculate the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional de Ocupación y Empleo (ENOE). Primer trimestre de 2017 al primer trimestre de 2020.
+Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional de Ocupación y Empleo (ENOEN) (Nueva edición). Tercer trimestre de 2020 al cuarto trimestre de 2022.
+
+Date of next update of indicator: No definida
+
+Unit of the State responsible for calculating the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Unidad de Estadísticas Sociodemográficas.   
+ https://www.inegi.org.mx  
+
+Importance and purpose of the indicator: El indicador es una medida del porcentaje de jóvenes que por diversas razones no tienen oportunidades educativas para continuar preparándose y formándose como fuerza de trabajo calificada que les permita acceder en mejores condiciones al mercado laboral y aunque la principal preocupación por este grupo de jóvenes es ofrecerles más y mejores oportunidades educativas, también es una medida relativa del segmento de jóvenes que no han podido insertarse en el mercado laboral, ya sea por falta de oportunidades o la mayor exigencia del mercado de trabajo por mano de obra calificada. Asimismo, hay que considerar que, en países como México, el fenómeno es de corto plazo y la condición de actividad de los jóvenes es muy cambiante, no obstante, en cualquiera de las dos vertientes, este indicador es un insumo para el diseño de políticas educativas orientadas a la ampliación de la oferta educativa entre los jóvenes y el diseño de políticas laborales para lograr una mayor vinculación de la educación y el mercado laboral.
+
+National and/or international reference: OCDE. Jóvenes sin empleo, educación o formación (NINI)  
+ https://data.oecd.org/youthinac/youth-not-in-employment-education-or-training-neet.htm 
+
+Observations: TJEC: Se consideró a la población no ocupada (desocupados, disponibles y no disponibles con interés de trabajar) que estudia o recibe cursos de capacitación, y a la PNEA No disponible sin interés por trabajar por atender otras obligaciones, con impedimentos físicos para trabajar u otros. Conforme el desglose de las estimaciones presentadas en este cuadro, el nivel de precisión también disminuye; a nivel entidad la mayoría de los resultados del indicador por áreas más y menos urbanizadas y nivel de instrucción (excepto media superior y superior de 20 a 24 años) presenta un nivel bajo de precisión. Áreas más urbanizadas: Localidades de 100 000 y más habitantes y/o capitales de estado. Áreas menos urbanizadas: Localidades menores de 100 000 habitantes.
+Los datos se calculan con el promedio aritmético de los trimestres de los cuales se dispone información.
+Los datos absolutos correspondientes al periodo 2017-2022 se generaron utilizando el factor de expansión correspondiente que considera las estimaciones poblacionales trimestrales generadas por el Marco de Muestreo del INEGI.
+

@@ -1,0 +1,61 @@
+﻿Title: 4r.3.1 Tasa bruta de matrícula de educación superior, desglosada por sexo
+
+Description: Proporción de alumnos matriculados en el nivel terciario de enseñanza, independiente de su edad, dentro de la población que corresponde oficialmente a ese nivel de enseñanza. Se refiere a la inscripción total en educación superior, sin considerar posgrado, en las modalidades escolarizada y no escolarizada.
+
+Modified: 2024-10-30
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: César Morón Rojas
+Director General de Planeación, Programación y Estadística Educativa
+Av. Universidad 1200, Colonia Xoco, 3330, Benito Juárez, Ciudad de México
+55 3601 2511, ext. 54760
+cesar.mr@nube.sep.gob.mx
+
+Temporal: 2015-2016-2023-2024
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Ciclo escolar
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/4r.3.1_es.zip
+
+Goal: 4. Garantizar una educación inclusiva y equitativa de calidad y promover oportunidades de aprendizaje permanente para todos 
+
+Target:  Meta 4.3 De aquí a 2030, asegurar el acceso igualitario de todos los hombres y las mujeres a una formación técnica, profesional y superior de calidad, incluida la enseñanza universitaria
+
+Type of indicator: Regional
+
+Algorithm: 4r.3.1_ES.gif
+
+Description of the indicator: Se calcula como la relación entre el número total de matriculados en el nivel licenciatura entre la población del grupo de edad típico correspondiente a este nivel (18 a 22 años). El resultado se multiplica por 100.
+Los datos usualmente son recogidos por los ministerios de educación de los países o compilados de encuestas y censos.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: 1 año
+
+Source of statistical information used to calculate the indicator: Secretaría de Educación Pública (SEP). Dirección General de Planeación, Programación y Estadística Educativa. Sistema de Estadísticas Continuas de Educación del Formato 911. Disponible en:  https://www.planeacion.sep.gob.mx/estadisticaeducativas.aspx
+Consejo Nacional de Población (CONAPO), Conciliación Demográfica de 1950 a 2019 y Proyecciones de la población de México y de las entidades federativas 2020 a 2070.  https://www.gob.mx/conapo/acciones-y-programas/conciliacion-demografica-de-1950-a-2019-y-proyecciones-de-la-poblacion-de-mexico-y-de-las-entidades-federativas-2020-a-2070
+
+Date of next update of indicator: 30 de octubre 2025
+
+Unit of the State responsible for calculating the indicator: Secretaría de Educación Pública (SEP). Dirección General de Planeación, Programación y Estadística Educativa (DGPPYEE).  
+ https://www.planeacion.sep.gob.mx/ 
+
+Importance and purpose of the indicator: Muestra el porcentaje de la población que asiste a la enseñanza de educación superior. Es un indicador del nivel de atención educativa.
+Sirve de base para el diseño y aplicación de estrategias orientadas a elevar la matriculación en educación superior de la población.
+
+National and/or international reference: Instituto de Estadísticas de la UNESCO (UIS).  http://data.uis.unesco.org/ 
+
+Observations: Las tasas de matriculación mayores a 100 se presentan en diversos países, generalmente debido a que el indicador se construye a partir de dos fuentes de información diferentes, los registros de la matrícula escolar y las estimaciones del número de niños y niñas en edad escolar. Para el caso específico de México, los registros de matrícula escolar se obtienen año con año, mientras que las estimaciones de población se generan a partir de los censos de población que se realizan cada 10 años y se ajustan con los conteos de población y vivienda que se llevan a cabo entre los años censales.
+Las cifras están sujetas a modificación cada vez que se genere una nueva actualización de las proyecciones de población por parte del CONAPO, siendo las más actuales las de agosto de 2023.
+Proyecciones de población a mitad de año.
+Nota: Incluye las modalidades escolarizada y no escolarizada de nivel superior, sin considerar posgrado.
+

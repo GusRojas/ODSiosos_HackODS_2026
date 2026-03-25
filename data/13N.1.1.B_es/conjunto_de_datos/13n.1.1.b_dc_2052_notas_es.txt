@@ -1,0 +1,10 @@
+﻿"Nota: Para el cálculo del indicador se considera información de 6 estaciones de monitoreo:  
+ NEZ=Estación de monitoreo Nezahualcóyotl, en la Zona Metropolitana de Valle de México. 
+ MER=Estación de monitoreo Merced, en la Zona Metropolitana de Valle de México. 
+ SC=Estación de monitoreo San Cristóbal Huichochitlán, en la Zona Metropolitana de Valle de Toluca. 
+ PGO=Estación de Monitoreo Palacio de gobierno, en Cuernavaca, Morelos. 
+ JDN=Estación de Monitoreo Jardín del maestro, en Pachuca, Hidalgo. 
+ NIN=Estación de monitoreo Ninfas, en Puebla, Puebla. "
+"Fuente: Instituto Nacional de Ecología y Cambio Climático (INECC).  
+ https://www.gob.mx/inecc  Elaboración propia a partir de las concentraciones reportadas por los Sistemas de Monitoreo de la Calidad del Aire de la Ciudad de México,
+Estado de México, Morelos, Hidalgo y Puebla. "

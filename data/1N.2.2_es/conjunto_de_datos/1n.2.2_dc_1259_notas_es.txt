@@ -1,0 +1,3 @@
+﻿"Nota: El cálculo del denominador en los años 2019 y 2020 se obtiene de la población de responsabilidad por las instituciones. "
+"Fuente: CONAPO. Proyecciones de la Población de México y de las Entidades Federativas, 2016-2050 y Conciliación Demográfica de México, 1950 -2015. "
+"cvegeo: Clave geoestadística"

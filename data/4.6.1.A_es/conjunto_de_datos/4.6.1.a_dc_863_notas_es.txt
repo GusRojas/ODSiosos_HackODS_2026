@@ -1,0 +1,10 @@
+﻿"Nota: Estimaciones al 31 de diciembre de cada año realizadas por el Instituto Nacional para la Educación de los Adultos (INEA). Respecto a la población de 15 años y más se
+utilizaron las Estimaciones y Proyecciones de Población 1950-2050 (septiembre, 2018) del CONAPO; de 2015 a 2022 se realizó un ajuste con base en el Censo 2020. La
+población analfabeta se obtuvo con base en la interpolación de los porcentajes entre los Censos 1980 - 1990 - 2000 - Conteo 2005 - estimación del INEA al 31 de diciembre
+de 2009 (con base en el Censo 2010) - Estimación del INEA al 31 de diciembre de 2014 (con base en la Encuesta Intercensal 2015) - Estimación del INEA al 31 de
+diciembre de 2019 (con base en el Censo 2020). De 2019 a 2022, estimada con base en el Censo de Población y vivienda 2020, INEGI; Proyecciones de Población 2016-2050
+(septiembre 2018), CONAPO, ajustadas con base en el Censo 2020; Estadística del Sistema Educativo Nacional (septiembre 2023), SEP; logros del INEA.  Las cifras están
+sujetas a modificación cada vez que exista un nuevo Censo, Conteo o Encuesta Intercensal, nueva estimación y/o proyección de población del CONAPO o cambio en la
+metodología del cálculo del rezago educativo. "
+"Fuente: Instituto Nacional para la Educación de los Adultos (INEA), utilizando la "Metodología para el cálculo de la estimación del rezago educativo anual". "
+"cvegeo: Clave geoestadística"

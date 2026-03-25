@@ -1,0 +1,57 @@
+﻿Title: 7.3.1 Intensidad energética medida en función de la energía primaria y el PIB
+
+Description: Es la cantidad de energía primaria requerida para generar una unidad monetaria del producto interno bruto.
+
+Modified: 2026-02-10
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+Keyword: Energía , producto neto bruto, consumo energético
+
+ContactPoint: Eder García Jiménez
+Subdirector de Planeación del Sector Eléctrico y Energías Renovables
+Avenida Insurgentes 20, Roma Norte  C.P.06700. Cuauhtémoc, CDMX
+01 (55) 5000 6000 Ext 6758
+egarciaj@energia.gob.mx
+
+Temporal: 2004-2024
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/7.3.1_es.zip
+
+Goal: 7. Garantizar el acceso a una energía asequible, fiable, sostenible y moderna para todos 
+
+Target:  Meta 7.3 De aquí a 2030, duplicar la tasa mundial de mejora de la eficiencia energética
+
+Type of indicator: Global
+
+Algorithm: 7_3_1_ES.gif
+
+Description of the indicator: Se calcula como el cociente entre el consumo energético primario a nivel nacional y el producto interno bruto.
+
+Unit of measure: Kilo Joules por peso de PIB producido
+
+Geographic coverage: Nacional
+
+Opportunity: 1 año
+
+Source of statistical information used to calculate the indicator: Secretaría de Energía. Dirección General de Planeación e Integración Energética.
+Instituto Nacional de Estadística y Geografía (INEGI). Banco de Información Económica (BIE)
+
+Date of next update of indicator: No definida
+
+Unit of the State responsible for calculating the indicator: Secretaría de Energía (SENER) 
+
+Importance and purpose of the indicator: El indicador tiene un reconocimiento global que permite comparar la cantidad de energía primaria consumida frente al crecimiento económico nacional respecto a otros países. Asimismo, brinda información necesaria para verificar el progreso hacia el logro de los objetivos y metas del país.
+
+National and/or international reference: Indicadores de Eficiencia Energética: Bases Esenciales para el Establecimiento de Políticas, Agencia Internacional de Energía (AIE), Organización de las Naciones Unidas,
+(2015 y 2017). 
+
+

@@ -1,0 +1,7 @@
+﻿"Cifras preliminares a partir de 2022"
+"Fuente: INEGI. Sistema de Cuentas Nacionales de México.
+Series disponibles PIB a precios de 2018.
+ 
+ https://www.snieg.mx/cni/sereferencia.aspx
+ 
+ https://www.inegi.org.mx/programas/pib/2018/#tabulados "

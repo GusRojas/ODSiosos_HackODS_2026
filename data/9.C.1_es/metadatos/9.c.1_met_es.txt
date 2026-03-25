@@ -1,0 +1,56 @@
+﻿Title: 9.c.1 Proporción de la población abarcada por una red móvil, desglosada por tecnología
+
+Description: Este indicador muestra la cobertura garantizada de al menos un operador de redes móviles 2G, 3G y 4G, con respecto al total de la población.
+
+Modified: 2025-06-25
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Luis Ivan Garcia Marcelo
+Coordinación General de Planeación Estratégica
+Avenida Insurgentes sur 1143, Colonia Noche Buena, 03720; Benito Juárez, Benito Juárez, Ciudad de México
+55 5015 4371
+luis.garcia@ift.org.mx
+
+Temporal: 2018-2024
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/9.c.1_es.zip
+
+Goal: 9. Construir infraestructuras resilientes, promover la industrialización inclusiva y sostenible y fomentar la innovación 
+
+Target:  Meta 9.c Aumentar significativamente el acceso a la tecnología de la información y las comunicaciones y esforzarse por proporcionar acceso universal y asequible a Internet en los países menos adelantados de aquí a 2020
+
+Type of indicator: Global
+
+Algorithm: 9_C_1_ES.gif
+
+Description of the indicator: Este indicador resulta de dividir el total de individuos a nivel nacional que al cierre del año cuentan con cobertura garantizada del servicio de telefonía móvil en su localidad en los 12 meses anteriores, entre la población estimada al cierre del mismo año, el resultado se expresa como porcentaje y se desglosa por tecnología 2G, 3G y 4G.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: Al primer trimestre del año siguiente a reportar
+
+Source of statistical information used to calculate the indicator: Instituto Federal de Telecomunicaciones (IFT) y datos del Consejo Nacional de Población (CONAPO) 2010 y 2020.
+
+Date of next update of indicator: 31 de agosto de 2026
+
+Unit of the State responsible for calculating the indicator: Instituto Federal de Telecomunicaciones (IFT)  
+
+Importance and purpose of the indicator: Este indicador permite medir el nivel de acceso de la población al servicio de telefonía móvil, y en el caso de la desagregación por Entidad Federativa, la distribución de dicho acceso.
+La penetración de telefonía móvil ha cobrado una relevancia significativa, dado el dinamismo y crecimiento exponencial que ha caracterizado a este servicio, derivado de los cambios tecnológicos y la multiplicidad de servicios por medio del teléfono celular móvil (voz, datos y video).
+
+National and/or international reference: Unión Internacional de Telecomunicaciones (UIT). 
+ http://www.itu.int/es/pages/default.aspx 
+
+Observations: Se incluyen las suscripciones a teléfonos móviles de todas las bandas de frecuencias de celular y Servicio de Comunicación Personal (PCS). Se excluye el servicio de trunking.
+

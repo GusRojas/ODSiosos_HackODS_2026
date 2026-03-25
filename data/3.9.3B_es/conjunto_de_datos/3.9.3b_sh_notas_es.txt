@@ -1,0 +1,2 @@
+﻿"Fuente: Instituto Nacional de Estadística y Geografía (INEGI). Estadísticas Vitales. Estadísticas de defunciones registradas. Disponible en:   
+ https://www.inegi.org.mx/programas/mortalidad/#Microdatos "

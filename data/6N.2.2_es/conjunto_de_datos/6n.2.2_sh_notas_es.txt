@@ -1,0 +1,7 @@
+﻿"Nota: A partir de la información generada por el Servicio de Información Agroalimentaria y Pesquera (SIAP) de la Secretaría de Agricultura y Desarrollo Rural, consultada en:
+
+   
+ https://www.gob.mx/ siap/actions-and-programs/agricultural-production-33119 
+ Este indicador del marco nacional de los ODS se vincula con los indicadores clave "Productividad física del agua en los distritos de riego" y "Productividad física del agua en las unidades de riego" del Catálogo Nacional de Indicadores del Sistema Nacional de Información Estadística y Geográfica (SNIEG). "
+"Fuente: Comisión Nacional del Agua. Gerencia de Planificación Hídrica. Sistema Nacional de Información del Agua (SINA).    
+ https://sinav30.conagua.gob.mx:8080/  "

@@ -1,0 +1,56 @@
+﻿Title: 2n.3.1 Rendimiento agrícola del maíz de grano
+
+Description: Es el rendimiento agrícola del maíz de grano por unidad de medida sobre hectárea.
+
+Modified: 2023-12-14
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Lic. Patricia Ornelas Ruiz
+Directora en Jefe del Servicio de información Agroalimentaria y Pesquera (SIAP)
+Benjamín Franklin 146, Col. Escandón, delegación Miguel Hidalgo, México, D.F. C.P. 11800
+patricia.ornelas@siap.gob.mx
+
+Temporal: 2000-2022
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/2n.3.1_es.zip
+
+Goal: 2. Poner fin al hambre, lograr la seguridad alimentaria y la mejora de la nutrición y promover la agricultura sostenible 
+
+Target:  Meta 2n.3 Fomentar la productividad sostenible agropecuaria y acuícola pesquera para contribuir a la autosuficiencia alimentaria
+
+Type of indicator: Nacional
+
+Algorithm: 2n.3.1_ES.gif
+
+Description of the indicator: Para el obtener el rendimiento agrícola de maíz grano se divide el volumen de producción obtenida en el año agrícola entre la superficie  cosechada del año agrícola
+
+Unit of measure: Unidad de medida por hectárea (udm/ha)
+
+Geographic coverage: Nacional
+
+Opportunity: Anual
+
+Source of statistical information used to calculate the indicator: Sistema de Información Agroalimentaria y Pesquera 
+
+Date of next update of indicator: No definida
+
+Unit of the State responsible for calculating the indicator: Secretaría de Agricultura y Desarrollo Rural 
+
+Importance and purpose of the indicator: Uno de los efectos previstos del cambio climático es la reducción de los rendimientos de granos, lo que supondría un efecto sobre la alimentación de la población en general. Esto tendrá mayores efectos en zonas en las que exista mayor degradación de suelos y menor capacidad de protección de los cultivos ante cambios del clima. 
+En el mundo existen iniciativas para promover la productividad sostenible agrícola, por ejemplo, la FAO plantea el modelo "Ahorrar para crecer", el cual ha sido aplicado en la producción de maíz, arroz y trigo, en diferentes partes del mundo. Este modelo incluye varios componentes, entre los que están reducir al mínimo la perturbación del suelo y promover su salud, uso eficiente del agua y el manejo integrado de plagas. Es importante incorporar este tipo de esfuerzos y promover la productividad sostenible agropecuaria con el fin de contribuir a la autosuficiencia alimentaria. 
+En México, el maíz es uno de los cultivos más importantes; social, económica y culturalmente. Se estima que representa un 20.9% del gasto de los hogares en Alimentos, Bebidas y Tabaco. Fomentar un aumento de forma sostenible en la productividad del maiz constituye una excelente opción para evitar incrementos en precios, así como mejora en los ingresos de los agricultores, y disminuir los efectos medioambientales, entre otras . 
+Por lo anterior, se propone que uno de los indicadores sea el rendimiento agrícola del maíz, con el objetivo que este se mantenga o incremente y reducir el riesgo que esto presentaría para la población en general. 
+
+National and/or international reference: Pendiente 
+
+Observations: Ninguna
+

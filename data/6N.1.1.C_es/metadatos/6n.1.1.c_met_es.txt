@@ -1,0 +1,58 @@
+﻿Title: 6n.1.1.c Proporción de la población que dispone de servicios de suministro de agua potable y saneamiento gestionados de manera segura, por entidad federativa [CONAGUA] 
+
+Description: Porcentaje de la población que dispone de servicios de suministro de agua potable y saneamiento gestionados de manera segura.
+
+Modified: 2023-12-13
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Gerencia de Planificación Hídrica
+Subgerencia del Sistema Nacional de Información del Agua
+Insurgentes Sur # 2416. Piso 4; Colonia Copilco El Bajo, 04340. Coyoacán, Ciudad de México
++52 55 5174 4000, ext. 2112 y 4458
+sina@conagua.gob.mx
+Gerencia de Cooperación Internacional
+Dirección de Área de Evaluación de Programas y Proyectos
+Insurgentes Sur # 2416. Piso 9; Colonia Copilco El Bajo, 04340. Coyoacán, Ciudad de México
++52 55 5174 4000, ext. 1313
+internacional@conagua.gob.mx
+
+Temporal: 2014-2022
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Bienal
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/6n.1.1.c_es.zip
+
+Goal: 6. Garantizar la disponibilidad y la gestión sostenible del agua y el saneamiento para todos 
+
+Target:  Meta 6n.1 Acceso universal y equitativo al agua potable y saneamiento, prestando especial atención al acceso transgeneracional al agua y el acceso de grupos en desventaja
+
+Type of indicator: Global
+
+Algorithm: 6n.1.1.c_ES.gif
+
+Description of the indicator: El indicador se calcula dividiendo a la población que dispone de servicios de suministro de agua potable y saneamiento gestionados de manera segura, entre la población residente en los hogares, expresado en porcentaje. Con la información analizada de la Encuesta Nacional de Ingreso y Gasto en los Hogares (ENIGH) que realiza el Instituto Nacional de Estadística y Geografía (INEGI).
+
+Unit of measure: Porcentaje de personas
+
+Geographic coverage: Nacional y entidad federativa
+
+Opportunity: Bienal
+
+Source of statistical information used to calculate the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional de Ingreso y Gasto en los Hogares (ENIGH), 2014, 2016, 2018, 2020, 2022 
+
+Date of next update of indicator: No definida
+
+Unit of the State responsible for calculating the indicator: Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT). Comisión Nacional del Agua (CONAGUA). Gerencia de Planificación Hídrica. Sistema Nacional de Información
+del Agua (SINA), a partir de la información de la Encuesta Nacional de Ingreso y Gasto en los Hogares (ENIGH), 2014, 2016, 2018, 2020, 2022 de INEGI 
+
+
+National and/or international reference: Manual de Encuestas sobre Hogares. Departamento de Asuntos Económicos y Sociales Internacionales, Oficina de Estadística. Naciones Unidas, Nueva York, 1987. 
+
+

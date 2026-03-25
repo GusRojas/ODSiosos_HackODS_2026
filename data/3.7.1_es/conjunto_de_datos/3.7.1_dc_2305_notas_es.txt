@@ -1,0 +1,2 @@
+﻿"Fuente: Consejo Nacional de Población (CONAPO). Estimaciones con base en la Encuesta Nacional de la Dinámica Demográfica (ENADID), 2009-2023. "
+"cvegeo: Clave geoestadística"

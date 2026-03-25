@@ -1,0 +1,69 @@
+﻿Title: 5.6.1 Proporción de mujeres de entre 15 y 49 años que toman sus propias decisiones informadas sobre las relaciones sexuales, el uso de anticonceptivos y la atención de la salud reproductiva
+
+Description: Proporción de mujeres en edad fértil unidas que toman decisiones en cuanto a tener relaciones sexuales con su esposo o pareja si no lo desean, decidir si se usan anticonceptivos y sobre el cuidado de su salud sexual y reproductiva.
+
+Modified: 2023-04-12
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: María de la Cruz Muradás Troitiño
+Coordinadora de Estudios Sociodemográficos y Prospectiva
+Doctor José María Vertiz 852
+Colonia Narvarte, 03020
+Benito Juárez, Ciudad de México
+55 5128 0000, ext. 19511
+maria.muradas@conapo.gob.mx
+
+Temporal: 2021-2021
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Quinquenal
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/5.6.1_es.zip
+
+Goal: 5. Lograr la igualdad de género y empoderar a todas las mujeres y las niñas 
+
+Target:  Meta 5.6 Asegurar el acceso universal a la salud sexual y reproductiva y los derechos reproductivos según lo acordado de conformidad con el Programa de Acción de la Conferencia Internacional sobre la Población y el Desarrollo, la Plataforma de Acción de Beijing y los documentos finales de sus conferencias de examen
+
+Type of indicator: Global
+
+Algorithm: 5.6.1_ES.gif
+
+Description of the indicator: Se consideran mujeres de 15 a 49 años unidas, es decir, casadas o en unión libre que toman decisiones principalmente ellas (ellas mismas o entre su pareja y ella, pero ella un poco) o conjuntamente con la pareja, sobre derechos sexuales y reproductivos identificados en la ENDIREH sobre sobre cuándo tener relaciones sexuales (considerando principalmente a ellas), el uso de métodos anticonceptivos y el cuidado de su salud sexual y reproductiva.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional y entidad federativa
+
+Opportunity: Las cifras definitivas se publican 2 meses después de la publicación de la Encuesta Nacional sobre la Dinámica de las Relaciones en los Hogares.
+
+Source of statistical information used to calculate the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional sobre la Dinámica de las Relaciones en los Hogares (ENDIREH), 2016 y 2022.
+
+Date of next update of indicator: 31 de diciembre de 2026
+
+Unit of the State responsible for calculating the indicator: Consejo Nacional de Población (CONAPO). Dirección General de Estudios Sociodemográficos y Prospectiva. 
+
+Importance and purpose of the indicator: La autonomía de las mujeres en la toma de decisiones sobre las relaciones sexuales consensuales, el uso de métodos anticonceptivos y el acceso a los servicios de salud sexual y reproductiva son elementos clave para conocer el nivel de empoderamiento en el pleno ejercicio de sus derechos reproductivos.
+La capacidad de una mujer para decir "no" a su esposo o compañero si no quiere tener relaciones sexuales está bien alineada con el concepto de autonomía sexual y el empoderamiento de la mujer.
+Con respecto a la toma de decisiones sobre el uso de métodos anticonceptivos, expertas/os que analizaron datos de varios países indicaron que se obtiene una comprensión más clara del empoderamiento de las mujeres al observar el indicador desde la perspectiva de las decisiones que se toman "principalmente por parte de la pareja" a diferencia de la decisión tomada "solo por la mujer" o "por la mujer conjuntamente con la pareja", por lo que, dependiendo del tipo de método anticonceptivo que se use, la decisión de la mujer "sola" o "en conjunto con la pareja" no siempre implica que la mujer esté facultada o tenga habilidades de negociación, por tal motivo, se puede asumir que una mujer que no participa, en absoluto, en tomar decisiones anticonceptivas y en el cuidado de su salud sexual y reproductiva no tiene poder en lo que respecta a las decisiones sexuales y reproductivas.
+
+National and/or international reference: ONU, Departamento de Economía y Asuntos Sociales, División de Población (2021). SDG Indicators, Metadata repository. Disponible en:   
+ https://unstats.un.org/sdgs/metadata/ 
+ONU, Departamento de Economía y Asuntos Sociales, División de Población (2017). World Population Prospects: The 2017 Revision. Nueva York: Naciones Unidas. Disponible
+en:   
+ https://population.un.org/wpp/ 
+ONU, Departamento de Economía y Asuntos Sociales, División de Población (2016). Model-based Estimates and Projections of Family Planning Indicators 2016. Nueva York:
+Naciones Unidas. Disponible en:   
+ https://www.un.org/development/desa/pd/data/family-planning-indicators 
+
+Observations: El indicador es factible de cálculo a partir de la ENDIREH 2021 en la que se incluyó por primera vez  la pregunta sobre el cuidado de la salud sexual y reproductiva de la mujer.
+Referente a las relaciones sexuales, en la construcción del indicador originalemtne propuesto se incluye la pregunta si la mujer puede decir que "no".  Dado que no se cuenta con dicha pregunta en la ENDIREH, se realizó la aproximación al indicador indluyendo la pregunta sobre de quién es la decisión de cuando tener relaciones sexuales, considerando solamente cuando es decisión principalmente de la mujer (solo la entrevistada o entre los dos, pero la entrevistadas un poco más).
+La decisión de uso de métodos anticonceptivos se pregunta a todas las MEFU, ya que en el cuestionario para mujer casada o unida, no existe una pregunta para mujeres usuarias actuales de métodos anticonceptivos, por lo que las preguntas sobre las decisiones y libertad personal, se formulan a las mujeres sin tener un conocimiento previo de que actualmente usan anticonceptivos.
+Las preguntas consideradas para el cálculo del indicador pertenecen a la "Sección XV. Decisiones y libertad personal": pregunta 15.1AB12, considerando principalmente a la mujer ("solo usted (la entrevistada)" o "entre los dos, pero usted un poco más"), es decir, los códigos de respuesta 1 y 4; pregunta 15.1AB13, considerando principalmente a la mujer ("solo usted (la entrevistada)" o "entre los dos, pero usted un poco más")  y conjuntamente ("entre los dos por igual"), es decir, los códigos de respuesta  1, 4 y 5; y pregunta 15.1AB14, considerando principalmente a la mujer ("solo usted (la entrevistada)" o "entre los dos, pero usted un poco más")  y conjuntamente ("entre los dos por igual"), es decir, los códigos de respuesta  1, 4 y 5.
+Las estimaciones obtenidas tienen representatividad suficiente a nivel nacional, mientras que, en algunas entidades federativas el coeficiente de variación supera el 15%, por lo que se sugiere un uso cauteloso de la estimación considerando las causas de la alta variabilidad y se consideren otros indicadores de precisión y confiabilidad, como el intervalo de confianza.
+

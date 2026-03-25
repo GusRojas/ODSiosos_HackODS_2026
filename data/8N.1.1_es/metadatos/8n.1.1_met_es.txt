@@ -1,0 +1,70 @@
+﻿Title: 8n.1.1 Tasa de participación laboral de personas con discapacidad
+
+Description: Mide el grado de participación de las personas con discapacidad en el mercado de trabajo.
+
+Modified: 2021-04-22
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Centro de atención a usuarios INEGI
+Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276,
+Aguascalientes, Aguascalientes, Aguascalientes, 
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Nacional sin costo: 800 111 46 34 
+ Internacional: (código internacional) + (52)+(449) 149 1300
+atencion.usuarios@inegi.org.mx
+Octavio Heredia Hernández
+Director General Adjunto de Encuestas Sociodemográficas
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276
+Aguascalientes, Aguascalientes
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Telefóno: 4499105300, Ext. 4322, 4223
+octavio.heredia@inegi.org.mx
+
+Temporal: 2014-2018
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Cuatrienal
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/8n.1.1_es.zip
+
+Goal: 8. Promover el crecimiento económico sostenido, inclusivo y sostenible, el empleo pleno y productivo y el trabajo decente para todos 
+
+Target:  Meta 8n.1 Acceso a la capacitación y al empleo sin discriminación de ningún tipo, con especial énfasis en las y los jóvenes
+
+Type of indicator: Nacional
+
+Algorithm: 8n.1.1_ES.gif
+
+Description of the indicator: Población en edad de trabajar con discapacidad (15 a 130 años de edad) de un país que participa activamente en el mercado de trabajo, ya sea trabajando o buscando empleo durante al menos una hora de la semana anterior a la entrevista que tiene discapacidad, entre el total de la población de 15 años y más con discapacidad multiplicada por 100.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: No determinada.
+
+Source of statistical information used to calculate the indicator: Encuesta Nacional de la Dinámica Demográfica (ENADID) del INEGI
+
+Date of next update of indicator: 31 de diciembre de 2025
+
+Unit of the State responsible for calculating the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Dirección General de Estadísticas Sociodemográficas. 
+
+Importance and purpose of the indicator: La Constitución Política de los Estados Unidos Mexicanos señala en el Artículo 123 que "toda persona tiene derecho al trabajo digno y socialmente útil". A su vez, la Ley Federal del Trabajo en su Artículo 2o señala que el trabajo digno o decente "es aquél en el que se respeta plenamente la dignidad humana del trabajador, no existe discriminación por origen étnico o nacional, género, edad, discapacidad, condición social, condiciones de salud, religión, condición migratoria, opiniones, preferencias sexuales o estado civil". 
+El Artículo 11 de la Ley General para la Inclusión de las Personas con Discapacidad señala que "la Secretaría del Trabajo y Previsión Social promoverá el derecho al trabajo y empleo de las personas con discapacidad en igualdad de oportunidades y equidad, que les otorgue certeza en su desarrollo personal, social y laboral". 
+Aunque existe el marco legal que impulsa el acceso igualitario al trabajo digno y socialmente útil, los datos muestran grandes diferencias. En 2018, el 66.6% de la población sin discapacidad o limitación era parte de la Población Económicamente Activa (PEA), mientras que solo el 38.5% de la población con discapacidad era parte de la PEA. 
+En este marco, se propone la inclusión del indicador, el cual da cuenta sobre la participación de las personas con discapacidad en el mercado de trabajo. Se establece que la meta sea la reducción de la brecha de la participación laboral, comparado con la población sin discapacidad o limitación.
+
+National and/or international reference: Grupo de Washington 
+Organización Internacional del Trabajo (OIT). 
+
+Observations: El INEGI en la ENADID presenta información sobre las características laborales de la población con discapacidad. Aunque la ENADID no es la fuente oficial de datos sobre el mercado laboral, sí incluye la captación de información de las personas con discapacidad. 
+

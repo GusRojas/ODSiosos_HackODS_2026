@@ -1,0 +1,11 @@
+﻿"Nota: Estimación de Nacimientos. A partir del año 2010 se aplicó la proporción de personas que al momento de nacer no contaban con el certificado de nacimiento expedido por
+la Secretaría de Salud, considerando que eran nacimientos que no ocurren dentro de unidades médicas. 
+ Para estimar el subregistro de nacimientos en el SINAC se realizó la siguiente metodología:  
+ Se aplicó la proporción de personas que al momento de nacer no contaban con el certificado de nacimiento expedido por la Secretaría de Salud (SS), dicha información
+se obtuvo con la Encuesta Nacional de la Dinámica Demográfica (ENADID) 2014,2018 y 2023. Finalmente, para obtener un dato más reciente, se realizó una extrapolación
+a 2024. "
+"Fuente: - Consejo Nacional de Población (CONAPO).Conciliación Demográfica de México 1990-2019 y las Proyecciones de la Población de México y de las Entidades Federativas 2020-2070.
+
+-
+Secretaría de Salud. Subsistema de Información sobre Nacimientos, 2008-2022; INEGI. Encuesta Nacional de la Dinámica Demográfica (ENADID) 2014, 2018 y 2023; INEGI. "
+"cvegeo: Clave geoestadística"

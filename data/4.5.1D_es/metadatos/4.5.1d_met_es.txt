@@ -1,0 +1,55 @@
+﻿Title: 4.5.1d Índice de paridad (entre mujeres y hombres) del porcentaje de población en un grupo de edad determinado que alcanza por lo menos un nivel fijo de competencia funcional en alfabetización
+
+Description: Representa la relación entre mujeres y hombres del porcentaje de población en un grupo de edad determinado que alcanza por lo menos un nivel fijo de competencia funcional en alfabetización. Un valor de exactamente 1 indica paridad.
+
+Modified: 2025-10-30
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: César Morón Rojas
+Director General de Planeación, Programación y Estadística Educativa
+Av. Universidad 1200, Colonia Xoco, 3330, Benito Juárez, Ciudad de México
+55 3601 2511, ext. 54760
+cesar.mr@nube.sep.gob.mx
+
+Temporal: 1990-2024
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/4.5.1d_es.zip
+
+Goal: 4. Garantizar una educación inclusiva y equitativa de calidad y promover oportunidades de aprendizaje permanente para todos 
+
+Target:  Meta 4.5. De aquí a 2030, eliminar las disparidades de género en la educación y asegurar el acceso igualitario a todos los niveles de la enseñanza y la formación profesional para las personas vulnerables, incluidas las personas con discapacidad, los pueblos indígenas y los niños en situaciones de vulnerabilidad
+
+Type of indicator: Global
+
+Algorithm: 4.5.1d_ES.gif
+
+Description of the indicator: El indicador resulta de dividir el valor del porcentaje de población que alcanza por lo menos un nivel fijo de competencia funcional en alfabetización de las mujeres entre el valor obtenido para los hombres.
+
+Unit of measure: Razón
+
+Geographic coverage: Nacional y entidad federativa
+
+Opportunity: 1 año
+
+Source of statistical information used to calculate the indicator: Instituto Nacional para la Educación de los Adultos (INEA), utilizando la "Metodología para el cálculo de la estimación del rezago educativo anual".
+
+Date of next update of indicator: 30 de octubre de 2026
+
+Unit of the State responsible for calculating the indicator: Secretaría de Educación Pública (SEP). Instituto Nacional para la Educación de los Adultos (INEA).  
+ https://www.gob.mx/inea/ 
+
+Importance and purpose of the indicator: Este indicador permite conocer si existe paridad entre mujeres y hombre relativa al porcentaje de niños que cuentan con herramientas para enfrentarse a la instrucción organizada respecto del número total de alumnos que integran la población estudiantil. Con este indicador se podrá realizar una clara clasificación del alumnado, la cual será de gran utilidad al elaborar diagnósticos, evaluaciones y para realizar comparaciones regionales e internacionales.
+
+National and/or international reference: Repositorio de metadatos de los ODS, disponible en:   
+ https://unstats.un.org/sdgs/metadata/ 
+
+

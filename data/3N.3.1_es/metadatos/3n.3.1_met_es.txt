@@ -1,0 +1,60 @@
+﻿Title: 3n.3.1 Tasa de fecundidad en niñas de 10 a 14 años
+
+Description: Número de nacimientos ocurridos en niñas y adolescentes entre 10 y 14 años que tienen lugar en un determinado año, por cada 1 000 niñas y adolescentes de 10 a 14 años a mitad de ese año.
+
+Modified: 2025-09-01
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Mirna Hebrero Martínez
+Coordinadora de Estudios Sociodemográficos y Prospectiva
+Doctor José María Vertiz 852, Colonia Narvarte, 03020; Benito Juárez, Ciudad de México
+55 5128 0000, ext. 19511
+mhebrero@conapo.gob.mx
+
+Temporal: 2010-2016
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/3n.3.1_es.zip
+
+Goal: 3. Garantizar una vida sana y promover el bienestar de todos a todas las edades 
+
+Target:  Meta 3n.3 Garantizar el acceso universal efectivo a servicios de salud sexual y reproductiva, con énfasis en la prevención del embarazo adolescente e infantil
+
+Type of indicator: Nacional
+
+Algorithm: 3n.3.1_ES.gif
+
+Description of the indicator: Es el cociente del número de nacimientos ocurridos en niñas y adolescentes entre 10 y 14 años que tienen lugar en un determinado año entre el total de mujeres de 10 a 14 años a mitad de ese año por 1 000.
+
+Unit of measure: Número de hijos(as) nacidos(as) vivos(as) por cada 1 000 niñas y adolescentes entre 10 y 14 años
+
+Geographic coverage: Nacional
+
+Opportunity: Una vez que se disponga de la más reciente base de datos de estadísticas vitales de nacimientos, 30 días después podrá actualizarse.
+
+Source of statistical information used to calculate the indicator: Consejo Nacional de Población (CONAPO). Estimaciones y Proyecciones de la Población de México 1990-2030.
+Instituto Nacional de Estadística y Geografía (INEGI). Estadísticas vitales: Base de datos de natalidad. http://www.beta.inegi.org.mx/proyectos/registros/vitales/natalidad/default.html (24 de febrero de 2017)
+
+Date of next update of indicator: No definida
+
+Unit of the State responsible for calculating the indicator: Consejo Nacional de Población (CONAPO). Coordinación de Estudios Sociodemográficos y Prospectiva (CESP). 
+
+Importance and purpose of the indicator: A través de este indicador es posible medir la ocurrencia de embarazos en niñas y adolescentes de 10 a 14 años para implementar acciones que erradiquen su ocurrencia, dado que en este grupo de edad el embarazo generalmente  se asocia a mayores riesgos de morbimortalidad materna, de complicaciones en el parto, de mortalidad infantil y a condiciones precarias de salud en el recién nacido. Las niñas al sufrir un embarazo se ven forzadas a menudo a abandonar la escuela para hacerse cargo de las responsabilidades de su maternidad y del hogar, lo cual representa la cancelación de su derecho a la educación, así como de desarrollar su futuro potencial (UNFPA, 2017). En el caso de México de acuerdo a la Estrategia Nacional de Prevención del Embarazo en Adolescentes (ENAPEA), la erradicación de los embarazos en adolescentes entre 10 y 14 años de edad.
+
+National and/or international reference: Repositorio de metadatos de los ODS, disponible en:   
+ https://unstats.un.org/sdgs/metadata/ 
+Consejo Nacional de Población (CONAPO). Estrategia Nacional para la Prevención del Embarazo en Adolescentes (ENAPEA). http://www.gob.mx/conapo/documentos/estrategia-nacional-para-la-prevencion-del-embarazo-en-adolescentes-enapea-informe-ejecutivo
+
+Observations: La meta se establece en la Estrategia Nacional para la Prevención del Embarazo en Adolescentes (ENAPEA).
+* La expresión de fecundidad en el intervalo de 10 a 14 años no es una tasa, sino una razón, bajo el supuesto de que la mayoría de las niñas de 10 y 11 años aún no presentan su primera menstruación, por lo que no pueden considerarse como expuestas al riesgo de un embarazo. Sin embargo, se nombra así para fines de comparación internacional.
+** Se refiere a la reconstrucción de nacimientos a siete años a partir de los datos de estadísticas vitales de nacimientos; es decir, a través de las bases de datos de nacimientos por año de registro, se contabilizaron los nacimientos en niñas y adolescentes de 10 a 14 años ocurridos en el año t y registrados ese mismo año, más los registrados en t+1, ..., t+7. A partir del año 2012 se estima el total de nacimientos con una extrapolación logarítmica con base en el comportamiento de cada entidad federativa.
+****La metodología de cálculo de este indicador está en revisión en el Comité Técnico Especializado de Población y Dinámica Demográfica. El dato que se publique en SIODS estará supeditado al acuerdo en dicho Comité.
+

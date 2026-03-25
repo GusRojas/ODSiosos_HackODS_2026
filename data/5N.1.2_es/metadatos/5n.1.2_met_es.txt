@@ -1,0 +1,71 @@
+﻿Title: 5n.1.2 Brecha en el tiempo promedio que hombres y mujeres destinan a quehaceres domésticos, por grupos de edad
+
+Description: El indicador muestra la diferencia en el tiempo promedio en horas semanales que hombres y mujeres dedican al trabajo doméstico no remunerado y de cuidados a integrantes del hogar, según grupos de edad.
+El indicador puede tomar valores negativos, positivos e incluso iguales a cero. Cuando el valor es negativo los resultados muestran que el tiempo promedio que dedican los hombres a realizar quehaceres del hogar semanalmente es menor que el tiempo empleado por las mujeres. Si el valor es positivo, el tiempo promedio que dedican las mujeres es menor. Si el valor es igual a cero el tiempo dedicado tanto por hombres y mujeres es el mismo. La brecha se expresa en horas semanales.
+
+Modified: 2026-02-03
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Centro de atención a usuarios INEGI
+Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276,
+Aguascalientes, Aguascalientes, Aguascalientes, 
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Nacional sin costo: 800 111 46 34 
+ Internacional: (código internacional) + (52)+(449) 149 1300
+atencion.usuarios@inegi.org.mx
+Octavio Heredia Hernández
+Director General Adjunto de Encuestas Sociodemográficas
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276
+Aguascalientes, Aguascalientes
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Telefóno: 4499105300, Ext. 4322, 4223
+octavio.heredia@inegi.org.mx
+
+Temporal: 2009-2024
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Quinquenal
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/5n.1.2_es.zip
+
+Goal: 5. Lograr la igualdad de género y empoderar a todas las mujeres y las niñas 
+
+Target:  Meta 5n.1 Participación paritaria y efectiva de las mujeres en la vida política, económica y pública, con énfasis en la disminución de brechas de todo tipo, entre ellas la salarial, en el mercado laboral y la carga doméstica de cuidados
+
+Type of indicator: Nacional
+
+Algorithm: 5n.1.2_ES.gif
+
+Description of the indicator: Se calcula la población por sexo y grupo de edad, que realizan trabajo doméstico no remunerado, cuidado a personas en su hogar,  trabajo domestico y cuidados a personas de otros hogares.
+Se calculan las horas totales que realiza la población por sexo que realizan trabajo doméstico en su propio hogar, cuidado a personas en su hogar,  trabajo domestico y cuidados a personas de otros hogares
+Se dividen las horas totales entre la población que realizo el trabajo.
+Para el cálculo de la brecha se realiza la resta del tiempo promedio en horas semanales de los hombres con respecto al  tiempo promedio en horas semanales de las mujeres.
+
+Unit of measure: Horas a la semana
+
+Geographic coverage: Nacional
+
+Opportunity: No definida
+
+Source of statistical information used to calculate the indicator: Estimaciones con base en la ENUT 2009, 2014, 2019 y 2024.
+
+Date of next update of indicator: No definida
+
+Unit of the State responsible for calculating the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Unidad de Estadísticas Sociodemográficas.   
+ https://www.inegi.org.mx  
+
+Importance and purpose of the indicator: La participación paritaria de las mujeres además de incluir la esfera pública, incluye el aspecto personal. Se dice que las mujeres enfrentan una doble o triple carga laboral, por el tiempo de trabajo, los cuidados del hogar, etc. 
+Las mujeres se encargan de la mayoría de las labores domésticas, dedicando una mayor cantidad de su tiempo, en comparación con los hombres. Las condiciones de paridad implicarían un tiempo compartido de las labores del hogar para hombres y mujeres. 
+El indicador, permite identificar y poner a la luz las diferencias en el tiempo para labores domésticas invertidas por mujeres y hombres.
+
+Observations: El 28 de agosto de 2025, se reemplazaron los microdatos de la ENUT 2014 y 2019, debido a que se actualizaron las estimaciones de población, con base en la propia actualización del Marco de Muestreo del INEGI.
+

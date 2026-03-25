@@ -1,0 +1,2 @@
+﻿"Fuente: Secretaría de Salud. Bases de datos de mortalidad. "
+"cvegeo: Clave geoestadística"

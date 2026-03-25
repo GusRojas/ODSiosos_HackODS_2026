@@ -1,0 +1,73 @@
+﻿Title: 3.3.1 Número de nuevas infecciones por el VIH por cada 1.000 habitantes no infectados, desglosado por sexo, edad y poblaciones clave
+
+Description: Mide el número de nuevas infecciones por VIH por cada 1000 personas que no viven con VIH (o persona-años expuestos)
+
+Modified: 2025-11-14
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Mtra. Manett Vargas García
+Directora General de Evaluación del Desempeño
+Avenida Paseo de la Reforma 450 
+Colonia Juárez, 06600
+Cuauhtémoc, Cuauhtémoc, Ciudad de México
+01 (55) 50621600 Ext. 52697
+manett.vargas@salud.gob.mx
+Dr. Delfino Campos Díaz
+Director de Gestión y Seguimiento para la Evaluación de los Sistemas de Salud
+Av. Agrarismo #227, piso 3, Col. Escandón II Sección D.T. Miguel Hidalgo, C.P. 11800, CDMX.
+01 (55) 50621600 Ext. 52681
+delfino.campos@salud.gob.mx
+María del Pilar Rivera Reyes
+Subdirectora de Monitoreo de Indicadores
+Homero 213 Col. Chapultepec Morales
+Demarcación territorial Miguel Hidalgo. Piso 12. 11570 México D.F.
+Conmutador: (+5255) 50 62 16 00 y 17 00 ext. 56032
+Cisco: 56032
+maria.rivera@salud.gob.mx
+
+Temporal: 1990-2024
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/3.3.1_es.zip
+
+Goal: 3. Garantizar una vida sana y promover el bienestar de todos a todas las edades 
+
+Target:  Meta 3.3 De aquí a 2030, poner fin a las epidemias del SIDA, la tuberculosis, la malaria y las enfermedades tropicales desatendidas y combatir la hepatitis, las enfermedades transmitidas por el agua y otras enfermedades transmisibles
+
+Type of indicator: Global
+
+Algorithm: 3.3.1_ES.gif
+
+Description of the indicator: Se calcula dividiendo el número de nuevas infecciones por VIH, entre el total de la población que no vive con VIH y multiplicado por 1000.
+
+Unit of measure: Tasa
+
+Geographic coverage: Nacional
+
+Opportunity: Junio de cada año
+
+Source of statistical information used to calculate the indicator: Programa Conjunto de las Naciones Unidas dedicado al VIH y Sida (ONUSIDA) y Secretaría de Salud (SS) y Centro Nacional para la Prevención y el Control del VIH y Sida (CENSIDA). Modelo Spectrum. Datos al cierre de cada año.
+
+Date of next update of indicator: 30 de junio de 2026
+
+Unit of the State responsible for calculating the indicator: Secretaría de Salud (SSA). Centro Nacional para la Prevención y el Control del VIH y SIDA (CENSIDA). 
+
+Importance and purpose of the indicator: El objetivo fundamental de la respuesta mundial al sida es reducir el número de personas que contraen la infección por VIH a menos de 200,000 personas para el año 2030. Monitorear la tasa de personas que contraen la infección a lo largo del tiempo sirve para cuantificar los avances hacia este objetivo. Este indicador es uno de los 10 indicadores mundiales que se incluyen en las directrices de información estratégica consolidadas de la Organización mundial de la Salud (OMS).
+
+National and/or international reference: Repositorio de metadatos de los ODS, disponible en:   
+ https://unstats.un.org/sdgs/metadata/ 
+Página Web de Onusida en:   
+ https://aidsinfo.unaids.org/ 
+
+Observations: Cada año, el Centro Nacional para la Prevención y el Control del VIH y sida (Censida) realiza las estimaciones nacionales del VIH, en colaboración con el Programa Conjunto de las Naciones Unidas para el VIH/Sida (Onusida), a través del Modelo Spectrum (Avenir Health); cuyos resultados junto con datos epidemiológicos y programáticos del país, se utilizan para realizar las estimaciones de la incidencia del VIH. Toda vez que, el Modelo Spectrum está en constante proceso de mejora y que los datos nacionales y la metodología utilizada se actualiza cada año, las estimaciones anuales no son comparables entre sí, por lo que las cifras de este indicador para toda la serie de años proyectados se modificarán anualmente, alineándose a la estimación vigente. Por lo anterior, las cifras de toda la serie de años se consideran preliminares.
+Se reporta la estimación puntual y los límites inferior y superior. No se utilizan cifras redondeadas. 
+Para consultar el Modelo Spectrum y Manual:  https://www.avenirhealth.org/software-spectrum.php
+

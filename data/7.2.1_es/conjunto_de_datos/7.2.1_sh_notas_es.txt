@@ -1,0 +1,2 @@
+﻿"Nota: Considera Biogás, Bagazo de Caña, Eólica, Geotermia, Hidráulica, Leña y Solar. "
+"Fuente: Secretaría de Energía (SENER). Balance Nacional de Energía. Matriz Origen y Destino de la Energía a Nivel Nacional. "

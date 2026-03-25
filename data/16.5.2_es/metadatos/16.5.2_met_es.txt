@@ -1,0 +1,63 @@
+﻿Title: 16.5.2 Proporción de negocios que han tenido al menos un contacto con un funcionario público y que han pagado un soborno a un funcionario público, o a los que un funcionario público les ha pedido un soborno, durante los últimos 12 meses
+
+Description: Proporción de negocios a los que se les pidió un regalo o un pago informal cuando tuvieron contacto con las autoridades.
+
+Modified: 2024-12-18
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Centro de atención a usuarios INEGI
+Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276,
+Aguascalientes, Aguascalientes, Aguascalientes, 
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Nacional sin costo: 800 111 46 34 
+ Internacional: (código internacional) + (52)+(449) 910 53 00 Ext. 315301
+atencion.usuarios@inegi.org.mx
+Dr. Dwight D. Dyer Leal
+Director General de Estadísticas de Gobierno, Seguridad Pública y Justicia
+Av. Patriotismo 711. Colonia San Juan, delegación Benito Juárez, CDMX.
+5552781000, Ext:321592
+dyer@inegi.org.mx
+
+Temporal: 2015-2023
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Bienal
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/16.5.2_es.zip
+
+Goal: 16. Promover sociedades pacíficas e inclusivas para el desarrollo sostenible, facilitar el acceso a la justicia para todos y construir a todos los niveles instituciones eficaces e inclusivas que rindan cuentas 
+
+Target:  Meta 16.5 Reducir considerablemente la corrupción y el soborno en todas sus formas
+
+Type of indicator: Global
+
+Algorithm: 16.5.2_ES.gif
+
+Description of the indicator: Total de unidades económicas que reportaron ser víctima de algún acto de corrupción por parte de un empleado de gobierno, servidor público, una tercera persona o coyote a nombre de un empleado de gobierno o servidor público, entre el total de unidades económicas, multiplicado por 100.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: Los datos se refieren al año previo a la publicación de la encuesta fuente (ENVE), que se publica en el segundo semestre del año que corresponda.
+
+Source of statistical information used to calculate the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional de Victimización de Empresas (ENVE).
+
+Date of next update of indicator: 30 de junio de 2027
+
+Unit of the State responsible for calculating the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Dirección General de Estadísticas de Gobierno, Seguridad Pública y Justicia. 
+
+Importance and purpose of the indicator: El fundamento de este indicador es determinar si se solicita a las empresas obsequios o pagos informales (es decir, sobornos) cuando se reúnen con funcionarios fiscales. El pago de impuestos es un requisito formal en la mayoría de los países y, por lo tanto, lo racional de este indicador es medir la incidencia de la corrupción durante esta interacción rutinaria. 
+
+National and/or international reference: Banco Mundial. Enterprise Surveys. 
+
+Observations: Por cuestiones de comparabilidad internacional, las cifras relativas a este indicador publicadas en el sitio oficial internacional de los ODS (https://unstats.un.org/sdgs/indicators/database/) toman como fuente la World Enterprise Survey, por lo que varían de las cifras que aquí se presentan.
+

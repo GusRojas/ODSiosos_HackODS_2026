@@ -1,0 +1,6 @@
+﻿"Nota: - La Zona Metropolitana del Valle de México incluye 16 delegaciones de la Ciudad de México, 59 municipios del Estado de México y uno del Estado de Hidalgo. "
+"ND No disponible"
+"NA No aplicable"
+"Fuente: Instituto Federal de Telecomunicaciones (IFT), Coordinación General de Planeación Estratégica, con datos de la Encuesta Nacional sobre Disponibilidad y Uso de Tecnologías
+de la Información en los Hogares (ENDUTIH) "
+"cvegeo: Clave geoestadística"

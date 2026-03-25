@@ -1,0 +1,63 @@
+﻿Title: 10.4.1 Proporción laboral del PIB que comprende los salarios y las transferencias de protección social
+
+Description: Es el porcentaje que representa el agregado de la remuneración de asalariados, es decir, los sueldos y salarios por pagar y las contribuciones sociales a pagar por los empleadores respecto al Producto Interno Bruto (PIB).
+
+Modified: 2025-10-08
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Centro de atención a usuarios INEGI
+Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276,
+Aguascalientes, Aguascalientes, Aguascalientes, 
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Nacional sin costo: 800 111 46 34 
+ Internacional: (código internacional) + (52)+(449) 149 1300
+atencion.usuarios@inegi.org.mx
+
+Temporal: 2003-2024
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/10.4.1_es.zip
+
+Goal: 10. Reducir la desigualdad en los países y entre ellos 
+
+Target:  Meta 10.4 Adoptar políticas, especialmente fiscales, salariales y de protección social, y lograr progresivamente una mayor igualdad
+
+Type of indicator: Global
+
+Algorithm: 10.4.1_ES.gif
+
+Description of the indicator: El indicador resulta de dividir el total de sueldos y salarios, en dinero y en especie, más las contribuciones sociales a pagar por los empleadores, efectivas e imputadas, entre el PIB; todo multiplicado por cien.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: 10 meses después del periodo de referencia
+
+Source of statistical information used to calculate the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Sistema de Cuentas Nacionales de México. Cuentas de Bienes y Servicios, 2024 preliminar, base 2018 (octubre de 2025). Disponible en https://www.inegi.org.mx/programas/pibact/
+
+Date of next update of indicator: 31 de octubre de 2026
+
+Unit of the State responsible for calculating the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Unidad de Estadísticas Económicas.   
+ https://www.inegi.org.mx  
+
+Importance and purpose of the indicator: El indicador sirve para comparar la proporción del PIB que se destina a la remuneración respecto a la destinada a la remuneración del capital. En este orden de ideas, para poder interpretar el indicador de manera efectiva, deben considerarse las tendencias, o trayectorias, de los crecimientos en la economía. 
+El porcentaje del PIB asignado a la remuneración del trabajo puede aumentar cuando el crecimiento de la economía se traduce en un mayor ingreso para los empleados. En periodos de recesión en la economía, el indicador nos da cuenta de cómo se reducen los ingresos del trabajo respecto a los beneficios o ganancias del capital. Si los ingresos del trabajo caen más rápido, o en mayor medida, que los beneficios, entonces se espera que ese porcentaje asignado a los salarios disminuya. 
+En contraste, si los ingresos del trabajo caen en menor medida que los beneficios del capital, entonces se espera que el porcentaje del PIB asignado al pago de salarios aumente. Para cada nivel de PIB y de beneficios, el porcentaje dedicado al pago de los salarios disminuye como resultado de la caída del empleo asalariado, del salario o por la combinación de ambas cosas.
+El aumento en la producción y el PIB, generalmente, conducen a mejores niveles de vida entre los residentes en una economía, pero esto dependerá de la distribución real del ingreso y de las políticas públicas; entre otros factores. Si existe un gran número de trabajadores no residentes o estacionales y/o, por otro lado, flujos de entrada y salida de ingresos de propiedad en la medida en que la producción difiere del ingreso de los residentes, puede existir una sobrestimación o subestimación del nivel de vida de los residentes.
+
+National and/or international reference: Sin referencia 
+
+Observations: El indicador subestimará la proporción del PIB destinada a la remuneración del trabajo en las economías donde el autoempleo es considerable, ya que estas rentas no son consideradas haciendo que en dichas economías el indicador pierda relevancia.
+Sin embargo, gran parte de la brecha de estimación puede ajustarse al tener en cuenta el ingreso del autoempleo. Por otro lado, el PIB puede excluir o no informar de actividades que son difíciles de medir, como las transacciones en el sector informal o en los mercados ilegales, etc. subestimando la producción total de bienes y servicios finales en el país. También, el PIB no tiene en cuenta los costos sociales y ambientales de la producción y, por lo tanto, no se una buena medida para inferir el nivel de bienestar (OIT citada en Naciones Unidas, Departamento de Asuntos Económicos y Sociales; División de Estadísticas, 2016; pp. 2).
+

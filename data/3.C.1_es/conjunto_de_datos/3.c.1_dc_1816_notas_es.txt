@@ -1,0 +1,2 @@
+﻿"Fuente: CONAPO. Estimaciones del CONAPO con base en Conciliación Demográfica de México 1950-2019, Proyecciones de la Población de México y de las entidades federativas, 2020-2070."
+"cvegeo: Clave geoestadística"

@@ -1,0 +1,55 @@
+﻿Title: 11.3.1 Relación entre la tasa de consumo de tierras y la tasa de crecimiento de la población
+
+Description: El indicador se define como la relación entre la tasa de consumo de suelo y la tasa de crecimiento de la población.
+Este indicador requiere definir los dos componentes del crecimiento de la población y la tasa de consumo de suelo. Calcular la tasa de crecimiento de la población es más sencillo y está más disponible, mientras que la tasa de consumo de suelo es un poco desafiante y requiere el uso de nuevas técnicas. Al estimar la tasa de consumo de la tierra, es necesario definir qué constituye el “consumo” de la tierra, ya que esto puede cubrir aspectos de “consumo”, “preservación” o disponibilidad para el “desarrollo” en casos como la tierra ocupada por humedales. En segundo lugar, no existe una medida inequívoca de si la tierra que se está desarrollando es realmente tierra “nuevamente desarrollada” (o vacante), o si está al menos parcialmente “reconstruida”. Como resultado, el porcentaje del suelo urbano total actual que fue recientemente desarrollado (consumido) se utilizará como una medida de la tasa de consumo de suelo Considerando como área edificada aquella que ya está amanzanada y que es considerada un área geoestadística básica urbana.
+
+Modified: 2023-02-10
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Abraham Issaí Nuñez Morales
+Subdirector de Vinculación de la Unidad de Planeación y Desarrollo Institucional
+Nuevo León No. 210 Colonia Hipódromo Condesa, Del. Cuauhtémoc 06100 Ciudad de México
+5568209700 Ext. 50710
+abraham.nunez@sedatu.gob.mx
+
+Temporal: 2019-2019
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Bienal
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/11.3.1_es.zip
+
+Goal: 11. Lograr que las ciudades y los asentamientos humanos sean inclusivos, seguros, resilientes y sostenibles 
+
+Target:  Meta 11.3. De aquí a 2030, aumentar la urbanización inclusiva y sostenible y la capacidad para la planificación y la gestión participativas, integradas y sostenibles de los asentamientos humanos en todos los países
+
+Type of indicator: Global
+
+Algorithm: 11.3.1_ES.gif
+
+Description of the indicator: Es el porcentaje de la relación entre el consumo de tierras y la tasa de crecimiento poblacional entre 2017 a 2019.
+
+Unit of measure: Ratio
+
+Geographic coverage: Nacional y estatal
+
+Opportunity: 1 año
+
+Source of statistical information used to calculate the indicator: Consejo Nacional de Población (CONAPO). 
+Instituto Nacional de Estadística y Geografía (INEGI). Marcos geoestadísticos: diciembre-2017 y diciembre-2019 (Censo de Población y Vivienda 2020) 
+
+Date of next update of indicator: 2024
+
+Unit of the State responsible for calculating the indicator: Secretaría de Desarrollo Agrario, Territorial y Urbano (SEDATU). 
+
+Importance and purpose of the indicator: Conocer si las ciudades están creciendo más que la población y entender este fenómeno, ayuda a emprender acciones que frenen la urbanización descontrolada y sin beneficios al territorio. En este caso, el indicador, permite conocer que tanto aumento el área urbana en la República Mexicana, en relación con el crecimiento poblacional en dos años distintos. Esto con el fin de identificar cuál de los valores aumento en mayor proporción. Para así poder analizar las condicionantes que determinaron dicho aumento, y poder generar propuestas de acción que ayuden a generar una urbanización inclusiva y sostenible, y no una dispersa que impacte de manera negativa en cuestiones de sostenibilidad y resiliencia del territorio.
+
+National and/or international reference: Repositorio de metadatos de los ODS, disponible en:  https://unstats.un.org/sdgs/metadata/ 
+
+

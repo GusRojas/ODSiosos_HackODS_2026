@@ -1,0 +1,4 @@
+﻿"Nota: Población a mitad de año. Proyecciones de población de CONAPO, versión agosto 2023. "
+"ND No disponible"
+"Fuente: Consejo Nacional de Población (CONAPO). "
+"cvegeo: Clave geoestadística"

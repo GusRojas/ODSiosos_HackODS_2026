@@ -1,0 +1,66 @@
+﻿Title: 17n.4.2 Crecimiento real del valor agregado bruto del sector de la cultura
+
+Description: Presenta la variación porcentual anual del valor agregado bruto en términos reales del año t respecto al año t-1. El valor agregado bruto es el saldo contable de la cuenta de producción y mide el valor creado por la producción de bienes y servicios culturales.
+
+Modified: 2025-11-19
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Centro de atención a usuarios INEGI
+Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276,
+Aguascalientes, Aguascalientes, Aguascalientes, 
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Nacional sin costo: 800 111 46 34 
+ Internacional: (código internacional) + (52)+(449) 149 1300
+atencion.usuarios@inegi.org.mx
+Raúl Figueroa Díaz
+Director de Cuentas Satélite
+INEGI Oficina Enlace Ciudad de México. Patriotismo 711, Torre A, Nivel 7, Col. San Juan, C.P. 03730
+5552781000 Ext. 321681
+raul.figueroa@inegi.org.mx
+
+Temporal: 2009-2024
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/17n.4.2_es.zip
+
+Goal: 17. Fortalecer los medios de implementación y revitalizar la Alianza Mundial para el Desarrollo Sostenible 
+
+Target:  Meta 17n.4 Coherencia de las políticas para el desarrollo sostenible en el sector cultural
+
+Type of indicator: Nacional
+
+Algorithm: 17n.4.2_ES.gif
+
+Description of the indicator: Consiste en dividir el valor agregado bruto real del sector de la cultura para el período t entre el dato de la misma variable para el período t-1; restando uno y multiplicándolo por cien para ser expresado en porcentaje.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: 323 días después de concluido el año de referencia
+
+Source of statistical information used to calculate the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Sistema de Cuentas Nacionales de México. Cuenta Satélite de la Cultura de México. 2024. Cifras preliminares. Año Base 2018
+
+Date of next update of indicator: 19 de noviembre de 2026
+
+Unit of the State responsible for calculating the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Unidad de Estadísticas Económicas.   
+ https://www.inegi.org.mx  
+
+Importance and purpose of the indicator: Permite sintetizar en un indicador la dinámica económica de la ocupación de las diferentes áreas generales del sector cultural (artes visuales y plásticas; artes escénicas y espectáculos; música y conciertos; libros, impresiones y prensa; medios audiovisuales; artesanías; diseño y servicios creativos; patrimonio cultural y natural; formación y difusión cultural; y contenidos digitales e internet), para conocer y dar seguimiento a la evolución macroeconómica de este sector.
+
+National and/or international reference: Bureau of Economic Analysis. Table 1. Real Value Added by ACPSA Industry: Percent Change from Preceding Period. Shows that arts and cultural economic activity, adjusted
+for inflation. 
+
+Observations: Debido a que el indicador requiere un periodo t-1 para su cálculo, se omitió de la serie el año 2008, a partir del cual se dispone del valor agregado bruto del sector de la cultura en términos reales.
+Este indicador pertenece al Catálogo Nacional de Indicadores (CNI).
+

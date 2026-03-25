@@ -1,0 +1,70 @@
+﻿Title: 5n.1.3 Brecha en el tiempo promedio que niñas y niños destinan a quehaceres domésticos y al cuidado a integrantes del hogar
+
+Description: El indicador muestra la diferencia en el tiempo promedio en horas semanales que  niñas y niños de 5 a 11 años dedican al trabajo doméstico no remunerado y de cuidados a integrantes del hogar, según grupos de edad.
+El indicador puede tomar valores negativos, positivos e incluso iguales a cero. Cuando el valor es negativo los resultados muestran que el tiempo promedio que dedican los hombres a realizar quehaceres del hogar semanalmente es menor que el tiempo empleado por las mujeres. Si el valor es positivo, el tiempo promedio que dedican las mujeres es menor. Si el valor es igual a cero el tiempo dedicado tanto por hombres y mujeres es el mismo. La brecha se expresa en horas semanales.
+
+Modified: 2026-02-23
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Centro de atención a usuarios INEGI
+Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276,
+Aguascalientes, Aguascalientes, Aguascalientes, 
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Nacional sin costo: 800 111 46 34 
+ Internacional: (código internacional) + (52)+(449) 149 1300
+atencion.usuarios@inegi.org.mx
+
+Temporal: 2013-2022
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Bienal Iregular
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/5n.1.3_es.zip
+
+Goal: 5. Lograr la igualdad de género y empoderar a todas las mujeres y las niñas 
+
+Target:  Meta 5n.1 Participación paritaria y efectiva de las mujeres en la vida política, económica y pública, con énfasis en la disminución de brechas de todo tipo, entre ellas la salarial, en el mercado laboral y la carga doméstica de cuidados
+
+Type of indicator: Nacional
+
+Algorithm: 5n.1.3_ES.gif
+
+Description of the indicator: Diferencia en el número promedio de horas a la semana que dedican las niñas a los quehaceres domésticos y de cuidados a integrantes del hogar respecto al número promedio de horas a la semana que dedican los niños a dichas actividades.
+
+Unit of measure: Horas a la semana
+
+Geographic coverage: Nacional y entidad federativa
+
+Opportunity: Bienal
+
+Source of statistical information used to calculate the indicator: Módulo de Trabajo Infantil 2013.
+Módulo de Trabajo Infantil 2015.
+Módulo de Trabajo Infantil 2017.
+Encuesta Nacional de Trabajo Infantil 2019.
+Encuesta Nacional de Trabajo Infantil 2022.
+
+Date of next update of indicator: No definida
+
+Unit of the State responsible for calculating the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Unidad de Estadísticas Sociodemográficas.   
+ https://www.inegi.org.mx  
+
+Importance and purpose of the indicator: La participación paritaria de las mujeres además de incluir la esfera pública, incluye el aspecto personal. Se dice que las mujeres enfrentan una doble o triple carga laboral, por el tiempo de trabajo, los cuidados del hogar, etc. 
+Las mujeres se encargan de la mayoría de las labores domésticas, dedicando una mayor cantidad de su tiempo, en comparación con los hombres. Las condiciones de paridad implicarían un tiempo compartido de las labores del hogar para hombres y mujeres. 
+El indicador, permite identificar y poner a la luz las diferencias en el tiempo para labores domésticas invertidas por mujeres y hombres.
+
+National and/or international reference: Ley Federal del Trabajo 
+Ley General de los Derechos de Niñas, Niños y Adolescentes 
+Convenio sobre la edad mínima de admisión al trabajo de la OIT 
+Convenio sobre las peores formas de trabajo infantil de la OIT 
+Convenio sobre los derechos de los niños de la UNICEF 
+Conferencias Internacionales de Estadísticos del Trabajo 
+
+

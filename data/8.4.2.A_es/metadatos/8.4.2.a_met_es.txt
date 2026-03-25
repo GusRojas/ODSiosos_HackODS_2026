@@ -1,0 +1,65 @@
+﻿Title: 8.4.2.a Consumo material interno en términos absolutos
+
+Description: El consumo doméstico de materiales (DMC) es un indicador estándar de la Cuenta de flujo de materiales (MFA) e informa el consumo aparente de materiales en una economía nacional.
+El DMC mide la cantidad total de material (biomasa, combustibles fósiles, minerales metálicos y minerales no metálicos) que se utiliza directamente en una economía y se basa en las cuentas de flujos de materiales directos, es decir, extracción de materiales nacionales e importaciones y exportaciones físicas.
+
+Modified: 2025-12-05
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Centro de atención a usuarios INEGI
+Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276,
+Aguascalientes, Aguascalientes, Aguascalientes, 
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Nacional sin costo: 800 111 46 34 
+ Internacional: (código internacional) + (52)+(449) 149 1300
+atencion.usuarios@inegi.org.mx
+Raúl Figueroa Díaz
+Director de Cuentas Satélite
+INEGI Oficina Enlace Ciudad de México. Patriotismo 711, Torre A, Nivel 7, Col. San Juan, C.P. 03730
+5552781000 Ext. 321681
+raul.figueroa@inegi.org.mx
+
+Temporal: 2003-2024
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/8.4.2.a_es.zip
+
+Goal: 8. Promover el crecimiento económico sostenido, inclusivo y sostenible, el empleo pleno y productivo y el trabajo decente para todos 
+
+Target:  Meta 8.4. Mejorar progresivamente, de aquí a 2030, la producción y el consumo eficientes de los recursos mundiales y procurar desvincular el crecimiento económico de la degradación del medio ambiente, conforme al Marco Decenal de Programas sobre Modalidades de Consumo y Producción Sostenibles, empezando por los países desarrollados
+
+Type of indicator: Global
+
+Algorithm: 8_4_2_a_ES.gif
+
+Description of the indicator: Para obtener el indicador del consumo doméstico de materiales (DMC), se suman la Extracción doméstica de materiales (DE) más las Importaciones directas (IM) menos las Exportaciones directas (EX).
+
+Unit of measure: Toneladas
+
+Geographic coverage: Nacional
+
+Opportunity: 335 días después de terminado el periodo de referencia
+
+Source of statistical information used to calculate the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Sistema de Cuentas Nacionales de México. Cuentas Económicas y Ecológicas de México. 2024. Cifras preliminares. Año Base 2018. (1 de diciembre de 2025).
+
+Date of next update of indicator: 01 de diciembre de 2026, Actualización al año 2025, año base 2018
+
+Unit of the State responsible for calculating the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Unidad de Estadísticas Económicas.   
+ https://www.inegi.org.mx  
+
+Importance and purpose of the indicator: Es un indicador que mide la cantidad total de materiales utilizados directamente en la economía (excluyen los flujos indirectos), tiene una alta relevancia ambiental como indicador de la presión ambiental sobre el territorio nacional, de esta manera se convierte en una herramienta que coadyuva a la toma de decisiones.
+
+National and/or international reference: UNEP (2021), The use of National Resources in the Economy: a Global Manual on Economy Wide Material Flow Accounting.  
+ https://wedocs.unep.org/bitstream/handle/20.500.11822/36253/UNRE.pdf?sequence=3&isAllowed=y 
+
+

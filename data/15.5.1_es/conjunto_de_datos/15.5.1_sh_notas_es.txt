@@ -1,0 +1,37 @@
+﻿"Nota: 1) Las categorías en riesgo reportadas son: amenazadas, en peligro de extinción, sujetas a protección especial y probablemente extintas en el medio silvestre. 
+ 2) A partir de 2019, los datos sobre el estado de riesgo de las especies corresponden a la Modificación del Anexo Normativo III, Lista de especies en riesgo de la Norma
+Oficial Mexicana NOM-059-SEMARNAT-2010, Protección ambiental-Especies nativas de México de flora y fauna silvestres-Categorías de riesgo y especificaciones para
+su inclusión, exclusión o cambio, Lista de especies en riesgo.  14 de noviembre de 2019. Con base en esta actualización, en la categoría invertebrados se incluyen
+a los siguientes grupos: Arácnidos, Cnidarios, Crustáceos, Equinodermos, Insectos, Merostomados y Moluscos. En la categoría Gimnospermas y Angiospermas se reportan
+un total de 88 y 893, respectivamente. 
+ 3) N.D. La actualización del Anexo III de la NOM-059-SEMARNAT-2010 no incluye especies de algas. 
+ 4) Las cifras son las reportadas en los “Catálogos de autoridades taxonómicas de las especies de México” del SNIB, CONABIO, por lo que no representan el número total
+de especies conocidas en el país. "
+"ND No disponible"
+"Fuente: -Semarnat. Modificación del Anexo Normativo III, Lista de especies en riesgo de la Norma Oficial Mexicana NOM-059-SEMARNAT-2010, Protección ambiental-Especies nativas
+de México de flora y fauna silvestres-Categorías de riesgo y especificaciones para su inclusión, exclusión o cambio, Lista de especies en riesgo. DOF. México, 14
+de noviembre de 2019.
+Consultado en: Base de Datos Estadísticos del SNIARN (BADESNIARN). [Fecha de consulta: 24 de febrero de 2025].
+Disponible en:  http://dgeiawf.semarnat.gob.mx:8080/ibi_apps/WFServlet?IBIF_ex=D3_BIODIV02_09_1&IBIC_user=dgeia_mce&IBIC_pass=dgeia_mce
+
+Disponible en:  http://dgeiawf.semarnat.gob.mx:8080/ibi_apps/WFServlet?IBIF_ex=D3_BIODIV02_10_1&IBIC_user=dgeia_mce&IBIC_pass=dgeia_mce
+
+
+-Semarnat. Lista de especies en riesgo de la Norma Oficial Mexicana NOM-059-SEMARNAT-2010,
+Protección ambiental-Especies nativas de México de flora y fauna silvestres-Categorías de riesgo y especificaciones para su inclusión, exclusión o cambio-Lista
+de especies en riesgo. DOF. México, 30 de diciembre de 2010.
+Consultado en: Base de Datos Estadísticos del SNIARN (BADESNIARN). [Fecha de consulta: 24 de febrero
+de 2025].
+Disponible en:   
+ https://apps1.semarnat.gob.mx:8443/dgeia/compendio_2018/dgeiawf.semarnat.gob.mx_8080/ibi_apps/WFServlet767d.html 
+Disponible en:   
+ https://apps1.semarnat.gob.mx:8443/dgeia/compendio_2018/dgeiawf.semarnat.gob.mx_8080/ibi_apps/WFServlet36cf.html 
+
+-Conabio. 2024. Recuento de especies de flora y
+fauna reportadas en literatura y catalogadas en bases de datos en CONABIO. Base de datos SNIB. Conabio, México. 
+Consultado en: Base de Datos Estadísticos del SNIARN
+(BADESNIARN). [Fecha de consulta: 24 de febrero de 2025]. 
+Disponible en:  http://dgeiawf.semarnat.gob.mx:8080/ibi_apps/WFServlet?IBIF_ex=D3_BIODIV02_13&IBIC_user=dgeia_mce&IBIC_pass=dgeia_mce&NOMBREANIO=*
+
+Disponible en:  http://dgeiawf.semarnat.gob.mx:8080/ibi_apps/WFServlet?IBIF_ex=D3_BIODIV02_14&IBIC_user=dgeia_mce&IBIC_pass=dgeia_mce&NOMBREANIO=*
+ "

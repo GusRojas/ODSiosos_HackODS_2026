@@ -1,0 +1,58 @@
+﻿Title: 7n.1.1 Porcentaje de participación de las energías limpias en la matriz de generación de energía eléctrica
+
+Description: Es el porcentaje de energía generada (GWh) que proviene de fuentes renovables y otras energías limpias.
+
+Modified: 2026-02-10
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Eder García Jiménez
+Subdirector de Planeación del Sector Eléctrico y Energías Renovables
+Avenida Insurgentes 20, Roma Norte  C.P.06700. Cuauhtémoc, CDMX
+01 (55) 5000 6000 Ext 6758
+egarciaj@energia.gob.mx
+
+Temporal: 2018-2024
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/7n.1.1_es.zip
+
+Goal: 7. Garantizar el acceso a una energía asequible, fiable, sostenible y moderna para todos 
+
+Target:  Meta 7n.1 Incrementar la participación de fuentes de energía limpias en la matriz energética para asegurar las metas previstas en la legislación
+
+Type of indicator: Nacional
+
+Algorithm: 7n.1.1_ES.gif
+
+Description of the indicator: El porcentaje de energía limpia se calcula dividiendo la producción de electricidad de fuentes limpias y renovables entre la producción nacional total de energía y multiplicando por cien.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: Anual
+
+Source of statistical information used to calculate the indicator: Secretaría de Energía (SENER).
+Centro Nacional de Control de Energía (CENACE).
+
+Date of next update of indicator: No definida
+
+Unit of the State responsible for calculating the indicator: Secretaría de Energía (SENER)   
+ https://www.gob.mx/sener 
+
+Importance and purpose of the indicator: México tiene un gran potencial en cuanto al uso de las energías limpias y renovables, su importancia radica en garantizar una Transición Energética ordenada, contribuir a la reducción de emisiones contaminantes y la dependencia de combustibles fósiles. En los últimos años se ha dado un incremento crucial en la generación de energía de fuentes no fósiles.
+En cumplimiento a los compromisos internacionales, México estableció en su legislación mexicana metas en términos para Transición Energética. En 2014 la Ley de Transición Energética establece en el artículo tercero transitorio la meta la participación de energías limpias en la generación de energía eléctrica para el 2024 de 35%.  Lo anterior será ratificado en la Ley General de Cambio Climático (LGCC) para 2024, el 35% de la generación de electricidad deberá ser por energías limpias. Esto garantiza una matriz eléctrica más sustentable, lo que permitirá cumplir con los compromisos internacionales de reducción de emisiones contaminantes y mejorar la calidad de vida de la población.
+
+National and/or international reference: Federal Energy Regulatory Commission (FERC). El indicador se compara con la metrica "# 3. Fuel Diversity", como referencia se puede consultar el documento "Guía del usuario de recopilación de información de métricas comunes, versión 1.0".   
+ https://www.ferc.gov/sites/default/files/2020-05/CMR-user-guide.pdf 
+
+Observations: La generación de energía limpia considera la generación Eoloelétrica, FV-Solar, Bioenergía, Cogeneración Eficiente (se aplicó su factor de acreditación de Energía Limpia).  Incluye la energía limpia de las centrales con Certificado de Energía Limpia (CEL), Geotérmica, Hidroeléctrica y Nucleoeléctrica; de abasto aislado y generación distribuida. Ademas, se considera la eficiencia de los sistemas de cogeneración de energía eléctrica. 
+

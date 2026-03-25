@@ -1,0 +1,77 @@
+﻿Title: 16n.3.2 Confianza en el Gobierno Federal
+
+Description: Mide el porcentaje de la población de 18 años y más que identifica a la Presidencia de la República y las secretarías de Estado a nivel federal y manifiesta que estas instituciones le generan mucha confianza o algo de confianza respecto al total de la población de 18 años y más que identifica a dichas instituciones.
+
+Modified: 2024-04-04
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Centro de atención a usuarios INEGI
+Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276,
+Aguascalientes, Aguascalientes, Aguascalientes, 
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Nacional sin costo: 800 111 46 34 
+ Internacional: (código internacional) + (52)+(449) 149 1300
+atencion.usuarios@inegi.org.mx
+Dr. Dwight D. Dyer Leal
+Director General de Estadísticas de Gobierno, Seguridad Pública y Justicia
+Av. Patriotismo 711. Colonia San Juan, delegación Benito Juárez, CDMX.
+5552781000, Ext:321592
+dyer@inegi.org.mx
+
+Temporal: 2017-2023
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Bienal
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/16n.3.2_es.zip
+
+Goal: 16. Promover sociedades pacíficas e inclusivas para el desarrollo sostenible, facilitar el acceso a la justicia para todos y construir a todos los niveles instituciones eficaces e inclusivas que rindan cuentas 
+
+Target:  Meta 16n.3 Reducir la corrupción y el soborno en todas sus formas
+
+Type of indicator: Nacional
+
+Algorithm: 16n.3.2_ES.gif
+
+Description of the indicator: Población de 18 años y más, que habita en zonas urbanas de 100 mil habitantes y más, que identifica a la Presidencia de la República y las secretarías de Estado a nivel federal y manifestó que le inspiran mucha confianza o algo de confianza, entre la población de 18 años y más, que habita en zonas urbanas de 100 mil habitantes y más, que identifica a la Presidencia de la República y las secretarías de Estado del nivel federal, multiplicada por 100. Desagregada por sexo (total; hombres; mujeres), entidad federativa y áreas metropolitanas autorrepresentadas.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional, entidad federativa y áreas metropolitanas autorrepresentadas
+
+Opportunity: Los datos se refieren al año previo a la publicación de la encuesta fuente (ENCIG), que se publica en el primer semestre del año que corresponda.
+
+Source of statistical information used to calculate the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional de Calidad e Impacto Gubernamental (ENCIG).  https://www.inegi.org.mx/programas/encig/
+
+Date of next update of indicator: 30 de junio de 2026
+
+Unit of the State responsible for calculating the indicator: Instituto Nacional de Estadística y Geografía (INEGI).  
+ https://www.inegi.org.mx/  
+
+Importance and purpose of the indicator: El indicador es impotante para dar seguimiento a las estrategias y acciones del Eje General 1.- Política y Gobierno del Plan Nacional de Desarrollo el cual establece las directrices para que las dependencias y entidades de la APF implementen acciones dirigidas a combatir la corrupción en el ámbito administrativo, mejorando los servicios públicos, e incrementando los estándares de eficiencia, eficacia, honestidad y austeridad de las instituciones públicas; en la medida que es un indicador sensible a la percepción de la ciudadanía sobre si las instituciones del Gobierno Federal están dando los resultados esperados por parte de la población. 
+
+National and/or international reference: Guidelines on Measuring Trust. OCDE. 2017.   
+ https://www.oecd.org/governance/oecd-guidelines-on-measuring-trust-9789264278219-en.htm 
+Handobook on Governance Statistics. 2020   
+ https://unstats.un.org/unsd/statcom/51st-session/documents/Handbook_on_GovernanceStatistics-Draft_for_global_consultation-E.pdf 
+Government at a Glance 2013.Organización para la Cooperación y el Desarrollo Económicos.   
+ https://www.snieg.mx/cni/Contenidos/documentos/Estandares/Government_Glace_13.pdf 
+La Seguridad Pública en las Américas: retos y oportunidades, 2008.Organización de Estados Americanos.  
+ https://www.snieg.mx/cni/Contenidos/documentos/Estandares/Seguridad_pub_americas.pdf 
+Manual on Victimization Surveys, 2010.United Nations.   
+ https://www.snieg.mx/cni/Contenidos/documentos/Estandares/Manual_on_Victimization_surveys_2010.pdf 
+The United Nations Rule of Law Indicators, 2011. Implementation Guide and Project Tools.United Nations publication.   
+ https://www.snieg.mx/cni/Contenidos/documentos/Estandares/un_rule_of_law_indicators.pdf 
+
+Observations: El nivel de confianza se refiere a las personas que contestaron mucha confianza y algo de confianza en la Presidencia de la República y Secretarías de Estado de la pregunta 11.1 de la ENCIG.
+La cobertura de la ENCIG solo abarca zonas urbanas de 100 mil habitantes y más. El área metropolitana de la Ciudad de México incluye localidades de México.
+Debido a las afectaciones causadas por el fenómeno meteorológico Huracán Otis, no fue posible realizar el levantamiento de información de la ENCIG 2023 en el municipio de Acapulco de Juárez, Guerrero.
+

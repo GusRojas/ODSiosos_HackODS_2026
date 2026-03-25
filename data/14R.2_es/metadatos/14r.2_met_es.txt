@@ -1,0 +1,60 @@
+﻿Title: 14r.2 Área de manglares
+
+Description: Se refiere a la superficie de manglares en México.
+
+Modified: 2023-05-17
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: César E. Rodríguez Ortega
+Director General de Planeación, Evaluación y Estadística Ambiental
+Avenida Ejército Nacional 223, Colonia Anáhuac, 11320; Miguel Hidalgo, Miguel Hidalgo, Ciudad de México
+55 5490 0983, ext. 10983
+cesar.rodriguez@semarnat.gob.mx
+
+Temporal: 1970-1980-2020-2020
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual irregular
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/14r.2_es.zip
+
+Goal: 14. Conservar y utilizar sosteniblemente los océanos, los mares y los recursos marinos para el desarrollo sostenible 
+
+Target:  Meta 14.2. De aquí a 2020, gestionar y proteger sosteniblemente los ecosistemas marinos y costeros para evitar efectos adversos importantes, incluso fortaleciendo su resiliencia, y adoptar medidas para restaurarlos a fin de restablecer la salud y la productividad de los océanos
+
+Type of indicator: Regional
+
+Algorithm: 14r.2_ES.gif
+
+Description of the indicator: Se refiere a la superficie de manglares en México, como resultado del monitoreo de los cambios en el ecosistema de manglar a través de la evaluación periódica de su distribución espacial y condición de sus atributos naturales y sociales.
+Cada cinco años con imágenes satelitales de 10 m de resolución y el método interdependiente se obtienen las áreas de cambio de manglar.
+
+Unit of measure: Hectáreas
+
+Geographic coverage: Nacional
+
+Opportunity: Primer trimestre del año subsiguiente.
+
+Source of statistical information used to calculate the indicator: CONABIO. Sistema de Monitoreo de Manglares de México (SMMM). [Fecha de consulta: Mayo de 2023]. Disponible en:  https://biodiversidad.gob.mx/monitoreo/smmm
+Velázquez Salazar, Samuel et al. 2021. Manglares de México: Actualización y Análisis de los datos 2020. CONABIO. México. [Fecha de consulta: Mayo de 2023] Disponibl
+e en:  https://bioteca.biodiversidad.gob.mx/janium/Documentos/15638.pdf
+
+Date of next update of indicator: 31 de marzo de 2026
+
+Unit of the State responsible for calculating the indicator: Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT). Dirección General de Planeación, Evaluación y Estadística Ambiental
+
+Importance and purpose of the indicator: El indicador es la superficie de manglares que tiene nuestro país, resultado del monitoreo que se hace de los manglares. La importancia de realizar un monitoreo permanente de los ecosistemas de manglar radica en que, al determinar el estado y las tendencias de cambio (deterioro o recuperación), incluida la identificación de las amenazas existentes y la aparición de nuevas, será posible emprender acciones y prevenir o corregir los cambios que provocan o se pueden provocar en estos ecosistemas. El objetivo del Sistema de Monitoreo de Manglares de México (SMMM) es identificar cambios en el ecosistema de manglar a través de la evaluación periódica de su distribución espacial y condición de sus atributos naturales y sociales, de tal forma que la información generada apoye a la conservación y manejo del ecosistema de manglar. El SMMM tiene cuatro componentes: Distribución espacial de los manglares; Caracterización de los manglares; Dimensión social; y Colaboración.
+
+Sistema de Monitoreo de Manglares de México (SMMM). Disponible en:  https://biodiversidad.gob.mx/monitoreo/smmm , operado por la Comisión Nacional para el Conocimie
+nto y Uso de la Biodiversidad (CONABIO).
+Repositorio de Indicadores priorizados para el seguimiento de los ODS en América Latina y el Caribe (CEPAL). Disponible en:  https://agenda2030lac.org/estadisticas/
+indicadores-priorizados-seguimiento-ods.html
+
+Observations: 1970/1980 Corresponde a las décadas de la toma de fotografías áereas, insumo para elaborar el mapa Distribución de los manglares en México en 1970 -1980.  El resto de los mapas (2005, 2010, 2015 y 2020) fueron elaborados con imágenes satelitales.
+

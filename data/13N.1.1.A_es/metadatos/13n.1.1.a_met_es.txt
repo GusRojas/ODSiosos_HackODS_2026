@@ -1,0 +1,55 @@
+﻿Title: 13n.1.1.a Excedencia Anual Acumulada Promedio de Partículas PM2.5 respecto del nivel crítico de protección a la salud
+
+Description: Promedio por estación de medición de las excedencias anuales acumuladas en los valores del promedio de 24h de partículas suspendidas PM2.5, respecto de su nivel crítico para la protección a la salud.
+
+Modified: 2024-10-30
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Dr. José Abraham Ortínez Álvarez
+Encargado de despacho de la Coordinación General de Laboratorios de Referencia en Investigación sobre Contaminación y Salud Ambiental
+55 5424 6400 Ext. 13180
+abraham.ortinez@inecc.gob.mx
+
+Temporal: 2018-2023
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/13n.1.1.a_es.zip
+
+Goal: 13. Adoptar medidas urgentes para combatir el cambio climático y sus efectos 
+
+Target:  Meta 13n.1 Promover acciones de resiliencia y adaptación a riesgos relacionados con el clima y desastres naturales. Incrementar las capacidades de los municipios para mitigar las condiciones de exposición y vulnerabilidad a los fenómenos extremos relacionados con el clima
+
+Type of indicator: Nacional
+
+Algorithm: 13n.1.1_ES.gif
+
+Description of the indicator: Excedencia Anual Acumulada Promedio de Partículas PM2.5 respecto del nivel crítico de protección a la salud, se obtiene a partir de la sumatoria de todas las diferencias positivas que resultan de la resta entre el valor de concentración promedio de 24 horas de PM2.5 de cada día de un año calendario en cada estación de monitoreo y el valor crítico de concentración de PM2.5 recomendado por la Organización Mundial de la Salud (OMS) para proteger la salud de la población, dividida entre el número total de estaciones de monitoreo que se consideran en el cálculo.
+
+Unit of measure: Microgramos por metro cúbico (µg/m3)
+
+Geographic coverage: Nacional
+
+Opportunity: Diez meses posteriores a la conclusión del año calendario de reporte
+
+Source of statistical information used to calculate the indicator: Instituto Nacional de Ecología y Cambio Climático (INECC). https://www.gob.mx/inecc  Elaboración propia a partir de las concentraciones reportadas por los Sistemas de Monitoreo de la Calidad del Aire de la Ciudad de México, Estado de México, Morelos y Puebla.
+OPS. 2005. OMS Guías de calidad del aire actualización mundial 2005. Informe de la Reunión del Grupo de Trabajo, Bonn, Alemania, 18-20 Octubre 2005. Organización Panamericana de la Salud. Consultado en:  https://iris.paho.org/handle/10665.2/52697
+
+Date of next update of indicator: 30 de octubre de 2025
+
+Unit of the State responsible for calculating the indicator: Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT)  
+Instituto Nacional de Ecología y Cambio Climático (INECC)  
+
+Importance and purpose of the indicator: Tendencias decrecientes del indicador, indican éxito de las medidas de reducción de emisiones del contaminante o sus precursores, por tanto reflejaría también mejoras en la calidad del aire y consecuentemente reducción de los riesgos a la salud de la población. 
+
+National and/or international reference: No aplica. 
+
+Observations: El indicador se calcula con la información generada por un conjunto de estaciones de monitoreo que históricamente han mostrado un buen desempeño (con generación de datos mayor al 75% de los datos posibles en un año, en la forma que la Norma Oficial Mexicana de salud ambiental correspondiente lo establece), garantizando un seguimiento confiable de la variabilidad del mismo a través del tiempo.
+

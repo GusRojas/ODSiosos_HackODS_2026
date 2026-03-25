@@ -1,0 +1,9 @@
+﻿"Nota: El número de defunciones por homicidio es el total de registros por grupo de edad con códigos de causas básicas para homicidios (X85-Y09) según la clasificación Estadística
+Internacional  de Enfermedades y Problemas Relacionados con la Salud, Décima Revisión (CIE-10).  El total de  defunciones por homicidio registradas durante
+el año no coincide con la suma del total de víctimas hombres y mujeres dado que se consideran aquellos casos en los que no se especifica el sexo de la víctima. Se considera
+el número de defunciones por homicidio por año y entidad de registro.  La suma de las defunciones por grupos de edad para cada año difiere del total porque
+en el cálculo de cada grupo de edad se excluyen las defunciones donde no se especificó la edad de la persona fallecida. Sin embargo, para el cálculo del total sí se
+toman en cuenta estas defunciones. "
+"a/ Los registros sin edad especificada representan más de 10% del total. "
+"Fuente: Instituto Nacional de Estadística y Geografía (INEGI), Estadísticas de mortalidad "
+"cvegeo: Clave geoestadística"

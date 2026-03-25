@@ -1,0 +1,79 @@
+﻿Title: 3n.1.2 Porcentaje de población que tardaría menos de dos horas en llegar a un hospital en caso de una emergencia
+
+Description: Porcentaje de personas que tardarían menos de dos horas en llegar a un hospital donde lo (a) pudieran atender en caso de emergencia.
+
+Modified: 2023-12-07
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Alida Marcela Gutiérrez Landeros
+Coordinadora General de Análisis de la Pobreza
+Insurgentes Sur #810, Colonia Del Valle, C.P. 03100, Benito Juárez, Ciudad de México
+(55) 54-81-72-00, ext. 70075
+amgutierrez@coneval.org.mx
+Héctor Figueroa Palafox
+Director Ejecutivo de Lineamientos de Medición de Pobreza y Desarrollo Social
+Insurgentes Sur #810, Colonia Del Valle, C.P. 03100, Benito Juárez, Ciudad de México
+(55) 54-81-72-00, ext. 70135
+hfigueroa@coneval.org.mx
+
+Temporal: 2016-2022
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Bienal
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/3n.1.2_es.zip
+
+Goal: 3. Garantizar una vida sana y promover el bienestar de todos a todas las edades 
+
+Target:  Meta 3n.1 Lograr la cobertura universal de salud
+
+Type of indicator: Nacional
+
+Algorithm: 3n.1.2_ES.gif
+
+Description of the indicator: Este indicador resulta de identificar a población que tardarían menos de dos horas en llegar a un hospital donde lo (a) pudieran atender en caso de emergencia en el año t, dividir dicho número de personas entre la población de referencia total del año t y multiplicar el cociente por 100.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: 1 año */
+
+Source of statistical information used to calculate the indicator: Instituto Nacional de Estadística y Geografía (INEGI) Encuesta Nacional de Ingresos y Gastos de los Hogares (ENIGH) 2016, 2018, 2020 y 2022; con los nuevos factores de expansión construidos con base en el Marco de Muestreo de Viviendas y los resultados del Censo de Población y Vivienda 2020
+
+Date of next update of indicator: 31 de diciembre de 2025 */
+
+Unit of the State responsible for calculating the indicator: Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL). http://www.coneval.org.mx/. 
+
+Importance and purpose of the indicator: La atención oportuna de algunos padecimientos y casos de urgencias que requieren hospitalización o atención especializada, puede ser un factor crucial para la recuperación de la salud. Este indicador permite conocer cuál es la proporción de la población que por las condiciones de disponibilidad de servicios médicos, conectividad, movilidad, entre otras, puede llegar en menos de dos horas a una unidad hospitalaria. A su vez brinda elementos para identificar los retos en materia de política pública para la atención de la población con mayores dificultades para acceder oportunamente a estos servicios.
+Fundamento nacional:
+Constitución Política de los Estados Unidos Mexicanos artículo 4. 
+Ley General de Desarrollo Social artículo 6. 
+Ley General de Salud artículo 2 fracción V, 6 fracción I y artículo 51. 
+Fundamento internacional:
+Declaración Universal de los Derechos Humanos artículo 25.
+Pacto Internacional de Derechos Económicos, Sociales y Culturales artículo 12 numerales 1 y 2 inciso d. 
+Observación General número 14 del Comité de Derechos Económicos, Sociales y culturales, numeral 9.
+
+National and/or international reference: Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL). http://www.coneval.org.mx/. 
+
+Observations: 1.- En 2020 se crea el Instituto de Salud para el Bienestar como un organismo de la Secretaría de Salud de México el cual tiene la finalidad de proveer servicios de salud a las personas que no tienen seguridad social por parte del IMSS o el ISSSTE. Esto podría afectar el cálculo del indicador, por lo que, se sugiere verificar con la institución de reporte, cómo se integrará el INSABI, y considerar la actualización del indicador.
+La meta se plante de forma retadora con el fin de lograr una cobertura universal de salud en la que no se comprometan los recursos de la población.
+2. Población indígena: de acuerdo con los criterios del Instituto Nacional de los Pueblos Indígenas (INPI), se considera población indígena a todas las personas que forman parte de un hogar indígena, donde el jefe(a) del hogar, su cónyuge y/o alguno de los ascendientes (madre o padre, madrastra o padrastro, abuelo(a), bisabuelo(a), tatarabuelo(a), suegro(a)) declaró ser hablante de lengua indígena. Además, se incluye a personas que declararon hablar alguna lengua indígena y que no forman parte de estos hogares. Disponible en:
+ https://www.gob.mx/inpi/documentos/indicadores-de-la-poblacion-indigena  (consultado en agosto del 2023).
+3. Discapacidad: para el periodo 2010-2014, se considera persona con discapacidad a quien manifiesta tener alguna dificultad para desempeñar sus actividades cotidianas.
+A partir de 2020, la ENIGH capta el grado de dificultad que la población tiene para realizar algunas actividades, por lo que, en seguimiento a las recomendaciones del Grupo Washington, se identifica a la población con presencia de discapacidad como aquella que reportó “no puedo hacerlo” o “lo hace con mucha dificultad” en al menos alguna de las siguientes actividades: caminar, subir o bajar usando sus piernas; ver (aunque use lentes); mover o usar brazos o manos; aprender, recordar o concentrarse; escuchar (aunque use aparato auditivo); bañarse, vestirse o comer; hablar o comunicarse (por ejemplo, entender o ser entendido por otros); realizar sus actividades diarias por problemas emocionales o mentales (con autonomía e independencia). Para más información se sugiere consultar “Disability Measurement and Monitoring using the Washington Group Disability Questions”. Disponible en:
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/732254/Disability-Measurement-Monitoring-Washington-Group-_Disability-Questions.pdf (consultado el 10 de agosto de 2023). Para 2016 y 2018 no se cuenta con esta información, por lo cual no está el dato disponible en estos años.
+4. Se definen como localidades rurales aquellas cuya población es menor a 2,500 habitantes, mientras que, las localidades urbanas son aquellas con 2,500 habitantes o más.
+5. En este indicador se considera el uso de tiempo promedio que las personas dedicaron a cuidar, atender sin pago y de manera exclusiva a niños, ancianos, enfermos, discapacitados y  el tiempo promedio que las personas dedicaron a los quehaceres del hogar.
+6. Se define como población analfabeta a todas las personas de 3 años o más que declararon no saber leer ni escribir.
+7. Para un mejor análisis de la información 2022, consultar la nota técnica:
+https://www.coneval.org.mx/Medicion/MP/Documents/MMP_2022/Nota_tecnica_sobre_la_informacion_empleada_para_la_estimacion_de_la_medicion_de_pobreza_en_Mexico_2022.pdf
+*/ La actualización del indicador está sujeta a la publicación de los microdatos por parte de INEGI.
+

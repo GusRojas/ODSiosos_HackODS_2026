@@ -1,0 +1,12 @@
+﻿"Nota: Los rubros y las cifras históricas del indicador cambiaron, debido a la actualización del Inventario Nacional de Emisiones de Gases y Compuestos de Efecto Invernadero
+y al año de referencia para el cálculo del PIB a precios constantes expresado en Paridad de Poder de Compra (dólares). "
+"Fuente: INECC. 2022. Inventario Nacional de Gases y Compuestos de Efecto Invernadero. Resumen 1990-2019. [Fecha de consulta: mayo de 2024]. Consultado en: BadeSNIARN:  http://dgeiawf.semarnat.gob.mx:8080/ibi_apps/WFServlet?IBIF_ex=D3_AIRE02_19&IBIC_user=dgeia_mce&IBIC_pass=dgeia_mce&NOMBREANIO=
+
+
+INECC. 2023. Inventario Nacional de Emisiones
+de Gases y Compuestos de Efecto Invernadero, (INEGYCEI) 2020-2021. [Fecha de consulta: mayo de 2024]. Consultado en:    
+ https://www.gob.mx/inecc/documentos/investigaciones-2018-2013-en-materia-de-mitigacion-del-cambio-climatico 
+
+OCDE. Stat. National Accounts. Gross domestic product
+(GDP). GDP, US $, constant prices, constant PPPs, reference year 2015, millions. [Fecha de consulta: mayo de 2024]. Consultado en:  
+ https://stats.oecd.org/index.aspx?queryid=60702#  "

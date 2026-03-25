@@ -1,0 +1,4 @@
+﻿"Nota: La información se refiere al 31 de diciembre de cada año. "
+"Fuente: - Instituto Nacional de Estadística y Geografía (INEGI), Censo Nacional de Gobiernos Estatales 2021 - 2024.
+- Instituto Nacional de Estadística y Geografía (INEGI),
+Censo Nacional de Gobierno, Seguridad Pública y Sistema Penitenciario Estatales 2016 - 2020. "

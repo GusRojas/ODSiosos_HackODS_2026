@@ -1,0 +1,65 @@
+﻿Title: 9.2.1.b Valor agregado por manufactura per cápita
+
+Description: Es el porcentaje que representa el total de los valores agregados de todas las unidades productivas manufactureras residentes per cápita.
+
+Modified: 2025-10-31
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+Keyword: Crecimiento económico, desarrollo económico, sector manufacturero, PIB, población
+
+ContactPoint: Centro de atención a usuarios INEGI
+Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276,
+Aguascalientes, Aguascalientes, Aguascalientes, 
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Nacional sin costo: 800 111 46 34 
+ Internacional: (código internacional) + (52)+(449) 149 1300
+atencion.usuarios@inegi.org.mx
+
+Temporal: 2003-2024
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/9.2.1.b_es.zip
+
+Goal: 9. Construir infraestructuras resilientes, promover la industrialización inclusiva y sostenible y fomentar la innovación 
+
+Target:  Meta 9.2 Promover una industrialización inclusiva y sostenible y, de aquí a 2030, aumentar significativamente la contribución de la industria al empleo y al producto interno bruto, de acuerdo con las circunstancias nacionales, y duplicar esa contribución en los países menos adelantados
+
+Type of indicator: Global
+
+Algorithm: 9_2_1_b_ES.gif
+
+Description of the indicator: El PIB per cápita real resulta de dividir el PIB a precios constantes entre la población total de un país o área geográfica.
+
+Unit of measure: Pesos constantes a precios de 2018 por persona
+
+Geographic coverage: Nacional
+
+Opportunity: 1 año
+
+Source of statistical information used to calculate the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Sistema de Cuentas Nacionales de México. Cuentas de Bienes y Servicios, 2023 preliminar. Base 2018. Anual. (octubre de 2024)
+
+Date of next update of indicator: 31 de octubre de 2026
+
+Unit of the State responsible for calculating the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Unidad de Estadísticas Económicas.   
+ https://www.inegi.org.mx  
+
+Importance and purpose of the indicator: El PIB per cápita mide el ingreso promedio de la población de un país o área geográfica y expresa la capacidad media para satisfacer las necesidades de bienes y servicios por habitante (SNIEG & INEGI, 2016).
+Un cambio porcentual positivo en la tasa de crecimiento anual del PIB real per cápita es interpretado como un incremento en el nivel promedio de vida de los residentes de un país o área (UNSD, 2016).
+Indicador del comportamiento de la industria en el  producto interno bruto.
+
+National and/or international reference: Organización para la Cooperación y el Desarrollo Económicos (OCDE). Gross domestic product (GDP). (13 de diciembre de 2018) 
+Fondo Monetario Internacional (FMI). GDP per capita, current prices.  (13 de diciembre de 2018) 
+Banco Mundial (BM). PIB per cápita (US$ a precios actuales). (13 de diciembre de 2018) 
+
+Observations: No aplica
+

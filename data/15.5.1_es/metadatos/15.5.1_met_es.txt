@@ -1,0 +1,67 @@
+﻿Title: 15.5.1 Proporción de especies en peligro de extinción
+
+Description: Es el porcentaje de las especies de los principales grupos taxonómicos conocidas en México que se encuentran listadas en alguna categoría de riesgo según la NOM-059-SEMARNAT-2010.
+
+Modified: 2025-02-24
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+Keyword: Grupos taxonómicos, diversidad biológica, biodiversidad , fauna en peligro
+
+ContactPoint: Dr. César Edgardo Rodríguez Ortega
+Director General de Planeación, Evaluación y Estadística Ambiental
+Avenida Ejército Nacional 223, Colonia Anáhuac, 11320, Alcaldía Miguel Hidalgo, Ciudad de México
+(55) 5490 0983, ext. 10983
+cesar.rodriguez@semarnat.gob.mx
+
+Temporal: 2010-2023
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/15.5.1_es.zip
+
+Goal: 15. Proteger, restablecer y promover el uso sostenible de los ecosistemas terrestres, gestionar sosteniblemente los bosques, luchar contra la desertificación, detener e invertir la degradación de las tierras y detener la pérdida de biodiversidad 
+
+Target:  Meta 15.5 Adoptar medidas urgentes y significativas para reducir la degradación de los hábitats naturales, detener la pérdida de biodiversidad y, de aquí a 2020, proteger las especies amenazadas y evitar su extinción
+
+Type of indicator: Global
+
+Algorithm: 15_5_1_ES.gif
+
+Description of the indicator: El indicador se calcula, para un grupo taxonómico dado, dividiendo el número de especies listadas de ese grupo en alguna categoría de riesgo según la NOM-059-SEMARNAT-2010 por el número de especies del mismo grupo catalogadas en bases de datos en CONABIO para el país, expresado en porcentaje.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: 1 año
+
+Source of statistical information used to calculate the indicator: -Semarnat. Modificación del Anexo Normativo III, Lista de especies en riesgo de la Norma Oficial Mexicana NOM-059-SEMARNAT-2010, Protección ambiental-Especies nativas de México de flora y fauna silvestres-Categorías de riesgo y especificaciones para su inclusión, exclusión o cambio, Lista de especies en riesgo. DOF. México, 14 de noviembre de 2019.
+Consultado en: Base de Datos Estadísticos del SNIARN (BADESNIARN). [Fecha de consulta: 24 de febrero de 2025].
+Disponible en:  http://dgeiawf.semarnat.gob.mx:8080/ibi_apps/WFServlet?IBIF_ex=D3_BIODIV02_09_1&IBIC_user=dgeia_mce&IBIC_pass=dgeia_mce 
+Disponible en:  http://dgeiawf.semarnat.gob.mx:8080/ibi_apps/WFServlet?IBIF_ex=D3_BIODIV02_10_1&IBIC_user=dgeia_mce&IBIC_pass=dgeia_mce 
+-Semarnat. Lista de especies en riesgo de la Norma Oficial Mexicana NOM-059-SEMARNAT-2010, Protección ambiental-Especies nativas de México de flora y fauna silvestres-Categorías de riesgo y especificaciones para su inclusión, exclusión o cambio-Lista de especies en riesgo. DOF. México, 30 de diciembre de 2010.
+Consultado en: Base de Datos Estadísticos del SNIARN (BADESNIARN). [Fecha de consulta: 24 de febrero de 2025].
+Disponible en:  https://apps1.semarnat.gob.mx:8443/dgeia/compendio_2018/dgeiawf.semarnat.gob.mx_8080/ibi_apps/WFServlet767d.html 
+Disponible en:  https://apps1.semarnat.gob.mx:8443/dgeia/compendio_2018/dgeiawf.semarnat.gob.mx_8080/ibi_apps/WFServlet36cf.html 
+-Conabio. 2024. Recuento de especies de flora y fauna reportadas en literatura y catalogadas en bases de datos en CONABIO. Base de datos SNIB. Conabio, México. 
+Consultado en: Base de Datos Estadísticos del SNIARN (BADESNIARN). [Fecha de consulta: 24 de febrero de 2025]. 
+Disponible en:  http://dgeiawf.semarnat.gob.mx:8080/ibi_apps/WFServlet?IBIF_ex=D3_BIODIV02_13&IBIC_user=dgeia_mce&IBIC_pass=dgeia_mce&NOMBREANIO=* 
+Disponible en:  http://dgeiawf.semarnat.gob.mx:8080/ibi_apps/WFServlet?IBIF_ex=D3_BIODIV02_14&IBIC_user=dgeia_mce&IBIC_pass=dgeia_mce&NOMBREANIO=*
+
+Date of next update of indicator: 31 de mayo de 2026
+
+Unit of the State responsible for calculating the indicator: Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT). Dirección General de Planeación, Evaluación y Estadística Ambiental. 
+
+Importance and purpose of the indicator: Los ODS establecieron como una de sus metas detener la pérdida de la diversidad biológica. La biodiversidad global y nacional encaran serias amenazas que la ponen en riesgo. La transformación de los sistemas naturales a sistemas productivos (agrícolas, ganaderos o acuícolas), la sobreexplotación de las poblaciones silvestres, el aprovechamiento ilegal, la contaminación del suelo, aire y el agua, así como la introducción de especies exóticas son algunas de las principales actividades que amenazan a la biodiversidad. Los listados de especies en riesgo han sido empleados a nivel global como indicadores del estado de la biodiversidad. Bajo este esquema, el indicador sobre la proporción de especies de los grupos taxonómicos más importantes en alguna categoría de riesgo resulta útil para representar la reducción actual o potencial de la biodiversidad de un país o región.
+
+National and/or international reference: Sin referencia 
+
+Observations: El cálculo del indicador incluye especies, subespecies y variedades. Los datos para el último año reportado, sobre el estado de riesgo de las especies corresponden a 2019 y las especies catalogadas a la revisión de Conabio en 2024 con datos de 2023.
+

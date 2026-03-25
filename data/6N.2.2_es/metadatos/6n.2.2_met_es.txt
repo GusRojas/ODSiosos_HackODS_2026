@@ -1,0 +1,55 @@
+﻿Title: 6n.2.2 Rendimiento de cultivos básicos en zonas con infraestructura de riego
+
+Description: Este indicador evalúa, de manera integrada, la producción de 4 cultivos básicos: maíz, frijol, trigo y arroz, por unidad de superficie en las zonas con infraestructura de riego del país. Se toma como referencia la información que integra y publica el Servicio de Información Agroalimentaria y Pesquera (SIAP) de la Sader de los cultivos: maíz grano, frijol, trigo grano y arroz palay.
+
+Modified: 2024-11-13
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Juan José Díaz Nigenda
+Subgerente del Sistema Nacional de Información del Agua
+Insurgentes Sur # 2416. Piso 4. Colonia Copilco El Bajo, 04340. Coyoacán, Ciudad de México
+55 51744000, ext. 2112 y 4458 , jose.diaz@conagua.gob.mx
+sina@conagua.gob.mx
+
+Temporal: 2012-2023
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/6n.2.2_es.zip
+
+Goal: 6. Garantizar la disponibilidad y la gestión sostenible del agua y el saneamiento para todos 
+
+Target:  Meta 6n.2 Gestión integral de los recursos hídricos a todos los niveles
+
+Type of indicator: Nacional
+
+Algorithm: 6n.2.2_ES.gif
+
+Description of the indicator: Para obtener el rendimiento de cultivos básicos en zonas con infraestructura de riego, se considera el cociente de la suma de la producción (PROD) y de la superficie de riego cosechada (SUPCOSECHA) para cada uno de los cuatro cultivos de referencia en el año agrícola correspondiente (maíz grano, frijol, trigo grano y arroz palay), y considerando la modalidad riego.
+
+Unit of measure: Toneladas por hectárea
+
+Geographic coverage: Nacional
+
+Opportunity: 1 año.
+
+Source of statistical information used to calculate the indicator: Servicio de Información Agroalimentaria y Pesquera (SIAP). Secretaría de Desarrollo Rural.
+
+Date of next update of indicator: 30 de noviembre de 2025
+
+Unit of the State responsible for calculating the indicator: Comisión Nacional del Agua. Gerencia de Planificación Hídrica. Sistema Nacional de Información del Agua (SINA), a partir de la información generada por el Servicio de
+Información Agroalimentaria y Pesquera (SIAP) de la Secretaría de Agricultura y Desarrollo Rural 
+
+Importance and purpose of the indicator: Para aprovechar eficientemente el agua y contribuir al desarrollo sostenible de los sectores productivos, se propone este indicador para evaluar el impacto de la infraestructura de riego en la producción agricola del país. De manera integrada, toma la producción de 4 cultivos básicos: maíz grano, frijol, trigo grano y arroz palay, por unidad de superficie cosechada en las zonas con infraestructura de riego del país, distritos y unidades de riego. Para este efecto, se toma como referencia la información que integra y publica el Servicio de Información Agroalimentaria y Pesquera (SIAP) de la Sader.
+
+National and/or international reference: Programa Nacional Hídrico 2020-2024. 
+
+Observations: Para el cálculo del indicador será necesario contar con la información generada por el Servicio de Información Agroalimentaria y Pesquera (SIAP) de la Sader  que se reportan en el cierre de la producción agrícola, bajo la modalidad de riego. Con estos criterios, se reportarían los datos de los distritos y unidades de riego.
+

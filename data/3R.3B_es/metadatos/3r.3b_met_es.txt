@@ -1,0 +1,60 @@
+﻿Title: 3r.3b Mortalidad por VIH/SIDA, desglosada por sexo
+
+Description: Son las defunciones por VIH/SIDA en la población general, en un año específico, por cada 100 mil habitantes.
+
+Modified: 2024-01-08
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Mtro. Arturo Barranco Flores
+Director de Información sobre Necesidades de Salud y Población
+Homero No. 213, Col. Chapultepec Morales. Alcaldía Miguel Hidalgo, CDMX C.P. 11570
+(55) 6392-2300 Ext.52594
+arturo.barranco@salud.gob.mx
+
+Temporal: 1990-2022
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/3r.3b_es.zip
+
+Goal: 3. Garantizar una vida sana y promover el bienestar de todos a todas las edades 
+
+Target:  Meta 3.3 De aquí a 2030, poner fin a las epidemias del SIDA, la tuberculosis, la malaria y las enfermedades tropicales desatendidas y combatir la hepatitis, las enfermedades transmitidas por el agua y otras enfermedades transmisibles
+
+Type of indicator: Regional
+
+Algorithm: 3r.3b_ES.gif
+
+Description of the indicator: Este indicador resulta de dividir el número de defunciones por VIH /SIDA en un determinado año, entre la población total del mismo periodo, multiplicado por 100 mil.
+
+Unit of measure: Tasa defunciones por cada 100 mil habitantes.
+
+Geographic coverage: Nacional y estatal
+
+Opportunity: 12 meses
+
+Source of statistical information used to calculate the indicator: Secretaría de Salud.  Bases de datos de mortalidad.
+Consejo Nacional de Población  (CONAPO), Proyecciones de la Población de México y de las Entidades Federativas 2020-2070.
+Disponible en: https://datos.gob.mx/busca/dataset/proyecciones-de-la-poblacion-de-mexico-y-de-las-entidades-federativas-2020-2070  
+Consejo Nacional de Población (CONAPO), Proyecciones de la Población de México y de las Entidades Federativas 2020-2070. Disponible en:  https://datos.gob.mx/busca/dataset/proyecciones-de-la-poblacion-de-mexico-y-de-las-entidades-federativas-2020-2070
+
+Date of next update of indicator: No definida
+
+Unit of the State responsible for calculating the indicator: Secretaría de Salud. Dirección General de Información en Salud. 
+
+Importance and purpose of the indicator: Este indicador contribuye para describir la evolución de las defunciones por esta causa en la población total.
+
+National and/or international reference: Catálogo Nacional de Indicadores  https://www.snieg.mx/cni/ 
+
+Observations: Este es un indicador que pertenece al Catálogo Nacional de Indicadores (CNI)
+a
+a
+a
+

@@ -1,0 +1,65 @@
+﻿Title: 16.1.4 Proporción de la población que se siente segura al caminar sola por la noche en su zona de residencia
+
+Description: Mide la población que se siente segura caminando sola por el área donde vive en el año como proporción del total de la población de 18 años y más.
+
+Modified: 2025-11-27
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Centro de atención a usuarios INEGI
+Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276,
+Aguascalientes, Aguascalientes, Aguascalientes, 
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Nacional sin costo: 800 111 46 34 
+ Internacional: (código internacional) + (52)+(449) 149 1300
+atencion.usuarios@inegi.org.mx
+Dr. Dwight D. Dyer Leal
+Titular de la Unidad de Estadísticas de Gobierno, Seguridad Pública y Justicia
+Av. Patriotismo 711. Colonia San Juan, delegación Benito Juárez, CDMX.
+5552781000, Ext:321592
+dyer@inegi.org.mx
+
+Temporal: 2021-2025
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/16.1.4_es.zip
+
+Goal: 16. Promover sociedades pacíficas e inclusivas para el desarrollo sostenible, facilitar el acceso a la justicia para todos y construir a todos los niveles instituciones eficaces e inclusivas que rindan cuentas 
+
+Target:  Meta 16.1 Reducir significativamente todas las formas de violencia y las correspondientes tasas de mortalidad en todo el mundo
+
+Type of indicator: Global
+
+Algorithm: 16.1.4_ES.gif
+
+Description of the indicator: Población de 18 años y más que se siente muy segura o segura al caminar sola por la noche en los alrededores de su vivienda durante el año entre la población de 18 años y más, multiplicada por 100. Desagregada por sexo (total; hombres; mujeres) y entidad federativa.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional y entidad federativa
+
+Opportunity: Los datos se refieren al año de publicación de la encuesta fuente (ENVIPE), que se publica en el segundo semestre del año.
+
+Source of statistical information used to calculate the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional de Victimización y Percepción sobre Seguridad Pública (ENVIPE).
+
+Date of next update of indicator: 31 de diciembre de 2026
+
+Unit of the State responsible for calculating the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Unidad de Estadísticas de Gobierno, Seguridad Pública y Justicia.   
+ https://www.inegi.org.mx  
+
+Importance and purpose of the indicator: La sensación de inseguridad y el temor al delito son relevantes para el monitoreo de las políticas sobre seguridad pública, ya que altos niveles de estas sensaciones impactan en las actividades cotidianas, reducen la cohesión social, la confianza entre los individuos y, por tanto, son un obstáculo para el desarrollo.
+
+National and/or international reference: Oficina de Naciones Unidas contra la Droga y el Delito (UNODC). 
+International Classification of Crime for Statistical Purposes (ICCS). 
+
+Observations: En el denominador no se considera a la población de 18 años y más que respondió que no le aplica la pregunta.
+

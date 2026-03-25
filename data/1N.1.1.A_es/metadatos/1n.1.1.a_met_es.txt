@@ -1,0 +1,87 @@
+﻿Title: 1n.1.1.a Porcentaje de la población en situación de pobreza, por desglose geográfico y grupo poblacional (Entidad federativa)
+
+Description: Es el porcentaje de la población de referencia que tiene al menos una carencia social (rezago educativo, acceso a los servicios de salud, acceso a la seguridad social, calidad y espacios de la vivienda, servicios básicos en la vivienda y acceso a la alimentación) y su ingreso es insuficiente para adquirir los bienes y servicios que requiere para satisfacer sus necesidades alimentarias y no alimentarias (línea de pobreza por ingresos).
+
+Modified: 2023-12-07
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Alida Marcela Gutiérrez Landeros
+Coordinadora General de Análisis de la Pobreza
+Insurgentes Sur #810, Colonia Del Valle, C.P. 03100, Benito Juárez, Ciudad de México
+(55) 54-81-72-00, ext. 70075
+amgutierrez@coneval.org.mx
+David Antonio Rojas Rosey
+Director Ejecutivo de Medición de Pobreza y Seguimiento de Indicadores
+Insurgentes Sur #810, Colonia Del Valle, C.P. 03100, Benito Juárez, Ciudad de México
+(55) 54-81-72-00, ext. 70100
+drojas@coneval.org.mx
+
+Temporal: 2016-2022
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual irregular
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/1n.1.1.a_es.zip
+
+Goal: 1. Poner fin a la pobreza en todas sus formas y en todo el mundo 
+
+Target:  1n.1 Pobreza multidimensional por grupos en condiciones de desventaja (desagregación por personas indígenas, adultos mayores, personas con discapacidad, niños y niñas (menores de 18 años) y primera infancia (0 a 5 años) basada en el enfoque de derechos
+
+Type of indicator: Nacional
+
+Algorithm: 1n.1.1.a_ES.gif
+
+Description of the indicator: Este indicador resulta de identificar a la población de referencia que cuenta con al menos una carencia social y que su ingreso es insuficiente para satisfacer sus necesidades alimentarias y no alimentarias, dividir dicho número de personas entre la población de referencia total y multiplicar el cociente por 100.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Entidad federativa
+
+Opportunity: 1 año */
+
+Source of statistical information used to calculate the indicator: Instituto Nacional de Estadística y Geografía (INEGI) Encuesta Nacional de Ingresos y Gastos de los Hogares (ENIGH) 2016, 2018, 2020 y 2022; con los nuevos factores de expansión construidos con base en el Marco de Muestreo de Viviendas y los resultados del Censo de Población y Vivienda 2020
+
+Date of next update of indicator: 31 de diciembre de 2025 */
+
+Unit of the State responsible for calculating the indicator: Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL). http://www.coneval.org.mx/. 
+
+Importance and purpose of the indicator: El Artículo 81 de la Ley General de Desarrollo Social establece que el Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL) tiene por objeto normar y coordinar la evaluación de las políticas y programas de desarrollo social que ejecuten las dependencias públicas y establecer los lineamientos y criterios para la definición, identificación y medición de la pobreza, garantizando la transparencia, objetividad y rigor técnico en dicha actividad. Además, el 16 de junio de 2010 se publicó en el Diario Oficial de la Federación (DOF) los Lineamientos y criterios generales para la definición, identificación y medición de la pobreza. Por otra parte, la medición de la pobreza a nivel nacional se considera en las metas de los ODS. Por lo anterior, se propone la medición multidimensional de la pobreza como instrumento para dar seguimiento a las metas nacionales de la Agenda 2030.
+A diferencia de las mediciones de las agendas globales, en este caso la propuesta es la desagregación por grupos de población. Si bien, estas desagregaciones se pueden ampliar; es preciso tener consideraciones al respecto. Se reconoce la importancia de la incorporación de la desagregación del indicador para personas afromexicanas, migrantes y refugiadas; sin embargo, metodológicamente en estos momentos no es factible su inclusión en el contexto de metas nacionales al no contar con información disponible.
+Con el fin de aportar elementos que permitan una mejor identificación de las problemáticas económicas y sociales que afectan a segmentos específicos de la población, el CONEVAL estimó indicadores de pobreza para determinados grupos poblacionales a nivel: estatal y municipal o demarcación territorial.
+
+National and/or international reference: Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL). http://www.coneval.org.mx/. 
+ Para mayor detalle consultar: 
+ Metodología para la medición multidimensional de la pobreza en México, tercera edición:   
+ https://www.coneval.org.mx/InformesPublicaciones/InformesPublicaciones/Documents/Metodologia-medicion-multidimensional-3er-edicion.pdf  
+
+Observations: 1. El 30 de octubre de 2018, se publicó en el DOF los Lineamientos y criterios generales para la definición, identificación y medición de la pobreza, los cuales prevén una actualización de indicadores y umbrales de acuerdo a las dinámicas de la sociedad mexicana y el marco normativo que la gobierna. EL CONEVAL presentó la actualización de la medición multidimensional de la pobreza 2022 a nivel nacional y estatal en agosto de 2023, en este contexto, se propone que estas cifras (2016 - 2022) sean los referentes para la actualización de las metas nacionales.
+2. El CONEVAL adoptó como indicador de precisión estadística al coeficiente de variación (CV), mismo que, por definición, para su estimación tradicional requiere de la varianza del estimador y la media estimada de la variable de análisis. Para el caso de pobreza por grupos poblacionales, con el propósito de conocer la precisión estadística de las cifras que se presentan, se estimó el Error Cuadrático Medio (ECM), como mejor aproximación de la varianza del estimador. Al obtener el ECM, así como la varianza en los indicadores, es posible contar con el CV como una medida de precisión en las estimaciones, de la siguiente forma:
+• La estimación es precisa si CV&#8804;15%, por lo que, la estimación puede ser considerada sin restricciones.
+• La estimación es aceptable cuando 15%&lt;CV&#8804;25%, por lo que, la estimación debe ser utilizada con precaución.
+• La estimación no es precisa si 25%&lt;CV, por lo que, se recomienda omitir su publicación y uso.
+3. Los grupos poblacionales de los que se presentan resultados de los indicadores de pobreza son los siguientes:
+  • Hombres
+  • Mujeres
+  • Niñas, niños y adolescentes: 
+Población de 0 a 17 años
+  • Personas adultas: 
+Población de 30 a 64 años
+  • Personas adultas mayores: 
+Población de 65 años o más
+  • Personas jóvenes: 
+Población de 18 a 29 años
+  • Población indígena:
+De acuerdo con los criterios del Instituto Nacional de los Pueblos Indígenas (INPI), se considera población indígena a todas las personas que forman parte de un hogar indígena, donde el jefe(a) del hogar, su cónyuge y/o alguno de los ascendientes (madre o padre, madrastra o padrastro, abuelo(a), bisabuelo(a), tatarabuelo(a), suegro(a)) declaró ser hablante de lengua indígena. Además, se incluye a personas que declararon hablar alguna lengua indígena y que no forman parte de estos hogares. Disponible en:  https://www.gob.mx/inpi/documentos/indicadores-de-la-poblacion-indigena  (consultado el 10 agosto de 2023).
+  • Población rural:
+Se considera población rural a todas las personas que residen en localidades de menos de 2,500 habitantes.
+  • Población urbana:
+Se considera población urbana a todas las personas que residen en localidades de 2,500 o más habitantes.
+4. Para un mejor análisis de la información 2022, consultar la nota técnica:  https://www.coneval.org.mx/Medicion/MP/Documents/MMP_2022/Nota_tecnica_sobre_la_informacion_empleada_para_la_estimacion_de_la_medicion_de_pobreza_en_Mexico_2022.pdf 
+*/ La actualización del indicador está sujeta a la publicación de los microdatos por parte de INEGI.
+

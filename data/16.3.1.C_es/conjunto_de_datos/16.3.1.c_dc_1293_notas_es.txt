@@ -1,0 +1,3 @@
+﻿"Nota: Las estimaciones para el total de la población y para los hombres no se presentan debido a que no cuentan con la calidad estadística requerida. "
+"ND No disponible"
+"Fuente: INEGI. Encuesta Nacional de Victimización y Percepción sobre Seguridad Pública, 2016 a 2025. "

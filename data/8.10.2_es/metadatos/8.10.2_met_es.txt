@@ -1,0 +1,56 @@
+﻿Title: 8.10.2 Proporción de adultos (de 15 años o más) con una cuenta en un banco u otra institución financiera o con un proveedor móvil de servicios monetarios
+
+Description: Es el porcentaje de adultos (15 años o más) quienes afirman tener una cuenta (personal o compartida) en un banco u otra institución financiera, o ser usuarios de un servicio de dinero móvil (envío de dinero) durante los últimos 12 meses.
+
+Modified: 2024-07-02
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+Keyword: Ahorro, depósitos, Instituciones financieras
+
+ContactPoint: Socorro Mayec Vargas Arias
+Directora General para el Acceso a los Servicios Financieros
+Avenida Insurgentes Sur 1971 Colonia Guadalupe Inn, 01020, Álvaro Obregón, Álvaro Obregón, Ciudad de México
+(55) 1454 6000, ext. 6061
+inclusion_financiera@cnbv.gob.mx
+
+Temporal: 2011-2022
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Trienal Irregular
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/8.10.2_es.zip
+
+Goal: 8. Promover el crecimiento económico sostenido, inclusivo y sostenible, el empleo pleno y productivo y el trabajo decente para todos 
+
+Target:  Meta 8.10 Fortalecer la capacidad de las instituciones financieras nacionales para fomentar y ampliar el acceso a los servicios bancarios, financieros y de seguros para todos
+
+Type of indicator: Global
+
+Algorithm: 8_10_2_ES.gif
+
+Description of the indicator: Se calcula como la proporción de los adultos (personas de 15 años o más) representados por la muestra que respondieron afirmativamente sobre la tenencia de una cuenta en un banco u otra institución financiera entre el total de la población adulta representada por el universo de la muestra. La muestra estimada es de 1 000 cuestionarios.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: Trienal.
+
+Source of statistical information used to calculate the indicator: Banco Mundial (BM), Encuesta trienal Global Findex. http://www.worldbank.org/en/programs/globalfindex
+
+Date of next update of indicator: 31 de diciembre de 2026
+
+Unit of the State responsible for calculating the indicator: Secretaría de Hacienda y Crédito Público (SHCP). Este indicador es calculado por el Banco Mundial a partir de la información obtenida de la encuesta Global Findex. 
+
+Importance and purpose of the indicator: Las cuentas de ahorro en una institución regulada y supervisada asegura que los recursos monetarios de los usuarios estén protegidos por un seguro de depósitos, en caso de que la institución quebrara, el patrimonio de los ahorradores estaría blindado por la cantidad que cubre el seguro. Asimismo, tener una cuenta de ahorro permite crear un historial financiero con lo cual se puede acceder a otros productos financieros como es el caso del crédito.
+
+National and/or international reference: Banco Mundial (BM). Encuesta Global Findex. 
+
+Observations: Los resultados del Global Findex se basan en encuestas individuales a nivel mundial y se construye cada tres años. La primera edición se realizó en 2011, la segunda en 2014 y la tercera en 2017. La cuarta edición estaba prevista para 2020, pero por la emergencia sanitaria del COVID-19 se aplicó hasta 2021; sin embargo, el levantamiento de México (y de otros 15 países) se realizó en 2022, usando el mismo módulo de 2021. La base de datos tiene una cobertura para alrededor de 140 países.
+

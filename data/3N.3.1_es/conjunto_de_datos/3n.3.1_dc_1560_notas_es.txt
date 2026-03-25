@@ -1,0 +1,5 @@
+﻿"Nota: Nacimientos reconstruidos a siete años. A partir del año 2010 se estima el total de nacimientos con una extrapolación lineal con base en la reconstrucción de nacimientos.
+La expresión de fecundidad en el intervalo de 10 a 14 años no es una tasa, sino una razón, bajo el supuesto de que la mayoría de las niñas de 10 y 11 años aún
+no presentan su primera menstruación, por lo que no pueden considerarse como expuestas al riesgo de un embarazo. "
+"Fuente: CONAPO. Estimaciones y Proyecciones de la Población de México 1990-2030 e INEGI. Registros Administrativos de Natalidad 1990-2016. "
+"cvegeo: Clave geoestadística"

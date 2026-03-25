@@ -1,0 +1,73 @@
+﻿Title: 5.5.2 Proporción de mujeres en cargos directivos
+
+Description: Participación de las mujeres ocupadas en cargos directivos como funcionarias o directoras.
+
+Modified: 2025-06-30
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+Keyword: participación de la mujer, funcionarias, directoras, puestos de toma de decisión
+
+ContactPoint: Centro de atención a usuarios INEGI
+Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276,
+Aguascalientes, Aguascalientes, Aguascalientes, 
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Nacional sin costo: 800 111 46 34 
+ Internacional: (código internacional) + (52)+(449) 149 1300
+atencion.usuarios@inegi.org.mx
+Octavio Heredia Hernández
+Director General Adjunto de Encuestas Sociodemográficas
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276
+Aguascalientes, Aguascalientes
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Telefóno: 4499105300, Ext. 4322, 4223
+octavio.heredia@inegi.org.mx
+
+Temporal: 2009-2024
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/5.5.2_es.zip
+
+Goal: 5. Lograr la igualdad de género y empoderar a todas las mujeres y las niñas 
+
+Target:  Meta 5.5 Asegurar la participación plena y efectiva de las mujeres y la igualdad de oportunidades de liderazgo a todos los niveles decisorios en la vida política, económica y pública
+
+Type of indicator: Global
+
+Algorithm: 5_5_2_ES.gif
+
+Description of the indicator: Proporción de mujeres ocupadas en cargos directivos como funcionarias y directoras con respecto al total de la población ocupada en ese grupo de ocupación.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional, entidad federativa y áreas metropolitanas autorrepresentadas
+
+Opportunity: 45 días después de concluido el último trimestre del año
+
+Source of statistical information used to calculate the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional de Ocupación y Empleo (ENOE). Primer trimestre de 2009 al primer trimestre de 2020 y a partir del primer trimestre de 2023.
+Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional de Ocupación y Empleo (ENOEN) (Nueva edición). Tercer trimestre de 2020 al cuarto trimestre de 2022.
+
+Date of next update of indicator: No definida
+
+Unit of the State responsible for calculating the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Dirección General de Estadísticas Sociodemográficas.   
+ https://www.inegi.org.mx  
+
+Importance and purpose of the indicator: Medir la participación de las mujeres en puestos de nivel directivo.
+
+National and/or international reference: Sin referencia 
+
+Observations: Los datos se calculan con el promedio aritmético de los trimestres de los cuales se dispone información.
+Se considera el grupo de ocupación funcionarios y directivos de los sectores público, privado y social de los grupos de ocupación de la Encuesta Nacional de Ocupación y Empleo que se levanta trimestralmente.
+El indicador considera a la población de 15 años o más.
+Para conocer la conformación de las ciudades autorrepresentadas por entidad, municipio y localidad de la ENOE, consultar el documento Cómo se hace la ENOE: Métodos y procedimientos. Disponible en:  https://www.inegi.org.mx/contenidos/productos/prod_serv/contenidos/espanol/bvinegi/productos/nueva_estruc/702825190613.pdf 
+

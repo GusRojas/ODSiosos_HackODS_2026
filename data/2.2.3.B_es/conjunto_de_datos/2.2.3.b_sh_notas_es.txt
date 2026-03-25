@@ -1,0 +1,4 @@
+﻿"Nota: La Encuesta Nacional de Salud y Nutrición (ENSANUT) no está diseñada para evaluar a mujeres embarazadas, por ello son muy pocas las reportadas. "
+"ND No disponible"
+"Fuente: Instituto Nacional de Salud Pública (INSP). Encuesta Nacional de Salud y Nutrición (ENSANUT). Disponible en:  
+ https://ensanut.insp.mx/ "

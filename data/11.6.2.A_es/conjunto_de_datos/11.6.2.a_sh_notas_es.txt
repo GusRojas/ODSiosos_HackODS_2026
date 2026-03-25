@@ -1,0 +1,7 @@
+﻿"Nota: El indicador se calcula considerando la calidad del aire y la población de las zonas metropolitanas de Valle de México, Monterrey y Toluca. "
+"Fuente: - Instituto Nacional de Ecología y Cambio Climático (INECC).   
+ https://www.gob.mx/inecc  Elaboración propia a partir de las concentraciones reportadas por los Sistemas de Monitoreo de la Calidad del Aire de la Ciudad de México,
+Estado de México y Monterrey.
+- INEGI. 2021. Censo de Población y Vivienda 2020. Tabulados del Cuestionario Básico. Población total por entidad federativa y grupo
+quinquenal de edad según sexo, serie de años censales de 1990 a 2020. INEGI. México. Consultado en:  
+ https://www.inegi.org.mx/app/tabulados/interactivos/?pxq=Poblacion_Poblacion_01_e60cd8cf-927f-4b94-823e-972457a12d4b&idrt=123&opc=t  "

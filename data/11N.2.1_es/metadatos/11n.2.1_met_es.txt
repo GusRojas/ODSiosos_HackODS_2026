@@ -1,0 +1,52 @@
+﻿Title: 11n.2.1 Superficie de áreas verdes urbanas per cápita
+
+Description: Metros cuadrados de área verde urbana por personas que habitan en localidades urbanas.
+
+Modified: 2022-11-03
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Abraham Issaí Nuñez Morales
+Subdirector de Vinculación de la Unidad de Planeación y Desarrollo Institucional
+Nuevo León No. 210 Colonia Hipódromo Condesa, Del. Cuauhtémoc 06100 Ciudad de México
+5568209700 Ext. 50710
+abraham.nunez@sedatu.gob.mx
+
+Temporal: 2020-2020
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Quinquenal
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/11n.2.1_es.zip
+
+Goal: 11. Lograr que las ciudades y los asentamientos humanos sean inclusivos, seguros, resilientes y sostenibles 
+
+Target:  Meta 11n.2 Reducir el impacto ambiental de las ciudades promoviendo la movilidad sustentable, la cultura vial, mejorando la calidad del aire y asegurando las áreas verdes por densidad de población y acceso público
+
+Type of indicator: Nacional
+
+Algorithm: 11n.2.1_ES.gif
+
+Description of the indicator: Es la suma de áreas urbanas de los polígnos que contengan un servicio considerado área verde (Canchas, Jardines, parques, Unidades Deportivas, áreas verdes y plazas) entre la población urbana.
+
+Unit of measure: Metros cuadrados por habitante
+
+Geographic coverage: Nacional
+
+Opportunity: 5 años
+
+Source of statistical information used to calculate the indicator: Capa de servicios puntuales del Marco Geoestadistico 2020 del Insitituto Nacional de Estadistica y Geografía (INEGI)
+
+Date of next update of indicator: 2025
+
+Unit of the State responsible for calculating the indicator: Unidad de Planeación y Desarrollo Institucional. Secretaría de Desarrollo Agrario, Territorial y Urbano (SEDATU)
+
+Importance and purpose of the indicator: Como una medida de la importancia relativa a la cantidad en área de los espacios abiertos y áreas verdes del pais.
+
+Observations: Se considera como área verde al conjunto de áreas definidos como parque, jardin, plaza, área verde, canchas y Unidades deportivas.
+

@@ -1,0 +1,2 @@
+﻿"Fuente: INECC. 2022. Inventario Nacional de Gases y Compuestos de Efecto Invernadero. Resumen 1990-2019.  Consultado en: Base de Datos Estadísticos del SNIARN (BADESNIARN) [Fecha
+de consulta: marzo de 2025]: http://dgeiawf.semarnat.gob.mx:8080/ibi_apps/WFServlet?IBIF_ex=D3_AIRE02_19&IBIC_user=dgeia_mce&IBIC_pass=dgeia_mce&NOMBREANIO=*  "

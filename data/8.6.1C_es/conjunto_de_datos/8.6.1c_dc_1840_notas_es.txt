@@ -1,0 +1,4 @@
+﻿"Nota: No disponible "
+"ND No disponible"
+"Fuente: Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional de Ocupación y Empleo (ENOE). Primer trimestre de 2017 al primer trimestre de 2020.
+Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional de Ocupación y Empleo (ENOEN) (Nueva edición). Tercer trimestre de 2020 al cuarto trimestre de 2022."

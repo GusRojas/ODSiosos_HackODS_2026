@@ -1,0 +1,62 @@
+﻿Title: 16.6.1 Gastos primarios del gobierno como proporción del presupuesto aprobado original, desglosados por sector (o por códigos presupuestarios o elementos similares)
+
+Description: Este indicador mide el grado en que los gastos agregados del presupuesto se reflejan en el monto original aprobado, tal y como se define en la documentación presupuestaria del gobierno y los reportes fiscales. La cobertura es del presupuesto del gobierno central por los últimos tres años fiscales completos.
+
+Modified: 2021-05-07
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+Keyword: Cuenta  pública, balance primario, costo financiero
+
+ContactPoint: Sergio Robles Salgado
+Subdirector de Estadística de Finanzas Públicas
+Av. Insurgentes sur 1971, C.P. 01020,
+Colonia Guadalupe Inn,
+Álvaro Obregón, Álvaro Obregón,
+Ciudad de México
+(55) 3688 1217
+sergio_robles@hacienda.gob.mx
+
+Temporal: 2014-2020
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/16.6.1_es.zip
+
+Goal: 16. Promover sociedades pacíficas e inclusivas para el desarrollo sostenible, facilitar el acceso a la justicia para todos y construir a todos los niveles instituciones eficaces e inclusivas que rindan cuentas 
+
+Target:  Meta 16.6 Crear a todos los niveles instituciones eficaces y transparentes que rindan cuentas
+
+Type of indicator: Global
+
+Algorithm: 16_6_1_ES.gif
+
+Description of the indicator: Es el resultado de la diferencia del gasto neto pagado del gobierno central menos el costo financiero pagado del gobierno central en millones de pesos entre el gasto presupuestario aprobado original en millones de pesos multiplicado por cien.
+Gasto primario.- Es el que resulta de descontar el costo financiero al gasto neto presupuestario y representa la parte de las erogaciones presupuestarias que no están asociadas a obligaciones financieras adquiridas en el pasado.
+Gasto neto presupuestario.- Se refiere a la totalidad de las erogaciones realizadas por el Gobierno Federal, los organismos y empresas de control presupuestario directo y las empresas productivas del Estado, en cumplimiento de sus atribuciones para proveer bienes y servicios públicos a la población, los cuales no incluyen las amortizaciones de la deuda pública.
+Costo financiero.- Se refiere a los intereses, comisiones y gastos de la deuda pública, así como las erogaciones para saneamiento financiero y de apoyo a ahorradores y deudores de la banca.
+Gobierno Central.- Se define como la suma del Gobierno Federal más Seguridad Social (IMSS e ISSSTE).
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: 30 días posteriores del cierre del año de referencia.
+
+Source of statistical information used to calculate the indicator: Secretaría de Hacienda y Crédito Público (SHCP). Estadísticas oportunas de finanzas públicas(Consultado el 5 de septiembre de 2016).
+
+Date of next update of indicator: 31 de mayo de 2022
+
+Unit of the State responsible for calculating the indicator: Secretaría de Hacienda y Crédito Público (SHCP). 
+
+Importance and purpose of the indicator: El indicador intenta capturar la fiabilidad de los presupuestos del gobierno: que los gobiernos gasten lo que presupuestan gastar y que recauden lo que se proponen recaudar. Es un indicador simple e intuitivo que es fácil de entender, con una metodología transparente donde cada calificación es fácilmente verificable (Naciones Unidas, Departamento de Asuntos Económicos y Sociales; División de Estadísticas, 2016).
+
+National and/or international reference: Secretaría de Hacienda y Crédito Público (SHCP). Estadísticas oportunas de finanzas públicas (Comunicado de prensa). 
+
+

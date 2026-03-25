@@ -1,0 +1,12 @@
+﻿"Nota: El coeficiente de variación de una estimación es una medida relativa de su precisión; conforme sus valores son más próximos a 0 indican que la estimación es más precisa
+y viceversa. "
+"a/ En 2011 y 2016 estas estimaciones tienen un coeficiente de variación (%) de 25 en adelante, por lo que su nivel de precisión es clasificado como Bajo. "
+"b/ En 2011 y 2016 estas estimaciones tienen un coeficiente de variación (%) en el rango de [15,25), por lo que su nivel de precisión es clasificado como Moderado. "
+"c/ En 2016 estas estimaciones tienen un coeficiente de variación (%) de 25 en adelante, por lo que su nivel de precisión es clasificado como Bajo. Una precisión Baja requiere
+un uso cauteloso de la estimación en el que se analicen las causas de la alta variabilidad y se consideren otros indicadores de precisión y confiabilidad, como
+el intervalo de confianza. "
+"d/ En 2016 estas estimaciones tienen un coeficiente de variación (%) en el rango de [15,25), por lo que su nivel de precisión es clasificado como Moderado. "
+"ND No disponible"
+"Fuente: Instituto Nacional de Estadística y Geografía (INEGI), Dirección General de Estadísticas de Gobierno, Seguridad Pública y Justicia (DGEGSPJ). Encuesta Nacional sobre
+la Dinámica de las Relaciones en los Hogares (ENDIREH) 2016 y 2021. "
+"cvegeo: Clave geoestadística"

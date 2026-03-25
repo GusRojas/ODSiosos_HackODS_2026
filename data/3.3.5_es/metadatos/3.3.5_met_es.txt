@@ -1,0 +1,68 @@
+﻿Title: 3.3.5 Proporción de tratamientos otorgados a casos confirmados de paludismo, para la prevención, control y eliminación de la transmisión del Plasmodium Vivax
+
+Description: Es el porcentaje de casos nuevos y repetidores confirmados que reciben tratamiento médico con relación al total de casos presentados en el periodo.
+
+Modified: 2025-11-14
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Mtra. Manett Vargas García
+Directora General de Evaluación del Desempeño
+Avenida Paseo de la Reforma 450 
+Colonia Juárez, 06600
+Cuauhtémoc, Cuauhtémoc, Ciudad de México
+01 (55) 50621600 Ext. 52697
+manett.vargas@salud.gob.mx
+Dr. Delfino Campos Díaz
+Director de Gestión y Seguimiento para la Evaluación de los Sistemas de Salud
+Av. Agrarismo #227, piso 3, Col. Escandón II Sección D.T. Miguel Hidalgo, C.P. 11800, CDMX.
+01 (55) 50621600 Ext. 52681
+delfino.campos@salud.gob.mx
+Dr. Fabián Correa Morales
+Director del Programa de Enfermedades Transmitidas por Vectores del CENAPRECE
+55 5062 1600, ext: 54658
+fabian.correa@salud.gob.mx
+
+Temporal: 1990-2024
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/3.3.5_es.zip
+
+Goal: 3. Garantizar una vida sana y promover el bienestar de todos a todas las edades 
+
+Target:  Meta 3.3 De aquí a 2030, poner fin a las epidemias del SIDA, la tuberculosis, la malaria y las enfermedades tropicales desatendidas y combatir la hepatitis, las enfermedades transmitidas por el agua y otras enfermedades transmisibles
+
+Type of indicator: Global
+
+Algorithm: 3.3.5_ES.gif
+
+Description of the indicator: Este indicador resulta de dividir el número de casos confirmados mediante exámenes de sangre que recibieron tratamiento en un año determinado entre los casos confirmados de paludismo en el mismo periodo, multiplicado por cien.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional y entidad federativa
+
+Opportunity: 6 meses
+
+Source of statistical information used to calculate the indicator: Secretaría de Salud (SS). Centro Nacional de Programas Preventivos y Control de Enfermedades (CENAPRECE)
+
+Date of next update of indicator: 30 de junio de 2026
+
+Unit of the State responsible for calculating the indicator: Secretaría de Salud (SSA). Centro Nacional de Programas Preventivos y Control de Enfermedades (CENAPRECE). 
+
+Importance and purpose of the indicator: Medir la proporción de personas sin acceso a tratamiento médico contra paludismo para evaluar la cobertura del mismo. Proporciona el nivel de población que ha sido atendida, diagnosticada y medicada para tratar este padecimiento, de ahí que pueda ser una medida para disminuir la mortalidad por paludismo.
+Para el diseño, seguimiento y evaluación de políticas públicas en materia de salud.
+
+National and/or international reference: No aplica. 
+
+Observations: Caso nuevo: Confirmado por laboratorio a Plasmodium Vivax, sin antecedente de haber sido caso en los últimos tres años.
+Caso repetidor: Confirmado por laboratorio a Plasmodium Vivax con antecedentes de haber sido caso en los últimos tres años.
+Este indicador forma parte del Catálogo Nacional de Indicadores (CNI).
+

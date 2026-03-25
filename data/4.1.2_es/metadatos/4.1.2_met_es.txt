@@ -1,0 +1,68 @@
+﻿Title: 4.1.2 Índice de finalización (enseñanza primaria, secundaria y preparatoria) [ENIGH] 
+
+Description: Porcentaje de población de 14 a 22 años de edad que supera la edad prevista para el último grado de cada nivel educativo y que ha completado ese grado.
+
+Modified: 2025-11-14
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Centro de atención a usuarios INEGI
+Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276,
+Aguascalientes, Aguascalientes, Aguascalientes, 
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Nacional sin costo: 800 111 46 34 
+ Internacional: (código internacional) + (52)+(449) 149 1300
+atencion.usuarios@inegi.org.mx
+Octavio Heredia Hernández
+Director General Adjunto de Encuestas Sociodemográficas
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276
+Aguascalientes, Aguascalientes
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Telefóno: 4499105300, Ext. 4322, 4223
+octavio.heredia@inegi.org.mx
+
+Temporal: 2016-2024
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Bienal
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/4.1.2_es.zip
+
+Goal: 4. Garantizar una educación inclusiva y equitativa de calidad y promover oportunidades de aprendizaje permanente para todos 
+
+Target:  Meta 4.1 De aquí a 2030, asegurar que todas las niñas y todos los niños terminen la enseñanza primaria y secundaria, que ha de ser gratuita, equitativa y de calidad y producir resultados de aprendizaje pertinentes y efectivos
+
+Type of indicator: Global
+
+Algorithm: 4.1.2.a_ES.gif
+
+Description of the indicator: El indicador se calcula dividiendo a la población que finalizó el nivel de instrucción del grupo de edad, entre la población total del grupo de edad, expresado en porcentaje.
+Se desglosa la información para el total de población, Hombres, Mujeres, Hablantes de lengua indígena, Población con alguna discapacidad y Cambio de residencia (sólo nacional).
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional y entidad federativa
+
+Opportunity: 2 años
+
+Source of statistical information used to calculate the indicator: Encuesta Nacional de Ingresos y Gastos de los Hogares. 2016. 2018, 2020, 2022 y 2024.
+
+Date of next update of indicator: No definida
+
+Unit of the State responsible for calculating the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Unidad de Estadísticas Sociodemográficas.   
+ https://www.inegi.org.mx  
+
+Importance and purpose of the indicator: Los ODS establecieron como una de sus metas lograr el acceso universal, equitativo y de calidad a la enseñanza primaria y secundaria para todos, por lo que con este indicador se podrá apoyar a los encargados de la formulación de políticas y de la toma de decisiones.
+
+National and/or international reference: Repositorio de metadatos de los ODS, disponible en:   
+ https://unstats.un.org/sdgs/metadata/ 
+
+

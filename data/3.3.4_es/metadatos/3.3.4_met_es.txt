@@ -1,0 +1,72 @@
+﻿Title: 3.3.4 Incidencia de la hepatitis B por cada 100,000 habitantes (menores de 5 años)
+
+Description: Este indicador mide el número de casos notificados de menores a 5 años con Hepatitis B, mediante el sistema de vigilancia convencional, por cada 100,000 menores de 5 años
+
+Modified: 2025-11-14
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Mtra. Manett Vargas García
+Directora General de Evaluación del Desempeño
+Avenida Paseo de la Reforma 450 
+Colonia Juárez, 06600
+Cuauhtémoc, Cuauhtémoc, Ciudad de México
+01 (55) 50621600 Ext. 52697
+manett.vargas@salud.gob.mx
+Dr. Delfino Campos Díaz
+Director de Gestión y Seguimiento para la Evaluación de los Sistemas de Salud
+Av. Agrarismo #227, piso 3, Col. Escandón II Sección D.T. Miguel Hidalgo, C.P. 11800, CDMX.
+01 (55) 50621600 Ext. 52681
+delfino.campos@salud.gob.mx
+Dra. María Nohemí Colín Soto
+Directora de Vigilancia Epidemiológica de Enfermedades Transmisibles
+55 39 41 49 71
+nohemi.colin@salud.gob.mx
+Dra. Aline Mariel Saucedo Hernández
+Subdirectora de Sistemas Especiales de Vigilancia Epidemiológica de Enfermedades Transmisibles
+55 28 98 15 49
+alimari120712@gmail.com
+
+Temporal: 1990-2024
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/3.3.4_es.zip
+
+Goal: 3. Garantizar una vida sana y promover el bienestar de todos a todas las edades 
+
+Target:  Meta 3.3 De aquí a 2030, poner fin a las epidemias del SIDA, la tuberculosis, la malaria y las enfermedades tropicales desatendidas y combatir la hepatitis, las enfermedades transmitidas por el agua y otras enfermedades transmisibles
+
+Type of indicator: Global
+
+Algorithm: 3.3.4_ES.gif
+
+Description of the indicator: Se calcula dividiendo el número de niños y niñas menores de 5 años notificados con hepatitis B, mediante el sistema de vigilancia convencional, entre el total de  menores de 5 años, multiplicado por 100,000.
+
+Unit of measure: Tasa por cada 100 mil habitantes menores de 5 años
+
+Geographic coverage: Nacional y entidad federativa
+
+Opportunity: Se actualizará una vez que se publique el cierre de información del año siguiente a través de los anuarios de morbilidad en la página de la Secretaría de Salud. 
+
+Source of statistical information used to calculate the indicator: Secretaría de Salud (SS). Anuarios de Morbilidad 1984 a 2024:  https://www.gob.mx/salud/acciones-y-programas/anuarios-de-morbilidad-1984-a-2024
+Consejo Nacional de Población (CONAPO). Bases de datos de la Conciliación Demográfica 1950 a 2019 y Proyecciones de la población de México 2020 a 2070:  https://www.gob.mx/conapo/es/archivo/documentos?utf8=%E2%9C%93&idiom=es&style=th&order=DESC&filter_id=&filter_origin=archive&tags=&category=446
+
+Date of next update of indicator: 30 de junio de 2026
+
+Unit of the State responsible for calculating the indicator: Secretaría de Salud (SSA), Dirección General de Epidemiología. 
+
+Importance and purpose of the indicator: El propósito es describir la reducción en infecciones por Hepatitis B en menores.
+
+National and/or international reference: Repositorio de metadatos de los ODS, disponible en:   
+ https://unstats.un.org/sdgs/metadata/ 
+
+Observations: El metadato de Naciones Unidas propone la medición del indicador de manera indirecta, a través de la proporción de niños menores de 5 años que desarrollaron una infección crónica por el virus de la hepatitis B (es decir, la proporción que da positivo en una prueba de un marcador de infección llamado antígeno de superficie de la hepatitis B [HBsAg]). HBsAg es un proteína de la cubierta del virus. Una prueba positiva para HBsAg indica una infección activa por el virus de la hepatitis B .
+Por su parte, el presente indicador se refiere al número total de niños menores de 5 años con Hepatitis B notificados, mediante el sistema de vigilancia convencional, sin especificar si se trata de una fase aguda o crónica.
+

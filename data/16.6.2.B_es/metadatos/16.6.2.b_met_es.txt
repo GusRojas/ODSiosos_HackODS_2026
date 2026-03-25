@@ -1,0 +1,70 @@
+﻿Title: 16.6.2.b Satisfacción con el servicio de educación pública universitaria
+
+Description: Es el porcentaje de la población de 18 años y más que habita en áreas urbanas de cien mil habitantes y más usuaria de servicios públicos educativos (universidades y universidades tecnológicas) que manifiesta estar muy satisfecha o satisfecha con su experiencia en los servicios públicos educativos.
+
+Modified: 2024-04-04
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Centro de atención a usuarios INEGI
+Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276
+Aguascalientes, Aguascalientes, Aguascalientes 
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Nacional sin costo: 800 111 46 34 
+ Internacional: (código internacional) + (52)+(449) 910 53 00 Ext. 315301
+atencion.usuarios@inegi.org.mx
+Dr. Dwight D. Dyer Leal
+Director General de Estadísticas de Gobierno, Seguridad Pública y Justicia
+Av. Patriotismo 711. Colonia San Juan, delegación Benito Juárez, CDMX.
+5552781000, Ext:321592
+dyer@inegi.org.mx
+
+Temporal: 2013-2023
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Bienal
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/16.6.2.b_es.zip
+
+Goal: 16. Promover sociedades pacíficas e inclusivas para el desarrollo sostenible, facilitar el acceso a la justicia para todos y construir a todos los niveles instituciones eficaces e inclusivas que rindan cuentas 
+
+Target:  Meta 16.6 Crear a todos los niveles instituciones eficaces y transparentes que rindan cuentas
+
+Type of indicator: Global
+
+Algorithm: 16.6.2.b_ES.gif
+
+Description of the indicator: Número de personas de 18 años y más usuarias de los servicios de educación pública universitaria que respondieron estar muy satisfechas o satisfechas con el servicio recibido, entre la población de 18 años y más que habita en áreas urbanas de cien mil habitantes y más usuaria de estos servicios, multiplicado por 100; desagregado por sexo y entidad federativa.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional y entidad federativa
+
+Opportunity: Los datos se refieren al año previo a la publicación de la encuesta fuente (ENCIG), que se publica en el primer semestre del año que corresponda.
+
+Source of statistical information used to calculate the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional de Calidad e Impacto Gubernamental (ENCIG).  https://www.inegi.org.mx/programas/encig/
+
+Date of next update of indicator: 30 de junio de 2026
+
+Unit of the State responsible for calculating the indicator: Instituto Nacional de Estadística y Geografía (INEGI).  
+ https://www.inegi.org.mx/  
+
+Importance and purpose of the indicator: Medir la satisfacción con los servicios públicos es el núcleo de un enfoque centrado en el ciudadano para la prestación de servicios y un importante indicador de resultados del desempeño general del gobierno.
+
+National and/or international reference: Meta 16.6 de los Objetivos de Desarrollo Sostenible.   
+ https://unstats.un.org/sdgs 
+Programa de las Naciones Unidas para el Desarrollo (UNDP) (2016). Citizen Engagement in Service Delivery – The Critical Role of Public Officials. Global Center for Public
+Service Excellence. Available at  
+ https://www.undp.org/sites/g/files/zskgke326/files/publications/GCPSE_CitizenEngagement_Summary_2016.pdf  
+Organización para la Cooperación y el Desarrollo Económicos (OECD) (2017), “Citizen satisfaction with public services and institutions”, in Government at a Glance 2017,
+OECD Publishing, Paris. DOI:  http://dx.doi.org/10.1787/gov_glance-2017-82-en 
+
+Observations: Para el cálculo de este indicador se incluyen las opciones "muy satisfecho" y "satisfecho" con el servicio de educación pública universitaria (universidades y universidades tecnológicas), tal como se presenta en el Catálogo Nacional de Indicadores.
+

@@ -1,0 +1,4 @@
+﻿"Nota: Se han actualizado los valores de consumo energético correspondiente a energía primaria, tomando los correspondientes a la demanda energética por sectores y centros de transformación "
+"Cifras preliminares a partir de 2021"
+"Fuente: Instituto Nacional de Estadística y Geográfica (INEGI). Sistema de Cuentas Nacionales de México. Producto Interno Bruto Trimestral. Año Base 2018. Serie del primer trimestre
+de 1993 al tercer trimestre de 2025. "

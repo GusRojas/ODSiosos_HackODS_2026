@@ -1,0 +1,63 @@
+﻿Title: 8.3.1 Proporción del empleo informal en el empleo no agropecuario, desglosada por sexo
+
+Description: Proporción de las personas ocupadas cuya situación laboral es vulnerable por carecer de seguridad social y de otras garantías que ofrece el orden legal vigente, respecto de la población ocupada en el ámbito no agropecuario.
+
+Modified: 2025-05-14
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+Keyword: Auto empleo, informalidad laboral, fuerza de trabajo
+
+ContactPoint: Josué Gómez Castellanos
+Director de Estudios e Investigación Laboral
+Dirección General de Investigación y Estadísticas del Trabajo, Boulevard Adolfo López Mateos # 1968, Colonia Los Alpes, 01010, Alcaldía Alvaro Obregón, Ciudad de México
+Dir.(55) 2000 5463, 2000 5300, ext. 63263
+josue.gomez@stps.gob.mx
+
+Temporal: 2006-2024
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/8.3.1_es.zip
+
+Goal: 8. Promover el crecimiento económico sostenido, inclusivo y sostenible, el empleo pleno y productivo y el trabajo decente para todos 
+
+Target:  Meta 8.3 Promover políticas orientadas al desarrollo que apoyen las actividades productivas, la creación de puestos de trabajo decentes, el emprendimiento, la creatividad y la innovación, y fomentar la formalización y el crecimiento de las microempresas y las pequeñas y medianas empresas, incluso mediante el acceso a servicios financieros
+
+Type of indicator: Global
+
+Algorithm: 8_3_1_ES.gif
+
+Description of the indicator: La proporción de empleo informal en el empleo total no agropecuario se refiere al número de trabajadores informales expresadas como porcentaje del total de empleo no agropecuario.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: Tres meses
+
+Source of statistical information used to calculate the indicator: A partir de 2006: Encuesta Nacional de Ocupación y Empleo (ENOEN), con estimaciones trimestrales de población que genera el Marco de Muestreo de Viviendas del INEGI, con base en el Censo 2020.
+
+Date of next update of indicator: 31 de mayo de 2026
+
+Unit of the State responsible for calculating the indicator: Secretaría del Trabajo y Previsión Social (STPS). 
+
+Importance and purpose of the indicator: Esta tasa ilustra la magnitud de la problemática de los trabajadores que carecen de la protección de la seguridad social  por parte de su empleador o de las personas que se desempeñan, por su cuenta o dependiendo de un tercero, en unidades económicas no registradas, circunstancia que los coloca en una situación de vulnerabilidad legal en el ámbito laboral y/o patrimonial.
+En esta categoría se incluyen: i) los ocupados en actividades no agropecuarias que laboran en unidades económicas no registradas (sector informal); ii) los trabajadores del servicio doméstico remunerado que no tienen seguridad social; iii) los trabajadores no remunerados; iv) los trabajadores subordinados y remunerados cuyos servicios son utilizados por unidades económicas registradas y laboran sin la protección de la seguridad social.
+
+National and/or international reference: Organización Internacional del Trabajo (OIT). Resolución sobre las  estadísticas del empleo en el sector informal, adoptada por la Decimoquinta Conferencia Internacional
+de Estadísticos del Trabajo, enero de 1993. OIT, Ginebra, Suiza  
+Organización Internacional del Trabajo (OIT). Decimoséptima Conferencia Internacional de Estadísticos del Trabajo, Informe de la Conferencia (2003). OIT, Ginebra, Suiza
+Organización Internacional del Trabajo (OIT). Measuring informality: a Statistical Manual on the informal sector and informal employment (2012) 
+Instituto Nacional de Estadística y Geografía (INEGI). La informalidad laboral: Encuesta Nacional de Ocupación y Empleo. Marco conceptual y metodológico (2014) 
+Programa de las Naciones Unidas para el Desarrollo (PNUD). "Soporte del PNUD para la implementación de la Agenda 2030 para el Desarrollo Sostenible"  Grupo de Naciones
+Unidas para el Desarrollo 
+
+Observations: A partir de 2006, la información utiliza las estimaciones trimestrales de población que genera el Marco de Muestreo de Viviendas del INEGI, con base en el Censo 2020.
+

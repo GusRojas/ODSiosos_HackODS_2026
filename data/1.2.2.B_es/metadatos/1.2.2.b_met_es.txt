@@ -1,0 +1,65 @@
+﻿Title: 1.2.2.b Proporción de hombres, mujeres y niños de todas las edades que viven en la pobreza en todas sus dimensiones, con arreglo a las definiciones nacionales, por desglose geográfico (Municipio o demarcación territorial)
+
+Description: Es el porcentaje de la población de referencia que tiene al menos una carencia social (rezago educativo, acceso a los servicios de salud, acceso a la seguridad social, calidad y espacios de la vivienda, servicios básicos en la vivienda y acceso a la alimentación) y su ingreso es insuficiente para adquirir los bienes y servicios que requiere para satisfacer sus necesidades alimentarias y no alimentarias (Línea de Pobreza por Ingresos)
+
+Modified: 2024-04-24
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Alida Marcela Gutiérrez Landeros
+Coordinadora General de Análisis de la Pobreza
+Insurgentes Sur #810, Colonia Del Valle, C.P. 03100, Benito Juárez, Ciudad de México
+(55) 54-81-72-00, ext. 70075
+amgutierrez@coneval.org.mx
+Jesus Emanuel Paredes Romero
+Director Ejecutivo de Estadística y Análisis Territorial (DEEAT)
+Insurgentes Sur #810, Colonia Del Valle, C.P. 03100, Benito Juárez, Ciudad de México
+(55) 54-81-72-00, ext. 70081
+jparedes@coneval.org.mx
+
+Temporal: 2010-2020
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Quinquenal
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/1.2.2.b_es.zip
+
+Goal: 1. Poner fin a la pobreza en todas sus formas y en todo el mundo 
+
+Target:  Meta 1.2 De aquí a 2030, reducir al menos a la mitad la proporción de hombres, mujeres y niños de todas las edades que viven en la pobreza en todas sus dimensiones con arreglo a las definiciones nacionales
+
+Type of indicator: Global
+
+Algorithm: 1_2_2_b_ES.gif
+
+Description of the indicator: Este indicador resulta de identificar a la población de referencia que cuenta con al menos una carencia social y que su ingreso es insuficiente para satisfacer sus necesidades alimentarias y no alimentarias, dividir dicho número de personas entre la población de referencia total y multiplicar el cociente por 100
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Municipio o demarcación territorial
+
+Opportunity: 1 año */
+
+Source of statistical information used to calculate the indicator: Instituto Nacional de Estadística y Geografía (INEGI)
+
+Date of next update of indicator: 31 de diciembre de 2026 */
+
+Unit of the State responsible for calculating the indicator: Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL). 
+
+Importance and purpose of the indicator: Este indicador está ligado a la Meta 1.2 de reducir al menos a la mitad la proporción de hombres, mujeres y niños de todas las edades que viven en la pobreza en todas sus dimensiones con arreglo a las definiciones nacionales. Permite dar seguimiento a la evolución de la pobreza en México a través del tiempo, como insumo para la generación de estrategias, políticas y acciones de combate a la pobreza
+
+National and/or international reference: Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL). http://www.coneval.org.mx/. 
+
+Observations: 1. La población presentada (total)  tiene un propósito exclusivamente estadístico: está calibrada para que, en las estimaciones de pobreza, la suma de la población municipal sea igual a la población de cada entidad federativa reportada con base en la información del MCS-ENIGH 2010, MEC del MCS-ENIGH 2015 o MEC del MCS-ENIGH 2020  publicados. Por lo anterior, estas cifras de población podrían diferir de las reportadas por el INEGI o CONAPO a nivel municipal
+2. Las estimaciones municipales de pobreza han sido ajustadas a la información reportada a nivel estatal en el MCS-ENGH 2010, en el MEC del MCS-ENIGH  2015 y en el MEC del MCS-ENIGH 2020 publicada por INEGI, de acuerdo con la Metodología para la medición multidimensional de la pobreza establecida por el CONEVAL
+3. En 2015 para los municipios  de Buenaventura (08010), Carichí (08012), Santa Isabel (08024), Temósachic (08063), Urique (08065) en Chihuahua; San Nicolás de los Ranchos (21138) en Puebla; Matías Romero Avendaño (20057), Santa María Chimalapa (20407), San Francisco Chindúa (20140), Santa María Petapa (20427) en Oaxaca y Gral. Plutarco Elías Calles (26070) en Sonora no se puede generar estimaciones de los indicadores debido a que no se dispone de la información en la Encuesta Intercensal 2015 de acuerdo con INEGI
+4. En 2020 para los municipios de Seybaplaya (04012) en Campeche, Honduras de la Sierra (07125) en Chiapas y La Magdalena Tlaltelulco (29048) en Tlaxcala no se puede generar estimaciones de los indicadores debido a que la muestra del Censo de Población y Vivienda 2020 no es suficiente para generar estimaciones de acuerdo con INEGI
+5. Los municipios de San Quintín (02006) en Baja California; Seybaplaya (04012) en Campeche; El Parral (07122), Emiliano Zapata (07123), Mezcalapa (07124), Capitán Luis Ángel Vidal (07120), Rincón Chamula San Pedro (07121) y Honduras de la Sierra (07125) en Chiapas; Coatetelco (17034), Xoxocotla (17035) y Hueyapan en Morelos; Bacalar (23010) y Puerto Morelos (23011) en Quintana Roo son de reciente creación, por lo cual pueden no tener estimaciones 2010, 2015 o 2020
+6.Para más información sobre la medición de pobreza a escala municipal, puede consultar el documento metodológico en: https://www.coneval.org.mx/Medicion/Documents/Pobreza_municipal/2020/Metodologia_pobreza_municipal_2020.pdf
+*/ La actualización del indicador está sujeta a la publicación de los microdatos por parte de INEGI.
+

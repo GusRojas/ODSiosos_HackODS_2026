@@ -1,0 +1,60 @@
+﻿Title: 16.9.1b Porcentaje de hijas e hijos sobrevivientes menores de 5 años cuyo nacimiento se ha registrado ante una autoridad civil por entidad federativa y edad
+
+Description: Porcentaje de hijas e hijos sobrevivientes menores de 5 años cuyo nacimiento se ha registrado ante una autoridad civil, respecto al total de hijas e hijos sobrevivientes de menos de 5 años para cada entidad federativa.
+
+Modified: 2025-01-31
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Octavio Heredia Hernández
+Director General Adjunto de Encuestas Sociodemográficas
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276
+Aguascalientes, Aguascalientes
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Telefóno: 4499105300, Ext. 4322, 4223
+octavio.heredia@inegi.org.mx
+
+Temporal: 2014-2023
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual irregular
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/16.9.1b_es.zip
+
+Goal: 16. Promover sociedades pacíficas e inclusivas para el desarrollo sostenible, facilitar el acceso a la justicia para todos y construir a todos los niveles instituciones eficaces e inclusivas que rindan cuentas 
+
+Target:  Meta 16.9. De aquí a 2030, proporcionar acceso a una identidad jurídica para todos, en particular mediante el registro de nacimientos
+
+Type of indicator: Global
+
+Algorithm: 16.9.1b_ES.gif
+
+Description of the indicator: Hijas e hijos sobrevivientes menores de 5 años registrados ante una autoridad civil se refiere al número de hijas e hijos sobrevivientes registrados, expresado como porcentaje del total de hijas e hijos sobrevivientes menores de 5 años.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional y entidad federativa
+
+Opportunity: 6 meses
+
+Source of statistical information used to calculate the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional sobre la Dinámica Demográfica (ENADID).  https://www.inegi.org.mx/programas/enadid/
+
+Date of next update of indicator: 28 de febrero de 2030
+
+Unit of the State responsible for calculating the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Dirección General de Estadísticas Sociodemográficas.   
+ https://www.inegi.org.mx  
+
+Importance and purpose of the indicator: La inscripción de niñas y niños al nacer es el primer paso para asegurar su reconocimiento ante la ley, salvaguardar sus derechos y garantizar que cualquier violación de estos derechos no desaparezca.
+
+National and/or international reference: Programa de las Naciones Unidas para el Desarrollo (PNUD). Apoyo del PNUD para la implementación de la Agenda 2030 para el Desarrollo Sostenible. Disponible en:   
+ https://www.undp.org/es/publications/apoyo-del-pnud-para-la-implementacion-de-la-agenda-2030-para-el-desarrollo-sostenible 
+
+Observations: Para el cálculo de este indicador se consideró la edad desglosada de la hija e hijo sobreviviente al momento de la entrevista.
+La Encuesta Nacional de la Dinámica Demográfica (ENADID) forma parte de la Información de Interés Nacional.
+

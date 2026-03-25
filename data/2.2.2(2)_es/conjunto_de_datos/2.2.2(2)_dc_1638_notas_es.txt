@@ -1,0 +1,4 @@
+﻿"ND No disponible"
+"Fuente: Instituto Nacional de Salud Pública (INSP). Encuesta Nacional de Salud y Nutrición (ENSANUT). Disponible en:  
+ https://ensanut.insp.mx/ "
+"cvegeo: Clave geoestadística"

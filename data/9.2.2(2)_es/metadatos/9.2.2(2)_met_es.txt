@@ -1,0 +1,60 @@
+﻿Title: 9.2.2(2) Ocupación en la manufactura como proporción del empleo total, desglosada por sexo (1995-2020)
+
+Description: Proporción de la población ocupada en la industria manufacturera respecto de la población ocupada total.
+
+Modified: 2022-05-02
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Lic. Antonio Amerlinck Assereto
+Director de Estudios e Investigación Laboral. Dirección General de Investigación y Estadísticas del Trabajo
+Boulevard Adolfo López Mateos. No. 1968. Colonia Los Alpes, 01010. Alcaldía Alvaro Obregón, Ciudad de México
+(55) 2000 5463, 2000 5300, ext. 63263
+aamerlinck@stps.gob.mx
+
+Temporal: 1995-2020
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/9.2.2(2)_es.zip
+
+Goal: 9. Construir infraestructuras resilientes, promover la industrialización inclusiva y sostenible y fomentar la innovación 
+
+Target:  Meta 9.2 Promover una industrialización inclusiva y sostenible y, de aquí a 2030, aumentar significativamente la contribución de la industria al empleo y al producto interno bruto, de acuerdo con las circunstancias nacionales, y duplicar esa contribución en los países menos adelantados
+
+Type of indicator: Global
+
+Algorithm: 9.2.2(2)_ES.gif
+
+Description of the indicator: Este indicador se calcula como el número de personas empleadas en el sector de la industria manufacturera, dividido entre el empleo total. Los ocupados se definen como todas aquellas personas de 15 años y más que, durante el período de referencia, se dedicaron a cualquier actividad para producir bienes o prestar servicios.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: Actual
+
+Source of statistical information used to calculate the indicator: Instituto Nacional de Estadística y Geografía (INEGI) y Secretaría del Trabajo y Previsión Social (STPS). 
+ 1995-2004: Encuesta Nacional de Empleo (ENE), con proyecciones de población basadas en el Conteo de Población y Vivienda 2005. 
+ A partir de 2005: Encuesta Nacional de Ocupación y Empleo (ENOE), con proyecciones de población basadas en el Censo de Población y Vivienda 2010. 
+
+Date of next update of indicator: Serie que ya no se actualiza
+
+Unit of the State responsible for calculating the indicator: Secretaría del Trabajo y Previsión Social (STPS). 
+
+Importance and purpose of the indicator: Este indicador representa la contribución de la manufactura en la creación de empleo. Refleja el grado de desarrollo industrial del país. Asimismo, cuando esta tasa deja de aumentar en forma sostenida, puede ser el resultado de un incremento sustancial en la productividad de la mano de obra, o bien de una pérdida de dinamismo de las actividades en este sector.
+
+National and/or international reference: Organización de las Naciones Unidas para el Desarrollo Industrial (ONUDI), Informe del desarrollo industrial, 2013. ”La creación sostenida de empleo, el rol de la industria
+manufacturera y el cambio estructural". ONUDI, Viena, 2013 
+
+Observations: 1. La información de la Encuesta Nacional de Empleo (ENE) está conceptualmente homologada a la Encuesta Nacional de Ocupación y Empleo (ENOE).
+2. Los datos de 1995 a 1999 corresponden al segundo trimestre de cada año. Los datos de 2000 se calculan con el promedio aritmético de los trimestres segundo, tercero y cuarto.
+3. Los datos absolutos de 1995 a 2004 fueron generados utilizando el factor de expansión correspondiente a las proyecciones de población elaboradas usando como base el Conteo de Población y Vivienda 2005.
+4. Los datos absolutos correspondientes al periodo 2005-2020 se generaron utilizando el factor de expansión correspondiente a las proyecciones de población revisadas por el Consejo Nacional de Población (CONAPO), las cuales fueron elaboradas usando como base el Censo de Población y Vivienda 2010 y se difundieron en abril de 2013. 
+

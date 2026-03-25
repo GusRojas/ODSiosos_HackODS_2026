@@ -1,0 +1,69 @@
+﻿Title: 16n.2.1 Porcentaje de personas de 18 años y más que identifica a la policía estatal y manifiesta que le genera confianza
+
+Description: Mide el porcentaje de la población de 18 años y más que identifica a la Policía Estatal y manifiesta que ésta le genera mucha confianza o algo de confianza respecto al total de la población de 18 años y más que identifica a la Policía Estatal.
+
+Modified: 2025-11-27
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Centro de atención a usuarios INEGI
+Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276,
+Aguascalientes, Aguascalientes, Aguascalientes, 
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Nacional sin costo: 800 111 46 34 
+ Internacional: (código internacional) + (52)+(449) 149 1300
+atencion.usuarios@inegi.org.mx
+Dr. Dwight D. Dyer Leal
+Titular de la Unidad de Estadísticas de Gobierno, Seguridad Pública y Justicia
+Av. Patriotismo 711. Colonia San Juan, delegación Benito Juárez, CDMX.
+5552781000, Ext:321592
+dyer@inegi.org.mx
+
+Temporal: 2016-2025
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/16n.2.1_es.zip
+
+Goal: 16. Promover sociedades pacíficas e inclusivas para el desarrollo sostenible, facilitar el acceso a la justicia para todos y construir a todos los niveles instituciones eficaces e inclusivas que rindan cuentas 
+
+Target:  Meta 16n.2 Recuperar el Estado de derecho y garantizar la igualdad de acceso a la justicia para todos
+
+Type of indicator: Nacional
+
+Algorithm: 16n.2.1_ES.gif
+
+Description of the indicator: Población de 18 años y más que identifica a la policía estatal y manifestó que ésta le inspira mucha confianza o algo de confianza, entre la población de 18 años y más que identifica a la policía estatal, multiplicada por 100. Desagregada por sexo (total; hombres; mujeres) y entidad federativa.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional y entidad federativa
+
+Opportunity: Los datos se refieren al periodo de marzo y abril del año en que se realiza la encuesta fuente (ENVIPE), que se publica en el segundo semestre del año.
+
+Source of statistical information used to calculate the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional de Victimización y Percepción sobre Seguridad Pública (ENVIPE).
+
+Date of next update of indicator: 31 de diciembre de 2026
+
+Unit of the State responsible for calculating the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Unidad de Estadísticas de Gobierno, Seguridad Pública y Justicia.   
+ https://www.inegi.org.mx  
+
+Importance and purpose of the indicator: Conocer los niveles de confianza que tiene la población en la Policía Estatal. 
+
+National and/or international reference: Guidelines on Measuring Trust. OCDE. 2017.   
+ https://www.oecd.org/governance/oecd-guidelines-on-measuring-trust-9789264278219-en.htm 
+Handobook on Governance Statistics. 2020   
+ https://unstats.un.org/unsd/statcom/51st-session/documents/Handbook_on_GovernanceStatistics-Draft_for_global_consultation-E.pdf 
+
+Observations: El nivel de confianza se refiere a las personas que contestaron mucha confianza y algo de confianza en la policía estatal de la pregunta 5.4 de la ENVIPE.
+Para 2020, debido a la emergencia sanitaria generada por el virus SARS-CoV2 (COVID-19), el levantamiento de la información se realizó del 17 al 31 de marzo y del 27 de julio al 04 de septiembre. Las estimaciones presentadas corresponden al periodo de levantamiento del 17 al 31 de marzo.
+Este indicador forma parte del Catálogo Nacional de Indicadores (CNI).
+

@@ -1,0 +1,57 @@
+﻿Title: 4.a.1.f Proporción de escuelas con sanitarios independientes por entidad federativa y nivel educativo
+
+Description: Es el porcentaje de escuelas por nivel de educación básica con acceso a instalaciones y servicios determinados.
+
+Modified: 2025-10-30
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: César Morón Rojas
+Director General de Planeación, Programación y Estadística Educativa
+Av. Universidad 1200, Colonia Xoco, 3330, Benito Juárez, Ciudad de México
+55 3601 2511, ext. 54760
+cesar.mr@nube.sep.gob.mx
+
+Temporal: 2018-2019-2024-2025
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/4.a.1.f_es.zip
+
+Goal: 4. Garantizar una educación inclusiva y equitativa de calidad y promover oportunidades de aprendizaje permanente para todos 
+
+Target:  Meta 4.a. Construir y adecuar instalaciones educativas que tengan en cuenta las necesidades de los niños y las personas con discapacidad y las diferencias de género, y que ofrezcan entornos de aprendizaje seguros, no violentos, inclusivos y eficaces para todos
+
+Type of indicator: Global
+
+Algorithm: 4_a_1_f_ES.gif
+
+Description of the indicator: El indicador resulta del número de escuelas, de un nivel educativo determinado, que cuentan con acceso a las principales condiciones (instalaciones y servicios) expresado como porcentaje del total de las escuelas en ese nivel de educación.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional y entidad federativa
+
+Opportunity: 1 año
+
+Source of statistical information used to calculate the indicator: Secretaría de Educación Pública (SEP). Dirección General de Planeación, Programación y Estadística Educativa. Sistema de Estadísticas Continuas de Educación del Formato 911. Disponible en:  https://www.planeacion.sep.gob.mx/estadisticaeducativas.aspx
+
+Date of next update of indicator: 30 de octubre de 2026
+
+Unit of the State responsible for calculating the indicator: Secretaría de Educación Pública (SEP). Dirección General de Planeación, Programación y Estadística Educativa (DGPPYEE).  
+ https://www.planeacion.sep.gob.mx/ 
+
+Importance and purpose of the indicator: El indicador mide el acceso en las escuelas a los servicios básicos clave y las instalaciones necesarias para garantizar un entorno de aprendizaje seguro y eficaz para todos los estudiantes.
+Un alto valor indica que las escuelas tienen buen acceso a los servicios e instalaciones pertinentes. Idealmente, cada escuela debería tener acceso a todos estos servicios e instalaciones.
+
+National and/or international reference: Sin referencia 
+
+Observations: El indicador mide la existencia en las escuelas del servicio o instalación dada, pero no su calidad o estado operacional.
+No incluye la información de las escuelas de cursos comunitarios del Consejo Nacional de Fomento Educativo (CONAFE), debido a características propias de los servicios que prestan.
+

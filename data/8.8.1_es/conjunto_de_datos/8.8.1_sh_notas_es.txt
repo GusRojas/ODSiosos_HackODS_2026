@@ -1,0 +1,3 @@
+﻿"Nota: Debido a que a medida que el IMSS declara los casos de riesgos de trabajo como terminados, éstos se incorporan a la estadística del año de ocurrencia del riesgo. Es por ello que los datos pueden aumentar cada año, incluso en los años menos recientes. Las cifras pueden no coincidir con las publicadas en la Memoria Estadística del IMSS. Los datos se presentan clasificados por el año de ocurrencia del riesgo de trabajo (casos terminados). De 2008 a 2012, el total incluye sexo no especificado."
+"Cifras preliminares a partir de 2008"
+"Fuente: Secretaría del Trabajo y Previsión Social (STPS)  con información del Instituto Mexicano del Seguro Social (IMSS), Coordinación de Salud en el Trabajo y la Consulta Dinámica (CUBOS). "

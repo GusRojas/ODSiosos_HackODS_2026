@@ -1,0 +1,2 @@
+﻿"Fuente: Instituto Nacional para la Educación de los Adultos (INEA), utilizando la "Metodología para el cálculo de la estimación del rezago educativo anual". "
+"cvegeo: Clave geoestadística"

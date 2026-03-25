@@ -1,0 +1,57 @@
+﻿Title: 4.6.1.a Porcentaje de población en un grupo de edad determinado que alcanza por lo menos un nivel fijo de competencia funcional en alfabetización, desglosado por sexo
+
+Description: Es el porcentaje de jóvenes de 15 a 24 años que lograron, por lo menos, un nivel mínimo de competencia funcional en alfabetización.
+
+Modified: 2025-10-30
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+Keyword: Población estudiantil, concursos matemáticas y español
+
+ContactPoint: César Morón Rojas
+Director General de Planeación, Programación y Estadística Educativa
+Av. Universidad 1200, Colonia Xoco, 3330, Benito Juárez, Ciudad de México
+55 3601 2511, ext. 54760
+cesar.mr@nube.sep.gob.mx
+
+Temporal: 1990-2024
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/4.6.1.a_es.zip
+
+Goal: 4. Garantizar una educación inclusiva y equitativa de calidad y promover oportunidades de aprendizaje permanente para todos 
+
+Target:  Meta 4.6 De aquí a 2030, asegurar que todos los jóvenes y una proporción considerable de los adultos, tanto hombres como mujeres, estén alfabetizados y tengan nociones elementales de aritmética
+
+Type of indicator: Global
+
+Algorithm: 4.6.1.a_ES.gif
+
+Description of the indicator: Este indicador resulta de dividir a la población alfabeta del grupo de edad en el año entre el total de la población de este grupo de edad en el mismo año, multiplicado por 100.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional y entidad federativa
+
+Opportunity: 1 año
+
+Source of statistical information used to calculate the indicator: Instituto Nacional para la Educación de los Adultos (INEA), utilizando la "Metodología para el cálculo de la estimación del rezago educativo anual".
+
+Date of next update of indicator: 30 de octubre de 2026
+
+Unit of the State responsible for calculating the indicator: Secretaría de Educación Pública (SEP). Instituto Nacional para la Educación de los Adultos (INEA).  
+ https://www.gob.mx/inea/ 
+
+Importance and purpose of the indicator: Una tasa elevada de alfabetización entre personas de 15 a 24 años de edad sugiere un alto nivel de participación y retención en la educación primaria y la efectividad de este nivel educativo para impartir las competencias básicas de lecto-escritura. Debido a que las personas contempladas en este grupo de edad están iniciando su vida adulta, monitorear sus niveles de alfabetismo es importante en términos de las políticas nacionales de recursos humanos, así como para rastrear y pronosticar su avance en el ámbito de la alfabetización de adultos.
+
+National and/or international reference: Instituto de Estadísticas de la UNESCO (UIS).  http://data.uis.unesco.org/ 
+
+Observations: El nivel mínimo de competencia será medido, de forma relativa, con respecto a una nueva escala de alfabetización, actualmente en desarrollo.
+

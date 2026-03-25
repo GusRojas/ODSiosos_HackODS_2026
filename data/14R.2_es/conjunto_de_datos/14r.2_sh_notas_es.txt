@@ -1,0 +1,8 @@
+﻿"Nota: 
+1970/1980 Corresponde a las décadas de la toma de fotografías aéreas, insumo para elaborar el mapa Distribución de los manglares en México en 1970 -1980.
+La periodicidad quinquenal se dio a partir del año de evaluación 2005. El último dato se publicó en enero de 2021 y corresponde al año 2020.
+Los detalles del aumento de superficie en 2020 se encuentran en la publicación abajo mencionada (Velázquez-Salazar et al. 2021)."
+"Fuente: 
+- CONABIO. Sistema de Monitoreo de Manglares de México (SMMM). [Fecha de consulta: Mayo de 2023]. Disponible en:  https://biodiversidad.gob.mx/monitoreo/smmm
+- Velázquez Salazar, Samuel et al. 2021. Manglares de México: Actualización y Análisis de los datos 2020. CONABIO. México. [Fecha de consulta: Mayo de 2023] Disponi
+ble en:  https://bioteca.biodiversidad.gob.mx/janium/Documentos/15638.pdf"

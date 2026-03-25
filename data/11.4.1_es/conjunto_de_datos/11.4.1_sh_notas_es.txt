@@ -1,0 +1,5 @@
+﻿"Cifras preliminares a partir de 2020"
+"Fuente: 
+Instituto Nacional de Estadística y Geografía (INEGI). Sistema de Cuentas Nacionales de México. Cuentas Económicas y Ecológicas de México, 2021 preliminar. Año base
+ 2013. (01 de diciembre de 2022).
+Consejo Nacional de Población (CONAPO), Proyecciones de la población de México 2016-2050 y Conciliación Demográfica de México, 1950 -2015 (Septiembre de 2018)"

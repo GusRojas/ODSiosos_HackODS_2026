@@ -1,0 +1,54 @@
+﻿Title: 5n.2.1 Porcentaje de certificados y títulos expedidos a mujeres como sujetos agrarios con respecto a los hombres
+
+Description: Porcentaje de certificados y títulos expedidos a mujeres como sujetos agrarios con respecto a los hombres.
+
+Modified: 2022-11-24
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Abraham Issaí Nuñez Morales
+Subdirector de Vinculación de la Unidad de Planeación y Desarrollo Institucional
+Nuevo León No. 210 Colonia Hipódromo Condesa, Del. Cuauhtémoc 06100 Ciudad de México
+5568209700 Ext. 50710
+abraham.nunez@sedatu.gob.mx
+
+Temporal: 2016-2021
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/5n.2.1_es.zip
+
+Goal: 5. Lograr la igualdad de género y empoderar a todas las mujeres y las niñas 
+
+Target:  Meta 5n.2 Igualdad de oportunidad en el acceso a recursos económicos, acceso a la propiedad y servicios financieros para las mujeres
+
+Type of indicator: Nacional
+
+Algorithm: 5n.2.1_ES.gif
+
+Description of the indicator: Es el porcentaje de mujeres ejidatarias que cuentan con por lo menos un certificado parcelario o de uso comun vigente  o aquellos que tienen la calidad de ejidatario aun cuando no se les han expedido documentos, con respecto a los hombres.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional y entidad federativa
+
+Opportunity: 2023
+
+Source of statistical information used to calculate the indicator: Elaboración propia con base en la información Sistema Integral de Modernización Catastral y Registral (SIMCR) del Registro Agrario Nacional (RAN)
+
+Date of next update of indicator: 01 de junio de 2023
+
+Unit of the State responsible for calculating the indicator: Secretaría de Desarrollo Agrario, Territorial y Urbano (SEDATU). Unidad de Planeación y Desarrollo Institucional.
+
+Importance and purpose of the indicator: El indicador mide el avance que se tiene en reducir la desigualdad en materia de certeza juridica y derechos de la propiedad del Sector Agrario.
+
+National and/or international reference: Agenda 2030
+
+Observations: Solo se consideran a las mujeres ejidatarias que cuentan con por lo menos un certificado parcelario o de uso común vigente o aquellos que tienen la calidad de ejidatario aun cuando no se les han expedido documentos, con respecto a los hombres. No se toma en consideración a la población ejidataria que son comuneros, posesionarios y avecindados.
+

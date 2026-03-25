@@ -1,0 +1,59 @@
+﻿Title: 9n.3.1 Porcentaje del Personal Ocupado generado por las MIPyMEs (comprende asalariados, no asalariados y empleos suministrados por otra razón social)
+
+Description: Porcentaje que representa el Personal Ocupado en las MIPyMEs con respecto al Personal Ocupado en todas las empresas.
+
+Modified: 2025-10-02
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Centro de atención a usuarios INEGI
+Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276,
+Aguascalientes, Aguascalientes, Aguascalientes, 
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Nacional sin costo: 800 111 46 34 
+ Internacional: (código internacional) + (52)+(449) 149 1300
+atencion.usuarios@inegi.org.mx
+
+Temporal: 2003-2023
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Quinquenal
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/9n.3.1_es.zip
+
+Goal: 9. Construir infraestructuras resilientes, promover la industrialización inclusiva y sostenible y fomentar la innovación 
+
+Target:  Meta 9n.3 Aumentar la contribución de la micro, pequeña y mediana empresa al empleo y al PIB
+
+Type of indicator: Nacional
+
+Algorithm: 9n.3.1_ES.gif
+
+Description of the indicator: Porcentaje que representa el Personal Ocupado en las MIPyMEs con respecto al Personal Ocupado en todas las empresas.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional y entidad federativa
+
+Opportunity: 10 días después de publicados los resultados definitivos
+
+Source of statistical information used to calculate the indicator: Censos Económicos. Instituto Nacional de Estadística y Geografía (INEGI)
+
+Date of next update of indicator: No definida
+
+Unit of the State responsible for calculating the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Unidad de Estadísticas Económicas.   
+ https://www.inegi.org.mx  
+
+Importance and purpose of the indicator: En 2018 se registraron poco más de 4.1 millones de micro, pequeñas y medianas empresas (MIPyMES) en México, las que se clasifican en los ectores de manufacturas, comercio y servicios privados no financieros. Lo que las ubica como un importante motor para la economía del país. 
+Uno de los ODS refiere al aumento de la contribución de la micro, pequeña y mediana empresa al empleo y al PIB. 
+Esta fuente es el instrumento idóneo para generar un indicador de esta naturaleza con alta calidad dado que eS el  único que va a todo eL universo de unidAdes económicas. Además, los valores de este porcentaje no cambian mucho año con año. La ENOE tiene el problema de no captar adecuadamente el tamaño del establecimiento en donde se trabaja (mucho menos en empresas) pudiendo tener serias desviaciones. 
+
+Observations: Se verificó la factibilidad de producción con la Dirección General de Estadísticas Económicas del INEGI.
+

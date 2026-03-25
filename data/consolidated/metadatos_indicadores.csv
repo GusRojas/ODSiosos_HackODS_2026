@@ -1,0 +1,334 @@
+indicator_id,title,ods_number,unit,loaded,n_observations
+1.1.1.A,"1.1.1.a Proporción de la población que vive por debajo del umbral internacional de la pobreza (1.90 dólares diarios), por desglose geográfico",1,Porcentaje,False,0
+1.1.1,"1.1.1 Proporción de la población que vive por debajo del umbral internacional de la pobreza (1.90 dólares diarios), desglosada por sexo, edad, situación laboral y ubicación geográfica (urbano y rural)",1,Porcentaje,True,16
+1.2.1(1),"1.2.1(1) Proporción de la población que vive por debajo del umbral nacional de la pobreza, desglosada por sexo y edad (2016 - 2022)",1,Porcentaje,True,4
+1.2.1(2),"1.2.1(2) Proporción de la población que vive por debajo del umbral nacional de la pobreza, desglosada por sexo y edad (2008 - 2014) [Histórico]",1,Porcentaje,True,4
+1.2.1.A,"1.2.1.a Proporción de la población que vive por debajo del umbral nacional de la pobreza, por desglose geográfico (Entidad federativa)",1,Porcentaje,True,4
+1.2.1.B,"1.2.1.b Proporción de la población que vive por debajo del umbral nacional de la pobreza, por desglose geográfico (Municipio o demarcación territorial)",1,Porcentaje,False,0
+1.2.2(1),"1.2.2(1) Proporción de hombres, mujeres y niños de todas las edades que viven en la pobreza en todas sus dimensiones, de acuerdo con las definiciones nacionales (2016 - 2022)",1,Porcentaje,True,4
+1.2.2(2),"1.2.2(2) Proporción de hombres, mujeres y niños de todas las edades que viven en la pobreza en todas sus dimensiones, de acuerdo con las definiciones nacionales (2008 - 2014) [Histórico]",1,Porcentaje,True,4
+1.2.2.A,"1.2.2.a Proporción de hombres, mujeres y niños de todas las edades que viven en la pobreza en todas sus dimensiones, con arreglo a las definiciones nacionales, por desglose geográfico  (Entidad federativa)",1,Porcentaje,False,0
+1.2.2.B,"1.2.2.b Proporción de hombres, mujeres y niños de todas las edades que viven en la pobreza en todas sus dimensiones, con arreglo a las definiciones nacionales, por desglose geográfico (Municipio o demarcación territorial)",1,Porcentaje,False,0
+1.3.1.A,"1.3.1.a Proporción de la población cubierta por sistemas o niveles mínimos de protección social, por desglose geográfico",1,Porcentaje,False,0
+1.3.1.,"1.3.1. Proporción de la población cubierta por sistemas o niveles mínimos de protección social, desglosada por sexo y grupos edad",1,Porcentaje,True,4
+1.4.1,1.4.1 Proporción de la población que vive en hogares con acceso a los servicios básicos,1,Porcentaje,True,5
+1.4.2,"1.4.2 Proporción del total de la población adulta con derechos seguros de tenencia de la tierra que posee documentación reconocida legalmente al respecto, desglosada por sexo y tipo de tenencia",1,Porcentaje,True,1
+1.5.1,"1.5.1 Número de personas muertas, desaparecidas y afectadas directamente atribuido a desastres por cada 100 000 habitantes",1,Tasa por cada 100 mil habitantes,True,25
+1.5.4,1.5.4 Proporción de gobiernos locales que adoptan y aplican estrategias locales de reducción del riesgo de desastres en consonancia con las estrategias nacionales de reducción del riesgo de desastres,1,Porcentaje,True,3
+1.A.1,1.a.1 Total de las subvenciones de asistencia oficial para el desarrollo de todos los donantes que se centran en la reducción de la pobreza como porcentaje del ingreso nacional bruto del país receptor,1,Porcentaje,True,4
+1.A.2,"1.a.2 Proporción del gasto público total en servicios esenciales (educación, salud y protección social)",1,Porcentaje,True,15
+10.1.1.A,"10.1.1.a Tasas de crecimiento per cápita de los gastos o ingresos de los hogares del 40% más pobre de la población y la población total, por desglose geográfico (Entidad federativa)",10,Porcentaje,False,0
+10.1.1.,"10.1.1. Tasas de crecimiento per cápita de los gastos o ingresos de los hogares del 40% más pobre de la población y la población total , desglosada por sexo, edad, ámbito de residencia, pertenencia étnica y personas con discapacidad",10,Porcentaje,True,3
+10.2.1A,"10.2.1a Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, desglosada por sexo, edad y personas con discapacidad, por desglose geográfico (Entidad federativa)",10,Porcentaje,False,0
+10.2.1,"10.2.1 Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, desglosada por sexo, edad y personas con discapacidad",10,Porcentaje,True,4
+10.3.1.,10.3.1. Proporción de la población que declara haberse sentido personalmente discriminada o acosada en los últimos 12 meses por motivos de discriminación prohibidos por el derecho internacional de los derechos humanos,10,Porcentaje,True,2
+10.4.1,10.4.1 Proporción laboral del PIB que comprende los salarios y las transferencias de protección social,10,Porcentaje,True,22
+10N.1.1,10n.1.1 Crecimiento del ingreso corriente de los hogares por deciles,10,Crecimiento del ingreso corriente promedio de los hogares,True,4
+10N.2.1,10n.2.1 Porcentaje que representa el ingreso de los dos deciles más bajos sobre los dos deciles más altos,10,Porcentaje,True,5
+10N.3.1,"10n.3.1 Porcentaje de la población de 18 años y más, bisexual, gay o lesbiana u otra orientación  que declaró la negación de sus derechos en los últimos cinco años",10,Porcentaje,True,2
+10R.4.1A,10r.4.1a Índice de Gini con transferencias,10,Índice,True,5
+10R.4.1B,10r.4.1b Índice de Gini sin transferencias,10,Índice,True,5
+11.1.1,11.1.1 Proporción de la población urbana que habita en viviendas precarias,11,Porcentaje,True,15
+11.2.1,"11.2.1 Proporción de la población que tiene fácil acceso al transporte público, desglosada por sexo, edad y personas con discapacidad",11,Porcentaje,True,1
+11.3.1,11.3.1 Relación entre la tasa de consumo de tierras y la tasa de crecimiento de la población,11,Ratio,True,1
+11.3.2,11.3.2 Proporción de ciudades con una estructura de participación directa de la sociedad civil en la planificación y la gestión urbanas que opera regular y democráticamente,11,Porcentaje,True,5
+11.4.1,11.4.1 Total de gasto público per cápita en la protección ambiental,11,Pesos corrientes,True,19
+11.5.1,"11.5.1 Número de personas muertas, desaparecidas y afectadas directamente atribuido a desastres por cada 100 000 habitantes",11,Tasa por cada 100 mil habitantes.,True,23
+11.6.1.A,11.6.1.a Porcentaje de residuos sólidos urbanos recolectados con disposición final adecuada,11,Porcentaje,True,6
+11.6.2.A,11.6.2.a Niveles medios anuales de partículas suspendidas (PM2.5) en las ciudades (ponderado por la población),11,Microgramos por metro cúbico (µg/m3),True,3
+11.6.2.B,11.6.2.b Niveles medios anuales de partículas suspendidas (PM10) en las ciudades (ponderado por la población),11,Microgramos por metro cúbico (µg/m3),True,3
+11.7.1.,11.7.1. Proporción media de la superficie edificada de las ciudades que se dedica a espacios abiertos para uso público de todos,11,Porcentaje,True,1
+11N.1.1,11n.1.1 Porcentaje de viviendas en rezago habitacional,11,Porcentaje,True,2
+11N.2.1,11n.2.1 Superficie de áreas verdes urbanas per cápita,11,Metros cuadrados por habitante,True,1
+11R.2.1A,"11r.2.1a Tiempo promedio (en minutos) de traslado al trabajo, desglosado por sexo",11,Promedio (minutos por semana),True,3
+11R.2.1B,"11r.2.1b Tiempo promedio (en minutos) de traslado al trabajo, desglosado por hablantes de lengua indígena",11,Promedio (minutos por semana),True,3
+11R.2.1C,"11r.2.1c Tiempo promedio (en minutos) de traslado al trabajo, desagregado por tamaño de localidad",11,Promedio (minutos por semana),True,3
+11R.2.1D,"11r.2.1d Tiempo promedio (en minutos) de traslado al trabajo, desglosado por grupo de edad",11,Promedio (minutos por semana),True,3
+12.2.2.A,12.2.2.a Consumo material interno en términos absolutos,12,Toneladas,True,22
+12.2.2.B,12.2.2.b Consumo material interno per cápita,12,Toneladas per cápita,True,22
+12.2.2.C,12.2.2.c Consumo material interno por PIB,12,Kilogramos por pesos mexicanos a precios de 2018,True,22
+12.5.1.A,12.5.1.a Porcentaje de residuos sólidos urbanos recolectados reciclables,12,Porcentaje,True,6
+12.B.1,12.b.1 Implementación de herramientas contables estándar para supervisar los aspectos económicos y ambientales de la sostenibilidad del turismo,12,Número de tablas,True,22
+12N.1.1,12n.1.1 Porcentaje de municipios con disposición adecuada de residuos sólidos urbanos,12,Porcentaje,True,6
+12N.2.1,12n.2.1 Uso de fertilizante fosfatados (Kg/Ha),12,Kilogramos por Hectárea (Kg/Ha),True,11
+12R.5.1.A,12r.5.1.a Proporción de residuos sólidos urbanos recolectados de manera selectiva respecto del total de residuos sólidos urbanos recolectados,12,Porcentaje,True,7
+13.1.1,"13.1.1 Número de personas muertas, desaparecidas y afectadas directamente atribuido a desastres por cada 100 000 habitantes",13,Tasa por cada 100 mil habitantes.,True,23
+13N.1.1.A,13n.1.1.a Excedencia Anual Acumulada Promedio de Partículas PM2.5 respecto del nivel crítico de protección a la salud,13,Microgramos por metro cúbico (µg/m3),True,6
+13N.1.1.B,13n.1.1.b Excedencia Anual Acumulada Promedio de Ozono(O3) respecto del nivel crítico de protección a la salud,13,Partes por millón (ppm),True,6
+13N.1.2,13n.1.2 Fortalecimiento de capacidades adaptativas de los municipios para responder al cambio climático,13,Porcentaje,True,3
+13N.2.1,13n.2.1 Intensidad de carbono por la quema de combustibles fósiles,13,Kilogramos de CO2 (Kg CO2) /PIB en millones de dólares a paridad de poder de compra corriente (ppc),True,32
+13R.1.1,"13r.1.1 Ocurrencia de eventos naturales extremos y desastres, desglosada por tipo",13,Número de desastres,True,25
+13R.3.1,"13r.3.1 Emisiones de gases de efecto invernadero, desglosadas por sector (actividad económica)",13,Gigagramos de bióxido de carbono equivalente (Gg CO2e),True,30
+14.5.1,14.5.1 Cobertura de las zonas protegidas en relación con las zonas marinas,14,Porcentaje,True,32
+14.A.1,14.a.1 Proporción del Presupuesto Federal para Investigación Científica y Desarrollo Experimental asignado a la Secretaría de Marina,14,Porcentaje,True,19
+14R.2,14r.2 Área de manglares,14,Hectáreas,True,15
+14R.5.1,14r.5.1 Cobertura de las zonas protegidas en relación con las zonas marinas,14,Porcentaje,True,32
+15.1.1,15.1.1 Superficie forestal como proporción de la superficie total,15,Porcentaje,True,15
+15.1.2,"15.1.2 Proporción de lugares importantes para la diversidad biológica terrestre y del agua dulce que forman parte de zonas protegidas, desglosada por tipo de ecosistema",15,Porcentaje,True,31
+15.4.1,15.4.1 Lugares importantes para la biodiversidad de las montañas incluidos en zonas protegidas,15,Porcentaje,True,26
+15.4.2.,15.4.2. Índice de cobertura verde de las montañas,15,Porcentaje,True,1
+15.5.1,15.5.1 Proporción de especies en peligro de extinción,15,Porcentaje,False,0
+15N.1.1,"15n.1.1 Porcentaje de ANP terrestres que incrementan o mantienen su superficie con cobertura vegetal, o que presentan pérdidas menores al 5%",15,Porcentaje,True,1
+15N.2.1,15n.2.1 Tasa anual de deforestación bruta a nivel nacional,15,Porcentaje,True,24
+15R.1A,15r.1a Cobertura de las zonas terrestres protegidas en relación con el territorio terrestre,15,Porcentaje,True,32
+15R.1B,"15r.1b Área de humedales incluidos en la Convención relativa a los Humedales de Importancia Internacional, especialmente como Hábitat de Aves Acuáticas (Convención de Ramsar)",15,Hectáreas,True,39
+16.1.1,"16.1.1 Número de defunciones por homicidio por cada 100 000 habitantes, desglosado por sexo y edad",16,Casos por cada 100 000 habitantes,True,15
+16.1.3.A,16.1.3.a Proporción de la población que ha sufrido violencia física en los últimos 12 meses,16,Porcentaje,True,10
+16.1.3.B,16.1.3.b Proporción de la población que ha sufrido violencia psicológica en los últimos 12 meses,16,Porcentaje,True,10
+16.1.3.C,16.1.3.c Proporción de la población que ha sufrido violencia sexual en los últimos 12 meses,16,Porcentaje,True,10
+16.1.4,16.1.4 Proporción de la población que se siente segura al caminar sola por la noche en su zona de residencia,16,Porcentaje,True,5
+16.3.1.A,16.3.1.a Proporción de víctimas de violencia física en los últimos 12 meses que han notificado su victimización a las autoridades competentes u otros mecanismos de resolución de conflictos reconocidos oficialmente,16,Porcentaje,True,10
+16.3.1.B,16.3.1.b Proporción de víctimas de violencia psicológica en los últimos 12 meses que han notificado su victimización a las autoridades competentes u otros mecanismos de resolución de conflictos reconocidos oficialmente,16,Porcentaje,True,10
+16.3.1.C,16.3.1.c Proporción de víctimas de violencia sexual en los últimos 12 meses que han notificado su victimización a las autoridades competentes u otros mecanismos de resolución de conflictos reconocidos oficialmente,16,Porcentaje,False,0
+16.3.1,16.3.1 Proporción de víctimas de violencia en los últimos 12 meses que han notificado su victimización a las autoridades competentes u otros mecanismos de resolución de conflictos reconocidos oficialmente,16,Porcentaje,True,10
+16.3.2,16.3.2 Proporción de detenidos que no han sido condenados en el conjunto de la población reclusa total,16,Porcentaje,True,9
+16.5.1,"16.5.1 Proporción de personas que han tenido al menos un contacto con un funcionario público y que han pagado un soborno a un funcionario público, o a las que un funcionario público les ha pedido un soborno, durante los últimos 12 meses",16,Porcentaje,True,5
+16.5.2,"16.5.2 Proporción de negocios que han tenido al menos un contacto con un funcionario público y que han pagado un soborno a un funcionario público, o a los que un funcionario público les ha pedido un soborno, durante los últimos 12 meses",16,Porcentaje,True,5
+16.6.1,"16.6.1 Gastos primarios del gobierno como proporción del presupuesto aprobado original, desglosados por sector (o por códigos presupuestarios o elementos similares)",16,Porcentaje,True,7
+16.6.2.A,16.6.2.a Satisfacción con el servicio de educación pública obligatoria,16,Porcentaje,True,6
+16.6.2.B,16.6.2.b Satisfacción con el servicio de educación pública universitaria,16,Porcentaje,True,6
+16.7.1B,16.7.1b Representatividad de grupos poblacionales en las administraciones públicas,16,Ratio,False,0
+16.7.1C,16.7.1c Representatividad de grupos poblacionales en el poder judicial,16,Ratio,False,0
+16.7.2.,16.7.2. Proporción de la población que considera que la adopción de decisiones es inclusiva y participativa,16,Porcentaje,True,1
+16.9.1A,16.9.1a Porcentaje de hijas e hijos sobrevivientes menores de 5 años cuyo nacimiento se ha registrado ante una autoridad civil por edad según sexo,16,Porcentaje,True,3
+16.9.1B,16.9.1b Porcentaje de hijas e hijos sobrevivientes menores de 5 años cuyo nacimiento se ha registrado ante una autoridad civil por entidad federativa y edad,16,Porcentaje,True,3
+16.B.1.,16.b.1. Proporción de la población que declara haberse sentido personalmente discriminada o acosada en los últimos 12 meses por motivos de discriminación prohibidos por el derecho internacional de los derechos humanos.,16,Porcentaje,True,2
+16N.1.1,16n.1.1 Prevalencia delictiva en personas de 18 años y más,16,Porcentaje,True,15
+16N.1.2,16n.1.2 Prevalencia delictiva en unidades económicas,16,Porcentaje,True,7
+16N.2.1,16n.2.1 Porcentaje de personas de 18 años y más que identifica a la policía estatal y manifiesta que le genera confianza,16,Porcentaje,True,10
+16N.2.2,16n.2.2 Porcentaje de personas de 18 años y más que identifica a los Ministerios Públicos y Fiscalías estatales y manifiesta que les generan confianza,16,Porcentaje,True,10
+16N.2.3,"16n.2.3 Porcentaje de delitos ocurridos y denunciados donde el trato recibido al momento de la denuncia, por parte del Ministerio Público, fue calificado como bueno o excelente",16,Porcentaje,True,15
+16N.2.4,16n.2.4 Porcentaje de la población de 18 años y más que tiene mucha o algo de confianza en jueces,16,Porcentaje,True,10
+16N.3.1.A,16n.3.1.a Porcentaje de la población de 18 años y más satisfecha con el servicio de calles y avenidas,16,Porcentaje,True,6
+16N.3.1.B,16n.3.1.b Porcentaje de la población de 18 años y más satisfecha con el servicio de parques y jardines públicos,16,Porcentaje,True,6
+16N.3.1.C,16n.3.1.c Porcentaje de la población de 18 años y más satisfecha con el servicio de agua potable,16,Porcentaje,True,6
+16N.3.1.D,16n.3.1.d Porcentaje de la población de 18 años y más satisfecha con el servicio de drenaje y alcantarillado,16,Porcentaje,True,5
+16N.3.1.E,16n.3.1.e Porcentaje de la población de 18 años y más satisfecha con el servicio de alumbrado público,16,Porcentaje,True,6
+16N.3.1.F,16n.3.1.f Porcentaje de la población de 18 años y más satisfecha con el servicio de recolección de basura,16,Porcentaje,True,6
+16N.3.2,16n.3.2 Confianza en el Gobierno Federal,16,Porcentaje,False,0
+16R.3A,16r.3a Tasa de ocupación carcelaria federal,16,Porcentaje,True,7
+16R.3B,16r.3b Tasa de ocupación carcelaria estatal,16,Porcentaje,True,10
+17.1.1,"17.1.1 Total de los ingresos del gobierno como proporción del PIB, desglosado por fuente",17,Porcentaje,True,29
+17.1.2,17.1.2 Proporción del presupuesto nacional financiado por impuestos internos,17,Porcentaje,True,31
+17.3.2,17.3.2 Volumen de las remesas (en dólares de los Estados Unidos) como proporción del PIB total,17,Porcentaje,True,30
+17.4.1,17.4.1 Servicio de la deuda como proporción de las exportaciones de bienes y servicios,17,Porcentaje,True,15
+17.6.1,"17.6.1 Accesos del servicio fijo de Internet por cada 100 habitantes, desglosados por velocidad",17,Tasa por cada 100 habitantes,True,11
+17.8.1.A,"17.8.1.a Proporción de personas que usan Internet, dentro y fuera del hogar",17,Porcentaje,True,34
+17.8.1,"17.8.1 Proporción de personas que usan internet, por entidad federativa",17,Porcentaje,False,0
+17N.1.1,17n.1.1 Autonomía fiscal de gobiernos subnacionales (ingresos propios como proporción de los ingresos totales de estados),17,Porcentaje,True,17
+17N.2.1,17n.2.1 Porcentaje de indicadores globales y regionales para los que se encuentra información pública en la plataforma de indicadores,17,Porcentaje,True,3
+17N.4.1,17n.4.1 Crecimiento de los puestos de trabajo ocupados totales del sector de la cultura,17,Porcentaje,True,16
+17N.4.2,17n.4.2 Crecimiento real del valor agregado bruto del sector de la cultura,17,Porcentaje,True,16
+17R.19.A,"17r.19.a Porcentaje del presupuesto público que representa a) la oficina nacional de estadística, b) el sistema estadístico nacional, c) el instituto geográfico nacional y d) el sistema geográfico nacional",17,Porcentaje,True,11
+1N.1.1.A,"1n.1.1.a Porcentaje de la población en situación de pobreza, por desglose geográfico y grupo poblacional (Entidad federativa)",1,Porcentaje,False,0
+1N.1.1.B,"1n.1.1.b Porcentaje de la población en situación de pobreza, por desglose geográfico y grupo poblacional (Municipio o demarcación territorial)",1,Porcentaje,False,0
+1N.1.1,1n.1.1 Porcentaje de la población en situación de pobreza,1,Porcentaje,True,4
+1N.2.1,1n.2.1 Proporción de partos con asistencia de personal sanitario capacitado,1,Porcentaje,True,34
+1N.2.2,1n.2.2 Proporción de la población de un año de edad con esquema básico completo de vacunación,1,Porcentaje,True,32
+1N.3.1.A,"1n.3.1.a Porcentaje de población de 65 años o más que recibe jubilación o pensión (contributiva o no contributiva) por un monto igual o mayor al valor promedio de la línea de pobreza por ingresos, por desglose geográfico",1,Porcentaje,False,0
+1N.3.1,1n.3.1 Porcentaje de población de 65 años o más que recibe jubilación o pensión (contributiva o no contributiva) por un monto igual o mayor al valor promedio de la línea de pobreza por ingresos,1,Porcentaje,False,0
+1N.3.2.A,"1n.3.2.a Porcentaje de población ocupada con hijos(as) de seis años o menos que tiene acceso a guarderías como prestación laboral, por desglose geográfico",1,Porcentaje,False,0
+1N.3.2,1n.3.2 Porcentaje de población ocupada con hijos(as) de seis años o menos que tiene acceso a guarderías como prestación laboral,1,Porcentaje,False,0
+1N.3.3.A,"1n.3.3.a Porcentaje de la población que presenta carencia por acceso a la seguridad social, por desglose geográfico y grupo poblacional (Entidad Federativa)",1,Porcentaje,False,0
+1N.3.3.B,"1n.3.3.b Porcentaje de la población que presenta carencia por acceso a la seguridad social, por desglose geográfico y grupo poblacional  (Municipio o demarcación territorial)",1,Porcentaje,False,0
+1N.3.3,1n.3.3 Porcentaje de la población que presenta carencia por acceso a la seguridad social,1,Porcentaje,True,4
+1R.1.1,"1r.1.1 Porcentaje de la población que vive por debajo del umbral de pobreza extrema regional, desglosada por sexo, edad, condición de actividad, ubicación geográfica (urbana y rural) y etnia",1,Porcentaje,True,16
+2.1.2(1),"2.1.2(1) Proporción de la población con inseguridad alimentaria moderada o severa, desglosada por sexo y edad (2016 - 2022)",2,Porcentaje,True,4
+2.1.2(2),"2.1.2(2) Proporción de la población con inseguridad alimentaria moderada o severa, desglosada por sexo y edad (2008 - 2014) [Histórico]",2,Porcentaje,True,4
+2.1.2.A,"2.1.2.a Proporción de la población con inseguridad alimentaria moderada o severa, por desglose geográfico (Entidad federativa)",2,Porcentaje,False,0
+2.1.2.B,"2.1.2.b Proporción de la población con inseguridad alimentaria moderada o severa, por desglose geográfico (Municipio o demarcación territorial)",2,Porcentaje,False,0
+2.2.1,"2.2.1 Prevalencia del retraso en el crecimiento (estatura para la edad, desviación típica < -2 de la mediana de los patrones de crecimiento infantil de la Organización Mundial de la Salud (OMS)) entre la población menor a 5 años",2,Porcentaje,True,8
+2.2.2(1),"2.2.2(1) Prevalencia de emaciación (peso para la estatura, desviación típica <-2 de la mediana de los patrones de crecimiento infantil de la OMS) entre la población menor a 5 años",2,Porcentaje,True,7
+2.2.2(2),"2.2.2(2) Prevalencia de sobrepeso u obesidad (peso para la estatura, desviación típica >+2 de los patrones de crecimiento infantil de la OMS) entre la población menor a 5 años",2,Porcentaje,True,8
+2.2.2,"2.2.2 Prevalencia de la malnutrición (peso para la estatura, desviación típica > +2 o < -2 de la mediana de los patrones de crecimiento infantil de la OMS) entre la población menor a 5 años, desglosada por tipo (emaciación y sobrepeso)",2,Porcentaje,True,8
+2.2.3.A,"2.2.3.a Prevalencia de la anemia en las mujeres de entre 15 y 49 años, desglosada por embarazo (medición mediante sangre venosa)",2,Porcentaje,True,3
+2.2.3.B,"2.2.3.b Prevalencia de la anemia en las mujeres de entre 15 y 49 años, desglosada por embarazo (medición mediante sangre capilar)",2,Porcentaje,True,3
+2N.1.1,2n.1.1 Porcentaje de la población menor de 5 años que presenta algún tipo de desnutrición,2,Porcentaje,True,8
+2N.2.1.A,"2n.2.1.a Porcentaje de población con inseguridad alimentaria moderada o severa, por desglose geográfico y grupo poblacional (Entidad federativa).",2,Porcentaje,False,0
+2N.2.1.B,"2n.2.1.b Porcentaje de población con inseguridad alimentaria moderada o severa, por desglose geográfico y grupo poblacional (Municipio o demarcación territorial)",2,Porcentaje,False,0
+2N.2.1,2n.2.1 Porcentaje de población con inseguridad alimentaria moderada o severa,2,Porcentaje,True,4
+2N.2.2.A,"2n.2.2.a Porcentaje de población con carencia por acceso a la alimentación nutritiva y de calidad, por desglose geográfico y grupo poblacional",2,Porcentaje,False,0
+2N.2.2,2n.2.2 Porcentaje de población con carencia por acceso a la alimentación nutritiva y de calidad,2,Porcentaje,True,4
+2N.3.1,2n.3.1 Rendimiento agrícola del maíz de grano,2,Unidad de medida por hectárea (udm/ha),True,23
+3.1.1,3.1.1 Razón de mortalidad materna,3,Defunciones de mujeres por cada 100 mil  nacidos vivos,True,34
+3.1.2,3.1.2 Proporción de partos atendidos por personal sanitario capacitado,3,Porcentaje,True,34
+3.2.1,3.2.1 Tasa de mortalidad de niños menores de 5 años,3,Defunciones de menores de 5 años por cada mil nacidos vivos,True,34
+3.2.2,3.2.2 Tasa de mortalidad neonatal,3,Defunciones de niños en edad neonatal por cada mil nacidos vivos,True,34
+3.3.1,"3.3.1 Número de nuevas infecciones por el VIH por cada 1.000 habitantes no infectados, desglosado por sexo, edad y poblaciones clave",3,Tasa,True,35
+3.3.2A,"3.3.2a Incidencia de la tuberculosis por cada 100,000 habitantes, por grupos de edad y según el tipo de tuberculosis (1990-2024)",3,Tasa,True,35
+3.3.2B,"3.3.2b Incidencia de la tuberculosis por cada 100,000, habitantes, por entidad federativa y según tipo de tuberculosis (1990-2024)",3,Tasa,True,35
+3.3.2C,"3.3.2c Incidencia de la tuberculosis por cada 100,000 habitantes, por entidad federativa, según sexo, grupos de edad y tipo de tuberculosis (2003-2024)",3,Tasa,True,22
+3.3.3,3.3.3 Incidencia de paludismo (por cada 100 mil habitantes),3,Casos confirmados por cada 100 mil habitantes,True,35
+3.3.4,"3.3.4 Incidencia de la hepatitis B por cada 100,000 habitantes (menores de 5 años)",3,Tasa por cada 100 mil habitantes menores de 5 años,True,35
+3.3.5,"3.3.5 Proporción de tratamientos otorgados a casos confirmados de paludismo, para la prevención, control y eliminación de la transmisión del Plasmodium Vivax",3,Porcentaje,True,35
+3.4.1,"3.4.1 Tasa de mortalidad atribuida a las enfermedades cardiovasculares, el cáncer, la diabetes o las enfermedades respiratorias crónicas",3,Tasa de mortalidad,True,27
+3.4.2.A,3.4.2.a Tasa de mortalidad por suicidio,3,Tasa,True,31
+3.4.2.B,3.4.2.b Número de muertes por suicidio (personas con residencia habitual fuera de México o no especificada),3,Defunciones,True,31
+3.6.1,3.6.1 Tasa de mortalidad por lesiones debidas a accidentes de tráfico,3,Porcentaje,True,25
+3.7.1,3.7.1 Porcentaje de mujeres en edad fértil (15 a 49 años) unidas con demanda satisfecha de métodos anticonceptivos modernos,3,Porcentaje,True,4
+3.7.2.A,3.7.2.a Tasa de fecundidad en niñas y adolescentes (de 10 a 14 años) por cada 1 000 niñas y adolescentes en ese grupo de edad,3,Número de hijos(as) nacidos(as) vivos(as) por cada 1 000 niñas y adolescentes entre 10 y 14 años,True,17
+3.7.2.B,3.7.2.b Tasa de fecundidad en adolescentes (de 15 a 19 años) por cada 1 000 mujeres de ese grupo de edad,3,Número de hijos(as) nacidos(as) vivos(as) por cada 1 000 adolescentes entre 15 y 19 años,True,16
+3.9.1,3.9.1 Tasa de mortalidad atribuida a la contaminación de los hogares y del aire ambiente,3,"Número de muertes por cada 100,000 habitantes",True,9
+3.9.2A,"3.9.2a Tasa de mortalidad atribuida al agua insalubre, el saneamiento deficiente y la falta de higiene (exposición a servicios insalubres de agua, saneamiento e higiene para todos (WASH))",3,Tasa,True,26
+3.9.2B,"3.9.2b Defunciones atribuidas al agua insalubre, el saneamiento deficiente y la falta de higiene (exposición a servicios insalubres de agua, saneamiento e higiene para todos (WASH)), según la residencia habitual fuera de México o no especificada",3,Defunciones,True,25
+3.9.3A,3.9.3a Tasa de mortalidad atribuida a intoxicaciones involuntarias,3,Tasa,True,26
+3.9.3B,"3.9.3b Defunciones atribuidas a intoxicaciones involuntarias, según la residencia habitual fuera de México o no especificada",3,Defunciones,True,26
+3.C.1,3.c.1 Densidad y distribución del personal sanitario,3,Densidad,True,11
+3N.1.1.A,"3n.1.1.a Porcentaje de la población que presenta carencia por acceso a los servicios de salud, por desglose geográfico y grupo poblacional (Entidad federativa)",3,Porcentaje,False,0
+3N.1.1.B,"3n.1.1.b Porcentaje de la población que presenta carencia por acceso a los servicios de salud, por desglose geográfico y grupo poblacional (Municipio o demarcación territorial)",3,Porcentaje,False,0
+3N.1.1,3n.1.1 Porcentaje de la población que presenta carencia por acceso a los servicios de salud,3,Porcentaje,True,4
+3N.1.2.A,"3n.1.2.a Porcentaje de población que tardaría menos de dos horas en llegar a un hospital en caso de una emergencia, por desglose geográfico",3,Porcentaje,False,0
+3N.1.2,3n.1.2 Porcentaje de población que tardaría menos de dos horas en llegar a un hospital en caso de una emergencia,3,Porcentaje,True,4
+3N.1.3.A,"3n.1.3.a Porcentaje de población derechohabiente que no gastó en servicios médicos la última vez que recibió atención médica, por desglose geográfico",3,Porcentaje,False,0
+3N.1.3,3n.1.3 Porcentaje de población derechohabiente que no gastó en servicios médicos la última vez que recibió atención médica,3,Porcentaje,True,4
+3N.1.4,3n.1.4 Porcentaje de hogares con gasto catastrófico en salud,3,Porcentaje,True,10
+3N.3.1,3n.3.1 Tasa de fecundidad en niñas de 10 a 14 años,3,Número de hijos(as) nacidos(as) vivos(as) por cada 1 000 niñas y adolescentes entre 10 y 14 años,True,7
+3N.4.1.B,"3n.4.1.b Porcentaje de la población con sobrepeso y obesidad, por entidad federativa",3,Porcentaje,True,2
+3N.4.1A,"3n.4.1a Porcentaje de la población con sobrepeso y obesidad, desglosado por sexo y edad",3,Porcentaje,True,8
+3R.3.C(1),3r.3.c(1) Incidencia de casos de enfermedades transmitidas por vectores,3,Población total,True,8
+3R.3.C(2),"3r.3.c(2) Incidencia de casos de enfermedades transmitidas por vectores, por sexo y entidad federativa",3,"Tasa por cada 100,000 habitantes",False,0
+3R.3A,3r.3a Tasa de prevalencia del VIH/SIDA entre la población de 15 a 49 años,3,Porcentaje,True,33
+3R.3B,"3r.3b Mortalidad por VIH/SIDA, desglosada por sexo",3,Tasa defunciones por cada 100 mil habitantes.,True,33
+3R.7.1,3r.7.1 Necesidad insatisfecha de métodos anticonceptivos en mujeres en edad fértil (15 a 49 años) sexualmente activas,3,Porcentaje,True,4
+3R.7.A,"3r.7.a Porcentaje del último hijo nacido vivo en el periodo de 2013 a 2018, tenido a la edad de 15 a 29 años, que no fue planificado",3,Porcentaje,True,3
+3R.7.B,3r.7.b Porcentaje de mujeres de 15 a 19 años que son madres,3,Porcentaje,True,3
+4.1.2.A,"4.1.2.a Índice de finalización de enseñanza primaria, por desglose geográfico",4,Porcentaje,False,0
+4.1.2B,"4.1.2b Índice de finalización de enseñanza secundaria, por desglose geográfico",4,Porcentaje,False,0
+4.1.2C,"4.1.2c Índice de finalización de enseñanza preparatoria (Media superior), por desglose geográfico",4,Porcentaje,False,0
+4.1.2,"4.1.2 Índice de finalización (enseñanza primaria, secundaria y preparatoria) [ENIGH]",4,Porcentaje,True,5
+4.2.1,"4.2.1 Proporción de niños de 24 a 59 meses cuyo desarrollo es adecuado en cuanto a la salud, el aprendizaje y el bienestar psicosocial, desglosada por sexo",4,Porcentaje,True,4
+4.2.2,"4.2.2 Tasa de participación en el aprendizaje organizado (un año antes de la edad oficial de ingreso en la enseñanza primaria), desglosada por sexo",4,Porcentaje,True,13
+4.3.1,"4.3.1 Tasa de participación de los jóvenes y adultos en la enseñanza y formación académica y no académica en los últimos 12 meses, desglosada por sexo",4,Porcentaje,True,13
+4.4.1,"4.4.1 Proporción de jóvenes y adultos con conocimientos de tecnología de la información y las comunicaciones (TIC), desglosada por tipo de conocimiento técnico",4,Porcentaje,False,0
+4.5.1A,4.5.1a Índice de paridad (entre mujeres y hombres) de la tasa de participación en el aprendizaje organizado (un año antes de la edad oficial de ingreso en la enseñanza primaria),4,Razón,True,13
+4.5.1B,4.5.1b Índice de paridad (entre mujeres y hombres) de la tasa de participación de los jóvenes y adultos en la enseñanza y formación académica y no académica en los últimos 12 meses,4,Razón,True,12
+4.5.1C,4.5.1c Índice de paridad (entre mujeres y hombres) de la tasa bruta de matrícula de educación superior,4,Razón,True,10
+4.5.1D,4.5.1d Índice de paridad (entre mujeres y hombres) del porcentaje de población en un grupo de edad determinado que alcanza por lo menos un nivel fijo de competencia funcional en alfabetización,4,Razón,True,35
+4.5.1E,"4.5.1e Índice de paridad (entre mujeres y hombres) de la proporción del profesorado que ha recibido al menos la mínima formación docente organizada previa al empleo o en el empleo exigida para impartir enseñanza a nivel a) preescolar, b) primaria y c) secundaria en México",4,Razón,True,13
+4.5.1F,4.5.1f Índice de paridad (entre mujeres y hombres) del porcentaje de alumnos que asisten a escuelas de organización escolar multigrado,4,Razón,True,9
+4.6.1.A,"4.6.1.a Porcentaje de población en un grupo de edad determinado que alcanza por lo menos un nivel fijo de competencia funcional en alfabetización, desglosado por sexo",4,Porcentaje,True,35
+4.A.1.A,4.a.1.a Proporción de escuelas con acceso a electricidad por entidad federativa y nivel educativo,4,Porcentaje,True,7
+4.A.1.B,4.a.1.b Proporción de escuelas con acceso a internet por entidad federativa y nivel educativo,4,Porcentaje,True,7
+4.A.1.C,4.a.1.c Proporción de escuelas con equipos de cómputo en funcionamiento por entidad federativa y nivel educativo,4,Porcentaje,True,7
+4.A.1.D1,4.a.1.d1 Proporción de escuelas con infraestructura adaptada para discapacidad por entidad federativa y nivel educativo,4,Porcentaje,True,7
+4.A.1.D2,4.a.1.d2 Proporción de escuelas con materiales adaptados para discapacidad por entidad federativa y nivel educativo,4,Porcentaje,True,7
+4.A.1.E,4.a.1.e Proporción de escuelas con conexión a la red pública de agua potable por entidad federativa y nivel educativo,4,Porcentaje,True,7
+4.A.1.F,4.a.1.f Proporción de escuelas con sanitarios independientes por entidad federativa y nivel educativo,4,Porcentaje,True,7
+4.A.1.G,4.a.1.g Proporción de escuelas con lavabo de manos por entidad federativa y nivel educativo,4,Porcentaje,True,7
+4.C.1.A,"4.c.1.a Proporción del profesorado de educación preescolar, que ha recibido al menos la mínima formación docente organizada previa al empleo o en el empleo (por ejemplo, formación pedagógica) exigida para impartir enseñanza a nivel preescolar en México",4,Porcentaje,True,13
+4.C.1.B,"4.c.1.b Proporción del profesorado de educación primaria, que ha recibido al menos la mínima formación docente organizada previa al empleo o en el empleo (por ejemplo, formación pedagógica) exigida para impartir enseñanza a nivel primaria en México",4,Porcentaje,True,13
+4.C.1.C,"4.c.1.c Proporción del profesorado de educación secundaria, que ha recibido al menos la mínima formación docente organizada previa al empleo o en el empleo (por ejemplo, formación pedagógica) exigida para impartir enseñanza a nivel secundaria en México",4,Porcentaje,True,13
+4N.1.1,4n.1.1 Porcentaje de alumnos que asisten a escuelas de organización escolar multigrado,4,Porcentaje,True,8
+4N.2.1,4n.2.1 Prevalencia de la violencia en el ámbito escolar  entre las mujeres de 15 años y más en los últimos 12 meses,4,Porcentaje,True,2
+4R.3.1,"4r.3.1 Tasa bruta de matrícula de educación superior, desglosada por sexo",4,Porcentaje,True,9
+4R.6.1.A(1),"4r.6.1.a(1) Tasa de alfabetización de las personas de 15 años o más, desglosada por sexo y subpoblaciones [CENSO]",4,Porcentaje de población,True,1
+4R.6.1.A(2),"4r.6.1.a(2) Tasa de alfabetización de las personas de 15 años o más, desglosada por sexo y subpoblaciones [ENIGH]",4,Porcentaje,False,0
+4R.6.1.B(1),"4r.6.1.b(1) Tasa de alfabetización de las personas de 15 a 24 años, desglosada por sexo y subpoblaciones [CENSO]",4,Porcentaje,True,1
+4R.6.1.B(2),"4r.6.1.b(2) Tasa de alfabetización de las personas de 15 a 24 años, desglosada por sexo y subpoblaciones [ENIGH]",4,Porcentaje,False,0
+5.2.1.A,"5.2.1.a Proporción de mujeres de 15 años de edad o más, que han sufrido violencia física, sexual o psicológica infligida por un compañero íntimo actual o anterior, en los 12 meses anteriores, por entidad federativa según tipo de violencia",5,Porcentaje,True,3
+5.2.1.B,"5.2.1.b Proporción de mujeres de 15 años de edad o más, que han sufrido violencia física, sexual o psicológica infligida por un compañero íntimo actual o anterior, en los 12 meses anteriores, por grupos de edad según tipo de violencia",5,Porcentaje,True,3
+5.2.2.A,"5.2.2.a Proporción de mujeres y niñas a partir de 15 años de edad que han sufrido violencia sexual a manos de personas que no eran su pareja en los últimos 12 meses, por entidad federativa y lugar del hecho",5,Porcentaje,True,3
+5.2.2.B,"5.2.2.b Proporción de mujeres y niñas a partir de 15 años de edad que han sufrido violencia sexual a manos de personas que no eran su pareja en los últimos 12 meses, desglosada por edad y lugar del hecho",5,Porcentaje,True,3
+5.3.1A,"5.3.1a Proporción de mujeres de entre 20 y 24 años que estaban casadas o mantenían una unión estable antes de cumplir los 15 años y antes de cumplir los 18 años, desglosada por hablantes de lengua indígena",5,Porcentaje,True,3
+5.3.1B,"5.3.1b Proporción de mujeres de entre 20 y 24 años que estaban casadas o mantenían una unión estable antes de cumplir los 15 años y antes de cumplir los 18 años, por entidad federativa",5,Porcentaje,True,3
+5.4.1A,"5.4.1a Proporción de tiempo dedicado al trabajo doméstico y de cuidado no remunerado, desglosada por tipo de localidad",5,Porcentaje,True,3
+5.4.1B,"5.4.1b Proporción de tiempo dedicado al trabajo doméstico y de cuidado no remunerado, desglosada por entidad federativa",5,Porcentaje,True,2
+5.4.1C,"5.4.1c Proporción de tiempo dedicado al trabajo doméstico y de cuidado no remunerado, desglosada por hablantes de lengua indígena",5,Porcentaje,True,3
+5.5.1.A,5.5.1.a Proporción de escaños ocupados por mujeres en la Cámara de Diputados,5,Porcentaje,True,5
+5.5.1.B,5.5.1.b Proporción de mujeres en las gubernaturas de las entidades federativas,5,Porcentaje,True,9
+5.5.1.C,5.5.1.c Proporción de presidentas municipales,5,Porcentaje,True,5
+5.5.1.D,5.5.1.d Proporción de mujeres en los cabildos municipales,5,Porcentaje,True,3
+5.5.1.E,5.5.1.e Proporción de mujeres en los Congresos estatales,5,Porcentaje,True,5
+5.5.2,5.5.2 Proporción de mujeres en cargos directivos,5,Porcentaje,False,0
+5.6.1,"5.6.1 Proporción de mujeres de entre 15 y 49 años que toman sus propias decisiones informadas sobre las relaciones sexuales, el uso de anticonceptivos y la atención de la salud reproductiva",5,Porcentaje,True,1
+5.A.1A,"5.a.1a Proporción del total de la población agrícola con derechos de propiedad o derechos seguros sobre tierras agrícolas, desglosada por sexo, desglosada por tipo de tenencia",5,Porcentaje,True,1
+5.A.1B,"5.a.1b Proporción de mujeres entre los propietarios o los titulares de derechos sobre tierras agrícolas, desglosada por tipo de tenencia",5,Porcentaje,True,1
+5.B.1,"5.b.1 Proporción de personas que utilizan teléfonos móviles, desglosada por sexo",5,Porcentaje,False,0
+5N.1.1,5n.1.1 Razón del ingreso laboral de trabajadoras/trabajadores por nivel de escolaridad,5,Razón,True,4
+5N.1.2,"5n.1.2 Brecha en el tiempo promedio que hombres y mujeres destinan a quehaceres domésticos, por grupos de edad",5,Horas a la semana,True,4
+5N.1.3,5n.1.3 Brecha en el tiempo promedio que niñas y niños destinan a quehaceres domésticos y al cuidado a integrantes del hogar,5,Horas a la semana,True,5
+5N.1.4,5n.1.4 Ingreso laboral real promedio de las personas ocupadas según sexo,5,Pesos reales promedio,True,12
+5N.2.1,5n.2.1 Porcentaje de certificados y títulos expedidos a mujeres como sujetos agrarios con respecto a los hombres,5,Porcentaje,True,6
+5N.3.1,5n.3.1 Proporción de mujeres y niñas a partir de 15 años de edad que han experimentado violencia física o sexual  por otro agresor distinto a la pareja y pidieron apoyo a alguna institución o presentaron una queja o denuncia ante alguna autoridad,5,Porcentaje,True,2
+5R.4.1A,"5r.4.1a Promedio de horas semanales dedicadas al trabajo no remunerado y remunerado combinados (carga total de trabajo), desglosado por sexo",5,Horas a la semana,True,3
+5R.4.1B,"5r.4.1b Promedio de horas semanales dedicadas al trabajo no remunerado y remunerado combinados (carga total de trabajo), desglosado por hablantes de lengua indígena",5,Horas a la semana,True,2
+5R.4.1C,"5r.4.1c Promedio de horas semanales dedicadas al trabajo no remunerado y remunerado combinados (carga total de trabajo), por tamaño de localidad",5,Horas a la semana,True,2
+5R.4.1D,"5r.4.1d Promedio de horas semanales dedicadas al trabajo no remunerado y remunerado combinados (carga total de trabajo), por grupos de edad",5,Horas a la semana,True,2
+6.1.1.A,6.1.1.a Proporción de la población que dispone de servicios de suministro de agua potable gestionados de manera segura,6,Porcentaje,True,5
+6.1.1.B,"6.1.1.b Proporción de la población que dispone de servicios de suministro de agua potable gestionados de manera segura, por región hidrológico-administrativa (RHA)",6,Porcentaje,True,5
+6.1.1.C,"6.1.1.c Proporción de la población que dispone de servicios de suministro de agua potable gestionados de manera segura, por entidad federativa",6,Porcentaje,True,5
+6.2.1.A,6.2.1.a Proporción de la población que utiliza servicios de saneamiento gestionados de manera segura,6,Porcentaje,True,5
+6.2.1.C,"6.2.1.c Proporción de la población que utiliza servicios de saneamiento gestionados de manera segura, por entidad federativa",6,Porcentaje,True,5
+6.3.1,6.3.1 Proporción de aguas residuales tratadas de manera adecuada,6,Porcentaje,True,26
+6.3.2.,6.3.2. Proporción de cuerpos de agua con buena calidad de agua,6,Porcentaje,True,2
+6.4.1,6.4.1 Cambio en la eficiencia del uso del agua a lo largo del tiempo,6,Porcentaje,True,9
+6.4.2,6.4.2 Nivel de estrés hídrico: extracción de agua dulce como proporción de los recursos disponibles de agua dulce.,6,Porcentaje,True,9
+6.5.1.,6.5.1. Grado de implementación de la gestión integrada de los recursos hídricos,6,Adimensional,True,3
+6.5.2.,6.5.2. Proporción de la superficie de cuencas transfronterizas sujetas a arreglos operacionales para la cooperación en materia de aguas,6,Porcentaje,True,2
+6.6.1.A,6.6.1.a Cambio en el área de lagos y ríos permanentes (%),6,Porcentaje,True,4
+6.6.1.B,6.6.1.b Cambio en el área de lagos y ríos estacionales (%),6,Porcentaje,True,4
+6.6.1.C,6.6.1.c Cambio en el área de manglares (%),6,Porcentaje,True,4
+6.6.1.D,6.6.1.d Superficie del embalse como porcentaje de la superficie terrestre total (%),6,Porcentaje,True,4
+6.6.1.E,6.6.1.e Área de humedales como porcentaje de la superficie terrestre total (%),6,Porcentaje,True,4
+6.A.1.,6.a.1. Volumen de la asistencia oficial para el desarrollo destinada al agua y el saneamiento que forma parte de un plan de gastos coordinados por el gobierno,6,Porcentaje,True,9
+6.B.1.A,6.b.1.a Proporción de dependencias administrativas locales con procedimientos claramente definidos en leyes o políticas para la participación de los usuarios y las comunidades en la planificación de programas para el suministro de agua potable rural.,6,Porcentaje,True,1
+6.B.1.B,6.b.1.b Proporción de dependencias administrativas locales con procedimientos claramente definidos en leyes o políticas para la participación de los usuarios y las comunidades en programas de planificación y gestión de recursos hídricos.,6,Porcentaje,True,1
+6.B.1.C,6.b.1.c Proporción de dependencias administrativas locales con un alto nivel de participación de los usuarios y comunidades en la planificación de programas para el suministro de agua potable en zonas rurales.,6,Porcentaje,True,1
+6.B.1.D,6.b.1.d Proporción de dependencias administrativas locales con un alto nivel de participación de usuarios y comunidades en programas de planificación y gestión de recursos hídricos.,6,Porcentaje,True,1
+6N.1.1.C,"6n.1.1.c Proporción de la población que dispone de servicios de suministro de agua potable y saneamiento gestionados de manera segura, por entidad federativa [CONAGUA]",6,Porcentaje de personas,True,5
+6N.1.1,6n.1.1 Porcentaje de la población que tiene acceso al agua entubada diariamente así como al saneamiento [INEGI],6,Porcentaje de personas,True,5
+6N.2.1,6n.2.1 Grado de presión sobre el recurso hídrico de las zonas centro y norte del país,6,Porcentaje,True,12
+6N.2.2,6n.2.2 Rendimiento de cultivos básicos en zonas con infraestructura de riego,6,Toneladas por hectárea,True,12
+7.1.2,7.1.2 Proporción de la población cuya fuente primaria de energía son los combustibles y tecnologías limpias,7,Porcentaje,True,5
+7.2.1,7.2.1 Proporción de la energía renovable en el consumo final total de energía,7,Porcentaje,True,21
+7.3.1,7.3.1 Intensidad energética medida en función de la energía primaria y el PIB,7,Kilo Joules por peso de PIB producido,True,21
+7N.1.1,7n.1.1 Porcentaje de participación de las energías limpias en la matriz de generación de energía eléctrica,7,Porcentaje,True,7
+7N.2.1,7n.2.1 Intensidad energética nacional,7,Kilojoules por peso de PIB producido,True,23
+7N.3.1,7n.3.1 Capacidad total instalada por generación distribuida,7,Porcentaje,True,15
+8.1.1,8.1.1 Tasa de crecimiento anual del PIB real per cápita,8,Porcentaje,True,22
+8.10.1.A,8.10.1.a Número de sucursales de bancos comerciales por cada 100 000 adultos,8,Porcentaje,True,10
+8.10.1.B,8.10.1.b Número de cajeros automáticos por cada 100 000 adultos,8,Porcentaje,True,10
+8.10.2,8.10.2 Proporción de adultos (de 15 años o más) con una cuenta en un banco u otra institución financiera o con un proveedor móvil de servicios monetarios,8,Porcentaje,True,4
+8.2.1(2),8.2.1(2) Tasa de crecimiento del PIB por persona ocupada (1996-2020),8,Porcentaje,True,25
+8.2.1,8.2.1 Tasa de crecimiento del PIB por persona ocupada,8,Porcentaje,True,19
+8.3.1(2),"8.3.1(2) Proporción del empleo informal en el empleo no agropecuario, desglosada por sexo (1995-2020)",8,Porcentaje,True,26
+8.3.1,"8.3.1 Proporción del empleo informal en el empleo no agropecuario, desglosada por sexo",8,Porcentaje,True,19
+8.4.2.A,8.4.2.a Consumo material interno en términos absolutos,8,Toneladas,True,22
+8.4.2.B,8.4.2.b Consumo material interno per cápita,8,Toneladas per cápita,True,22
+8.4.2.C,8.4.2.c Consumo material interno por PIB,8,Kilogramos por pesos mexicanos a precios de 2018,True,22
+8.5.1A,8.5.1a Ingreso medio por hora de empleadas y empleados,8,Pesos mexicanos,True,9
+8.5.1B,"8.5.1b Ingreso medio por hora de empleadas y empleados, desglosado por grupos de edad",8,Pesos mexicanos,True,9
+8.5.1C,"8.5.1c Ingreso medio por hora de empleadas y empleados, desglosado por tipo de ocupación",8,Pesos mexicanos,True,9
+8.5.1D,"8.5.1d Ingreso medio por hora de empleadas y empleados, desglosado según condición de residencia y país de nacimiento",8,Pesos mexicanos,True,9
+8.5.2(2),"8.5.2(2) Tasa de desocupación, desglosada por sexo y edad (1995-2020)",8,Porcentaje,True,26
+8.5.2,"8.5.2 Tasa de desocupación, desglosada por sexo y edad",8,Porcentaje,True,19
+8.6.1A,"8.6.1a Proporción de jóvenes (de 15 a 24 años) que no estudian, no tienen empleo ni reciben capacitación, desglosado por escolaridad y tipo de localidad",8,Porcentaje,False,0
+8.6.1B,"8.6.1b Proporción de jóvenes (de 15 a 24 años) que no estudian, no tienen empleo ni reciben capacitación, desglosado por sexo",8,Porcentaje,False,0
+8.6.1C,"8.6.1c Proporción de jóvenes (de 15 a 24 años) que no estudian, no tienen empleo ni reciben capacitación, desglosado según el lugar de nacimiento y de residencia",8,Porcentaje,True,8
+8.7.1,"8.7.1 Proporción de la población de 5 a 17 años que realiza una ocupación infantil no permitida, desglosada por sexo y edad",8,Porcentaje,True,8
+8.8.1,"8.8.1 Tasa de incidencia de lesiones ocupacionales mortales y no mortales, desglosada por sexo",8,Lesiones ocupacionales por cada 100 trabajadores,True,17
+8.9.1,8.9.1 PIB directo turístico como proporción del PIB total y en tasas de crecimiento,8,Porcentaje,True,32
+8N.1.1,8n.1.1 Tasa de participación laboral de personas con discapacidad,8,Porcentaje,True,2
+8N.2.2,8n.2.2 Número de Personas Trabajadoras del Hogar afiliadas ante el Instituto Mexicano del Seguro Social,8,Número de personas,True,8
+8N.3.1A,"8n.3.1a Porcentaje de la población entre 18 y 70 años que tiene una cuenta en un banco u otra institución financiera, por sexo",8,Porcentaje,True,4
+8N.3.1B,"8n.3.1b Porcentaje de la población entre 18 y 70 años que tiene una cuenta en un banco u otra institución financiera, por grupos de edad",8,Porcentaje,True,4
+8N.3.1C,"8n.3.1c Porcentaje de la población entre 18 y 70 años que tiene una cuenta en un banco u otra institución financiera, según nivel de escolaridad",8,Porcentaje,True,4
+8N.3.1D,"8n.3.1d Porcentaje de la población entre 18 y 70 años que tiene una cuenta en un banco u otra institución financiera, por región geográfica o tamaño de localidad",8,Porcentaje,True,4
+8N.4.1,8n.4.1 Variación anual del índice global de productividad laboral de la economía,8,Porcentaje,True,8
+8R.6.1,"8r.6.1 Proporción de jóvenes (de 15 a 24 años) que no estudian, no tienen empleo, no reciben capacitación y no realizan trabajo doméstico no remunerado de manera exclusiva, desglosada por sexo",8,Porcentaje,True,9
+9.1.1,9.1.1 Proporción de la población rural que vive a menos de 2 km de una carretera transitable todo el año,9,Porcentaje,True,2
+9.1.2.A,"9.1.2.a Volumen de transporte de pasajeros, desglosado por medio de transporte",9,Número de pasajeros,True,15
+9.1.2.B,"9.1.2.b Volumen de transporte de carga, desglosado por medio de transporte",9,Toneladas,True,15
+9.2.1.A,9.2.1.a Valor agregado por manufactura como proporción del PIB,9,Porcentaje,True,22
+9.2.1.B,9.2.1.b Valor agregado por manufactura per cápita,9,Pesos constantes a precios de 2018 por persona,True,22
+9.2.2(2),"9.2.2(2) Ocupación en la manufactura como proporción del empleo total, desglosada por sexo (1995-2020)",9,Porcentaje,True,26
+9.2.2,"9.2.2 Ocupación en la manufactura como proporción del empleo total, desglosada por sexo",9,Porcentaje,True,19
+9.3.1,9.3.1 Proporción del valor agregado bruto del sector industrial correspondiente a las pequeñas industrias,9,Porcentaje,True,5
+9.3.2,9.3.2 Proporción de las pequeñas industrias que han obtenido un préstamo o una línea de crédito,9,Porcentaje,True,4
+9.4.1,9.4.1 Emisiones de dióxido de carbono total por PIB por paridad de poder de compra,9,Kilogramos de CO2e por dólar,True,32
+9.5.1,9.5.1 Gasto federal en investigación científica y desarrollo experimental como proporción del PIB,9,Porcentaje,True,14
+9.5.2,9.5.2 Personas investigadoras por millón de habitantes,9,Personas investigadoras por cada millón de habitantes del país,True,13
+9.B.1,9.b.1 Proporción del valor añadido por la industria de tecnología mediana y alta en el valor agregado bruto,9,Porcentaje,True,22
+9.C.1,"9.c.1 Proporción de la población abarcada por una red móvil, desglosada por tecnología",9,Porcentaje,True,6
+9N.2.1,9n.2.1 Multiplicador del subsidio a la investigación científica y desarrollo experimental financiada por las empresas,9,Número,True,8
+9N.3.1,"9n.3.1 Porcentaje del Personal Ocupado generado por las MIPyMEs (comprende asalariados, no asalariados y empleos suministrados por otra razón social)",9,Porcentaje,True,5

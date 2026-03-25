@@ -1,0 +1,73 @@
+﻿Title: 2.2.3.a Prevalencia de la anemia en las mujeres de entre 15 y 49 años, desglosada por embarazo (medición mediante sangre venosa)
+
+Description: Porcentaje de mujeres de 15-49 años con una concentración de hemoglobina inferior a 120 g/L en el caso de las mujeres no embarazadas y lactantes, e inferior a 110 g/L en el caso de las embarazadas, ajustado por la altitud.
+
+Modified: 2025-11-14
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Mtra. Manett Vargas García
+Directora General de Evaluación del Desempeño
+Avenida Paseo de la Reforma 450 
+Colonia Juárez, 06600
+Cuauhtémoc, Cuauhtémoc, Ciudad de México
+01 (55) 50621600 Ext. 52697
+manett.vargas@salud.gob.mx
+Dr. Delfino Campos Díaz
+Director de Gestión y Seguimiento para la Evaluación de los Sistemas de Salud
+Av. Agrarismo #227, piso 3, Col. Escandón II Sección D.T. Miguel Hidalgo, C.P. 11800, CDMX.
+01 (55) 50621600 Ext. 52681
+delfino.campos@salud.gob.mx
+Dra. Fabiola Mejía Rodríguez
+Investigadora en ciencias médicas D
+Av. Universidad 655, Santa María Ahuacatitlán, 62100 Cuernavaca, Morelos
++52-7773293000
+fmejia@insp.mx
+
+Temporal: 2022-2024
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/2.2.3.a_es.zip
+
+Goal: 2. Poner fin al hambre, lograr la seguridad alimentaria y la mejora de la nutrición y promover la agricultura sostenible 
+
+Target:  Meta 2.2. De aquí a 2030, poner fin a todas las formas de malnutrición, incluso logrando, a más tardar en 2025, las metas convenidas internacionalmente sobre el retraso del crecimiento y la emaciación de los niños menores de 5 años, y abordar las necesidades de nutrición de las adolescentes, las mujeres embarazadas y lactantes y las personas de edad
+
+Type of indicator: Global
+
+Algorithm: 2.2.3.a_ES.gif
+
+Description of the indicator: Este porcentaje se calcula dividiendo el número de mujeres de 15-49 años con una concentración de hemoglobina (Hb, sangre capilar) inferior a 120 g/L en el caso de las mujeres no embarazadas y lactantes, e inferior a 110 g/L en el caso de las embarazadas, ajustado por la altitud, y no se ajusta por tabaquismo. Es importante recalcar que las ENSANUT no están diseñadas para evaluar a mujeres embarazadas, por ello son muy pocas las reportadas.  En todas las encuestas se excluyeron valores de Hb 185 g/L. 
+Para mujeres no embarazadas de la ENSANUT 2018-19 en el ajuste de Hb por altitud se redujo en una unidad a fin de aproximar la distribución porcentual con base en los reportes anteriores de prevalencias por región del país y posible error de medición del HemoCué. Posterior a la ENSANUT 2018-19 se realizó un ensayo y se comprobó que el HemoCué 301+ media valores de Hb menores a un gramo por decilitro en comparación al HemoCué 201+ que es el de referencia (1,2). Aunque se reconoce que no fue la mejor estrategia, se soslayó redoblando esfuerzos con el personal estandarizado y bien capacitado, y mediante un estudio de validación (3,4) de los HemoCué utilizados en las ENSANUT para estimar los errores de medición en la cuantificación de Hb en HemoCué 201+ utilizando sangre venosa y sangre capilar, tanto en gotas como en pools, y comparar los resultados con los de un método de referencia. Todo esto fue crucial para minimizar el error potencial en la determinación de Hb en la ENSANUT Continua 2022, en la cual se estimaron los valores con sangre venosa, por tanto, no son comparables los datos de Hb con las ENSANUT 2006, 2012 y 2028-19, ya que la sangre capilar tiene gran variabilidad (2) y a partir de 2022 se medirá Hb con sangre venosa. Con base en esto, se realizó un ajuste a los valores de Hb obtenidos en 3 HemoCué 201+ en la ENSANUT Continua 2022 de acuerdo con el estudio de validación (4). Cabe aclarar que no se tomaron muestras de Hb en las ENSANUT 2020 y 2021 dado el riesgo de contagio por COVID19 durante la pandemia y hasta no poder contar con un protocolo de validación del HemoCué. 
+Referencias:
+1. Hruschka, D.J.; Williams, A.M.; Mei, Z.; Leidman, E.; Suchdev, P.S.; Young, M.F.; Namaste, S. Comparing Hemoglobin Distributions between Population-Based Surveys Matched by Country and Time. BMC Public Health 2020, 20, 422. 
+2. Neufeld L, García-Guerra A, Sánchez-Francia D, Newton-Sánchez O, Ramírez-Villalobos MD, Rivera-Dommarco J. Hemoglobin measured by Hemocue and a reference method in venous and capillary blood: A validation study. Salud Publica Mex 2002;44:219-227. available at: http://www.insp.mx/salud/index.html). 
+3. De la Cruz-Góngora, V.; Méndez-Gómez-Humarán, I.; Gaona-Pineda, E.B.; Shamah-Levy, T.; Dary, O. Drops of Capillary Blood Are Not Appropriate for Hemoglobin Measurement with Point-of-Care Devices: A Comparative Study Using Drop Capillary, Pooled Capillary, and Venous Blood Samples. Nutrients 2022, 14, 5346. https://doi.org/10.3390/nu14245346;  
+4. De la Cruz-Góngora V,  Méndez-Gómez-Humarán I, Jaimes-Terán S, Gaytán M, Gómez-Acosta LM, Vizuet-Vega, et al. Validation study for Hemoglobin estimation in venous blood using HemoCue in the National Health and Nutrition Survey 2022. Salud Pub Mex).
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional y entidad federativa
+
+Opportunity: 12 meses
+
+Source of statistical information used to calculate the indicator: Instituto Nacional de Salud Pública (INSP). Encuesta Nacional de Salud y Nutrición (ENSANUT). Disponible en: https://ensanut.insp.mx/
+
+Date of next update of indicator: 30 de junio de 2026
+
+Unit of the State responsible for calculating the indicator: Instituto Nacional de Salud Pública, Secretaría de Salud. 
+
+Importance and purpose of the indicator: Es importante monitorear el nivel de anemia en la población y en particular en los niños y niñas, así como en las mujeres en edad reproductiva ya que afecta negativamente al desarrollo cognitivo y motor, a la capacidad de trabajo, y entre las mujeres embarazadas la anemia ferropénica se asocia a resultados reproductivos adversos, como partos prematuros, bebés de bajo peso y disminución de las reservas de hierro para el bebé, lo que puede provocar un retraso en su desarrollo. La carencia de hierro se considera la causa más común de anemia, pero hay otras causas nutricionales y no nutricionales. Las concentraciones de hemoglobina en sangre se ven afectadas por muchos factores, como la altitud (metros sobre el nivel del mar), el tabaquismo, el trimestre de embarazo, la edad y el sexo. La anemia puede evaluarse midiendo la hemoglobina en sangre, y cuando se utiliza en combinación con otros indicadores del estado del hierro, la hemoglobina en sangre proporciona información sobre la gravedad de la carencia de hierro.
+
+National and/or international reference: Repositorio de metadatos de los ODS, disponible en:   
+ https://unstats.un.org/sdgs/metadata/ 
+
+Observations: El estado de anemia de las mujeres se evalúa mediante las concentraciones de hemoglobina en sangre.
+

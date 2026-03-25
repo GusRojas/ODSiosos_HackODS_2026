@@ -1,0 +1,8 @@
+﻿"Nota: 1 En la ENDIREH 2016 y 2021 incluye las categorías: autobús, microbús, metro, metrobús y taxi. 
+ 2 En la ENDIREH 2011 incluye las categorías: escuela, fábrica y taller. 
+ 3 En la ENDIREH 2011 incluye sólo la categoría centro comercial. En la ENDIREH 2016 y 2021 incluye las categorías: mercado, plaza, tianguis, centro comercial, iglesia,
+cantina, bar, antro, feria, fiesta y asamblea o junta vecinal. 
+ 4 En la ENDIREH 2011 incluye las categorías: cine y otro. En la ENDIREH 2016 y 2021 incluye las categorías: otro y otro lugar público. "
+"NA No aplicable"
+"Fuente: Instituto Nacional de Estadística y Geografía (INEGI), Dirección General de Estadísticas de Gobierno, Seguridad Pública y Justicia (DGEGSPJ). Encuesta Nacional sobre
+la Dinámica de las Relaciones en los Hogares (ENDIREH) 2011, 2016 y 2021. "

@@ -1,0 +1,72 @@
+﻿Title: 10n.1.1 Crecimiento del ingreso corriente de los hogares por deciles
+
+Description: Es la desagregación del crecimiento del ingreso corriente por deciles de ingreso.
+
+Modified: 2025-10-30
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Centro de atención a usuarios INEGI
+Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276,
+Aguascalientes, Aguascalientes, Aguascalientes, 
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Nacional sin costo: 800 111 46 34 
+ Internacional: (código internacional) + (52)+(449) 149 1300
+atencion.usuarios@inegi.org.mx
+Octavio Heredia Hernández
+Director General Adjunto de Encuestas Sociodemográficas
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276
+Aguascalientes, Aguascalientes
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Telefóno: 4499105300, Ext. 4322, 4223
+octavio.heredia@inegi.org.mx
+
+Temporal: 2018-2024
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Bienal
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/10n.1.1_es.zip
+
+Goal: 10. Reducir la desigualdad en los países y entre ellos 
+
+Target:  Meta 10n.1 Lograr un crecimiento económico incluyente, con énfasis en las poblaciones vulnerables. Crecimiento económico de los más pobres
+
+Type of indicator: Nacional
+
+Algorithm: 10n.1.1_ES.gif
+
+Description of the indicator: Se calcula con el ingreso promedio de los deciles para el ejercicio del año más reciente y se le resta el ingreso promedio de los deciles del periodo inmediato anterior a precios del año mas reciente, el resultado se divide entre el promedio de los deciles del ejercicio inmediato anterior a precios del año reciente, por cien, para obtener el porcentaje de crecimiento.
+
+Unit of measure: Crecimiento del ingreso corriente promedio de los hogares
+
+Geographic coverage: Nacional y entidad federativa
+
+Opportunity: Bienal
+
+Source of statistical information used to calculate the indicator: Encuesta Nacional de Ingresos y Gastos de los Hogares. 2016. 2018, 2020, 2022 y 2024.
+
+Date of next update of indicator: No definida
+
+Unit of the State responsible for calculating the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Unidad de Estadísticas Sociodemográficas.   
+ https://www.inegi.org.mx  
+
+Importance and purpose of the indicator: El crecimiento económico es el incremento del PIB de un país o una región o un grupo de países. A este nivel, no se pueden observar cambios en la distribución; esto es, que se acumule crecimiento solo en algunos sectores de la población. Los ODS buscan no dejar a nadie atrás y lograr que el crecimiento económico se dé de forma incluyente. 
+En este sentido, se propone el indicador que da cuenta de la evolución por decil de ingresos y busca estimar el crecimiento de las personas que se encuentran en los deciles más bajos de la distribución, esto es, con menores ingresos. 
+
+National and/or international reference: Articulación con el Sistema de Cuentas Nacionales y con las Encuestas de Hogares que levanta el INEGI. 
+Las resoluciones e informes de las Conferencias Internacionales sobre Estadísticas del Trabajo, de la Organización Internacional del Trabajo (OIT). 
+17a Conferencia Internacional de Estadísticos del Trabajo y en el Reporte del Grupo de Canberra. 
+El Reporte final y Recomendaciones del Grupo de Canberra, Grupo de Expertos en las Estadísticas de Ingreso de los Hogares. 
+Manual de Encuestas sobre Hogares. Departamento de Asuntos Económicos y Sociales Internacionales, Oficina de Estadística. Naciones Unidas, Nueva York, 1987. 
+
+Observations: Para hacer una comparación temporal de los ingreso, en este caso el periodo 2016 al 2024, es necesario considerar un deflactor a partir de la inflación observada entre dichos periodos.
+

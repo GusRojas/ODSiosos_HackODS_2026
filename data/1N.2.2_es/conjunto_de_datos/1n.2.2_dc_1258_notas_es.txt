@@ -1,0 +1,4 @@
+﻿"Nota: El cálculo del denominador en los años 2019 y 2020 se obtiene de la población de responsabilidad por las instituciones. "
+"ND No disponible"
+"Fuente: SALUD.  Subsistema de Prestación de Servicios y Registros de las Instituciones de Salud. "
+"cvegeo: Clave geoestadística"

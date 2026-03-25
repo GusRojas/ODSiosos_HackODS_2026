@@ -1,0 +1,4 @@
+﻿"NA No aplicable"
+"Fuente: Secretaría de Salud-DGIS 1998 - 2022. INEGI. Estadísticas de Defunciones Registradas 1998 - 2022. SNIEG. Información de Interés Nacional y SEGOB.2018. Proyecciones de
+la Población de México y de las Entidades Federativas, 2020-2070. "
+"cvegeo: Clave geoestadística"

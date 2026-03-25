@@ -1,0 +1,62 @@
+﻿Title: 8.2.1 Tasa de crecimiento del PIB por persona ocupada
+
+Description: Variación anual del Producto Interno Bruto (PIB) -ajustado por paridad de poder de compra- por persona ocupada.
+
+Modified: 2025-05-14
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+Keyword: Crecimiento económico, desarrollo económico
+
+ContactPoint: Josué Gómez Castellanos
+Director de Estudios e Investigación Laboral
+Dirección General de Investigación y Estadísticas del Trabajo, Boulevard Adolfo López Mateos # 1968, Colonia Los Alpes, 01010, Alcaldía Alvaro Obregón, Ciudad de México
+Dir.(55) 2000 5463, 2000 5300, ext. 63263
+josue.gomez@stps.gob.mx
+
+Temporal: 2006-2024
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/8.2.1_es.zip
+
+Goal: 8. Promover el crecimiento económico sostenido, inclusivo y sostenible, el empleo pleno y productivo y el trabajo decente para todos 
+
+Target:  Meta 8.2 Lograr niveles más elevados de productividad económica mediante la diversificación, la modernización tecnológica y la innovación, entre otras cosas centrándose en los sectores con gran valor añadido y un uso intensivo de la mano de obra
+
+Type of indicator: Global
+
+Algorithm: 8_2_1_ES.gif
+
+Description of the indicator: Resulta de dividir el Producto Interno Bruto -ajustado por paridad de poder de compra- por persona ocupada en un año específico entre el Producto Interno Bruto -ajustado por paridad de poder de compra- por persona ocupada en el año inmediato anterior, menos 1, y el resultado se multiplica por 100.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: Tres meses
+
+Source of statistical information used to calculate the indicator: A partir de 2006: Encuesta Nacional de Ocupación y Empleo (ENOEN), con estimaciones trimestrales de población que genera el Marco de Muestreo de Viviendas del INEGI, con base en el Censo 2020.
+
+Date of next update of indicator: 31 de mayo de 2026
+
+Unit of the State responsible for calculating the indicator: Secretaría del Trabajo y Previsión Social (STPS). 
+
+Importance and purpose of the indicator: La medición de la productividad laboral contribuye al conocimiento y evaluación de las posibilidades de la economía de un país para crear y mantener oportunidades de empleo con remuneración justa y equitativa.
+
+National and/or international reference: Programa de las Naciones Unidas para el Desarrollo (PNUD). Soporte del PNUD para la implementación de la Agenda 2030 para el Desarrollo Sostenible  Grupo de Naciones
+Unidas para el Desarrollo 
+ Organización Internacional del Trabajo (OIT). Indicadores Clave del Mercado de Trabajo, 2015. OIT,  Ginebra, Suiza. 
+ http://www.ilo.org/global/statistics-and-databases/research-and-databases/kilm/WCMS_498940/lang--es/index.htm 
+
+Observations: 1. La paridad poder de compra (PPC) -o paridad de poder adquisitivo- es un tipo de cambio que resulta de un ajuste cuyo propósito es eliminar las diferencias de niveles de precios que prevalecen entre países. Al efectuar la conversión a términos de PPC, el PIB de los diversos países se expresa para un mismo conjunto de precios, de tal forma que las comparaciones de esta medida entre países reflejan sólo las diferencias en el volumen de bienes y servicios comprados.
+2. Este tipo de cambio se expresa en términos del dólar estadounidense, por lo que el PIB a PPC mide el valor del gasto de un país, referido al nivel de precios vigente en Estados Unidos.
+3. Los datos del PIB tienen base 2018 y están expresadas en precios corrientes.
+4. Las cifras del PIB y las estimaciones del tipo de cambio de Paridad de Poder de Compra están sujetas a revisiones periódicas por parte de las instituciones que las generan, por lo que es posible que se registren cambios frecuentes en el numerador de este indicador, lo cual repercute en el resultado final del mismo.
+

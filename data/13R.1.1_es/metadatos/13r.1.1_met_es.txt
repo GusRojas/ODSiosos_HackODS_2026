@@ -1,0 +1,58 @@
+﻿Title: 13r.1.1 Ocurrencia de eventos naturales extremos y desastres, desglosada por tipo
+
+Description: El CRED contabiliza como desastre aquel evento que cumple al menos uno de los siguientes criterios:
+• 10 o más personas consideradas muertas
+• 100 personas consideradas afectadas
+• Declaración de estado de emergencia
+• Solicitud de asistencia internacional
+
+Modified: 2025-06-12
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Karla Margarita Méndez Estrada
+Subdirectora de Estudios Económicos y Sociales
+Av. Antonio Delfin Madrigal No. 665, Pedregal de Santo Domingo, Coyoacán, 04360 Ciudad de México, CDMX
+55036000 ext. 72115
+karla@cenapred.unam-mx
+
+Temporal: 2000-2024
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/13r.1.1_es.zip
+
+Goal: 13. Adoptar medidas urgentes para combatir el cambio climático y sus efectos 
+
+Target:  Meta 13.1 Fortalecer la resiliencia y la capacidad de adaptación a los riesgos relacionados con el clima y los desastres naturales en todos los países
+
+Type of indicator: Regional
+
+Algorithm: 13r.1.1_ES.gif
+
+Description of the indicator: La información documental que recabó es de diversas fuentes de los sectores público y privado. Entre las de mayor relevancia, se encuentran los datos proporcionados por la Coordinación Nacional de Protección Civil, a través de la Dirección General para la Gestión Integral del Riesgo (DGGR); la Dirección General de Protección Civil (DGPC), por medio del Centro Nacional de Comunicación y Operación de Protección Civil (CENACOM); la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación (SAGARPA); la Secretaría de Salud (SS) y la Comisión Nacional Forestal (CONAFOR).
+
+Unit of measure: Número de desastres
+
+Geographic coverage: Nacional
+
+Opportunity: 4 meses
+
+Source of statistical information used to calculate the indicator: Centro Nacional de Prevención de Desastres (CENAPRED), Dirección General para la Gestión Integral del Riesgo (DGGR); la Dirección General de Protección Civil (DGPC), por medio del Centro Nacional de Comunicación y Operación de Protección Civil (CENACOM); la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación (SAGARPA); la Secretaría de Salud (SS) y la Comisión Nacional Forestal (CONAFOR).
+
+Date of next update of indicator: 01 de Agosto de 2026
+
+Unit of the State responsible for calculating the indicator: Centro Nacional de Prevención de Desastres (CENAPRED). 
+
+Importance and purpose of the indicator: Fortalecer la resiliencia e incorporar medidas como políticas y planes nacionales a través de la educación y la sensibilización de las personas e instituciones para fomentar la capacidad de adaptación a los riegos relacionados con el clima.
+
+National and/or international reference: Repositorio de Indicadores priorizados para el seguimiento de los ODS en América Latina y el Caribe (CEPAL). Disponible en:   
+ https://agenda2030lac.org/estadisticas/indicadores-priorizados-seguimiento-ods.html 
+
+

@@ -1,0 +1,67 @@
+﻿Title: 1n.2.2 Proporción de la población de un año de edad con esquema básico completo de vacunación
+
+Description: Es el porcentaje de la población de un año de edad que recibió el esquema básico de vacunación, con relación al total de niños de un año de edad.
+
+Modified: 2025-11-14
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Mtra. Manett Vargas García
+Directora General de Evaluación del Desempeño
+Avenida Paseo de la Reforma 450 
+Colonia Juárez, 06600
+Cuauhtémoc, Cuauhtémoc, Ciudad de México
+01 (55) 50621600 Ext. 52697
+manett.vargas@salud.gob.mx
+Dr. Delfino Campos Díaz
+Director de Gestión y Seguimiento para la Evaluación de los Sistemas de Salud
+Av. Agrarismo #227, piso 3, Col. Escandón II Sección D.T. Miguel Hidalgo, C.P. 11800, CDMX.
+01 (55) 50621600 Ext. 52681
+delfino.campos@salud.gob.mx
+
+Temporal: 1993-2024
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/1n.2.2_es.zip
+
+Goal: 1. Poner fin a la pobreza en todas sus formas y en todo el mundo 
+
+Target:  Meta 1n.2 Atención integral en la primera infancia
+
+Type of indicator: Nacional
+
+Algorithm: 1n.2.2_ES.gif
+
+Description of the indicator: Este indicador resulta de dividir a la población de un año de edad que recibió el esquema básico de vacunación en un determinado año, entre la población de un año de edad registrada en el Censo Nominal del PROVAC, multiplicado por 100.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional y estatal
+
+Opportunity: 12 meses
+
+Source of statistical information used to calculate the indicator: Secretaría de Salud (SS).
+Centro Nacional para la Salud de la Infancia y la Adolescencia (CENSIA)
+
+Date of next update of indicator: 30 de junio de 2026
+
+Unit of the State responsible for calculating the indicator: Secretaría de Salud (SSA). 
+Centro Nacional de Salud para la Infancia y la Adolescencia (CENSIA) 
+
+Importance and purpose of the indicator: Para el seguimiento de políticas públicas en materia de salud.
+
+National and/or international reference: Catálogo Nacional de Indicadores   
+ https://www.snieg.mx/cni/ 
+
+Observations: Se evalúa en los niños de 1 año de edad ya que a esta edad los niños completan el esquema básico de vacunación, con la aplicación de la vacuna triple viral (SRP).
+El cálculo del denominador en los años 2019 y 2020 se obtiene de la población de responsabilidad por las instituciones.
+El cálculo del Indicador se realizó con información de las Proyecciones de la Población de México y de las Entidades Federativas, 2016-2050 y Conciliación Demográfica de México, 1950 -2015; excepto en los años 2019 y 2020 que fue con la información poblacional basada en la proyección a mitad de año CONAPO establecida con el sector con al menos 6 meses previos al año consecutivo y en apego a los Lineamientos para la distribución de población de responsabilidad institucional del Programa de Vacunación Universal en el Sistema Nacional de Salud, México, debido a que cada institución proporciona su usuarios activos de acuerdo a sus poblaciones de responsabilidad.
+Este indicador pertenece al Catálogo Nacional de Indicadores (CNI).
+

@@ -1,0 +1,57 @@
+﻿Title: 7n.3.1 Capacidad total instalada por generación distribuida
+
+Description: Capacidad total instalada por Generación Distribuida.
+
+Modified: 2026-02-10
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Eder García Jiménez
+Subdirector de Planeación del Sector Eléctrico y Energías Renovables
+Avenida Insurgentes 20, Roma Norte  C.P.06700. Cuauhtémoc, CDMX
+01 (55) 5000 6000 Ext 6758
+egarciaj@energia.gob.mx
+
+Temporal: 2010-2024
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/7n.3.1_es.zip
+
+Goal: 7. Garantizar el acceso a una energía asequible, fiable, sostenible y moderna para todos 
+
+Target:  Meta 7n.3 Promover proyectos de Generación Distribuida para la extensión del Servicio de Distribución
+
+Type of indicator: Nacional
+
+Algorithm: 7n.3.1_ES.gif
+
+Description of the indicator: La capacidad total instalada de generación distribuida se calcula mediante la tasa de crecimiento de las capacidades instaladas de las centrales electricas de Generación distribuida, obtenida de información proporcionada por la Comisión Reguladora de Energía (CRE).
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: 1 año
+
+Source of statistical information used to calculate the indicator: Secretaría de Energía (SENER).
+
+Date of next update of indicator: No definida
+
+Unit of the State responsible for calculating the indicator: Secretaría de Energía (SENER) 
+
+Importance and purpose of the indicator: La Generación Distribuida (GD) se define en la Ley de la Industria Eléctrica (LIE) como la generación de energía eléctrica realizada por un generador exento y realizada en una Central Eléctrica interconectada a un circuito de distribución con alta concentración de Centros de Carga, en los términos de las Reglas del Mercado.
+Una de las ventajas sociales de la GD es la posibilidad de reducir la pobreza energética, plantear nuevas formas para el acceso a la electricidad, ahorros en el pago por electricidad de usuarios que se constituyan en generadores exentos; así como las reducciones de la huella de carbono en el sector de energía.
+La GD brinda la posibilidad de electrificación de zonas marginadas sin la necesidad de la extensión de la red eléctrica. Finalmente, de acuerdo a la Ley de Transición Energética, existirán estímulos fiscales, o financieros, que permitan promover inversiones en medidas técnica y económicamente viables en materia de eficiencia energética e integración de sistemas de generación distribuida de electricidad.
+
+National and/or international reference: RES/142/2017 de la Comisión Reguladora de Energía por la que expide las disposiciones administrativas de carácter general, los modelos de contrato, la metodología de cálculo de contraprestación y las especificaciones técnicas generales, aplicables a las centrales eléctricas de generación distribuida y generación limpia distribuida.
+Ericson, Sean J, & Olis, Daniel R. A Comparison of Fuel Choice for Backup Generators. United States. 
+
+Observations: Se consideró la información proporcionada por la Comisión Reguladora de Energía.
+

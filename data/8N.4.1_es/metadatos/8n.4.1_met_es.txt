@@ -1,0 +1,60 @@
+﻿Title: 8n.4.1 Variación anual del índice global de productividad laboral de la economía
+
+Description: Tasa anualizada de crecimiento de la productividad laboral al primer trimestre del año . Esto es el  crecimiento de un año si se mantuviera la tasa de crecimiento trimestral durante los cuatro trimestres.
+
+Modified: 2025-09-30
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Centro de atención a usuarios INEGI
+Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276,
+Aguascalientes, Aguascalientes, Aguascalientes, 
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Nacional sin costo: 800 111 46 34 
+ Internacional: (código internacional) + (52)+(449) 149 1300
+atencion.usuarios@inegi.org.mx
+
+Temporal: 2018-2025
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/8n.4.1_es.zip
+
+Goal: 8. Promover el crecimiento económico sostenido, inclusivo y sostenible, el empleo pleno y productivo y el trabajo decente para todos 
+
+Target:  Meta 8n.4 Crecimiento de la productividad laboral
+
+Type of indicator: Nacional
+
+Algorithm: 8n.4.1_ES.gif
+
+Description of the indicator: El Índice Global de Productividad Laboral de la Economía (IGPLE) se genera al relacionar dos variables agregadas de la economía del país, obtenidas de fuentes de información diferentes. El Sistema de Cuentas Nacionales de México (SCNM) que genera el Producto Interno Bruto (PIB) trimestral base 2018, a precios básicos y en términos reales. La Encuesta Nacional de Ocupación y Empleo (ENOE) que capta información trimestral del número de ocupados en el país y del número de horas trabajadas. Como resultado de la relación entre ambas variables, es factible obtener tanto el PIB por persona ocupada como el PIB por hora trabajada. Disponible en: https://www.inegi.org.mx/contenidos/productos/prod_serv/contenidos/espanol/bvinegi/productos/nueva_estruc/889463912439.pdf 
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: Aproximadamente 11 días después de la Publicación del PIB trimestral
+
+Source of statistical information used to calculate the indicator: Índice Global de Productividad Laboral de la Economía (IGPLE).  https://www.inegi.org.mx/temas/productividadeco/
+
+Date of next update of indicator: No definida
+
+Unit of the State responsible for calculating the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Unidad de Estadísticas Económicas.   
+ https://www.inegi.org.mx  
+
+Importance and purpose of the indicator: Es un indicador global de productividad laboral de la economía. Se estima que un crecimiento anual de 4.8% es el necesario para un crecimiento económico sostenido.
+
+National and/or international reference: En noviembre de 2009, en el marco de la Ley del Sistema Nacional de Información Estadística y Geográfica (LSNIEG, D.O.F.16/IV/2008), se constituyó como parte del Subsistema
+Nacional de Información Demográfica y Social, el Comité Técnico Especializado de Estadísticas del Trabajo y Previsión Social (CTEETPS) 
+
+Observations: El Comité Técnico Especializado de Estadísticas del Trabajo y Previsión Social (CTEETPS) conformado por representantes de las siguientes instituciones: Secretaría del Trabajo y Previsión Social (STPS), Instituto Nacional de Estadística y Geografía (INEGI), Secretaría de Hacienda y Crédito Público (SHCP), Secretaría de Economía (SE), Instituto Mexicano del Seguro Social (IMSS), Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE) y la Comisión Nacional del Sistema de Ahorro para el Retiro (CONSAR).
+

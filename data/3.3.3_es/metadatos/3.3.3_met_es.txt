@@ -1,0 +1,67 @@
+﻿Title: 3.3.3 Incidencia de paludismo (por cada 100 mil habitantes)
+
+Description: Es el número de casos confirmados de paludismo con prueba diagnóstica de gota gruesa positiva, en un determinado año, con respecto a la población total en ese mismo año, por cada 100,000 habitantes.
+
+Modified: 2025-11-14
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Mtra. Manett Vargas García
+Directora General de Evaluación del Desempeño
+Avenida Paseo de la Reforma 450 
+Colonia Juárez, 06600
+Cuauhtémoc, Cuauhtémoc, Ciudad de México
+01 (55) 50621600 Ext. 52697
+manett.vargas@salud.gob.mx
+Dr. Delfino Campos Díaz
+Director de Gestión y Seguimiento para la Evaluación de los Sistemas de Salud
+Av. Agrarismo #227, piso 3, Col. Escandón II Sección D.T. Miguel Hidalgo, C.P. 11800, CDMX.
+01 (55) 50621600 Ext. 52681
+delfino.campos@salud.gob.mx
+Dr. Fabián Correa Morales
+Director del Programa de Enfermedades Transmitidas por Vectores del CENAPRECE
+55 5062 1600, ext: 54658
+fabian.correa@salud.gob.mx
+
+Temporal: 1990-2024
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/3.3.3_es.zip
+
+Goal: 3. Garantizar una vida sana y promover el bienestar de todos a todas las edades 
+
+Target:  Meta 3.3 De aquí a 2030, poner fin a las epidemias del SIDA, la tuberculosis, la malaria y las enfermedades tropicales desatendidas y combatir la hepatitis, las enfermedades transmitidas por el agua y otras enfermedades transmisibles
+
+Type of indicator: Global
+
+Algorithm: 3.3.3_ES.gif
+
+Description of the indicator: Es el número de casos confirmados de paludismo en un determinado año con respecto a la población total en ese mismo año, por cada 100,000 habitantes.
+
+Unit of measure: Casos confirmados por cada 100 mil habitantes
+
+Geographic coverage: Nacional y entidad federativa
+
+Opportunity: 6 meses
+
+Source of statistical information used to calculate the indicator: SALUD.  Sistema Nacional de Vigilancia Epidemiológica.
+
+Date of next update of indicator: 30 de junio de 2026
+
+Unit of the State responsible for calculating the indicator: Secretaría de Salud (SSA). Centro Nacional de Programas Preventivos y Control de Enfermedades (CENAPRECE). 
+
+Importance and purpose of the indicator: Monitorear la aparición de casos nuevos de paludismo así como su distribución por área geográfica.
+Para el seguimiento de políticas públicas en materia de salud.
+
+National and/or international reference: Organización de las Naciones Unidas (ONU).  Indicadores para el seguimiento de los Objetivos de Desarrollo del Milenio. 
+
+Observations: Las series estadísticas se ajustaron con base en las proyecciones de la población de México y de las entidades federativas 2020-2070 publicadas por el CONAPO en 2023.
+Este indicador forma parte del catálogo Nacional de Indicadores (CNI).
+

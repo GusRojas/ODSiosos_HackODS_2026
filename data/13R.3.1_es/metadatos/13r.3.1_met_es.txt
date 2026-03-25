@@ -1,0 +1,60 @@
+﻿Title: 13r.3.1 Emisiones de gases de efecto invernadero, desglosadas por sector (actividad económica)
+
+Description: Emisiones de gases y compuestos de efecto invernadero por los sectores energía; procesos industriales y uso de productos; agricultura, silvicultura y otros usos de la tierra; y residuos.
+
+Modified: 2025-03-03
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: César E. Rodríguez Ortega
+Director General de Planeación, Evaluación y Estadística Ambiental
+Avenida Ejército Nacional 223, Colonia Anáhuac, 11320; Miguel Hidalgo, Miguel Hidalgo, Ciudad de México
+55 5490 0983, ext. 10983
+cesar.rodriguez@semarnat.gob.mx
+
+Temporal: 1990-2019
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/13r.3.1_es.zip
+
+Goal: 13. Adoptar medidas urgentes para combatir el cambio climático y sus efectos 
+
+Target:  Meta 13.3 Mejorar la educación, la sensibilización y la capacidad humana e institucional sobre la mitigación del cambio climático, la adaptación, la reducción del impacto y la alerta temprana
+
+Type of indicator: Regional
+
+Algorithm: 13r.3.1_ES.gif
+
+Description of the indicator: El indicador se refiere a las emisiones de gases de efecto invernadero [bióxido de carbono (CO2), metano (CH4), óxido nitroso (N20), hidrofluorocarbonos (HFC), perflourocarbonos (PFC), trifluoruro de nitrógeno (NF3) y hexafloruro de azufre (SF6], en el periodo 1990-2019, para cada uno los sectores de energía; procesos industriales y uso de productos; agricultura, silvicultura y otros usos de la tierra; y residuos. 
+Las emisiones totales, es la suma de las emisiones de los sectores, sin considerar las absorciones de CO2 (valores negativos) que derivan de las permanencias y de la conversión de tierras forestales, pastizales, humedales, tierras de cultivo, asentamientos y otras tierras.
+
+Unit of measure: Gigagramos de bióxido de carbono equivalente (Gg CO2e)
+
+Geographic coverage: Nacional
+
+Opportunity: 1 año 
+
+Source of statistical information used to calculate the indicator: - INECC. 2022. Inventario Nacional de Gases y Compuestos de Efecto Invernadero. Resumen 1990-2019.  Consultado en: Base de Datos Estadísticos del SNIARN (BADESNIARN) [Fecha de consulta: marzo de 2025]:  http://dgeiawf.semarnat.gob.mx:8080/ibi_apps/WFServlet?IBIF_ex=D3_AIRE02_19&IBIC_user=dgeia_mce&IBIC_pass=dgeia_mce&NOMBREANIO=*  
+
+Date of next update of indicator: No definida
+
+Unit of the State responsible for calculating the indicator: Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT). Dirección General de Planeación, Evaluación y Estadística Ambiental. 
+
+Importance and purpose of the indicator: El Inventario Nacional de Emisiones de Gases y Compuestos de Efecto Invernadero, contiene la estimación de las emisiones antropogénicas de gases y compuestos de efecto invernadero y de la absorción por los sumideros en México.
+Concocer las emisiones de nuestro país que se originan por las actividades humanas en todo el territorio nacional, permite diseñar políticas de reducción de emisiones, entendiendo las principales fuentes y el papel que juegan los ecosistemas capturando parte de estas emisiones. 
+
+National and/or international reference: Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT). Instituto Nacional de Ecología y Cambio Climático (INECC). Página electrónica institucional. Disponible
+en:   
+ https://www.gob.mx/inecc 
+
+Observations: El indicador sólo muestra los totales por sector de emisión, no su desagregado. 
+Las estimaciones se realizaron de acuerdo con las Directrices del Panel Intergubernamental de Cambio Climático (IPCC, por su nombre en inglés: Intergovernmental Panel on Climate Change) de 2006 para los inventarios nacionales de gases de efecto invernadero, complementadas con el refinamiento a las mismas, adoptado en 2019: 2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories (INECC, 2022).
+Las estimaciones del Inventario Nacional de Gases y Compuestos de Efecto Invernadero 1990-2019, no permiten una comparación directa válida con las cifras reportadas en inventarios anteriores.
+

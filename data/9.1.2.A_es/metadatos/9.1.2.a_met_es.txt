@@ -1,0 +1,60 @@
+﻿Title: 9.1.2.a Volumen de transporte de pasajeros, desglosado por medio de transporte
+
+Description: Es el total de pasajeros transportados por medio de transporte: aéreo, marítimo y terrestre.
+
+Modified: 2025-09-19
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Elías Araujo Arcos
+Director Ejecutivo de Análisis y Programas
+Avenida Universidad 1978, Colonia Santa Catarina, Alcaldía Coyoacán, Ciudad de México, C.P. 04010
+55-5723-9300 extensión 17225
+elias.araujo@sct.gob.mx
+
+Temporal: 2010-2024
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/9.1.2.a_es.zip
+
+Goal: 9. Construir infraestructuras resilientes, promover la industrialización inclusiva y sostenible y fomentar la innovación 
+
+Target:  Meta 9.1. Desarrollar infraestructuras fiables, sostenibles, resilientes y de calidad, incluidas infraestructuras regionales y transfronterizas, para apoyar el desarrollo económico y el bienestar humano, haciendo especial hincapié en el acceso asequible y equitativo para todos
+
+Type of indicator: Global
+
+Algorithm: 9_1_2_a_ES.gif
+
+Description of the indicator: Es el resultado de la suma de pasajeros transportados por servicio aéreo regular y fletamento, vía transporte ferroviario, autotransporte federal y marítimo.
+
+Unit of measure: Número de pasajeros
+
+Geographic coverage: Nacional
+
+Opportunity: 180 días naturales después del periodo de referencia
+
+Source of statistical information used to calculate the indicator: Agencia Federal de Aviación Civil ( https://www.gob.mx/afac/acciones-y-programas/estadisticas-280404 
+Agencia Reguladora del Transporte Ferroviario ( https://www.gob.mx/artf/documentos/anuario-estadistico-ferroviario-2024 
+Dirección General de Autotransporte Federal, Secretaría de Infraestructura, Comunicaciones y Transportes ( http://www.sct.gob.mx/transporte-y-medicina-preventiva/autotransporte-federal/estadistica/ 
+Coordinación General de Puertos y Marina Mercante, Secretaría de Marina ( https://www.gob.mx/puertosymarinamercante/acciones-y-programas/informe-estadistico-de-los-puertos-de-mexico-2024
+
+Date of next update of indicator: 31 de julio de 2026
+
+Unit of the State responsible for calculating the indicator: Secretaría de Infraestructura, Comunicaciones y Transportes (SICT)   
+ https://www.gob.mx/sct 
+
+Importance and purpose of the indicator: Este indicador es importante para observar la evolución del movimiento de pasajeros por medio de transporte, lo que permite mejorar el diseño y evaluación de políticas públicas en materia de movilidad.
+
+National and/or international reference: Secretaría de Infraestructura, Comunicaciones y Transportes (SICT)  
+ https://www.gob.mx/sct 
+Coordinación General de Puertos y Marina Mercante, Secretaría de Marina (SEMAR)  
+ https://www.gob.mx/puertosymarinamercante 
+
+

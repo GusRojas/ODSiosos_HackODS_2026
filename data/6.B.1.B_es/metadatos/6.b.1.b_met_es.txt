@@ -1,0 +1,70 @@
+﻿Title: 6.b.1.b Proporción de dependencias administrativas locales con procedimientos claramente definidos en leyes o políticas para la participación de los usuarios y las comunidades en programas de planificación y gestión de recursos hídricos.
+
+Description: El indicador evalúa el porcentaje de dependencias administrativas locales que tienen un mecanismo establecido y operativo mediante el cual los individuos y las comunidades pueden contribuir significativamente a las decisiones y direcciones sobre la gestión del agua y el saneamiento.
+
+Modified: 2024-11-13
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Gerencia de Planificación Hídrica
+Subgerencia del Sistema Nacional de Información del Agua
+Insurgentes Sur # 2416. Piso 4; Colonia Copilco El Bajo, 04340. Coyoacán, Ciudad de México
++52 55 5174 4000, ext. 2112 y 4458
+sina@conagua.gob.mx
+Gerencia de Cooperación Internacional
+Dirección de Área de Evaluación de Programas y Proyectos
+Insurgentes Sur # 2416. Piso 9; Colonia Copilco El Bajo, 04340. Coyoacán, Ciudad de México
++52 55 5174 4000, ext. 1313
+internacional@conagua.gob.mx
+
+Temporal: 2023-2023
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Bienal
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/6.b.1.b_es.zip
+
+Goal: 6. Garantizar la disponibilidad y la gestión sostenible del agua y el saneamiento para todos 
+
+Target:  Meta 6.b. Apoyar y fortalecer la participación de las comunidades locales en la mejora de la gestión del agua y el saneamiento
+
+Type of indicator: Global
+
+Algorithm: 6_b_1_b_ES.gif
+
+Description of the indicator: A través de la encuesta “Análisis Global y Evaluación del Agua Potable y Saneamiento de UN-Water” (GLAAS en inglés), la OMS monitorea los componentes de los sistemas WASH, incluida la gobernanza, el monitoreo, las finanzas y los recursos humanos necesarios para sostener y extender los servicios WASH a todos, especialmente a aquellos en situaciones vulnerables. 
+Con la encuesta GLAAS se recopila información directamente de los gobiernos nacionales para generar datos confiables y de alta calidad para informar las acciones de políticas desde el nivel local hasta el global. 
+Para calcular el indicador se utilizó una sección de la encuesta GLAAS que proporciona información sobre si existen “procedimientos claramente definidos en las leyes o políticas para la participación de los usuarios de servicios y las comunidades en los programas de planificación” y se aplicó a un conjunto de actores locales involucrados en la gestión del agua y saneamiento en el ámbito local mediante una encuesta electrónica.
+A partir de este mecanismo, se concentró la información del número de dependencias administrativas locales con procedimientos claramente definidos en leyes o políticas para la participación de los usuarios y las comunidades en la planificación de programas para el suministro de agua potable rural (o en programas de planificación y gestión de recursos hídricos), así como el número de unidades administrativas locales evaluadas. También se concentró la información del número de dependencias administrativas locales con un alto nivel de participación de los usuarios y comunidades en la planificación de programas para el suministro de agua potable en zonas rurales (o en programas de planificación y gestión de recursos hídricos).
+Finalmente, el indicador se calcula aplicando el algoritmo del apartado anterior.
+Una política o procedimiento se considera establecido si el mecanismo de participación de las comunidades locales está definido en la ley o ha sido formalmente aprobado y publicado. Se considera operativo si la política o procedimiento se está implementando, contando con la financiación adecuada y con medios para verificar que se ha producido la participación.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: 1 año
+
+Source of statistical information used to calculate the indicator: Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT). Comisión Nacional del Agua (CONAGUA). Gerencia de Planificación Hídrica. Sistema Nacional de Información del Agua (SINA).
+
+Date of next update of indicator: 31 de diciembre de 2026
+
+Unit of the State responsible for calculating the indicator: Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT). Comisión Nacional del Agua (CONAGUA). Gerencia de Planificación Hídrica. Sistema Nacional de Información
+del Agua (SINA). 
+
+Importance and purpose of the indicator: Definir los procedimientos en políticas o leyes para la participación de las comunidades locales es vital para garantizar que se satisfagan las necesidades de toda la comunidad, incluidos los más vulnerables, y también fomenta la apropiación de los planes, lo que a su vez contribuye a su sostenibilidad.
+Adicionalmente, la participación de las partes interesadas es esencial para garantizar la sostenibilidad de las opciones de gestión del agua y el saneamiento en el tiempo, la elección de soluciones apropiadas para un contexto social y económico determinado, y la comprensión plena de los impactos de una determinada decisión de desarrollo. 
+Las unidades administrativas locales se refieren a subdistritos, municipios, comunas u otras unidades a nivel de comunidad local que no se superponen y que cubren áreas tanto urbanas como rurales, que serán definidas por el gobierno.
+Las políticas y procedimientos para la participación de las comunidades locales en la gestión del agua y el saneamiento definen un mecanismo formal para asegurar la participación de los usuarios en la planificación de las actividades de agua y saneamiento.
+
+National and/or international reference: Como referencia se revisaron los reportes de los anexos estadísticos de los documentos "Progress towards the Sustainable Development Goals - Report of the Secretary-General
+- Supplementary Information" consultados en la página de internet:   
+ https://unstats.un.org/sdgs/files/report/2024/E_2024_54_Statistical_Annex_I_and_II.pdf 
+
+Observations: En la encuesta participaron representantes de prestadores de servicios de agua municipales, comisiones estatales del agua, consejos de cuenca y consultores especializados en agua y saneamiento.
+

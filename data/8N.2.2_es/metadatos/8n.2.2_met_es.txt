@@ -1,0 +1,69 @@
+﻿Title: 8n.2.2 Número de Personas Trabajadoras del Hogar afiliadas ante el Instituto Mexicano del Seguro Social
+
+Description: Se considera como personas trabajadoras del hogar a aquéllas que prestan los servicios de aseo, asistencia y demás actividades propias o inherentes al hogar de una persona o familia; pueden trabajar para uno o varios patrones y vivir o no en su lugar de trabajo.
+
+Modified: 2026-03-09
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Luis Gerardo Magaña Zaga
+Titular de la Unidad de Incorporación
+Paseo de la Reforma, 476
+5552382700 ext. 10428
+luis.magana@imss.gob.mx
+Adriana Alejandra Pedroza Marquez
+Coordinadora de Afiliación
+Paseo de la Reforma, 476
+5552382700 ext. 10428
+adriana.pedroza@imss.gob.mx
+Eduardo Alcaraz Prous
+Coordinador de Planeación y Evaluación
+Paseo de la Reforma, 476
+5552382700 ext. 10469
+eduardo.alcarazp@imss.gob.mx
+
+Temporal: 2019-1-2026-2
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Mensual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/8n.2.2_es.zip
+
+Goal: 8. Promover el crecimiento económico sostenido, inclusivo y sostenible, el empleo pleno y productivo y el trabajo decente para todos 
+
+Target:  Meta 8n.2 Acceso a la protección social para las trabajadoras y los trabajadores del hogar/ Construcción de un sistema nacional de cuidados
+
+Type of indicator: Nacional
+
+Algorithm: 8n.2.2_ES.gif
+
+Description of the indicator: Registro administrativo: número de personas trabajadoras del hogar afiliadas por los patrones ante el Instituto Mexicano del Seguro Social.
+
+Unit of measure: Número de personas
+
+Geographic coverage: Nacional y entidad federativa
+
+Opportunity: 15 días después de terminado el periodo de referencia.
+
+Source of statistical information used to calculate the indicator: Instituto Mexicano del Seguro Social (IMSS). Coordinación de Planeación y Evaluación. Información Estadística de los Puestos de trabajo registrados por los patrones en el IMSS. 2019, 2020, 2021 y 2022 SNIEG. Información de Interés Nacional.
+El indicador no se publica, pero lo datos con base en los cuáles se calcula provienen del programa de información “Puestos de trabajo registrados por los patrones en el IMSS” y pueden ser consultados en: http://www.imss.gob.mx/conoce-al-imss/cubos y https://public.tableau.com/app/profile/imss.cpe/viz/FaseIIProgramapilotodeincorporacindePersonasTrabajadorasdelHogar/PTH
+La metodología del programa de los “Puestos de trabajo registrados por los patrones en el IMSS” puede ser consultada en: https://www.inegi.org.mx/rnm/index.php/catalog/765
+
+Date of next update of indicator: No definida
+
+Unit of the State responsible for calculating the indicator: Instituto Mexicano del Seguro Social (IMSS) 
+
+Importance and purpose of the indicator: De acuerdo con el INEGI, en México 2.3 millones de personas se dedican al trabajo del hogar. Este sector de la población ha sido discriminado en cuanto al acceso a la protección social. Recientemente se han implementado esfuerzos por la incorporación de este sector al sistema de seguridad social. El indicador da seguimiento a los programas pilotos implementados para el acceso a este derecho.
+La meta se estableció considerando el número de trabajadoras y trabajadores del hogar; sin embargo, no se cuenta con suficiente información para hacer alguna predicción estadística.
+
+National and/or international reference: Referencia nacional: ENOE (INEGI)  
+ Referencia internacional: Uruguay, el país latinoamericano con la mayor cobertura para este segmento de la población y en donde el aseguramiento de las Personas Trabajadoras
+del Hogar es obligatorio. 
+
+Observations: El Instituto Mexicano del Seguro Social reporta el número de personas trabajadoras del hogar de manera mensual, salario promedio diario asociado y beneficiarios potenciales, registrados en el Programa Piloto para Personas Trabajadoras del Hogar.
+

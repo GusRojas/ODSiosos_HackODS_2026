@@ -1,0 +1,63 @@
+﻿Title: 17n.2.1 Porcentaje de indicadores globales y regionales para los que se encuentra información pública en la plataforma de indicadores
+
+Description: Porcentaje de indicadores únicos, globales y regionales, para los que se encuentra información públicada en el Sistema de Información de los Objetivos de Desarrollo Sostenible, con respecto al total de indicadores únicos aplicables a México
+
+Modified: 2024-12-16
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Centro de atención a usuarios INEGI
+Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276,
+Aguascalientes, Aguascalientes, Aguascalientes, 
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Nacional sin costo: 800 111 46 34 
+ Internacional: (código internacional) + (52)+(449) 149 1300
+atencion.usuarios@inegi.org.mx
+
+Temporal: 2022-2024
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/17n.2.1_es.zip
+
+Goal: 17. Fortalecer los medios de implementación y revitalizar la Alianza Mundial para el Desarrollo Sostenible 
+
+Target:  Meta 17n.2 Creación y fortalecimiento de capacidades eficaces y específicas para la implementación de la Agenda 2030
+
+Type of indicator: Nacional
+
+Algorithm: 17n.2.1_ES.gif
+
+Description of the indicator: Se calcula como la sumatoria de los indicadores del Marco Global y Regional que están publicados en la plataforma, dividido entre la sumatoria del total de indicadores del Marco Global y Regional
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: 1 año.
+
+Source of statistical information used to calculate the indicator: Dirección General de Comunicación, Servicio Publico de Información y Relaciones Institucionales (DGCSPIRI), Instituto Nacional de Estadística y Geografía (INEGI)
+
+Date of next update of indicator: 31 de diciembre de 2025
+
+Unit of the State responsible for calculating the indicator: Dirección General de Comunicación, Servicio Publico de Información y Relaciones Institucionales (DGCSPIRI), Instituto Nacional de Estadística y Geografía (INEGI) 
+
+Importance and purpose of the indicator: El cálculo de los indicadores únicos publicados, tanto del marco global como del marco regional, es clave para evaluar el monitoreo de la Agenda 2030 a nivel nacional. Asimismo, su información resulta fundamental para el diagnóstico, seguimiento y fortalecimiento de las políticas públicas que atienden las temáticas asociadas con cada uno de los indicadores.
+
+National and/or international reference: Fuente global disponible en:   
+ https://unstats.un.org/sdgs/  
+ Fuente regional disponible en:  
+ https://agenda2030lac.org/estadisticas/indicadores-priorizados-seguimiento-ods.html 
+ Fuente nacional para conteo disponible en:   
+ https://agenda2030.mx/#/home 
+
+Observations: Los indicadores aplicables a México fueron ratificados por el Comité Técnico Especializados de los Objetivos de Desarrollo Sostenible en la Primera Sesión Ordinaria del 2022, el 10 de agosto del 2022.
+

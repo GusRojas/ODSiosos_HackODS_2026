@@ -1,0 +1,68 @@
+﻿Title: 8n.3.1a Porcentaje de la población entre 18 y 70 años que tiene una cuenta en un banco u otra institución financiera, por sexo
+
+Description: El porcentaje de adultos (18 a 70 años) que informa tener una cuenta en un banco u otro tipo de institución financiera o servicio de dinero móvil.
+
+Modified: 2025-06-27
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Centro de atención a usuarios INEGI
+Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276,
+Aguascalientes, Aguascalientes, Aguascalientes, 
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Nacional sin costo: 800 111 46 34 
+ Internacional: (código internacional) + (52)+(449) 149 1300
+atencion.usuarios@inegi.org.mx
+Octavio Heredia Hernández
+Director General Adjunto de Encuestas Sociodemográficas
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276
+Aguascalientes, Aguascalientes
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Telefóno: 4499105300, Ext. 4322, 4223
+octavio.heredia@inegi.org.mx
+
+Temporal: 2015-2024
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Trienal
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/8n.3.1a_es.zip
+
+Goal: 8. Promover el crecimiento económico sostenido, inclusivo y sostenible, el empleo pleno y productivo y el trabajo decente para todos 
+
+Target:  Meta 8n.3 Inclusión financiera
+
+Type of indicator: Nacional
+
+Algorithm: 8n.3.1_ES.gif
+
+Description of the indicator: El indicador se calcula como el cociente de la población adulta (18 a 70 años) que cuenta con una cuenta de banco u otra institución financiera o servicio móvil, entre el total de la población adulta (18 a 70 años), de acuerdo con el año de la encuesta y característica seleccionada.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: No definida
+
+Source of statistical information used to calculate the indicator: Instituto Nacional de Estadística y Geografía (INEGI)
+Comisión Nacional Bancaria y de Valores (CNBV)
+
+Date of next update of indicator: 31 de diciembre de 2028
+
+Unit of the State responsible for calculating the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Unidad de Estadísticas Sociodemográficas.   
+ https://www.inegi.org.mx  
+
+Importance and purpose of the indicator: Conocer la proporción de población adulta (18 a 70 años) que cuenta con servicios financieros formales es una forma de acercarse al nivel de la  inclusión financiera de la población en el país, desde el punto de vista del acceso; en diversos artículos de investigación, tanto con argumentación teórica como con algunas evidencias empíricas, se ha señalado el vínculo entre desarrollo financiero, inclusión financiera y diversas variables de crecimiento y desarrollo económico de las naciones; asimismo, se ha señalado cómo la inclusión financiera impacta a demás en la consecución de varios de los ODS: poner fin al hambre, garantizar educación inclusiva, lograr la igualdad de género, etc. (Dircio Palacios Macedo, María del Carmen,2021. La importancia de la inclusión financiera en México para alcanzar los ODS. Revista DIECISIETE. 2021. Nº 5. Madrid. ISSN 2695-4427 Versión digital (pp. 75-92)  La inclusión financiera alberga la promesa de fomentar el crecimiento y de reducir la pobreza y la desigualdad, en especial movilizando los ahorros y brindando a los sectores de hogares y de empresas mayor acceso a los recursos necesarios para financiar el consumo y la inversión y para tener garantías contra los choques. Además, la inclusión financiera puede fomentar la formalización del trabajo y de las empresas, lo cual ayudará a la vez a impulsar los ingresos del gobierno y a fortalecer las redes de protección social. (Dabla Norris, et. al, 2015.Inclusión financiera. Un enfoque centrado en América Latina. Boletin CEMLA, oct-dic- En:Perfiles de salud reproductiva, República Mexicana; 2011.Consejo Nacional de Población. Disponible en:  https://www.cemla.org/PDF/boletin/PUB_BOL_LXI-04-03.pdf            
+
+National and/or international reference: Ninguna 
+
+Observations: Para obtener a la población adulta (18 a 70 años) con una cuenta de banco u otra institución financiera o servicio de dinero móvil, se considera a las personas que tienen  acceso a un producto financiero formal: al menos una cuenta o tarjeta de ahorro, un crédito, un seguro o una cuenta de ahorro para el retiro o Afore. Los productos de ahorro formal son: cuenta nómina, pensión, para recibir apoyos del gobierno, de ahorro, cheques, depósito a plazo fijo, inversión o cuenta contratada por Internet o aplicación como Mercado Pago o Albo u otro (esto último solo para 2021); de crédito formal: tarjeta de crédito o departamental, de nómina, personal,  automotriz, hipotecario, grupal o bien crédito contratado por Internet o aplicación como Prestadero, Doopla o Playbusiness u otro (esto último solo para 2021);  la tenencia de la tenencia de seguro: de vida, gastos médicos, de auto, contra accidentes, de casa, de educación, plan privado de retiro y otros;  y la tenecia de una cuenta para el retiro o Afore.
+

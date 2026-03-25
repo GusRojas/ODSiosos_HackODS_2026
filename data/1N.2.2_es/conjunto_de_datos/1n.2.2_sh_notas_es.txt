@@ -1,0 +1,4 @@
+﻿"Nota: El cálculo del denominador en los años 2019 y 2020 se obtiene de la población de responsabilidad por las instituciones. "
+"ND No disponible"
+"Fuente: Centro Nacional para la Salud de la Infancia y la Adolescencia (CENSIA) "
+"cvegeo: Clave geoestadística"

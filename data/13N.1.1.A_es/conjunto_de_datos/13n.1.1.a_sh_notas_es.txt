@@ -1,0 +1,6 @@
+﻿"Fuente: - Instituto Nacional de Ecología y Cambio Climático (INECC).  
+ https://www.gob.mx/inecc  Elaboración propia a partir de las concentraciones reportadas por los Sistemas de Monitoreo de la Calidad del Aire de la Ciudad de México,
+Estado de México, Morelos y Puebla.
+- OPS. 2005. OMS Guías de calidad del aire actualización mundial 2005. Informe de la Reunión del Grupo de Trabajo, Bonn, Alemania,
+18-20 Octubre 2005. Organización Panamericana de la Salud. Consultado en:   
+ https://iris.paho.org/handle/10665.2/52697  "

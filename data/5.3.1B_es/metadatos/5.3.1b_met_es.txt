@@ -1,0 +1,62 @@
+﻿Title: 5.3.1b Proporción de mujeres de entre 20 y 24 años que estaban casadas o mantenían una unión estable antes de cumplir los 15 años y antes de cumplir los 18 años, por entidad federativa
+
+Description: Porcentaje de mujeres entre 20 y 24 años que estaban casadas o en una unión antes de los 15 años y antes de los 18 años
+
+Modified: 2025-01-31
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Octavio Heredia Hernández
+Director General Adjunto de Encuestas Sociodemográficas
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276
+Aguascalientes, Aguascalientes
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Telefóno: 4499105300, Ext. 4322, 4223
+octavio.heredia@inegi.org.mx
+
+Temporal: 2014-2023
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual irregular
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/5.3.1b_es.zip
+
+Goal: 5. Lograr la igualdad de género y empoderar a todas las mujeres y las niñas 
+
+Target:  Meta 5.3 Eliminar todas las prácticas nocivas, como el matrimonio infantil, precoz y forzado y la mutilación genital femenina
+
+Type of indicator: Global
+
+Algorithm: 5.3.1b_ES.gif
+
+Description of the indicator: El indicador se calcula como el número de mujeres entre 20 y 24 años que estaban casadas o en unión libre antes de los 15 años (o antes de los 18 años) dividido entre la población total de mujeres entre 20 y 24 años, multiplicado por cien.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional y estatal
+
+Opportunity: 6 meses
+
+Source of statistical information used to calculate the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional sobre la Dinámica Demográfica (ENADID).  https://www.inegi.org.mx/programas/enadid/
+
+Date of next update of indicator: 28 de febrero de 2030
+
+Unit of the State responsible for calculating the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Dirección General de Estadísticas Sociodemográficas.   
+ https://www.inegi.org.mx  
+
+Importance and purpose of the indicator: El matrimonio antes de los 18 años es una violación fundamental de los derechos humanos. El matrimonio infantil a menudo compromete el desarrollo de las adolescentes, porque tiene como resultado el embarazo temprano y el aislamiento social, la interrupción de sus estudios, lo que limita sus oportunidades de carrera y desarrollo profesional y la colocación de ella en mayor riesgo de violencia por parte de la pareja. En muchas culturas, se espera que las niñas alcancen la pubertad para asumir roles de género asociados a la condición de mujer. Estos incluyen contraer matrimonio y convertirse en madre.
+La práctica del matrimonio infantil es una manifestación directa de la desigualdad de género.
+La cuestión del matrimonio precoz o infantil se trabaja en una serie de convenios y acuerdos internacionales. Aunque el matrimonio no se menciona directamente en la Convención sobre los Derechos del Niño, el matrimonio infantil está relacionado con otros derechos como el derecho a la libertad de expresión, el derecho a la protección contra todas las formas de abuso, y el derecho a ser protegidos de las prácticas tradicionales nocivas.
+
+National and/or international reference: Programa de las Naciones Unidas para el Desarrollo (PNUD). Apoyo del PNUD para la implementación de la Agenda 2030 para el Desarrollo Sostenible. Disponible en:   
+ https://www.undp.org/es/publications/apoyo-del-pnud-para-la-implementacion-de-la-agenda-2030-para-el-desarrollo-sostenible 
+
+Observations: Existen herramientas y mecanismos existentes para la recopilación de datos que los países han puesto en práctica para controlar la situación con respecto a este indicador. Los módulos utilizados para recopilar información sobre el estado civil de las mujeres y los hombres en edad reproductiva (15 a 49 años), disponibles por ejemplo en el Multiple Indicator Cluster Surveys (MICS), han sido plenamente armonizados.
+La Encuesta Nacional de la Dinámica Demográfica (ENADID) forma parte de la Información de Interés Nacional.
+

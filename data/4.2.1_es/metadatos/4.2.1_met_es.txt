@@ -1,0 +1,74 @@
+﻿Title: 4.2.1 Proporción de niños de 24 a 59 meses cuyo desarrollo es adecuado en cuanto a la salud, el aprendizaje y el bienestar psicosocial, desglosada por sexo
+
+Description: El indicador representa el porcentaje de niños con edades de los 24 a 59 meses que muestran un desarrollo adecuado, según los estándares médicos prevalentes al momento del estudio, con respecto a los elementos de salud, aprendizaje y bienestar psicosocial, con un desglose por sexo y tamaño de la localidad, como proporción del total de niños entre los 24 y 59 meses de edad.
+
+Modified: 2025-11-14
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Mtra. Manett Vargas García
+Directora General de Evaluación del Desempeño
+Avenida Paseo de la Reforma 450 
+Colonia Juárez, 06600
+Cuauhtémoc, Cuauhtémoc, Ciudad de México
+01 (55) 50621600 Ext. 52697
+manett.vargas@salud.gob.mx
+Dr. Delfino Campos Díaz
+Director de Gestión y Seguimiento para la Evaluación de los Sistemas de Salud
+Av. Agrarismo #227, piso 3, Col. Escandón II Sección D.T. Miguel Hidalgo, C.P. 11800, CDMX.
+01 (55) 50621600 Ext. 52681
+delfino.campos@salud.gob.mx
+Ruth Argelia Vázquez Salas
+Investigadora en Ciencias Médicas "C" en el Instituto Nacional de Salud Pública
+7a. Cerrada de Fray Pedro de Gante #50, Col. Sección XVI Tlalpan. C.P. 14080; Ciudad de México
+55 54 87 10 00, ext 4325
+argelia.vazquez@insp.mx
+
+Temporal: 2021-2024
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/4.2.1_es.zip
+
+Goal: 4. Garantizar una educación inclusiva y equitativa de calidad y promover oportunidades de aprendizaje permanente para todos 
+
+Target:  Meta 4.2 De aquí a 2030, asegurar que todas las niñas y todos los niños tengan acceso a servicios de atención y desarrollo en la primera infancia y educación preescolar de calidad, a fin de que estén preparados para la enseñanza primaria
+
+Type of indicator: Global
+
+Algorithm: 4.2.1_ES.gif
+
+Description of the indicator: El indicador se calcula sumando el número de niños de 24 a 59 meses de edad que tienen un adecuado desarrollo en salud, aprendizaje y  binestar psicosocial y dicha suma se divide entre el total de niños dentro de dicho rango de edad
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: 1 año
+
+Source of statistical information used to calculate the indicator: Instituto Nacional de Salud Pública (INSP). Encuesta Nacional de Salud y Nutrición (ENSANUT). Disponible en: https://ensanut.insp.mx/
+
+Date of next update of indicator: 30 de junio de 2026
+
+Unit of the State responsible for calculating the indicator: Secretaría de Salud (SSA). Instituto Nacional de Salud Pública (INSP). 
+
+Importance and purpose of the indicator: El desarrollo adecuado de los niños en edad temprana es esencial para garantizar un crecimiento óptimo, así como una inserción adecuada en la sociedad. Por ende, el indicador permite diseñar y aplicar políticas públicas tendientes a que sea cada vez mayor el número de niños que gocen de las condiciones para un pleno desarrollo. 
+
+National and/or international reference: Repositorio de metadatos de los ODS, disponible en:   
+ https://unstats.un.org/sdgs/metadata/ 
+
+Observations: El Desarrollo Infantil Temprano es el proceso ordenado y predecible a lo largo del cual una niña(o) aprende a manejar niveles más complejos de habilidades para moverse, pensar, hablar, sentir y relacionarse con los demás. Los dominios vitales para el desarrollo general de las niñas(os) son el crecimiento físico, las habilidades de alfabetización y conocimientos numéricos, el desarrollo socioemocional y la disposición de aprender. Dada la importancia del tema se incluyó en los Objetivos del Desarrollo Sostenible (ODS), en específico el indicador 4.2.1, que estípula la medición del porcentaje de niñas(os) menores de cinco años cuyo desarrollo es óptimo en salud, aprendizaje y bienestar psicosocial.
+Para calcular el indicador, se utilizó un módulo de 20 preguntas desarrollado y validado por UNICEF, en donde madres o cuidadores principales informan sobre el comportamiento, habilidades y conocimientos de sus hijas(os). El desarrollo es adecuado cuando el puntaje obtenido es igual o mayor al punto de corte correspondiente a la edad de la niña(o).
+Los puntos de corte se muestran a continuación:
+• Niñas(os) de 24 a 29 meses el punto de corte es 7 de los 20 puntos posibles
+• Niñas(os) de 30 a 35 meses el punto de corte es 9 de los 20 puntos posibles
+• Niñas(os) de 36 a 41 meses el punto de corte es 11 de los 20 puntos posibles
+• Niñas(os) de 42 a 47 meses el punto de corte es 13 de los 20 puntos posibles
+• Niñas(os) de 48 a 59 meses el punto de corte es 15 de los 20 puntos posibles
+

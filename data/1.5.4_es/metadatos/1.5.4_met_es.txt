@@ -1,0 +1,58 @@
+﻿Title: 1.5.4 Proporción de gobiernos locales que adoptan y aplican estrategias locales de reducción del riesgo de desastres en consonancia con las estrategias nacionales de reducción del riesgo de desastres
+
+Description: Porcentaje de gobiernos locales que adoptan y aplican estrategias de reducción del riesgo de desastres en consonancia con las estrategias nacionales. El grado de adopción y aplicación de las estrategias de reducción del riesgo de desastres en consonancia con el Marco de Sendai para la Reducción del Riesgo de Desastres 2015-2030.
+
+Modified: 2024-11-20
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Mtro. Ernesto Franco Vargas
+Subdirector de Coordinación, Evaluación y Diseño de Políticas Públicas para la Prevención de Desastres
+(55) 1103 6000 Extensión 72106
+efranco@cenapred.unam.mx
+Lcda. Sandra Jiménez Allende
+Jefa de Departamento de Evaluación y Seguimiento de Políticas
+(55) 1103 6000 Extensión 72100
+sjimenez@cenapred.unam.mx
+
+Temporal: 2022-2022-2024-2024
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/1.5.4_es.zip
+
+Goal: 1. Poner fin a la pobreza en todas sus formas y en todo el mundo 
+
+Target:  Meta 1.5 De aquí a 2030, fomentar la resiliencia de los pobres y las personas que se encuentran en situaciones de vulnerabilidad y reducir su exposición y vulnerabilidad a los fenómenos extremos relacionados con el clima y otras perturbaciones y desastres económicos, sociales y ambientales
+
+Type of indicator: Global
+
+Algorithm: 1.5.4_ES.gif
+
+Description of the indicator: La información documental se recaba de los programas especiales con los que los Gobiernos locales cuentan y que mediante la Coordinación Nacional de Protección Civil (CNPC), a través de la Dirección General de Protección Civil (DGPC), se precisa el total de gobiernos que aplican estrategias de reducción del riesgo de desastres mediante los programas especiales de protección civil.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: En el mes de noviembre de cada ejercicio fiscal se puede contar con los datos del año.
+
+Source of statistical information used to calculate the indicator: Centro Nacional de Prevención de Desastres (CENAPRED) y la Coordinación Nacional de Protección Civil mediante la Dirección General de Protección Civil (DGPC)
+
+Date of next update of indicator: 30 de noviembre de 2025
+
+Unit of the State responsible for calculating the indicator: Centro Nacional de Prevención de Desastres (CENAPRED). 
+
+
+National and/or international reference: Nacional 
+
+Observations: Los Programas Especiales de Protección Civil son el instrumento de planeación y operación que se implementa con la participación corresponsable de diversas dependencias e instituciones, ante un peligro o riesgo específico derivado de un agente perturbador en un área o región determinada, que involucran a grupos de población específicos y vulnerables, y que por las características previsible de los mismos, permiten un tiempo adecuado de planeación, con base en las etapas consideradas en la Gestión Integral de Riesgo.
+Las Unidades de Protección Civil de las entidades federativas promoverán con las diversas instancias del Sistema Nacional, para que desarrollen programas especiales destinados a reducir o mitigar los riesgos antropogénicos, así como de atención a la población en caso de contingencias derivadas de tales fenómenos.
+En razón de lo anterior los gobiernos locales adoptan y aplican estrategias locales de reducción del riesgo de desastres en consonancia con las estrategias nacionales de reducción del riesgo de desastres, sin embargo en el marco de  la Ley General de Protección no contempla la publicación de los programas especiales.
+

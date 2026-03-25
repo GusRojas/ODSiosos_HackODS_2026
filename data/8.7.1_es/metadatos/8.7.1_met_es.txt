@@ -1,0 +1,56 @@
+﻿Title: 8.7.1 Proporción de la población de 5 a 17 años que realiza una ocupación infantil no permitida, desglosada por sexo y edad
+
+Description: Este indicador se refiere a la proporción de personas de 5 a 17 años que participan en la ocupación infantil no permitida.
+
+Modified: 2024-08-27
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+Keyword: Explotación infantil, explotación adolescente
+
+ContactPoint: Josué Gómez Castellanos
+Director de Estudios e Investigación Laboral
+Dirección General de Investigación y Estadísticas del Trabajo, Boulevard Adolfo López Mateos # 1968, Colonia Los Alpes, 01010, Alcaldía Alvaro Obregón, Ciudad de México
+Dir.(55) 2000 5463, 2000 5300, ext. 63263
+josue.gomez@stps.gob.mx
+
+Temporal: 2007-2022
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual irregular
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/8.7.1_es.zip
+
+Goal: 8. Promover el crecimiento económico sostenido, inclusivo y sostenible, el empleo pleno y productivo y el trabajo decente para todos 
+
+Target:  Meta 8.7 Adoptar medidas inmediatas y eficaces para erradicar el trabajo forzoso, poner fin a las formas contemporáneas de esclavitud y la trata de personas y asegurar la prohibición y eliminación de las peores formas de trabajo infantil, incluidos el reclutamiento y la utilización de niños soldados, y, de aquí a 2025, poner fin al trabajo infantil en todas sus formas
+
+Type of indicator: Global
+
+Algorithm: 8_7_1_ES.gif
+
+Description of the indicator: Este indicador muestra la proporción de niñas, niños y adolescentes de 5-17 años que realizan una ocupación no permitida. Se calcula dividiendo la población de 5-17 años de edad que en la semana de referencia estuvo por debajo de la edad mínima (5 a 14 años) para trabajar (según el Art. 123 Constitucional) más de los de 15 a 17 años que estaban laborando en una ocupación peligrosa (según la Ley Federal del Trabajo) respecto de la población total de niñas, niños y adolescentes de 5 a 17 años.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional (sexo y grupo de edad) y entidad federativa (total y grupo de edad)
+
+Opportunity: Actual
+
+Source of statistical information used to calculate the indicator: Instituto Nacional de Estadística y Geografía (INEGI) y Secretaría del Trabajo y Previsión Social (STPS). Módulo de Trabajo Infantil (MTI) de la Encuesta Nacional de Ocupación y Empleo (ENOE). Las cifras absolutas de la ENOE se sustentan en las proyecciones de población basadas en el Censo de Población y Vivienda 2010.
+
+Date of next update of indicator: 30 de septiembre de 2026
+
+Unit of the State responsible for calculating the indicator: Secretaría del Trabajo y Previsión Social (STPS). 
+
+Importance and purpose of the indicator: Proporciona información sobre la población infantil y adolescente que se encuentra realizando alguna actividad de tipo económico no permitida. Este indicador puede mostrar la falta de oportunidades de las niñas, niños y adolescentes en el ámbito escolar.
+
+National and/or international reference: Organización Internacional del Trabajo (OIT), Trabajo infantil. Panorama general. OIT, Ginebra, Suiza. http://www.ilo.org/global/topics/child-labour/lang--es/index.htm
+
+Observations: Los datos absolutos se generaron con el factor de expansión correspondiente a las proyecciones de población revisadas por el Consejo Nacional de Población (CONAPO), las cuales se basaron en el Censo de Población y Vivienda 2010 y se difundieron en abril de 2013.
+

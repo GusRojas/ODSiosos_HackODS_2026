@@ -1,0 +1,7 @@
+﻿"Nota: La diferencia con lo previamente publicado se debe a un ajuste en la metodología de estimación del indicador, en el cual se incorporó el número de casos no especificados,
+al considerarse que corresponden a mujeres que también forman parte de la población objetivo. Esta modificación motivó la actualización de las estimaciones previamente
+realizadas con base en la ENADID 2014 y 2018, las cuales guardan mayor comparabilidad con la ENADID 2023.  Cabe señalar que esta actualización metodológica
+también se realizó en la información que se publica en las plataformas oficiales del CONAPO, así como en el Catálogo Nacional de Indicadores del SNIEG, administrado
+por el INEGI. "
+"Fuente: Consejo Nacional de Población (CONAPO). Estimaciones con base en la Encuesta Nacional de la Dinámica Demográfica (ENADID), 2009-2023. "
+"cvegeo: Clave geoestadística"

@@ -1,0 +1,68 @@
+﻿Title: 7.1.2 Proporción de la población cuya fuente primaria de energía son los combustibles y tecnologías limpias
+
+Description: La proporción de la población que depende principalmente de combustibles y tecnologías limpios se calcula como el número de personas que utilizan combustibles y tecnologías limpios para cocinar, calentar e iluminar dividido por la población total que informa que cocina, calienta o ilumina, expresado como porcentaje. "Limpio" se define por los objetivos de la tasa de emisión y las recomendaciones específicas de combustible (es decir, contra el carbón sin procesar y el queroseno) incluidos en la guía normativa Directrices de la OMS para la calidad del aire interior: combustión de combustible doméstico.
+
+Modified: 2025-11-14
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Centro de atención a usuarios INEGI
+Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276,
+Aguascalientes, Aguascalientes, Aguascalientes, 
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Nacional sin costo: 800 111 46 34 
+ Internacional: (código internacional) + (52)+(449) 149 1300
+atencion.usuarios@inegi.org.mx
+Octavio Heredia Hernández
+Director General Adjunto de Encuestas Sociodemográficas
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276
+Aguascalientes, Aguascalientes
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Telefóno: 4499105300, Ext. 4322, 4223
+octavio.heredia@inegi.org.mx
+
+Temporal: 2016-2024
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Bienal
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/7.1.2_es.zip
+
+Goal: 7. Garantizar el acceso a una energía asequible, fiable, sostenible y moderna para todos 
+
+Target:  Meta 7.1 De aquí a 2030, garantizar el acceso universal a servicios energéticos asequibles, fiables y modernos
+
+Type of indicator: Global
+
+Algorithm: 7_1_2_ES.gif
+
+Description of the indicator: Resulta de dividir la población cuya fuente primaria son los combustibles y tecnologías limpias, entre la población total, con base en datos de la ENIGH (2016, 2018, 2020, 2022 y 2024) que lleva a cabo el INEGI cada 2 años, dicho resultado se multiplica por 100.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional y entidad federativa
+
+Opportunity: 2 años
+
+Source of statistical information used to calculate the indicator: Encuesta Nacional de Ingresos y Gastos de los Hogares. 2016. 2018, 2020, 2022 y 2024.
+
+Date of next update of indicator: No definida
+
+Unit of the State responsible for calculating the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Unidad de Estadísticas Sociodemográficas.   
+ https://www.inegi.org.mx  
+
+Importance and purpose of the indicator: Descripción del alcance y relevancia del indicador respecto al fenómeno que este mide y a la meta que persigue con los Objetivos de Desarrollo Sostenible.
+
+National and/or international reference: Ficha técnica del indicador global. Disponible en:  
+ https://unstats.un.org/sdgs/metadata/  
+
+Observations: Para la construcción del indicador se consideró a la población a las energías limpias que incluyen: la luz eléctrica obtenida del servicio público o de una planta solar o los combustibles para cocinas no solidos como gas de tanque (LP), gas de tubería (Natural) o electricidad
+

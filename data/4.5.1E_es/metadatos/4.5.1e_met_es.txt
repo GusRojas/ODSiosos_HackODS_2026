@@ -1,0 +1,55 @@
+﻿Title: 4.5.1e Índice de paridad (entre mujeres y hombres) de la proporción del profesorado que ha recibido al menos la mínima formación docente organizada previa al empleo o en el empleo exigida para impartir enseñanza a nivel a) preescolar, b) primaria y c) secundaria en México
+
+Description: Representa la relación entre mujeres y hombres de la proporción del profesorado que ha recibido al menos la mínima formación docente organizada previa al empleo o en el empleo exigida para impartir enseñanza. Un valor de exactamente 1 indica paridad.
+
+Modified: 2025-10-30
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: César Morón Rojas
+Director General de Planeación, Programación y Estadística Educativa
+Av. Universidad 1200, Colonia Xoco, 3330, Benito Juárez, Ciudad de México
+55 3601 2511, ext. 54760
+cesar.mr@nube.sep.gob.mx
+
+Temporal: 2012-2013-2024-2025
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/4.5.1e_es.zip
+
+Goal: 4. Garantizar una educación inclusiva y equitativa de calidad y promover oportunidades de aprendizaje permanente para todos 
+
+Target:  Meta 4.5. De aquí a 2030, eliminar las disparidades de género en la educación y asegurar el acceso igualitario a todos los niveles de la enseñanza y la formación profesional para las personas vulnerables, incluidas las personas con discapacidad, los pueblos indígenas y los niños en situaciones de vulnerabilidad
+
+Type of indicator: Global
+
+Algorithm: 4.5.1e_ES.gif
+
+Description of the indicator: El indicador resulta de dividir el valor de la proporción del profesorado que ha recibido al menos la mínima formación docente organizada previa al empleo o en el empleo exigida para impartir enseñanza de las mujeres entre el valor obtenido para los hombres.
+
+Unit of measure: Razón
+
+Geographic coverage: Nacional y entidad federativa
+
+Opportunity: 1 año
+
+Source of statistical information used to calculate the indicator: Secretaría de Educación Pública (SEP). Dirección General de Planeación, Programación y Estadística Educativa (DGPPYEE). Estadística educativa, formatos 911.
+
+Date of next update of indicator: 30 de octubre de 2026
+
+Unit of the State responsible for calculating the indicator: Secretaría de Educación Pública (SEP). Dirección General de Planeación, Programación y Estadística Educativa (DGPPYEE).  
+ https://www.planeacion.sep.gob.mx/ 
+
+Importance and purpose of the indicator: Este indicador permite conocer si existe paridad entre mujeres y hombre relativa a la  proporción del profesorado que ha recibido al menos la mínima formación docente organizada previa al empleo o en el empleo exigida para impartir enseñanza. Con este indicador se podrá realizar una clara clasificación del profesorado, la cual será de gran utilidad al elaborar diagnósticos, evaluaciones y para realizar comparaciones regionales e internacionales.
+
+National and/or international reference: Repositorio de metadatos de los ODS, disponible en:   
+ https://unstats.un.org/sdgs/metadata/ 
+
+

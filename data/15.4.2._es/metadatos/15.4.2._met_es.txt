@@ -1,0 +1,62 @@
+﻿Title: 15.4.2. Índice de cobertura verde de las montañas
+
+Description: Proporción de las superficies montañosas cubiertas por bosques, pastizales o matorrales y tierras de cultivo, respecto al total de la superficies montañosas.
+El Índice de cobertura verde está destinado a medir los cambios en la vegetación verde en zonas de montaña (es decir, bosques, arbustos, árboles, pastos, tierras de cultivo, etc.) con el fin de monitorear su progreso. El índice, proporcionará información sobre los cambios en la cubierta vegetal y, como tal, proporcionará una evidencia del estado de la conservación de los ambientes de montaña.
+
+Modified: 2018-12-14
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+Keyword: Superficie nacional, vegetación, zona verde
+
+ContactPoint: Centro de atención a usuarios INEGI
+Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276
+Aguascalientes, Aguascalientes, Aguascalientes 
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Nacional sin costo: 800 111 46 34 
+ Internacional: (código internacional) + (52)+(449) 910 53 00 Ext. 315301
+atencion.usuarios@inegi.org.mx
+
+Temporal: 2017-2017
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/15.4.2._es.zip
+
+Goal: 15. Proteger, restablecer y promover el uso sostenible de los ecosistemas terrestres, gestionar sosteniblemente los bosques, luchar contra la desertificación, detener e invertir la degradación de las tierras y detener la pérdida de biodiversidad 
+
+Target:  Meta 15.4. De aquí a 2030, asegurar la conservación de los ecosistemas montañosos, incluida su diversidad biológica, a fin de mejorar su capacidad de proporcionar beneficios esenciales para el desarrollo sostenible
+
+Type of indicator: Global
+
+Algorithm: 15_4_2_ES.gif
+
+Description of the indicator: El indicador resulta de dividir la superficie montañosa (en km2) cubierta por bosques, matorrales o pastizales, y tierras de cultivo, entre la superficie montañosa total del país.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: 1 mes después de la actualización del Conjunto de Datos Vectoriales de Uso del Suelo y Vegetación, Escala 1:250 000 (Conjunto Nacional).
+
+Source of statistical information used to calculate the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Dirección General de Estadísticas Sociodemográficas y Dirección General de Geografía y Medio Ambiente.
+
+Date of next update of indicator: 30 de noviembre de 2019
+
+Unit of the State responsible for calculating the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Dirección General de Geografía y Medio Ambiente. 
+
+Importance and purpose of the indicator: La comunidad científica de montaña reconoce que existe una correlación directa entre la cobertura verde de las zonas de montaña y su estado de salud, y como consecuencia su capacidad de cumplir con sus funciones como ecosistema. El seguimiento de los cambios en la vegetación de montaña, con el tiempo, proporciona una medición adecuada sobre la situación de conservación en los ecosistemas de montaña. El seguimiento del "Índice de cobertura verde de las montañas." con el tiempo puede proporcionar información sobre la cubierta forestal, madera y vegetales en general. Por ejemplo, su reducción se asocia normalmente al sobrepastoreo, desmonte de tierras, la urbanización, la explotación forestal, la extracción de madera, la recolección de leña, el fuego. Su aumento se deberá al crecimiento de la vegetación, posiblemente vinculado a los programas de restauración de suelo, de reforestación o de forestación
+
+National and/or international reference: Organización de las Naciones Unidas para la Agricultura y la Alimentación (FAO). Departamento de Asuntos Económicos y Sociales; División de Estadísticas, consultado el 13 de noviembre de 2018. 
+UN Environment World Conservation Monitoring Centre (UN WCMC), consultado el 13 de noviembre de 2018. 
+
+Observations: Sin observaciones.
+

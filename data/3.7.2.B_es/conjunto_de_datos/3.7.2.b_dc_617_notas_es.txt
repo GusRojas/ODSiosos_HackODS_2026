@@ -1,0 +1,7 @@
+﻿"Nota: Para la estimación del numerador (nacimientos) de las tasas de fecundidad específica de 15 a 19 años, se armonizaron las tendencias de varias fuentes como lo son: historias
+de embarazos de la Encuesta Mexicana de Fecundidad (EMF), 1976-1977; Nacional de Fecundidad y Salud (ENFES) de 1987 y Nacional de la Dinámica Demográfica (ENADID)
+de 1992, 1997, 2006, 2009, 2014 Y 2018; último hijo nacido vivido  resgistrado en el Censo de Población y Vivienda de 2000, 2010, 2020 y en la Encuesta Intercensal
+2015; así como los nacimientos ocurridos y registrados hasta 4 años de edad  en Estadísticas Vitales de Natalidad. "
+"Fuente: Consejo Nacional de Población (CONAPO). Conciliación Demográfica de México 1950 a 2019 y las Proyecciones de la Población de México y de las Entidades Federativas 2020
+a 2070. "
+"cvegeo: Clave geoestadística"

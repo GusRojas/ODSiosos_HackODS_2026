@@ -1,0 +1,4 @@
+﻿"Nota: Esta información se comenzó a captar a partir de los Censos económicos 2009. "
+"Fuente: Censos Económicos 2004,  2009, 2014, 2019 y 2024: 
+  
+ https://www.inegi.org.mx/programas/ce/  "

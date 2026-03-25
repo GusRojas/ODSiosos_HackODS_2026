@@ -1,0 +1,57 @@
+﻿Title: 3r.3a Tasa de prevalencia del VIH/SIDA entre la población de 15 a 49 años
+
+Description: Es la población de 15 a 49 años que se estima vive con VIH, por cada 100 personas de 15 a 49 años.
+
+Modified: 2023-10-05
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Delfino Campos Díaz
+Director de Evaluación del Desempeño de los Sistemas de Salud
+Avenida Paseo de la Reforma 450 
+Colonia Juárez, 06600
+Cuauhtémoc, Cuauhtémoc, Ciudad de México
+55 6392 2300, ext. 52681
+delfino.campos@salud.gob.mx
+
+Temporal: 1990-2022
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/3r.3a_es.zip
+
+Goal: 3. Garantizar una vida sana y promover el bienestar de todos a todas las edades 
+
+Target:  Meta 3.3 De aquí a 2030, poner fin a las epidemias del SIDA, la tuberculosis, la malaria y las enfermedades tropicales desatendidas y combatir la hepatitis, las enfermedades transmitidas por el agua y otras enfermedades transmisibles
+
+Type of indicator: Regional
+
+Algorithm: 3r.3a_ES.gif
+
+Description of the indicator: Este indicador resulta de dividir la población de 15 a 49 años que se estima vive con VIH en un determinado año, entre la población media de 15 a 49 años del mismo periodo, multiplicado por 100.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: 12 meses
+
+Source of statistical information used to calculate the indicator: ONUSIDA. SALUD. Estimaciones de personas adultas con VIH. 
+
+Date of next update of indicator: No definida
+
+Unit of the State responsible for calculating the indicator: Secretaría de Salud (SS). Centro Nacional para la Prevención y el Control del VIH/SIDA (CENSIDA). 
+
+Importance and purpose of the indicator: Este indicador permite mostrar la evolución de la epidemia por VIH en la población adulta de 15 a 49 años para estimar la demanda futura de medicamentos antirretrovirales, es decir, permite conocer el número de personas de 15 a 49 años de edad que viven con VIH y que requerirán de medicamentos y servicios especializados para este padecimiento, lo cual permitiría una planeación adecuada para la obtención de medicamento y la atención del paciente.
+
+National and/or international reference: Catálogo Nacional de Indicadores  https://www.snieg.mx/cni/ 
+
+Observations: Debido a que las estimaciones reportadas se obtienen de un modelo epidemiológico que se realiza cada año, el cual está en un proceso de mejora continua, las cifras de toda la serie de años reportados se modificará anualmente toda vez, que las estimaciones de cada año, no son comparables entre sí.
+Este es un indicador que pertenece al Catálogo Nacional de Indicadores (CNI).
+

@@ -1,0 +1,57 @@
+﻿Title: 4.2.2 Tasa de participación en el aprendizaje organizado (un año antes de la edad oficial de ingreso en la enseñanza primaria), desglosada por sexo
+
+Description: Número de alumnos matriculados en el primer grado de educación primaria que cursaron al menos un grado de preescolar, por cada cien alumnos matriculados en el primer grado de primaria.
+
+Modified: 2025-10-30
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+Keyword: Estudiantes, alumnos, egresados, nuevo ingreso, continuidad de los estudios, sistema educativo, demanda educativa, oferta educativa, eficiencia del sistema educativo, aprendizaje
+
+ContactPoint: César Morón Rojas
+Director General de Planeación, Programación y Estadística Educativa
+Av. Universidad 1200, Colonia Xoco, 3330, Benito Juárez, Ciudad de México
+55 3601 2511, ext. 54760
+cesar.mr@nube.sep.gob.mx
+
+Temporal: 2012-2013-2024-2025
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/4.2.2_es.zip
+
+Goal: 4. Garantizar una educación inclusiva y equitativa de calidad y promover oportunidades de aprendizaje permanente para todos 
+
+Target:  Meta 4.2 De aquí a 2030, asegurar que todas las niñas y todos los niños tengan acceso a servicios de atención y desarrollo en la primera infancia y educación preescolar de calidad, a fin de que estén preparados para la enseñanza primaria
+
+Type of indicator: Global
+
+Algorithm: 4_2_2_ES.gif
+
+Description of the indicator: El indicador resulta de dividir el número de alumnos de primer grado de primaria que cursaron un programa de educación preescolar e inicial entre la población matriculada en el primer año de primaria en un ciclo escolar determinado y el resultado multilicarlo por cien.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional y entidad federativa
+
+Opportunity: 1 año.
+
+Source of statistical information used to calculate the indicator: Secretaría de Educación Pública (SEP). Dirección General de Planeación, Programación y Estadística Educativa. Sistema de Estadísticas Continuas de Educación del Formato 911. Disponible en:  https://www.planeacion.sep.gob.mx/estadisticaeducativas.aspx
+
+Date of next update of indicator: 30 de octubre de 2026
+
+Unit of the State responsible for calculating the indicator: Secretaría de Educación Pública (SEP). Dirección General de Planeación, Programación y Estadística Educativa (DGPPYEE).  
+ https://www.planeacion.sep.gob.mx/ 
+
+Importance and purpose of the indicator: Este indicador permite conocer el porcentaje de niños que cuentan con herramientas para enfrentarse a la instrucción organizada respecto del número total de alumnos que integran la población estudiantil. Con este indicador se podrá realizar una clara clasificación del alumnado, la cual será de gran utilidad al elaborar diagnósticos, evaluaciones y para realizar comparaciones regionales e internacionales.
+
+National and/or international reference: Instituto de Estadísticas de la UNESCO (UIS).  http://data.uis.unesco.org/ 
+
+Observations: La participación en los programas de aprendizaje, durante los primeros años, no es de tiempo completo para muchos niños; lo que significa que la exposición a ambientes de aprendizaje fuera de la casa varía en intensidad. El indicador mide el porcentaje de niños que están expuestos al aprendizaje organizado, pero no la intensidad del programa, lo que limita la capacidad de extraer conclusiones sobre el grado en que se logra el objetivo. Se necesita más trabajo para asegurar que la definición de los programas de aprendizaje es consistente a través de diversas encuestas y, a la vez, que sea fácilmente comprensible por los encuestados; a ser posible que, con la información complementaria recogida, se determine la cantidad de tiempo que los niños pasan en programas de aprendizaje.
+

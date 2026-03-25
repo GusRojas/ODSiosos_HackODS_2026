@@ -1,0 +1,78 @@
+﻿Title: 5.5.1.b Proporción de mujeres en las gubernaturas de las entidades federativas
+
+Description: Mujeres que ocupan el cargo de gobernadoras como proporción del total de titulares de las gubernaturas de las entidades federativas que conforman la república mexicana.
+
+Modified: 2025-10-17
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+Keyword: participación de la mujer, mujeres electas, gobernadoras, gobiernos de mujeres, puestos de toma de decisión
+
+ContactPoint: Centro de atención a usuarios INEGI
+Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276,
+Aguascalientes, Aguascalientes, Aguascalientes, 
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Nacional sin costo: 800 111 46 34 
+ Internacional: (código internacional) + (52)+(449) 149 1300
+atencion.usuarios@inegi.org.mx
+Dr. Dwight D. Dyer Leal
+Titular de la Unidad de Estadísticas de Gobierno, Seguridad Pública y Justicia
+Av. Patriotismo 711. Colonia San Juan, delegación Benito Juárez, CDMX.
+5552781000, Ext:321592
+dyer@inegi.org.mx
+
+Temporal: 2015-2023
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/5.5.1.b_es.zip
+
+Goal: 5. Lograr la igualdad de género y empoderar a todas las mujeres y las niñas 
+
+Target:  Meta 5.5 Asegurar la participación plena y efectiva de las mujeres y la igualdad de oportunidades de liderazgo a todos los niveles decisorios en la vida política, económica y pública
+
+Type of indicator: Global
+
+Algorithm: 5_5_1_b_ES.gif
+
+Description of the indicator: Número de mujeres que fueron electas y/o fungen como gobernadoras en las entidades federativas, entre el el total de gubernaturas, multiplicado por 100.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: Tres meses después de la publicación de los programas estadísticos fuente
+
+Source of statistical information used to calculate the indicator: Numerador:
+Censo Nacional de Gobierno, Seguridad Pública y Sistema Penitenciario Estatal 2016-2020.  https://www.inegi.org.mx/programas/cngspspe/ 
+Censo Nacional de Gobiernos Estatales 2021-2024.  https://www.inegi.org.mx/programas/cnge/ 
+Denominador:
+Censo Nacional de Gobierno, Seguridad Pública y Sistema Penitenciario Estatal 2016-2020.  https://www.inegi.org.mx/programas/cngspspe/ 
+Censo Nacional de Gobiernos Estatales 2021-2024.  https://www.inegi.org.mx/programas/cnge/
+
+Date of next update of indicator: 30 de junio de 2026
+
+Unit of the State responsible for calculating the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Unidad de Estadísticas de Gobierno, Seguridad Pública y Justicia.   
+ https://www.inegi.org.mx  
+
+Importance and purpose of the indicator: Medir el grado en que se ha logrado el equilibrio de género y las mujeres tienen igual acceso a la toma de decisiones políticas en el gobierno local.
+
+National and/or international reference: Instituto Europeo para la Equidad de Género. 2022. Gender balance in politics: November 2022.  
+ https://eige.europa.eu/publications/gender-balance-politics-november-2022  
+ONU MUJERES. 2021. Women representation in local government: A global analysis. Disponible en:  
+ https://www.unwomen.org/sites/default/files/2022-01/Womens-representation-in-local-government-en.pdf  
+PNUD. 2015. Gender Equality: Women participation and leadership in governments at the local level. Asia and the Pacific 2013. Disponible en:  
+ https://www.undp.org/asia-pacific/publications/gender-equality-women%E2%80%99s-participation-and-leadership-governments-local-level  
+Metadato internacional del indicador 5.5.1b Proportion of seats held by women in (b) local governments. Disponible en:  
+ https://unstats.un.org/sdgs/metadata/files/Metadata-05-05-01b.pdf  
+
+Observations: El total incluye las gobernadoras y gobernadores al 31 de diciembre de cada año.
+

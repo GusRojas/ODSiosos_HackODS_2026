@@ -1,0 +1,4 @@
+﻿"Nota: El número total de dependencias administrativas locales corresponde a aquellos actores que respondieron las preguntas de la encuesta. "
+"Fuente: Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT). Comisión Nacional del Agua (CONAGUA). Gerencia de Planificación Hídrica. Sistema Nacional de Información
+del Agua (SINA).   
+ https://sinav30.conagua.gob.mx:8080/ "

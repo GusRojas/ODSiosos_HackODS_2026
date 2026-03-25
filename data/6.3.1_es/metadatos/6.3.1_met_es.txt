@@ -1,0 +1,62 @@
+﻿Title: 6.3.1 Proporción de aguas residuales tratadas de manera adecuada
+
+Description: Es el caudal de agua residual municipal e industrial que recibe tratamiento como porcentaje del volumen de aguas residuales municipales e industriales que son generadas.
+
+Modified: 2024-11-13
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+Keyword: Volumen de aguas, descargas de contaminantes, agua contaminada, cuerpos de agua, tratamientos del agua
+
+ContactPoint: Gerencia de Planificación Hídrica
+Subgerencia del Sistema Nacional de Información del Agua
+Insurgentes Sur # 2416. Piso 4; Colonia Copilco El Bajo, 04340. Coyoacán, Ciudad de México
++52 55 5174 4000, ext. 2112 y 4458
+sina@conagua.gob.mx
+Gerencia de Cooperación Internacional
+Dirección de Área de Evaluación de Programas y Proyectos
+Insurgentes Sur # 2416. Piso 9; Colonia Copilco El Bajo, 04340. Coyoacán, Ciudad de México
++52 55 5174 4000, ext. 1313
+internacional@conagua.gob.mx
+
+Temporal: 1998-2023
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/6.3.1_es.zip
+
+Goal: 6. Garantizar la disponibilidad y la gestión sostenible del agua y el saneamiento para todos 
+
+Target:  Meta 6.3 De aquí a 2030, mejorar la calidad del agua reduciendo la contaminación, eliminando el vertimiento y minimizando la emisión de productos químicos y materiales peligrosos, reduciendo a la mitad el porcentaje de aguas residuales sin tratar y aumentando considerablemente el reciclado y la reutilización sin riesgos a nivel mundial
+
+Type of indicator: Global
+
+Algorithm: 6_3_1_ES.gif
+
+Description of the indicator: El indicador se calcula dividiendo el caudal de aguas residuales municipales e industriales que recibieron tratamiento, en metros cúbicos por segundo, entre el volumen de aguas residuales municipales e industriales generadas a nivel nacional en un año particular, en metros cúbicos por segundo. El indicador se expresa en porcentaje.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional
+
+Opportunity: 1 año
+
+Source of statistical information used to calculate the indicator: Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT). Comisión Nacional del Agua (CONAGUA). Gerencia de Planificación Hídrica. Sistema Nacional de Información del Agua (SINA), a partir de los registros administrativos de la Subdirección General Técnica y Subdirección General de Agua Potable, Drenaje y Saneamiento de la CONAGUA.
+
+Date of next update of indicator: 31 de octubre de 2025
+
+Unit of the State responsible for calculating the indicator: Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT). Comisión Nacional del Agua (CONAGUA). Gerencia de Planificación Hídrica. Sistema Nacional de Información
+del Agua (SINA). 
+
+Importance and purpose of the indicator: Los ODS establecieron como una de sus metas reducir la contaminación, eliminar el vertimiento y reducir al mínimo la descarga de materiales y productos químicos peligrosos a los cuerpos de agua. El tratamiento disminuye la presión de los cuerpos de agua a los que normalmente se vierten las aguas residuales; según el  nivel de tratamiento (primario, secundario o terciario), se pueden remover la materia orgánica, los sólidos suspendidos, microorganismos patógenos, nutrimentos (fosfatos y nitratos) y metales pesados, entre otros contaminantes. El indicador resulta útil para medir el esfuerzo realizado para reducir la descarga de contaminantes provenientes de las aguas residuales.
+
+National and/or international reference: Comisión Nacional del Agua (Conagua). Programa Nacional Hídrico 2020-2024 
+
+Observations: El valor reportado por el indicador puede ser una subestimación del valor real, debido a que no toda el agua residual municipal que se genera es recolectada e incluso es posible que existan descargas industriales ilegales o no reportadas.
+

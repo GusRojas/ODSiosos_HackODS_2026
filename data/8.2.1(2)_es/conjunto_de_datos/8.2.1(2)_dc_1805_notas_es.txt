@@ -1,0 +1,2 @@
+﻿"Fuente: - STPS, con base en información de INEGI. SCNM, ENE y ENOE (varios años)
+- OCDE. Series históricas del tipo de cambio del peso medido a paridad de poder de compra."

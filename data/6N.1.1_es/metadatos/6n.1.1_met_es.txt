@@ -1,0 +1,76 @@
+﻿Title: 6n.1.1 Porcentaje de la población que tiene acceso al agua entubada diariamente así como al saneamiento [INEGI] 
+
+Description: Porcentaje de la población que tiene acceso al agua entubada diariamente, así como al saneamiento.
+
+Modified: 2025-11-14
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Centro de atención a usuarios INEGI
+Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276,
+Aguascalientes, Aguascalientes, Aguascalientes, 
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Nacional sin costo: 800 111 46 34 
+ Internacional: (código internacional) + (52)+(449) 149 1300
+atencion.usuarios@inegi.org.mx
+Octavio Heredia Hernández
+Director General Adjunto de Encuestas Sociodemográficas
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276
+Aguascalientes, Aguascalientes
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Telefóno: 4499105300, Ext. 4322, 4223
+octavio.heredia@inegi.org.mx
+
+Temporal: 2016-2024
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Bienal
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/6n.1.1_es.zip
+
+Goal: 6. Garantizar la disponibilidad y la gestión sostenible del agua y el saneamiento para todos 
+
+Target:  Meta 6n.1 Acceso universal y equitativo al agua potable y saneamiento, prestando especial atención al acceso transgeneracional al agua y el acceso de grupos en desventaja
+
+Type of indicator: Nacional
+
+Algorithm: 6n.1.1_ES.gif
+
+Description of the indicator: Porcentaje de la población que tiene acceso a agua entubada diariamente, así como sanitario o excusado de uso exclusivo para el hogar y con red de drenaje o a una fosa séptica respecto a la población residente en los hogares.
+
+Unit of measure: Porcentaje de personas
+
+Geographic coverage: Nacional y estatal
+
+Opportunity: Bienal
+
+Source of statistical information used to calculate the indicator: Encuesta Nacional de Ingresos y Gastos de los Hogares. 2016. 2018, 2020, 2022 y 2024.
+
+Date of next update of indicator: No definida
+
+Unit of the State responsible for calculating the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Unidad de Estadísticas Sociodemográficas.   
+ https://www.inegi.org.mx  
+
+Importance and purpose of the indicator: Para garantizar progresivamente los derechos humanos al agua y al saneamiento, especialmente en la población más vulnerable, se plantea el indicador  "Proporción de la población que tiene acceso al agua entubada diariamente así como al saneamiento básico en las 14 entidades más rezagadas", para lo cual  se enfoca en la población que tiene acceso al agua entubada diario en su vivienda o terreno y al mismo tiempo tiene sanitario o excusado de uso exclusivo de la vivienda así como conexión a la red de drenaje o a una fosa séptica en los estados de Guerrero, Baja California Sur, Morelos, Oaxaca, Puebla, Chiapas, Zacatecas, Hidalgo, Tlaxcala, San Luis Potosí, Nayarit, Estado de México, Veracruz y Michoacán, que son los estados donde el indicador presenta su valor más bajo.   
+Este indicador se alinea a la meta 6.1 del ODS 6, prestando especial atención al acceso transgeneracional al agua y el acceso de grupos en desventaja. En su diseño, el indicador va más allá de la medición tradicional que considera por separado la medición al acceso al agua potable o al saneamiento y que, además, en el caso de este último, no tiene indicador específico dentro de la presente propuesta.  
+Este indicador forma parte de los indicadores del Objetivo 3 del Programa Sectorial del Medio Ambiente y Recursos Naturales 2020-2024 y del Objetivo 1 del Programa Nacional Hídrico 2020-2024. 
+El Comité Técnico Especializado en Información en Materia de Agua (CTEIMA), en sesión llevada a cabo el 28 de agosto de 2020, solicitó el seguimiento del indicador 6.2.1 en el seno del CTEIMA. El indicador da seguimiento a dos servicios básicos (agua entubada y saneamiento) que resultan indispensables para el bienestar de las personas en el país, y se enfoca, como lo sugiere la meta (Acceso universal y equitativo al agua potable y saneamiento, prestando especial atención al acceso transgeneracional al agua y el acceso de grupos en desventaja) en las entidades federativas que muestran mayor rezago en cuanto al acceso a estos servicios. En su diseño, el indicador va más allá de la medición tradicional que considera por separado la medición al acceso al agua potable o al saneamiento y que, además, en el caso de este último, no tiene indicador específico dentro de la presente propuesta.  
+El indicador forma parte de los indicadores del Objetivo 3 del Programa Sectorial del Medio Ambiente y Recursos Naturales  2020-2024 y del Objetivo 1 del Programa Nacional Hídrico 2020-2024.
+Es importante mencionar que en la última reunión del Comité Técnico Especializado en Información en Materia de Agua (CTEIMA), llevada al cabo el 28 de agosto de 2020, uno de los acuerdos finales fue solicitar que este indicador lo llevaran conjuntamente el CONEVAL y la CONAGUA, y no solo el primero.
+
+National and/or international reference: Articulación con el Sistema de Cuentas Nacionales y con las Encuestas de Hogares que levanta el INEGI. 
+Las resoluciones e informes de las Conferencias Internacionales sobre Estadísticas del Trabajo, de la Organización Internacional del Trabajo (OIT). 
+17a Conferencia Internacional de Estadísticos del Trabajo y en el Reporte del Grupo de Canberra. 
+El Reporte final y Recomendaciones del Grupo de Canberra, Grupo de Expertos en las Estadísticas de Ingreso de los Hogares. 
+Manual de Encuestas sobre Hogares. Departamento de Asuntos Económicos y Sociales Internacionales, Oficina de Estadística. Naciones Unidas, Nueva York, 1987. 
+
+Observations: La desagregación para cambio de residencia se refiere a la nacional.
+

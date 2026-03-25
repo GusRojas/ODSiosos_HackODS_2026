@@ -1,0 +1,4 @@
+﻿"Nota: - La información se refiere al 31 de diciembre de cada año. 
+- El total incluye hombres y mujeres, se omiten puestos vacantes y no especificados. "
+"Fuente: Instituto Nacional de Estadística y Geografía (INEGI). Censo Nacional de Poderes Legislativos Estatales 2017 - 2021. "
+"cvegeo: Clave geoestadística"

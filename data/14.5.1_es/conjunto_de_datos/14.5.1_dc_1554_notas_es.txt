@@ -1,0 +1,3 @@
+﻿"Nota: La superficie marítima incluye el mar territorial y la Zona Económica Exclusiva (ZEE) "
+"Fuente: INEGI. 2020. Superficie total del territorio nacional (dato de la superficie en km2). [Fecha de consulta: mayo de 2025]. Consultado en:   
+ https://cuentame.inegi.org.mx/descubre/geografia/extension_territorial/  "

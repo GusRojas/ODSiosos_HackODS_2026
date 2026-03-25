@@ -1,0 +1,75 @@
+﻿Title: 16.7.1c Representatividad de grupos poblacionales en el poder judicial
+
+Description: Jueces(as), magistrados(as) y secretarios(as) en el grupo de interés poblacional (sexo, rangos de edad) como proporción del total de los servidores públicos, entre el grupo de interés poblacional (sexo, rangos de edad) en edad de trabajar como proporción de la población total  en edad de trabajar.
+
+Modified: 2024-03-15
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Centro de atención a usuarios INEGI
+Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276
+Aguascalientes, Aguascalientes, Aguascalientes 
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Nacional sin costo: 800 111 46 34 
+ Internacional: (código internacional) + (52)+(449) 910 53 00 Ext. 315301
+atencion.usuarios@inegi.org.mx
+Dr. Dwight D. Dyer Leal
+Director General de Estadísticas de Gobierno, Seguridad Pública y Justicia
+Av. Patriotismo 711. Colonia San Juan, delegación Benito Juárez, CDMX.
+5552781000, Ext:321592
+dyer@inegi.org.mx
+
+Temporal: 2019-2022
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/16.7.1c_es.zip
+
+Goal: 16. Promover sociedades pacíficas e inclusivas para el desarrollo sostenible, facilitar el acceso a la justicia para todos y construir a todos los niveles instituciones eficaces e inclusivas que rindan cuentas 
+
+Target:  Meta 16.7. Garantizar la adopción en todos los niveles de decisiones inclusivas, participativas y representativas que respondan a las necesidades
+
+Type of indicator: Global
+
+Algorithm: 16.7.1c_ES.gif
+
+Description of the indicator: Número de jueces, magistrados y secretarios pertenecientes al grupo poblacional de interés (mujeres, rangos de edad) entre el total de jueces, magistrados y secretarios en el Poder Judicial; entre el número de personas pertenecientes al grupo poblacional de interés en edad de trabajar entre la población nacional total en edad de trabajar.
+
+Unit of measure: Ratio
+
+Geographic coverage: Nacional y entidad federativa
+
+Opportunity: Seis meses después de los programas estadísticos fuente
+
+Source of statistical information used to calculate the indicator: Numerador:
+
+Date of next update of indicator: 31 de diciembre de 2025
+
+Unit of the State responsible for calculating the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Dirección General de Estadísticas de Gobierno, Seguridad Pública y Justicia. 
+
+Importance and purpose of the indicator: Para que la toma de decisiones por parte del poder judicial sea receptiva, inclusiva, participativa y representativa en todos los niveles, como lo exige la meta 16.7, es importante garantizar la diversidad en los puestos clave en los tribunales a nivel nacional y local. La diversidad en los cargos judiciales hace que la toma de decisiones por parte del poder judicial sea más legítima a los ojos de los ciudadanos y más receptiva a las preocupaciones de toda la población.
+
+National and/or international reference: Metadato indicador 16.7.1c   
+ https://unstats.un.org/sdgs/metadata/files/Metadata-16-07-01c.pdf 
+IDLO (2018), Women Delivering Justice: Contributions, Barriers, Pathways   
+ https://www.idlo.int/publications/women-delivering-justice-contributions-barriers-pathways 
+UNDP (2018), Disability Inclusive Development in UNDP.   
+ https://www.undp.org/sites/g/files/zskgke326/files/publications/UNDP-Disability-GN-Summary-accessible.pdf 
+
+Observations: Los ratios de estos indicadores pueden variar respecto a los ratios disponibles en la página de los Objetivos de Desarrollo Sostenible de la División de Estadísticas de las Naciones Unidas  (https://unstats.un.org/sdgs/ ) debido a que las agencias internacionales utilizan sus propias estimaciones de población.
+La población en edad de trabajar utilizada para el denominador comprende las personas de 18 a 70 años, rango en el que se concentró 99% de la población ocupada en las instituciones públicas en el cuarto trimestre de 2020, de acuerdo con la Encuesta Nacional de Ocupación y Empleo del mismo periodo.
+Se considera el personal del poder judicial reportado al cierre del año (31 de diciembre). A nivel federal corresponde a los puestos de ministros y magistrados de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral del Poder Judicial de la Federación; además de los magistrados, jueces, secretarias o secretarios instructores, de constancias, de audiencias, de acuerdos, de diligencias y de instrucción de los tribunales laborales, secretaria o secretario de Juzgado de Distrito, secretaria o secretario de Tribunal de Circuito, secretaria o Secretario Proyectista de Juzgado de Distrito, secretaria o secretario Proyectista de Tribunal de Circuito, así como a los asistentes de constancias y registro de Jueza o Juez de control o Jueza o Juez de enjuiciamiento de los órganos jurisdiccionales del Consejo de la Judicatura Federal.
+A nivel estatal corresponde a los puestos de magistrados, jueces, secretarios y secretarios de estudio y cuenta o proyectistas en los órganos jurisdiccionales de los poderes judiciales estatales.
+Un ratio mayor a uno (>1) significa que la representación del grupo poblacional de interés en el servicio público es mayor que en el total de la población en edad de trabajar.
+Un ratio de uno (1) significa que la representación del grupo poblacional de interés en el servicio público es igual que en el total de la población en edad de trabajar.
+Un ratio menor a uno (<1) significa que la representación del grupo poblacional de interés en el servicio público es menor que en el total de la población en edad de trabajar.
+Un ratio de 0 significa que no existe representación del grupo poblacional de interés en el servicio público.
+

@@ -1,0 +1,5 @@
+﻿"Nota: La diferencia con lo previamente publicado se debe a un ajuste en la metodología de estimación del indicador, en el cual se incorporó el número de casos no especificados,
+al considerarse que corresponden a mujeres que también forman parte de la población objetivo. Para mantener la comparabilidad se realizó la misma forma de cálculo
+en la ENADID 2014 y 2018. "
+"Fuente: Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional de la Dinámica Demográfica (ENADID) 2014 y 2018   
+ https://www.inegi.org.mx/programas/enadid/2018/ "

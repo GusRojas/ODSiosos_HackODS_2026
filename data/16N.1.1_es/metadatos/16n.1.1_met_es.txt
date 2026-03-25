@@ -1,0 +1,65 @@
+﻿Title: 16n.1.1 Prevalencia delictiva en personas de 18 años y más
+
+Description: Mide el número de víctimas estimadas en el año como proporción del total de la población de 18 años y más.
+
+Modified: 2025-11-27
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Centro de atención a usuarios INEGI
+Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276,
+Aguascalientes, Aguascalientes, Aguascalientes, 
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Nacional sin costo: 800 111 46 34 
+ Internacional: (código internacional) + (52)+(449) 149 1300
+atencion.usuarios@inegi.org.mx
+Dr. Dwight D. Dyer Leal
+Titular de la Unidad de Estadísticas de Gobierno, Seguridad Pública y Justicia
+Av. Patriotismo 711. Colonia San Juan, delegación Benito Juárez, CDMX.
+5552781000, Ext:321592
+dyer@inegi.org.mx
+
+Temporal: 2010-2024
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/16n.1.1_es.zip
+
+Goal: 16. Promover sociedades pacíficas e inclusivas para el desarrollo sostenible, facilitar el acceso a la justicia para todos y construir a todos los niveles instituciones eficaces e inclusivas que rindan cuentas 
+
+Target:  Meta 16n.1 Impulsar una política de paz y seguridad integral
+
+Type of indicator: Nacional
+
+Algorithm: 16n.1.1_ES.gif
+
+Description of the indicator: Población de 18 años y más que reportó haber sido víctima de al menos un delito durante el año entre la población de 18 años y más, multiplicada por 100. Desagregada por sexo (total; hombres; mujeres) y entidad federativa.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional y entidad federativa
+
+Opportunity: Los datos se refieren al año previo a la publicación de la encuesta fuente (ENVIPE), que se publica en el segundo semestre del año.
+
+Source of statistical information used to calculate the indicator: Encuesta Nacional de Victimización y Percepción sobre Seguridad Pública (ENVIPE) de INEGI.
+
+Date of next update of indicator: 31 de diciembre de 2026
+
+Unit of the State responsible for calculating the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Unidad de Estadísticas de Gobierno, Seguridad Pública y Justicia.   
+ https://www.inegi.org.mx  
+
+Importance and purpose of the indicator: Contar con una medición referente de victimización en población de 18 años y más que permita a las autoridades de Seguridad Pública y Justicia abatir tales niveles. 
+
+National and/or international reference: Oficina de Naciones Unidas contra la Droga y el Delito (UNODC). 
+International Classification of Crime for Statistical Purposes (ICCS). 
+
+Observations: Para 2020, debido a la emergencia sanitaria generada por el virus SARS-CoV2 (COVID-19), el levantamiento de la información se realizó del 17 al 31 de marzo y del 27 de julio al 04 de septiembre. Las estimaciones presentadas corresponden al periodo de levantamiento del 17 al 31 de marzo.
+

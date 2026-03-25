@@ -1,0 +1,17 @@
+﻿"Nota: Notas para las estimaciones a nivel estatal:  
+ - Para un mejor análisis de la información 2022, consultar la nota técnica:   
+ https://www.coneval.org.mx/Medicion/MP/Documents/MMP_2022/Nota_tecnica_sobre_la_informacion_empleada_para_la_estimacion_de_ 
+ la_medicion_de_pobreza_en_Mexico_2022.pdf 
+ -El CONEVAL establece que una estimación cuenta con precisión cuando el valor del Coeficiente de Variación (CV) es menor o igual a 15%, con precisión aceptable si el
+CV es mayor que 15% y menor o igual que 25%  y sin precisión cuando el CV es mayor que 25% cuando la información proviene de encuestas de hogares con diseño muestral
+probabilístico. 
+ - "ND": no disponible. 
+  -"NDEstimación Sin Precisión": hace referencia a las estimaciones no presentadas por falta de precisión estadística. "
+"a/ Estimación con precisión; el coeficiente de variación es menor o igual a 15% "
+"b/ Estimación sin precisión; el coeficiente de variación es mayor que 25% (la información proviene de encuestas de hogares con diseño muestral probabilístico) "
+"c/ Estimación con precisión aceptable; el coeficiente de variación es mayor que 15% y menor o igual que 25% "
+"ND No disponible"
+"NA No aplicable"
+"Fuente: Estimaciones del CONEVAL con base en la ENIGH 2016, 2018, 2020 y 2022. Dirección Ejecutiva de Medición de Pobreza y Seguimiento de Indicadores (DEMPSI) y Coordinación
+General de Análisis de la Pobreza (CGAP), Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL). "
+"cvegeo: Clave geoestadística"

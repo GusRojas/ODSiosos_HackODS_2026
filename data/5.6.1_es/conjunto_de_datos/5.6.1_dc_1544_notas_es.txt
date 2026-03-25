@@ -1,0 +1,10 @@
+﻿"Nota: La decisión de uso de métodos anticonceptivos se pregunta a todas las MEFU, ya que, en el cuestionario para mujer casada o unida, no existe una pregunta para mujeres
+usuarias actuales de métodos anticonceptivos, por lo que las preguntas sobre las decisiones y libertad personal se formulan a las mujeres sin tener un conocimiento
+previo de que actualmente usan anticonceptivos.								 
+ Solo se consideran las mujeres que responden “sólo usted (la entrevistada)” y "Entre los dos, pero usted un poco más", en la pregunta XV.15.1AB.12; y "solo usted (la
+entrevistada)", "entre los dos, pero usted un poco más" y "entre los dos por igual" en las preguntas XV.15.1AB.13 y XV.15.1AB.14 de la Encuesta Nacional sobre la Dinámica de las Relaciones en los Hogares, 2021, en la Sección XV. 
+ Las estimaciones obtenidas tienen representatividad suficiente a nivel nacional, sin embargo, en algunas entidades federativas, el coeficiente de variación supera el
+15%, por lo que requiere un uso cauteloso de la estimación en el que se analicen las causas de la alta variabilidad y se consideren otros indicadores de precisión
+y confiabilidad, como el intervalo de confianza. "
+"Fuente: Estimaciones de la SGCONAPO, con base en la Encuesta Nacional sobre la Dinámica de las Relaciones en los Hogares, 2021. "
+"cvegeo: Clave geoestadística"

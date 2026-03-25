@@ -1,0 +1,2 @@
+﻿"Fuente: SALUD. Base de datos del Subsistema de Información sobre Nacimientos. Bases de datos de mortalidad. "
+"cvegeo: Clave geoestadística"

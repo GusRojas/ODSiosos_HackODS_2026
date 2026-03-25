@@ -1,0 +1,4 @@
+﻿"Nota: Para el cálculo de este indicador se consideró la edad desglosada del hijo sobreviviente al momento de la entrevista. "
+"Fuente: Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional de la Dinámica Demográfica (ENADID) 2014, 2018 y 2023.   
+ https://www.inegi.org.mx/programas/enadid/ "
+"cvegeo: Clave geoestadística"

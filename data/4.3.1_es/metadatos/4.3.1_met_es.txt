@@ -1,0 +1,58 @@
+﻿Title: 4.3.1 Tasa de participación de los jóvenes y adultos en la enseñanza y formación académica y no académica en los últimos 12 meses, desglosada por sexo
+
+Description: Es el porcentaje de jóvenes en el rango de edad de 15-24 años que participan del aprendizaje, formal o informal, o entrenamiento y capacitación durante un periodo de tiempo (en este caso, durante los últimos 12 meses).
+
+Modified: 2025-10-30
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+Keyword: Estudiantes, alumnos, egresados, nuevo ingreso, continuidad de los estudios, sistema educativo, demanda educativa, oferta educativa, eficiencia del sistema educativo, formación académica
+
+ContactPoint: César Morón Rojas
+Director General de Planeación, Programación y Estadística Educativa
+Av. Universidad 1200, Colonia Xoco, 3330, Benito Juárez, Ciudad de México
+55 3601 2511, ext. 54760
+cesar.mr@nube.sep.gob.mx
+
+Temporal: 2012-2013-2024-2025
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/4.3.1_es.zip
+
+Goal: 4. Garantizar una educación inclusiva y equitativa de calidad y promover oportunidades de aprendizaje permanente para todos 
+
+Target:  Meta 4.3 De aquí a 2030, asegurar el acceso igualitario de todos los hombres y las mujeres a una formación técnica, profesional y superior de calidad, incluida la enseñanza universitaria
+
+Type of indicator: Global
+
+Algorithm: 4_3_1_ES.gif
+
+Description of the indicator: El indicador resulta del número de personas, en los grupos de edad seleccionados, participantes en la enseñanza académica o no académica, o entrenamiento y capacitación, durante los últimos 12 meses; expresado como porcentaje de la población total del mismo grupo de edad y en el mismo periodo de tiempo.
+
+Unit of measure: Porcentaje
+
+Geographic coverage: Nacional y entidad federativa
+
+Opportunity: 1 año
+
+Source of statistical information used to calculate the indicator: Secretaría de Educación Pública (SEP). Dirección General de Planeación, Programación y Estadística Educativa. Sistema de Estadísticas Continuas de Educación del Formato 911. Disponible en:  https://www.planeacion.sep.gob.mx/estadisticaeducativas.aspx
+Consejo Nacional de Población (CONAPO), Conciliación Demográfica de 1950 a 2019 y Proyecciones de la población de México y de las entidades federativas 2020 a 2070.  https://www.gob.mx/conapo/acciones-y-programas/conciliacion-demografica-de-1950-a-2019-y-proyecciones-de-la-poblacion-de-mexico-y-de-las-entidades-federativas-2020-a-2070
+
+Date of next update of indicator: 30 de octubre de 2026
+
+Unit of the State responsible for calculating the indicator: Secretaría de Educación Pública (SEP). Dirección General de Planeación, Programación y Estadística Educativa (DGPPYEE).  
+ https://www.planeacion.sep.gob.mx/ 
+
+Importance and purpose of the indicator: El indicador nos muestra el porcentaje de los jóvenes y adultos que participan en la educación y capacitación (entrenamiento) en todas sus formas. Una tasa alta indica que gran parte de la población, en el grupo de edad determinado, participa en la educación formal o informal, y en la capacitación o entrenamiento, durante los últimos 12 meses.
+
+National and/or international reference: Instituto de Estadísticas de la UNESCO (UIS).  http://data.uis.unesco.org/ 
+
+Observations: La educación formal e informal puede ser ofertada por diversas instituciones en una gran variedad de formas, incluyendo escuelas y universidades, entornos de trabajo y otros, con diversas duraciones. Los datos administrativos suelen capturar, únicamente, la disponibilidad en contextos formales como escuelas y universidades. Las tasas de participación no captan la intensidad o la calidad de la educación o capacitación que se imparte, ni los resultados y la formación que se ofrecen.
+

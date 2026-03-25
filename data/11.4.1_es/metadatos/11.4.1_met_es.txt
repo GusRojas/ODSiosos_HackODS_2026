@@ -1,0 +1,59 @@
+﻿Title: 11.4.1 Total de gasto público per cápita en la protección ambiental
+
+Description: Se define como la relación del gasto del sector público destinado a prevenir, controlar, medir o mitigar la contaminación, así como promover, proteger y cuidar el medio ambiente (patrimonio natural), y la población total del país, en un año determinado.
+
+Modified: 2023-05-18
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: contacto.ods@agenda2030.mx
+
+License:http://ods.inegi.org.mxdocs/doctos/system/terminos_uso_SIODS_es.pdf
+
+ContactPoint: Centro de atención a usuarios INEGI
+Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).
+Avenida Héroe de Nacozari Sur 2301
+Fraccionamiento Jardines del Parque, 20276,
+Aguascalientes, Aguascalientes, Aguascalientes,
+Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.
+Nacional sin costo: 800 111 46 34
+Internacional: (código internacional) + (52)+(449) 910 53 00 Ext. 5301
+atencion.usuarios@inegi.org.mx
+
+Temporal: 2003-2021
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution:http://ods.inegi.org.mx/docs/files/csv/zip/11.4.1_es.zip
+
+Goal: 11. Lograr que las ciudades y los asentamientos humanos sean inclusivos, seguros, resilientes y sostenibles 
+
+Target:  Meta 11.4 Redoblar los esfuerzos para proteger y salvaguardar el patrimonio cultural y natural del mundo
+
+Type of indicator: Global
+
+Algorithm: 11.4.1_ES.gif
+
+Description of the indicator: Para obtener el indicador del Gasto en Protección Ambiental per cápita, se divide el Gasto en protección ambiental del sector público entre la población total del país.
+
+Unit of measure: Pesos corrientes
+
+Geographic coverage: Nacional
+
+Opportunity: 335 días después de terminado el periodo de referencia
+
+Instituto Nacional de Estadística y Geografía (INEGI). Sistema de Cuentas Nacionales de México. Cuentas Económicas y Ecológicas de México, 2021 preliminar. Año base
+ 2013. (27 de enero de 2023)
+Consejo Nacional de Población (CONAPO), Proyecciones de la población de México 2016-2050 y Conciliación Demográfica de México, 1950 -2015. (27 de enero de 2023)
+
+Date of next update of indicator: 01 de diciembre de 2023
+
+Unit of the State responsible for calculating the indicator: Instituto Nacional de Estadística y Geografía (INEGI). Dirección General de Estadísticas Económicas.
+
+Importance and purpose of the indicator: Es un indicador que muestra el esfuerzo realizado por la sociedad en su conjunto para preservar, proteger y conservar el patrimonio natural del país, como consecuencia del proceso de producción, distribución y consumo de bienes y servicios, de esta manera se convierte en una herramienta que coadyuva a la toma de decisiones.
+
+National and/or international reference: Naciones Unidas (NU). System of Environmental Economic Accounting. Central Framework (SEEA-CF)
+
+
