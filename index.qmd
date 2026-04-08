@@ -1,0 +1,549 @@
+---
+title: "México y los ODS: Una Deuda Sistémica"
+subtitle: "Cinco problemáticas interconectadas que revelan el estado real del desarrollo sostenible en México"
+author: "Equipo ODSiosos — HackODS 2026
+          Metztli Donaji Pablo Aparicio
+          Gustavo Mandujano Rojas
+          Rubén Oropeza"
+date: "2026-04-07"
+lang: es
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    toc: true
+    toc-title: "En esta historia"
+    toc-depth: 2
+    smooth-scroll: true
+    code-fold: true
+    page-layout: full
+execute:
+  echo: false
+  warning: false
+  message: false
+  freeze: true
+---
+
+```{=html}
+<style>
+/* ── Hero section ─────────────────────────────────── */
+.hero {
+  background: linear-gradient(135deg, #1a1a2e 0%, #16213e 40%, #0f3460 100%);
+  color: #e0e0e0;
+  padding: 4rem 2rem;
+  border-radius: 12px;
+  margin-bottom: 3rem;
+  text-align: center;
+}
+.hero h1 { color: #fff; font-size: 2.4rem; margin-bottom: 0.5rem; }
+.hero .subtitle { color: #90caf9; font-size: 1.15rem; margin-bottom: 1.5rem; }
+.hero .epigraph {
+  font-style: italic;
+  font-size: 1.05rem;
+  max-width: 700px;
+  margin: 0 auto;
+  color: #b0bec5;
+  border-left: 3px solid #42a5f5;
+  padding-left: 1rem;
+  text-align: left;
+}
+
+/* ── Problema header ──────────────────────────────── */
+.problema-header {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 1.2rem 1.5rem;
+  border-radius: 10px;
+  margin: 2.5rem 0 1rem;
+  color: white;
+  font-size: 1.05rem;
+}
+.problema-num {
+  font-size: 2rem;
+  font-weight: 800;
+  opacity: 0.9;
+  white-space: nowrap;
+}
+.problema-title { font-size: 1.35rem; font-weight: 700; }
+.problema-ods   { font-size: 0.9rem;  opacity: 0.85; }
+
+.p1-bg { background: linear-gradient(90deg, #c62828, #e53935); }
+.p2-bg { background: linear-gradient(90deg, #1565c0, #1976d2); }
+.p3-bg { background: linear-gradient(90deg, #4527a0, #5e35b1); }
+.p4-bg { background: linear-gradient(90deg, #e65100, #ef6c00); }
+.p5-bg { background: linear-gradient(90deg, #00695c, #00897b); }
+
+/* ── Cifra de impacto ─────────────────────────────── */
+.cifras-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+.cifra-card {
+  text-align: center;
+  padding: 1.2rem 1rem;
+  border-radius: 10px;
+  background: var(--bs-light, #f8f9fa);
+  border: 1px solid var(--bs-border-color, #dee2e6);
+}
+.cifra-num  { font-size: 2rem; font-weight: 800; line-height: 1.1; }
+.cifra-desc { font-size: 0.82rem; color: #666; margin-top: 0.3rem; }
+
+/* ── Hilo conector ────────────────────────────────── */
+.hilo {
+  background: #e3f2fd;
+  border-left: 4px solid #1565c0;
+  border-radius: 0 8px 8px 0;
+  padding: 1rem 1.5rem;
+  margin: 2rem 0;
+  font-style: italic;
+  color: #1a237e;
+}
+
+/* ── Conclusión final ─────────────────────────────── */
+.conclusion-final {
+  background: linear-gradient(135deg, #1a1a2e, #0f3460);
+  color: #e0e0e0;
+  padding: 3rem 2rem;
+  border-radius: 12px;
+  margin-top: 3rem;
+}
+.conclusion-final h2 { color: #90caf9; }
+.conclusion-final p  { color: #cfd8dc; }
+
+/* ── Separador ────────────────────────────────────── */
+.separador {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin: 2.5rem 0;
+  color: #888;
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+.separador::before, .separador::after {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: #dee2e6;
+}
+</style>
+```
+
+::: {.hero}
+<h1>México y los ODS: Una Deuda Sistémica</h1>
+<p class="subtitle">333 indicadores. 17 objetivos. Un país que mide su avance — y descubre sus silencios.</p>
+<p class="epigraph">
+  "El sistema no colapsó de golpe. Colapsó en silencio, indicador por indicador, año tras año.
+  Lo que revelan los datos ODS de México no es el retrato de un país que no progresa:
+  es el retrato de un país que progresa en ciertas dimensiones mientras acumula deuda en otras."
+</p>
+:::
+
+## El hilo conductor
+
+Este análisis parte de los **333 indicadores ODS de México** (INEGI, 1970–2026) y los recorre en busca de patrones, contradicciones y silencios. De ese universo emergen **cinco problemáticas interconectadas** que no pueden entenderse por separado: cada una alimenta a las demás en un ciclo que el dato aislado no logra mostrar.
+
+La historia que siguen estas páginas tiene una estructura deliberada:
+
+1. **Salud** — el sistema que se retrajo silenciosamente (ODS 3)
+2. **El trilema** — cómo el crecimiento destruye agua y salud al mismo tiempo (ODS 6, 8, 12)
+3. **Desigualdad** — lo que no se mide no se combate (ODS 10, 1, 5)
+4. **Educación** — la deuda sistémica que comparte raíz con la inseguridad (ODS 4, 16)
+5. **El silencio estadístico** — los ODS que nadie monitorea (ODS 2, 14)
+
+---
+
+## Problema 1 — El Colapso Silencioso de la Salud Pública {#salud}
+
+::: {.problema-header .p1-bg}
+::: {.problema-num}
+01
+:::
+::: {}
+::: {.problema-title}
+El Colapso Silencioso de la Salud Pública
+:::
+::: {.problema-ods}
+ODS 3: Salud y Bienestar
+:::
+:::
+:::
+
+> *"El sistema de salud pública de México no colapsó de golpe. Colapsó en silencio, indicador por indicador, año tras año."*
+
+En 2015, México alcanzó su pico histórico de vacunación infantil: **96.3 %**, por encima del umbral del 95 % que exige la OMS para la inmunidad de rebaño. En 2024, ese número había caído a **76.5 %**. No hubo una emergencia declarada. El sistema simplemente se retrajo.
+
+::: {.cifras-grid}
+::: {.cifra-card}
+::: {.cifra-num style="color:#c62828"}
+76.5 %
+:::
+::: {.cifra-desc}
+Cobertura vacunal 2024 — por debajo del umbral OMS (95 %)
+:::
+:::
+::: {.cifra-card}
+::: {.cifra-num style="color:#c62828"}
++619 %
+:::
+::: {.cifra-desc}
+Incremento en enfermedades vectoriales en 7 años (dengue, zika, chikungunya)
+:::
+:::
+::: {.cifra-card}
+::: {.cifra-num style="color:#c62828"}
+×3
+:::
+::: {.cifra-desc}
+La tasa de suicidio se triplicó en 30 años — la crisis de salud mental invisible
+:::
+:::
+::: {.cifra-card}
+::: {.cifra-num style="color:#2e7d32"}
+−59 %
+:::
+::: {.cifra-desc}
+Reducción en mortalidad materna — lo que sí funciona cuando se prioriza
+:::
+:::
+:::
+
+El ODS 3 no existe en aislamiento. Las correlaciones entre sus indicadores revelan un **nodo sistémico**: la caída en vacunación se correlaciona con el repunte vectorial; la obesidad (37 % de la población) alimenta la epidemia crónica; y la salud mental permanece invisible porque sus indicadores apenas existen.
+
+El mismo análisis muestra el contrapeso: donde hubo voluntad política y continuidad de programa, los números mejoraron. La mortalidad materna cayó 59 %, la infantil 61 %. El sistema puede mejorar. El problema es que no es uniforme.
+
+```{=html}
+<iframe src="notebook/html/005_problema1_salud.html"
+        width="100%" height="900px"
+        style="border:1px solid #dee2e6; border-radius:8px;">
+</iframe>
+```
+
+::: {.hilo}
+**¿Por qué el sistema de salud retrocedió?** Una hipótesis emerge del siguiente análisis: el modelo de crecimiento económico mexicano genera una demanda que el sistema ambiental no puede absorber — y ese deterioro ambiental vuelve como carga sanitaria. El problema de la salud no empieza en los hospitales.
+:::
+
+---
+
+## Problema 2 — La Trampa Trabajo-Agua-Salud {#trilema}
+
+::: {.problema-header .p2-bg}
+::: {.problema-num}
+02
+:::
+::: {}
+::: {.problema-title}
+La Trampa Trabajo-Agua-Salud
+:::
+::: {.problema-ods}
+ODS 6 · ODS 8 · ODS 12
+:::
+:::
+:::
+
+> *"México crece. Su consumo material se multiplicó por 18 en 20 años. Al mismo tiempo, su acceso al agua segura retrocedió, sus cuerpos de agua se encogen, y sus aguas residuales volvieron a quedar sin tratar. No son hechos separados. Son el mismo hecho."*
+
+La correlación entre consumo material doméstico y acceso al agua potable segura es **r = −1.0**: perfectamente inversa. A medida que México producía y consumía más, su agua se deterioraba al mismo ritmo exacto.
+
+::: {.cifras-grid}
+::: {.cifra-card}
+::: {.cifra-num style="color:#1565c0"}
++1,763 %
+:::
+::: {.cifra-desc}
+Crecimiento del consumo material doméstico en 20 años
+:::
+:::
+::: {.cifra-card}
+::: {.cifra-num style="color:#c62828"}
+47 %
+:::
+::: {.cifra-desc}
+Extracción hídrica sobre recursos renovables — umbral crítico: 40 %
+:::
+:::
+::: {.cifra-card}
+::: {.cifra-num style="color:#c62828"}
+60 de 100
+:::
+::: {.cifra-desc}
+Litros de aguas residuales que van sin tratar (tratamiento cayó de 50 % a 40 %)
+:::
+:::
+::: {.cifra-card}
+::: {.cifra-num style="color:#e65100"}
+51 %
+:::
+::: {.cifra-desc}
+Fuerza laboral en empleo informal — el eslabón invisible del trilema
+:::
+:::
+:::
+
+El **trilema** es la trampa donde tres ODS se retroalimentan negativamente: el crecimiento económico (ODS 8) degrada el agua (ODS 6), que deteriora la salud (ODS 3), que reduce la productividad laboral, que presiona a más producción material (ODS 12), que degrada más el agua. El empleo informal (51 % de la fuerza laboral) es el eslabón invisible: sin acceso a agua potable en el trabajo, sin protección laboral, sin voz para reclamar.
+
+```{=html}
+<iframe src="notebook/html/006_problema2_trilema.html"
+        width="100%" height="900px"
+        style="border:1px solid #dee2e6; border-radius:8px;">
+</iframe>
+```
+
+::: {.hilo}
+**El trilema tiene una distribución desigual.** Las regiones Centro y Norte de México ya superaron el 56 % de extracción hídrica — pero no todos los mexicanos sienten igual ese estrés. La desigualdad determina quién absorbe el costo ambiental del crecimiento. Eso nos lleva al tercer problema.
+:::
+
+---
+
+## Problema 3 — La Desigualdad que no se Mide {#desigualdad}
+
+::: {.problema-header .p3-bg}
+::: {.problema-num}
+03
+:::
+::: {}
+::: {.problema-title}
+La Desigualdad que no se Mide
+:::
+::: {.problema-ods}
+ODS 10 · ODS 1 · ODS 5
+:::
+:::
+:::
+
+> *"México tiene 11 indicadores para medir la desigualdad. Solo 4 tienen suficientes datos para hacer estadística. No es que la desigualdad sea invisible — es que decidimos no mirarla."*
+
+El coeficiente de Gini de México mejoró: pasó de 0.449 a 0.391 entre 2000 y 2022. Una mejora real. Pero cuando se elimina el efecto de las transferencias gubernamentales, el Gini sin intervención estatal sería de **0.450** — exactamente donde estaba antes. El Estado compensa la desigualdad estructural en lugar de corregirla.
+
+::: {.cifras-grid}
+::: {.cifra-card}
+::: {.cifra-num style="color:#4527a0"}
+3.6
+:::
+::: {.cifra-desc}
+Promedio de observaciones por indicador ODS 5 — estadísticamente inútil
+:::
+:::
+::: {.cifra-card}
+::: {.cifra-num style="color:#c62828"}
+29.8 %
+:::
+::: {.cifra-desc}
+Del PIB llega a los trabajadores como salarios — el capital captura el resto
+:::
+:::
+::: {.cifra-card}
+::: {.cifra-num style="color:#c62828"}
+43.5 %
+:::
+::: {.cifra-desc}
+De la población en pobreza nacional (2022)
+:::
+:::
+::: {.cifra-card}
+::: {.cifra-num style="color:#e65100"}
++22 %
+:::
+::: {.cifra-desc}
+Más desigual que el promedio OCDE (Gini 0.39 vs 0.32)
+:::
+:::
+:::
+
+El problema no es solo distributivo: es **epistemológico**. ODS 5 (Igualdad de Género) tiene 27 de 29 indicadores con datos — pero su promedio es 3.6 observaciones por indicador. Cero indicadores tienen las 15 observaciones mínimas para análisis robusto. La desigualdad de género en México existe en los datos, pero no puede medirse estadísticamente.
+
+```{=html}
+<iframe src="notebook/html/007_problema3_desigualdad.html"
+        width="100%" height="900px"
+        style="border:1px solid #dee2e6; border-radius:8px;">
+</iframe>
+```
+
+::: {.hilo}
+**La desigualdad tiene una expresión espacial y generacional.** Su forma más durable y difícil de romper no es el ingreso — es la educación. Un sistema educativo deficiente reproduce la desigualdad de generación en generación, y lo hace con especial fuerza donde la violencia y la corrupción erosionan las instituciones.
+:::
+
+---
+
+## Problema 4 — El Rezago Educativo como Deuda Sistémica {#educacion}
+
+::: {.problema-header .p4-bg}
+::: {.problema-num}
+04
+:::
+::: {}
+::: {.problema-title}
+El Rezago Educativo como Deuda Sistémica
+:::
+::: {.problema-ods}
+ODS 4: Educación de Calidad · ODS 16: Paz, Justicia e Instituciones
+:::
+:::
+:::
+
+> *"México casi universalizó la alfabetización. Pero eso oculta tres décadas de deuda acumulada en calidad docente, infraestructura digital, acceso superior y un contexto institucional que detiene el aprendizaje antes de que empiece."*
+
+El **99.2 % de alfabetización** es real. Pero es la cifra más superficial del ODS 4. Debajo de ella: solo el 43.8 % de los jóvenes accede a educación superior (vs 65 % en la OCDE), el 46.7 % de las escuelas tiene internet (la electricidad llega al 95.6 %), y 1 de cada 5 maestros de preescolar no tiene la certificación mínima.
+
+::: {.cifras-grid}
+::: {.cifra-card}
+::: {.cifra-num style="color:#ef6c00"}
+43.8 %
+:::
+::: {.cifra-desc}
+Matrícula en educación superior — brecha de −16 pp vs meta OCDE (65 %)
+:::
+:::
+::: {.cifra-card}
+::: {.cifra-num style="color:#ef6c00"}
+46.7 %
+:::
+::: {.cifra-desc}
+Escuelas con internet — vs 95.6 % con electricidad
+:::
+:::
+::: {.cifra-card}
+::: {.cifra-num style="color:#c62828"}
+25.4 / 100k
+:::
+::: {.cifra-desc}
+Tasa de homicidios — 5× el límite ODS 16 (< 5 / 100k)
+:::
+:::
+::: {.cifra-card}
+::: {.cifra-num style="color:#c62828"}
+14 %
+:::
+::: {.cifra-desc}
+Tasa de soborno — 7× la meta ODS (< 2 %)
+:::
+:::
+:::
+
+Lo que hace sistémica esta deuda es su causa: **México no tiene un problema educativo Y un problema de seguridad por separado.** Tiene un problema sistémico donde la violencia erosiona la infraestructura educativa, la corrupción desmotiva el esfuerzo escolar, y la formación docente deficiente reproduce el rezago generación tras generación. Resolver ODS 4 requiere resolver ODS 16 — y viceversa.
+
+```{=html}
+<iframe src="notebook/html/008_problema4_educacion.html"
+        width="100%" height="900px"
+        style="border:1px solid #dee2e6; border-radius:8px;">
+</iframe>
+```
+
+::: {.hilo}
+**El quinto problema cierra el círculo — o más exactamente, revela que el círculo no se puede cerrar.** Para saber si México está avanzando en salud, agua, desigualdad o educación, necesitamos medirlos bien. Pero para varios de los ODS más críticos, el sistema estadístico mexicano tiene agujeros enormes.
+:::
+
+---
+
+## Problema 5 — Los ODS que Nadie Monitorea {#monitoreo}
+
+::: {.problema-header .p5-bg}
+::: {.problema-num}
+05
+:::
+::: {}
+::: {.problema-title}
+Los ODS que Nadie Monitorea
+:::
+::: {.problema-ods}
+ODS 2: Hambre Cero · ODS 14: Vida Submarina · El vacío estadístico
+:::
+:::
+:::
+
+> *"No podemos gestionar lo que no medimos. México tiene 333 indicadores ODS — pero para muchos de ellos el casillero está en blanco. Lo que no se registra no se combate, y lo que no se combate empeora en silencio."*
+
+Solo **8 de 17 ODS** tienen cobertura completa de indicadores. El ODS 1 (Fin de la Pobreza) — el objetivo más fundamental — tiene datos en apenas el 58 % de sus indicadores. El ODS 2 (Hambre Cero) lleva **18 años** sin registrar variación significativa en desnutrición infantil (15.4 % → 15.1 %).
+
+::: {.cifras-grid}
+::: {.cifra-card}
+::: {.cifra-num style="color:#00695c"}
+8 / 17
+:::
+::: {.cifra-desc}
+ODS con cobertura completa de indicadores — solo la mitad
+:::
+:::
+::: {.cifra-card}
+::: {.cifra-num style="color:#c62828"}
+58 %
+:::
+::: {.cifra-desc}
+Cobertura de indicadores ODS 1 (Pobreza) — el peor del sistema
+:::
+:::
+::: {.cifra-card}
+::: {.cifra-num style="color:#e65100"}
+18 años
+:::
+::: {.cifra-desc}
+Sin variación significativa en desnutrición infantil (ODS 2)
+:::
+:::
+::: {.cifra-card}
+::: {.cifra-num style="color:#c62828"}
+−78 %
+:::
+::: {.cifra-desc}
+Caída en presupuesto de investigación oceánica — mientras se crea la mayor reserva marina del país
+:::
+:::
+:::
+
+El caso del ODS 14 (Vida Submarina) es la paradoja perfecta: México creó la reserva marina más grande de su historia (22.5 % del mar territorial) mientras el presupuesto de investigación oceánica caía 78 %. Los indicadores críticos para gestionar el océano — pesca sostenible, acidificación, zonas muertas, contaminación plástica — simplemente no existen en el sistema ODS mexicano.
+
+**El vacío estadístico no es un problema técnico.** Es una decisión política sobre qué importa y qué puede ignorarse.
+
+```{=html}
+<iframe src="notebook/html/009_problema5_monitoreo.html"
+        width="100%" height="900px"
+        style="border:1px solid #dee2e6; border-radius:8px;">
+</iframe>
+```
+
+---
+
+::: {.separador}
+Síntesis
+:::
+
+## La Deuda Compartida {#sintesis}
+
+Los cinco problemas no son independientes. Son cinco ángulos del mismo fenómeno:
+
+| Problema | ODS involucrados | Mecanismo de contagio |
+|---|---|---|
+| Colapso sanitario | ODS 3 | Retracción presupuestal + epidemiología ambiental |
+| Trilema consumo-agua-salud | ODS 6, 8, 12 | Crecimiento que destruye recursos vitales |
+| Desigualdad no medida | ODS 10, 1, 5 | Sistema estadístico que invisibiliza brechas |
+| Rezago educativo-institucional | ODS 4, 16 | Violencia y corrupción como techos estructurales |
+| Vacío de monitoreo | ODS 2, 14 | Decisiones políticas sobre qué registrar |
+
+: {.striped .hover}
+
+::: {.conclusion-final}
+
+## Lo que los datos revelan
+
+México no tiene un problema de ODS. México tiene una **deuda sistémica** con cinco dimensiones que se refuerzan mutuamente:
+
+- Un sistema de salud que retrocedió porque el modelo productivo degrada el entorno ambiental que lo sostiene.
+- Un modelo de crecimiento que destruye el agua que necesita para sostener a la población que lo produce.
+- Una desigualdad que persiste porque el sistema estadístico no tiene resolución suficiente para medirla donde más duele.
+- Un rezago educativo que se reproduce porque la violencia y la corrupción son parte de la infraestructura invisible del aula.
+- Un sistema de monitoreo con agujeros enormes en los ODS más vulnerables — lo que no se mide no se gestiona.
+
+**La buena noticia:** donde hubo continuidad de política y voluntad de medir, los indicadores mejoraron. Mortalidad materna −59 %. Mortalidad infantil −61 %. Cobertura eléctrica escolar 95.6 %. El sistema puede mejorar. La pregunta es si habrá voluntad de hacerlo donde más cuesta.
+
+---
+
+*Análisis realizado sobre datos oficiales del INEGI (Sistema de Indicadores ODS México).
+Series de tiempo 1970–2026. 333 indicadores procesados; 292 con datos nacionales disponibles.*
+*HackODS 2026 — Equipo ODSiosos*
+
+:::

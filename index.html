@@ -1,0 +1,1184 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.9.36">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Equipo ODSiosos — HackODS 2026 Metztli Donaji Pablo Aparicio Gustavo Mandujano Rojas Rubén Oropeza">
+
+<title>México y los ODS: Una Deuda Sistémica</title>
+<style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="index_files/libs/clipboard/clipboard.min.js"></script>
+<script src="index_files/libs/quarto-html/quarto.js" type="module"></script>
+<script src="index_files/libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="index_files/libs/quarto-html/popper.min.js"></script>
+<script src="index_files/libs/quarto-html/tippy.umd.min.js"></script>
+<script src="index_files/libs/quarto-html/anchor.min.js"></script>
+<link href="index_files/libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="index_files/libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="index_files/libs/quarto-html/quarto-syntax-highlighting-dark-f418161beb48e0141c760e455f12af2c.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="index_files/libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<script src="index_files/libs/bootstrap/bootstrap.min.js"></script>
+<link href="index_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="index_files/libs/bootstrap/bootstrap-5bf5157214c1b609e3382a96d5543034.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="index_files/libs/bootstrap/bootstrap-dark-532a790800a67cca20a61396e3d334e8.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="index_files/libs/bootstrap/bootstrap-5bf5157214c1b609e3382a96d5543034.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<style>html{ scroll-behavior: smooth; }</style>
+
+
+</head>
+
+<body class="quarto-light"><script id="quarto-html-before-body" type="application/javascript">
+    const toggleBodyColorMode = (bsSheetEl) => {
+      const mode = bsSheetEl.getAttribute("data-mode");
+      const bodyEl = window.document.querySelector("body");
+      if (mode === "dark") {
+        bodyEl.classList.add("quarto-dark");
+        bodyEl.classList.remove("quarto-light");
+      } else {
+        bodyEl.classList.add("quarto-light");
+        bodyEl.classList.remove("quarto-dark");
+      }
+    }
+    const toggleBodyColorPrimary = () => {
+      const bsSheetEl = window.document.querySelector("link#quarto-bootstrap:not([rel=disabled-stylesheet])");
+      if (bsSheetEl) {
+        toggleBodyColorMode(bsSheetEl);
+      }
+    }
+    const setColorSchemeToggle = (alternate) => {
+      const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+      for (let i=0; i < toggles.length; i++) {
+        const toggle = toggles[i];
+        if (toggle) {
+          if (alternate) {
+            toggle.classList.add("alternate");
+          } else {
+            toggle.classList.remove("alternate");
+          }
+        }
+      }
+    };
+    const toggleColorMode = (alternate) => {
+      // Switch the stylesheets
+      const primaryStylesheets = window.document.querySelectorAll('link.quarto-color-scheme:not(.quarto-color-alternate)');
+      const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+      manageTransitions('#quarto-margin-sidebar .nav-link', false);
+      if (alternate) {
+        // note: dark is layered on light, we don't disable primary!
+        enableStylesheet(alternateStylesheets);
+        for (const sheetNode of alternateStylesheets) {
+          if (sheetNode.id === "quarto-bootstrap") {
+            toggleBodyColorMode(sheetNode);
+          }
+        }
+      } else {
+        disableStylesheet(alternateStylesheets);
+        enableStylesheet(primaryStylesheets)
+        toggleBodyColorPrimary();
+      }
+      manageTransitions('#quarto-margin-sidebar .nav-link', true);
+      // Switch the toggles
+      setColorSchemeToggle(alternate)
+      // Hack to workaround the fact that safari doesn't
+      // properly recolor the scrollbar when toggling (#1455)
+      if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+        manageTransitions("body", false);
+        window.scrollTo(0, 1);
+        setTimeout(() => {
+          window.scrollTo(0, 0);
+          manageTransitions("body", true);
+        }, 40);
+      }
+    }
+    const disableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        stylesheet.rel = 'disabled-stylesheet';
+      }
+    }
+    const enableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        if(stylesheet.rel !== 'stylesheet') { // for Chrome, which will still FOUC without this check
+          stylesheet.rel = 'stylesheet';
+        }
+      }
+    }
+    const manageTransitions = (selector, allowTransitions) => {
+      const els = window.document.querySelectorAll(selector);
+      for (let i=0; i < els.length; i++) {
+        const el = els[i];
+        if (allowTransitions) {
+          el.classList.remove('notransition');
+        } else {
+          el.classList.add('notransition');
+        }
+      }
+    }
+    const isFileUrl = () => {
+      return window.location.protocol === 'file:';
+    }
+    const hasAlternateSentinel = () => {
+      let styleSentinel = getColorSchemeSentinel();
+      if (styleSentinel !== null) {
+        return styleSentinel === "alternate";
+      } else {
+        return false;
+      }
+    }
+    const setStyleSentinel = (alternate) => {
+      const value = alternate ? "alternate" : "default";
+      if (!isFileUrl()) {
+        window.localStorage.setItem("quarto-color-scheme", value);
+      } else {
+        localAlternateSentinel = value;
+      }
+    }
+    const getColorSchemeSentinel = () => {
+      if (!isFileUrl()) {
+        const storageValue = window.localStorage.getItem("quarto-color-scheme");
+        return storageValue != null ? storageValue : localAlternateSentinel;
+      } else {
+        return localAlternateSentinel;
+      }
+    }
+    const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+      const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+      const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+      let newTheme = '';
+      if(authorPrefersDark) {
+        newTheme = isAlternate ? baseTheme : alternateTheme;
+      } else {
+        newTheme = isAlternate ? alternateTheme : baseTheme;
+      }
+      const changeGiscusTheme = () => {
+        // From: https://github.com/giscus/giscus/issues/336
+        const sendMessage = (message) => {
+          const iframe = document.querySelector('iframe.giscus-frame');
+          if (!iframe) return;
+          iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+        }
+        sendMessage({
+          setConfig: {
+            theme: newTheme
+          }
+        });
+      }
+      const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+      if (isGiscussLoaded) {
+        changeGiscusTheme();
+      }
+    };
+    const authorPrefersDark = false;
+    const darkModeDefault = authorPrefersDark;
+      document.querySelector('link#quarto-text-highlighting-styles.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+      document.querySelector('link#quarto-bootstrap.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+    let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
+    // Dark / light mode switch
+    window.quartoToggleColorScheme = () => {
+      // Read the current dark / light value
+      let toAlternate = !hasAlternateSentinel();
+      toggleColorMode(toAlternate);
+      setStyleSentinel(toAlternate);
+      toggleGiscusIfUsed(toAlternate, darkModeDefault);
+      window.dispatchEvent(new Event('resize'));
+    };
+    // Switch to dark mode if need be
+    if (hasAlternateSentinel()) {
+      toggleColorMode(true);
+    } else {
+      toggleColorMode(false);
+    }
+  </script>
+
+<div id="quarto-content" class="page-columns page-rows-contents page-layout-full">
+<div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+  <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">En esta historia</h2>
+   
+  <ul class="collapse">
+  <li><a href="#el-hilo-conductor" id="toc-el-hilo-conductor" class="nav-link active" data-scroll-target="#el-hilo-conductor">El hilo conductor</a></li>
+  <li><a href="#salud" id="toc-salud" class="nav-link" data-scroll-target="#salud">Problema 1 — El Colapso Silencioso de la Salud Pública</a></li>
+  <li><a href="#trilema" id="toc-trilema" class="nav-link" data-scroll-target="#trilema">Problema 2 — La Trampa Trabajo-Agua-Salud</a></li>
+  <li><a href="#desigualdad" id="toc-desigualdad" class="nav-link" data-scroll-target="#desigualdad">Problema 3 — La Desigualdad que no se Mide</a></li>
+  <li><a href="#educacion" id="toc-educacion" class="nav-link" data-scroll-target="#educacion">Problema 4 — El Rezago Educativo como Deuda Sistémica</a></li>
+  <li><a href="#monitoreo" id="toc-monitoreo" class="nav-link" data-scroll-target="#monitoreo">Problema 5 — Los ODS que Nadie Monitorea</a></li>
+  <li><a href="#sintesis" id="toc-sintesis" class="nav-link" data-scroll-target="#sintesis">La Deuda Compartida</a></li>
+  <li><a href="#lo-que-los-datos-revelan" id="toc-lo-que-los-datos-revelan" class="nav-link" data-scroll-target="#lo-que-los-datos-revelan">Lo que los datos revelan</a></li>
+  </ul>
+</nav>
+</div>
+<main class="content column-page-left" id="quarto-document-content">
+
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">México y los ODS: Una Deuda Sistémica</h1>
+<p class="subtitle lead">Cinco problemáticas interconectadas que revelan el estado real del desarrollo sostenible en México</p>
+</div>
+
+
+
+<div class="quarto-title-meta column-page-left">
+
+    <div>
+    <div class="quarto-title-meta-heading">Autor/a</div>
+    <div class="quarto-title-meta-contents">
+             <p>Equipo ODSiosos — HackODS 2026 Metztli Donaji Pablo Aparicio Gustavo Mandujano Rojas Rubén Oropeza </p>
+          </div>
+  </div>
+    
+    <div>
+    <div class="quarto-title-meta-heading">Fecha de publicación</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">7 de abril de 2026</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<style>
+/* ── Hero section ─────────────────────────────────── */
+.hero {
+  background: linear-gradient(135deg, #1a1a2e 0%, #16213e 40%, #0f3460 100%);
+  color: #e0e0e0;
+  padding: 4rem 2rem;
+  border-radius: 12px;
+  margin-bottom: 3rem;
+  text-align: center;
+}
+.hero h1 { color: #fff; font-size: 2.4rem; margin-bottom: 0.5rem; }
+.hero .subtitle { color: #90caf9; font-size: 1.15rem; margin-bottom: 1.5rem; }
+.hero .epigraph {
+  font-style: italic;
+  font-size: 1.05rem;
+  max-width: 700px;
+  margin: 0 auto;
+  color: #b0bec5;
+  border-left: 3px solid #42a5f5;
+  padding-left: 1rem;
+  text-align: left;
+}
+
+/* ── Problema header ──────────────────────────────── */
+.problema-header {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 1.2rem 1.5rem;
+  border-radius: 10px;
+  margin: 2.5rem 0 1rem;
+  color: white;
+  font-size: 1.05rem;
+}
+.problema-num {
+  font-size: 2rem;
+  font-weight: 800;
+  opacity: 0.9;
+  white-space: nowrap;
+}
+.problema-title { font-size: 1.35rem; font-weight: 700; }
+.problema-ods   { font-size: 0.9rem;  opacity: 0.85; }
+
+.p1-bg { background: linear-gradient(90deg, #c62828, #e53935); }
+.p2-bg { background: linear-gradient(90deg, #1565c0, #1976d2); }
+.p3-bg { background: linear-gradient(90deg, #4527a0, #5e35b1); }
+.p4-bg { background: linear-gradient(90deg, #e65100, #ef6c00); }
+.p5-bg { background: linear-gradient(90deg, #00695c, #00897b); }
+
+/* ── Cifra de impacto ─────────────────────────────── */
+.cifras-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+.cifra-card {
+  text-align: center;
+  padding: 1.2rem 1rem;
+  border-radius: 10px;
+  background: var(--bs-light, #f8f9fa);
+  border: 1px solid var(--bs-border-color, #dee2e6);
+}
+.cifra-num  { font-size: 2rem; font-weight: 800; line-height: 1.1; }
+.cifra-desc { font-size: 0.82rem; color: #666; margin-top: 0.3rem; }
+
+/* ── Hilo conector ────────────────────────────────── */
+.hilo {
+  background: #e3f2fd;
+  border-left: 4px solid #1565c0;
+  border-radius: 0 8px 8px 0;
+  padding: 1rem 1.5rem;
+  margin: 2rem 0;
+  font-style: italic;
+  color: #1a237e;
+}
+
+/* ── Conclusión final ─────────────────────────────── */
+.conclusion-final {
+  background: linear-gradient(135deg, #1a1a2e, #0f3460);
+  color: #e0e0e0;
+  padding: 3rem 2rem;
+  border-radius: 12px;
+  margin-top: 3rem;
+}
+.conclusion-final h2 { color: #90caf9; }
+.conclusion-final p  { color: #cfd8dc; }
+
+/* ── Separador ────────────────────────────────────── */
+.separador {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin: 2.5rem 0;
+  color: #888;
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+.separador::before, .separador::after {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: #dee2e6;
+}
+</style>
+<div class="hero">
+<h1>
+México y los ODS: Una Deuda Sistémica
+</h1>
+<p class="subtitle">
+333 indicadores. 17 objetivos. Un país que mide su avance — y descubre sus silencios.
+</p>
+<p class="epigraph">
+“El sistema no colapsó de golpe. Colapsó en silencio, indicador por indicador, año tras año. Lo que revelan los datos ODS de México no es el retrato de un país que no progresa: es el retrato de un país que progresa en ciertas dimensiones mientras acumula deuda en otras.”
+</p>
+</div>
+<section id="el-hilo-conductor" class="level2">
+<h2 class="anchored" data-anchor-id="el-hilo-conductor">El hilo conductor</h2>
+<p>Este análisis parte de los <strong>333 indicadores ODS de México</strong> (INEGI, 1970–2026) y los recorre en busca de patrones, contradicciones y silencios. De ese universo emergen <strong>cinco problemáticas interconectadas</strong> que no pueden entenderse por separado: cada una alimenta a las demás en un ciclo que el dato aislado no logra mostrar.</p>
+<p>La historia que siguen estas páginas tiene una estructura deliberada:</p>
+<ol type="1">
+<li><strong>Salud</strong> — el sistema que se retrajo silenciosamente (ODS 3)</li>
+<li><strong>El trilema</strong> — cómo el crecimiento destruye agua y salud al mismo tiempo (ODS 6, 8, 12)</li>
+<li><strong>Desigualdad</strong> — lo que no se mide no se combate (ODS 10, 1, 5)</li>
+<li><strong>Educación</strong> — la deuda sistémica que comparte raíz con la inseguridad (ODS 4, 16)</li>
+<li><strong>El silencio estadístico</strong> — los ODS que nadie monitorea (ODS 2, 14)</li>
+</ol>
+<hr>
+</section>
+<section id="salud" class="level2">
+<h2 class="anchored" data-anchor-id="salud">Problema 1 — El Colapso Silencioso de la Salud Pública</h2>
+<div class="problema-header p1-bg">
+<div class="problema-num">
+<p>01</p>
+</div>
+<div>
+<div class="problema-title">
+<p>El Colapso Silencioso de la Salud Pública</p>
+</div>
+<div class="problema-ods">
+<p>ODS 3: Salud y Bienestar</p>
+</div>
+</div>
+</div>
+<blockquote class="blockquote">
+<p><em>“El sistema de salud pública de México no colapsó de golpe. Colapsó en silencio, indicador por indicador, año tras año.”</em></p>
+</blockquote>
+<p>En 2015, México alcanzó su pico histórico de vacunación infantil: <strong>96.3 %</strong>, por encima del umbral del 95 % que exige la OMS para la inmunidad de rebaño. En 2024, ese número había caído a <strong>76.5 %</strong>. No hubo una emergencia declarada. El sistema simplemente se retrajo.</p>
+<div class="cifras-grid">
+<div class="cifra-card">
+<div class="cifra-num" style="color:#c62828">
+<p>76.5 %</p>
+</div>
+<div class="cifra-desc">
+<p>Cobertura vacunal 2024 — por debajo del umbral OMS (95 %)</p>
+</div>
+</div>
+<div class="cifra-card">
+<div class="cifra-num" style="color:#c62828">
+<p>+619 %</p>
+</div>
+<div class="cifra-desc">
+<p>Incremento en enfermedades vectoriales en 7 años (dengue, zika, chikungunya)</p>
+</div>
+</div>
+<div class="cifra-card">
+<div class="cifra-num" style="color:#c62828">
+<p>×3</p>
+</div>
+<div class="cifra-desc">
+<p>La tasa de suicidio se triplicó en 30 años — la crisis de salud mental invisible</p>
+</div>
+</div>
+<div class="cifra-card">
+<div class="cifra-num" style="color:#2e7d32">
+<p>−59 %</p>
+</div>
+<div class="cifra-desc">
+<p>Reducción en mortalidad materna — lo que sí funciona cuando se prioriza</p>
+</div>
+</div>
+</div>
+<p>El ODS 3 no existe en aislamiento. Las correlaciones entre sus indicadores revelan un <strong>nodo sistémico</strong>: la caída en vacunación se correlaciona con el repunte vectorial; la obesidad (37 % de la población) alimenta la epidemia crónica; y la salud mental permanece invisible porque sus indicadores apenas existen.</p>
+<p>El mismo análisis muestra el contrapeso: donde hubo voluntad política y continuidad de programa, los números mejoraron. La mortalidad materna cayó 59 %, la infantil 61 %. El sistema puede mejorar. El problema es que no es uniforme.</p>
+<iframe src="notebook/html/005_problema1_salud.html" width="100%" height="900px" style="border:1px solid #dee2e6; border-radius:8px;">
+</iframe>
+<div class="hilo">
+<p><strong>¿Por qué el sistema de salud retrocedió?</strong> Una hipótesis emerge del siguiente análisis: el modelo de crecimiento económico mexicano genera una demanda que el sistema ambiental no puede absorber — y ese deterioro ambiental vuelve como carga sanitaria. El problema de la salud no empieza en los hospitales.</p>
+</div>
+<hr>
+</section>
+<section id="trilema" class="level2">
+<h2 class="anchored" data-anchor-id="trilema">Problema 2 — La Trampa Trabajo-Agua-Salud</h2>
+<div class="problema-header p2-bg">
+<div class="problema-num">
+<p>02</p>
+</div>
+<div>
+<div class="problema-title">
+<p>La Trampa Trabajo-Agua-Salud</p>
+</div>
+<div class="problema-ods">
+<p>ODS 6 · ODS 8 · ODS 12</p>
+</div>
+</div>
+</div>
+<blockquote class="blockquote">
+<p><em>“México crece. Su consumo material se multiplicó por 18 en 20 años. Al mismo tiempo, su acceso al agua segura retrocedió, sus cuerpos de agua se encogen, y sus aguas residuales volvieron a quedar sin tratar. No son hechos separados. Son el mismo hecho.”</em></p>
+</blockquote>
+<p>La correlación entre consumo material doméstico y acceso al agua potable segura es <strong>r = −1.0</strong>: perfectamente inversa. A medida que México producía y consumía más, su agua se deterioraba al mismo ritmo exacto.</p>
+<div class="cifras-grid">
+<div class="cifra-card">
+<div class="cifra-num" style="color:#1565c0">
+<p>+1,763 %</p>
+</div>
+<div class="cifra-desc">
+<p>Crecimiento del consumo material doméstico en 20 años</p>
+</div>
+</div>
+<div class="cifra-card">
+<div class="cifra-num" style="color:#c62828">
+<p>47 %</p>
+</div>
+<div class="cifra-desc">
+<p>Extracción hídrica sobre recursos renovables — umbral crítico: 40 %</p>
+</div>
+</div>
+<div class="cifra-card">
+<div class="cifra-num" style="color:#c62828">
+<p>60 de 100</p>
+</div>
+<div class="cifra-desc">
+<p>Litros de aguas residuales que van sin tratar (tratamiento cayó de 50 % a 40 %)</p>
+</div>
+</div>
+<div class="cifra-card">
+<div class="cifra-num" style="color:#e65100">
+<p>51 %</p>
+</div>
+<div class="cifra-desc">
+<p>Fuerza laboral en empleo informal — el eslabón invisible del trilema</p>
+</div>
+</div>
+</div>
+<p>El <strong>trilema</strong> es la trampa donde tres ODS se retroalimentan negativamente: el crecimiento económico (ODS 8) degrada el agua (ODS 6), que deteriora la salud (ODS 3), que reduce la productividad laboral, que presiona a más producción material (ODS 12), que degrada más el agua. El empleo informal (51 % de la fuerza laboral) es el eslabón invisible: sin acceso a agua potable en el trabajo, sin protección laboral, sin voz para reclamar.</p>
+<iframe src="notebook/html/006_problema2_trilema.html" width="100%" height="900px" style="border:1px solid #dee2e6; border-radius:8px;">
+</iframe>
+<div class="hilo">
+<p><strong>El trilema tiene una distribución desigual.</strong> Las regiones Centro y Norte de México ya superaron el 56 % de extracción hídrica — pero no todos los mexicanos sienten igual ese estrés. La desigualdad determina quién absorbe el costo ambiental del crecimiento. Eso nos lleva al tercer problema.</p>
+</div>
+<hr>
+</section>
+<section id="desigualdad" class="level2">
+<h2 class="anchored" data-anchor-id="desigualdad">Problema 3 — La Desigualdad que no se Mide</h2>
+<div class="problema-header p3-bg">
+<div class="problema-num">
+<p>03</p>
+</div>
+<div>
+<div class="problema-title">
+<p>La Desigualdad que no se Mide</p>
+</div>
+<div class="problema-ods">
+<p>ODS 10 · ODS 1 · ODS 5</p>
+</div>
+</div>
+</div>
+<blockquote class="blockquote">
+<p><em>“México tiene 11 indicadores para medir la desigualdad. Solo 4 tienen suficientes datos para hacer estadística. No es que la desigualdad sea invisible — es que decidimos no mirarla.”</em></p>
+</blockquote>
+<p>El coeficiente de Gini de México mejoró: pasó de 0.449 a 0.391 entre 2000 y 2022. Una mejora real. Pero cuando se elimina el efecto de las transferencias gubernamentales, el Gini sin intervención estatal sería de <strong>0.450</strong> — exactamente donde estaba antes. El Estado compensa la desigualdad estructural en lugar de corregirla.</p>
+<div class="cifras-grid">
+<div class="cifra-card">
+<div class="cifra-num" style="color:#4527a0">
+<p>3.6</p>
+</div>
+<div class="cifra-desc">
+<p>Promedio de observaciones por indicador ODS 5 — estadísticamente inútil</p>
+</div>
+</div>
+<div class="cifra-card">
+<div class="cifra-num" style="color:#c62828">
+<p>29.8 %</p>
+</div>
+<div class="cifra-desc">
+<p>Del PIB llega a los trabajadores como salarios — el capital captura el resto</p>
+</div>
+</div>
+<div class="cifra-card">
+<div class="cifra-num" style="color:#c62828">
+<p>43.5 %</p>
+</div>
+<div class="cifra-desc">
+<p>De la población en pobreza nacional (2022)</p>
+</div>
+</div>
+<div class="cifra-card">
+<div class="cifra-num" style="color:#e65100">
+<p>+22 %</p>
+</div>
+<div class="cifra-desc">
+<p>Más desigual que el promedio OCDE (Gini 0.39 vs 0.32)</p>
+</div>
+</div>
+</div>
+<p>El problema no es solo distributivo: es <strong>epistemológico</strong>. ODS 5 (Igualdad de Género) tiene 27 de 29 indicadores con datos — pero su promedio es 3.6 observaciones por indicador. Cero indicadores tienen las 15 observaciones mínimas para análisis robusto. La desigualdad de género en México existe en los datos, pero no puede medirse estadísticamente.</p>
+<iframe src="notebook/html/007_problema3_desigualdad.html" width="100%" height="900px" style="border:1px solid #dee2e6; border-radius:8px;">
+</iframe>
+<div class="hilo">
+<p><strong>La desigualdad tiene una expresión espacial y generacional.</strong> Su forma más durable y difícil de romper no es el ingreso — es la educación. Un sistema educativo deficiente reproduce la desigualdad de generación en generación, y lo hace con especial fuerza donde la violencia y la corrupción erosionan las instituciones.</p>
+</div>
+<hr>
+</section>
+<section id="educacion" class="level2">
+<h2 class="anchored" data-anchor-id="educacion">Problema 4 — El Rezago Educativo como Deuda Sistémica</h2>
+<div class="problema-header p4-bg">
+<div class="problema-num">
+<p>04</p>
+</div>
+<div>
+<div class="problema-title">
+<p>El Rezago Educativo como Deuda Sistémica</p>
+</div>
+<div class="problema-ods">
+<p>ODS 4: Educación de Calidad · ODS 16: Paz, Justicia e Instituciones</p>
+</div>
+</div>
+</div>
+<blockquote class="blockquote">
+<p><em>“México casi universalizó la alfabetización. Pero eso oculta tres décadas de deuda acumulada en calidad docente, infraestructura digital, acceso superior y un contexto institucional que detiene el aprendizaje antes de que empiece.”</em></p>
+</blockquote>
+<p>El <strong>99.2 % de alfabetización</strong> es real. Pero es la cifra más superficial del ODS 4. Debajo de ella: solo el 43.8 % de los jóvenes accede a educación superior (vs 65 % en la OCDE), el 46.7 % de las escuelas tiene internet (la electricidad llega al 95.6 %), y 1 de cada 5 maestros de preescolar no tiene la certificación mínima.</p>
+<div class="cifras-grid">
+<div class="cifra-card">
+<div class="cifra-num" style="color:#ef6c00">
+<p>43.8 %</p>
+</div>
+<div class="cifra-desc">
+<p>Matrícula en educación superior — brecha de −16 pp vs meta OCDE (65 %)</p>
+</div>
+</div>
+<div class="cifra-card">
+<div class="cifra-num" style="color:#ef6c00">
+<p>46.7 %</p>
+</div>
+<div class="cifra-desc">
+<p>Escuelas con internet — vs 95.6 % con electricidad</p>
+</div>
+</div>
+<div class="cifra-card">
+<div class="cifra-num" style="color:#c62828">
+<p>25.4 / 100k</p>
+</div>
+<div class="cifra-desc">
+<p>Tasa de homicidios — 5× el límite ODS 16 (&lt; 5 / 100k)</p>
+</div>
+</div>
+<div class="cifra-card">
+<div class="cifra-num" style="color:#c62828">
+<p>14 %</p>
+</div>
+<div class="cifra-desc">
+<p>Tasa de soborno — 7× la meta ODS (&lt; 2 %)</p>
+</div>
+</div>
+</div>
+<p>Lo que hace sistémica esta deuda es su causa: <strong>México no tiene un problema educativo Y un problema de seguridad por separado.</strong> Tiene un problema sistémico donde la violencia erosiona la infraestructura educativa, la corrupción desmotiva el esfuerzo escolar, y la formación docente deficiente reproduce el rezago generación tras generación. Resolver ODS 4 requiere resolver ODS 16 — y viceversa.</p>
+<iframe src="notebook/html/008_problema4_educacion.html" width="100%" height="900px" style="border:1px solid #dee2e6; border-radius:8px;">
+</iframe>
+<div class="hilo">
+<p><strong>El quinto problema cierra el círculo — o más exactamente, revela que el círculo no se puede cerrar.</strong> Para saber si México está avanzando en salud, agua, desigualdad o educación, necesitamos medirlos bien. Pero para varios de los ODS más críticos, el sistema estadístico mexicano tiene agujeros enormes.</p>
+</div>
+<hr>
+</section>
+<section id="monitoreo" class="level2">
+<h2 class="anchored" data-anchor-id="monitoreo">Problema 5 — Los ODS que Nadie Monitorea</h2>
+<div class="problema-header p5-bg">
+<div class="problema-num">
+<p>05</p>
+</div>
+<div>
+<div class="problema-title">
+<p>Los ODS que Nadie Monitorea</p>
+</div>
+<div class="problema-ods">
+<p>ODS 2: Hambre Cero · ODS 14: Vida Submarina · El vacío estadístico</p>
+</div>
+</div>
+</div>
+<blockquote class="blockquote">
+<p><em>“No podemos gestionar lo que no medimos. México tiene 333 indicadores ODS — pero para muchos de ellos el casillero está en blanco. Lo que no se registra no se combate, y lo que no se combate empeora en silencio.”</em></p>
+</blockquote>
+<p>Solo <strong>8 de 17 ODS</strong> tienen cobertura completa de indicadores. El ODS 1 (Fin de la Pobreza) — el objetivo más fundamental — tiene datos en apenas el 58 % de sus indicadores. El ODS 2 (Hambre Cero) lleva <strong>18 años</strong> sin registrar variación significativa en desnutrición infantil (15.4 % → 15.1 %).</p>
+<div class="cifras-grid">
+<div class="cifra-card">
+<div class="cifra-num" style="color:#00695c">
+<p>8 / 17</p>
+</div>
+<div class="cifra-desc">
+<p>ODS con cobertura completa de indicadores — solo la mitad</p>
+</div>
+</div>
+<div class="cifra-card">
+<div class="cifra-num" style="color:#c62828">
+<p>58 %</p>
+</div>
+<div class="cifra-desc">
+<p>Cobertura de indicadores ODS 1 (Pobreza) — el peor del sistema</p>
+</div>
+</div>
+<div class="cifra-card">
+<div class="cifra-num" style="color:#e65100">
+<p>18 años</p>
+</div>
+<div class="cifra-desc">
+<p>Sin variación significativa en desnutrición infantil (ODS 2)</p>
+</div>
+</div>
+<div class="cifra-card">
+<div class="cifra-num" style="color:#c62828">
+<p>−78 %</p>
+</div>
+<div class="cifra-desc">
+<p>Caída en presupuesto de investigación oceánica — mientras se crea la mayor reserva marina del país</p>
+</div>
+</div>
+</div>
+<p>El caso del ODS 14 (Vida Submarina) es la paradoja perfecta: México creó la reserva marina más grande de su historia (22.5 % del mar territorial) mientras el presupuesto de investigación oceánica caía 78 %. Los indicadores críticos para gestionar el océano — pesca sostenible, acidificación, zonas muertas, contaminación plástica — simplemente no existen en el sistema ODS mexicano.</p>
+<p><strong>El vacío estadístico no es un problema técnico.</strong> Es una decisión política sobre qué importa y qué puede ignorarse.</p>
+<iframe src="notebook/html/009_problema5_monitoreo.html" width="100%" height="900px" style="border:1px solid #dee2e6; border-radius:8px;">
+</iframe>
+<hr>
+<div class="separador">
+<p>Síntesis</p>
+</div>
+</section>
+<section id="sintesis" class="level2">
+<h2 class="anchored" data-anchor-id="sintesis">La Deuda Compartida</h2>
+<p>Los cinco problemas no son independientes. Son cinco ángulos del mismo fenómeno:</p>
+<table class="table-striped table-hover caption-top table">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Problema</th>
+<th>ODS involucrados</th>
+<th>Mecanismo de contagio</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Colapso sanitario</td>
+<td>ODS 3</td>
+<td>Retracción presupuestal + epidemiología ambiental</td>
+</tr>
+<tr class="even">
+<td>Trilema consumo-agua-salud</td>
+<td>ODS 6, 8, 12</td>
+<td>Crecimiento que destruye recursos vitales</td>
+</tr>
+<tr class="odd">
+<td>Desigualdad no medida</td>
+<td>ODS 10, 1, 5</td>
+<td>Sistema estadístico que invisibiliza brechas</td>
+</tr>
+<tr class="even">
+<td>Rezago educativo-institucional</td>
+<td>ODS 4, 16</td>
+<td>Violencia y corrupción como techos estructurales</td>
+</tr>
+<tr class="odd">
+<td>Vacío de monitoreo</td>
+<td>ODS 2, 14</td>
+<td>Decisiones políticas sobre qué registrar</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="lo-que-los-datos-revelan" class="level2 conclusion-final">
+<h2 class="anchored" data-anchor-id="lo-que-los-datos-revelan">Lo que los datos revelan</h2>
+<p>México no tiene un problema de ODS. México tiene una <strong>deuda sistémica</strong> con cinco dimensiones que se refuerzan mutuamente:</p>
+<ul>
+<li>Un sistema de salud que retrocedió porque el modelo productivo degrada el entorno ambiental que lo sostiene.</li>
+<li>Un modelo de crecimiento que destruye el agua que necesita para sostener a la población que lo produce.</li>
+<li>Una desigualdad que persiste porque el sistema estadístico no tiene resolución suficiente para medirla donde más duele.</li>
+<li>Un rezago educativo que se reproduce porque la violencia y la corrupción son parte de la infraestructura invisible del aula.</li>
+<li>Un sistema de monitoreo con agujeros enormes en los ODS más vulnerables — lo que no se mide no se gestiona.</li>
+</ul>
+<p><strong>La buena noticia:</strong> donde hubo continuidad de política y voluntad de medir, los indicadores mejoraron. Mortalidad materna −59 %. Mortalidad infantil −61 %. Cobertura eléctrica escolar 95.6 %. El sistema puede mejorar. La pregunta es si habrá voluntad de hacerlo donde más cuesta.</p>
+<hr>
+<p><em>Análisis realizado sobre datos oficiales del INEGI (Sistema de Indicadores ODS México). Series de tiempo 1970–2026. 333 indicadores procesados; 292 con datos nacionales disponibles.</em> <em>HackODS 2026 — Equipo ODSiosos</em></p>
+</section>
+
+</main>
+<!-- /main column -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    // Ensure there is a toggle, if there isn't float one in the top right
+    if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+      const a = window.document.createElement('a');
+      a.classList.add('top-right');
+      a.classList.add('quarto-color-scheme-toggle');
+      a.href = "";
+      a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+      const i = window.document.createElement("i");
+      i.classList.add('bi');
+      a.appendChild(i);
+      window.document.body.appendChild(a);
+    }
+    setColorSchemeToggle(hasAlternateSentinel())
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copiado");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copiado");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+
+
+
+
+<script src="index_files/libs/quarto-html/zenscroll-min.js"></script>
+</body></html>
