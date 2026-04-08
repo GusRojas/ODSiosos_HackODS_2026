@@ -1,10 +1,7 @@
 ---
 title: "México y los ODS: Una Deuda Sistémica"
 subtitle: "Cinco problemáticas interconectadas que revelan el estado real del desarrollo sostenible en México"
-author: "Equipo ODSiosos — HackODS 2026
-          Metztli Donaji Pablo Aparicio
-          Gustavo Mandujano Rojas
-          Rubén Oropeza"
+author: "Equipo ODSiosos: Metztli Donaji Pablo Aparicio | Gustavo Mandujano Rojas | Rubén Oropeza -- HackODS 2026"
 date: "2026-04-07"
 lang: es
 format:
