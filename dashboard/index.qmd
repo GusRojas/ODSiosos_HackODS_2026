@@ -1,0 +1,712 @@
+---
+title: "México y los ODS: Una Deuda Sistémica"
+author: "Equipo ODSiosos — HackODS 2026"
+date: "2026-04-07"
+lang: es
+format:
+  dashboard:
+    theme:
+      light: flatly
+      dark: darkly
+    scrolling: false
+    logo: ""
+execute:
+  echo: false
+  warning: false
+  message: false
+  freeze: true
+---
+
+```{=html}
+<style>
+/* ── Problem color cards ─────────────────────────────── */
+.p1-card { background: linear-gradient(135deg, #c62828, #e53935); }
+.p2-card { background: linear-gradient(135deg, #1565c0, #1976d2); }
+.p3-card { background: linear-gradient(135deg, #4527a0, #5e35b1); }
+.p4-card { background: linear-gradient(135deg, #e65100, #ef6c00); }
+.p5-card { background: linear-gradient(135deg, #00695c, #00897b); }
+
+.prob-tile {
+  color: white;
+  padding: 1.4rem 1.2rem;
+  border-radius: 10px;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+.prob-tile .pt-num   { font-size: 2rem; font-weight: 800; opacity: 0.55; line-height: 1; }
+.prob-tile .pt-title { font-size: 1rem; font-weight: 700; line-height: 1.25; }
+.prob-tile .pt-ods   { font-size: 0.75rem; opacity: 0.82; }
+.prob-tile .pt-kpi   { font-size: 2rem; font-weight: 800; margin-top: auto; }
+.prob-tile .pt-desc  { font-size: 0.78rem; opacity: 0.88; }
+
+/* ── Connection table ───────────────────────────────── */
+.conn-table { width: 100%; border-collapse: collapse; font-size: 0.85rem; }
+.conn-table thead tr { background: #1565c0; color: white; }
+.conn-table th, .conn-table td { padding: 0.45rem 0.7rem; border-bottom: 1px solid #dee2e6; }
+.conn-table tbody tr:nth-child(odd) { background: #f8f9fa; }
+
+/* ── Hilo connector ─────────────────────────────────── */
+.hilo-box {
+  background: #e3f2fd;
+  border-left: 4px solid #1565c0;
+  border-radius: 0 8px 8px 0;
+  padding: 0.9rem 1.2rem;
+  font-style: italic;
+  color: #1a237e;
+  font-size: 0.9rem;
+}
+
+/* ── Section header ─────────────────────────────────── */
+.section-hero {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 1rem 1.5rem;
+  border-radius: 8px;
+  color: white;
+}
+.section-hero .sh-num   { font-size: 2.5rem; font-weight: 800; opacity: 0.55; }
+.section-hero .sh-title { font-size: 1.3rem; font-weight: 700; }
+.section-hero .sh-ods   { font-size: 0.85rem; opacity: 0.85; }
+
+blockquote {
+  border-left: 4px solid #90caf9;
+  padding-left: 1rem;
+  font-style: italic;
+  color: #546e7a;
+  margin: 0.5rem 0;
+}
+</style>
+```
+
+```{python}
+#| output: false
+#| include: false
+
+def hex_to_rgba(hex_color, alpha=0.15):
+    h = hex_color.lstrip('#')
+    r, g, b = int(h[0:2], 16), int(h[2:4], 16), int(h[4:6], 16)
+    return f'rgba({r},{g},{b},{alpha})'
+
+import pandas as pd
+import numpy as np
+import networkx as nx
+import ast
+import warnings
+warnings.filterwarnings('ignore')
+
+import plotly.graph_objects as go
+import plotly.express as px
+from plotly.subplots import make_subplots
+
+ODS_COLORS = {
+    1:  '#E5243B', 2:  '#DDA63A', 3:  '#4C9F38', 4:  '#C5192D',
+    5:  '#FF3A21', 6:  '#26BDE2', 7:  '#FCC30B', 8:  '#A21942',
+    9:  '#FD6925', 10: '#DD1367', 11: '#FD9D24', 12: '#BF8B2E',
+    13: '#3F7E44', 14: '#0A97D9', 15: '#56C02B', 16: '#00689D',
+    17: '#19486A'
+}
+ODS_NAMES = {
+    1:'Fin de la Pobreza', 2:'Hambre Cero', 3:'Salud y Bienestar',
+    4:'Educación de Calidad', 5:'Igualdad de Género', 6:'Agua Limpia',
+    7:'Energía Asequible', 8:'Trabajo Decente', 9:'Industria e Innovación',
+    10:'Reducción de Desigualdades', 11:'Ciudades Sostenibles',
+    12:'Producción Responsable', 13:'Acción por el Clima',
+    14:'Vida Submarina', 15:'Vida de Ecosistemas', 16:'Paz y Justicia',
+    17:'Alianzas'
+}
+
+DARK_LAYOUT = dict(
+    paper_bgcolor='#0D1117',
+    plot_bgcolor='#161B22',
+    font_color='#d8e2e2',
+    font_family='Arial',
+)
+
+largo      = pd.read_csv('../data/consolidated/indicadores_largo.csv')
+meta       = pd.read_csv('../data/consolidated/metadatos_indicadores.csv')
+corr_altas = pd.read_csv('../data/consolidated/correlaciones_altas.csv')
+pares_ods  = pd.read_csv('../data/consolidated/pares_ods_correlaciones.csv')
+```
+
+# Panorama {data-icon="house-fill"}
+
+## Row {height="20%"}
+
+```{python}
+#| content: valuebox
+#| title: "Indicadores ODS analizados"
+#| icon: "bar-chart-fill"
+#| color: "primary"
+"333"
+```
+
+```{python}
+#| content: valuebox
+#| title: "Con datos nacionales"
+#| icon: "database-fill"
+#| color: "success"
+"292"
+```
+
+```{python}
+#| content: valuebox
+#| title: "ODS cubiertos"
+#| icon: "globe-americas"
+#| color: "info"
+"17"
+```
+
+```{python}
+#| content: valuebox
+#| title: "Problemáticas sistémicas"
+#| icon: "diagram-3-fill"
+#| color: "warning"
+"5"
+```
+
+## Row {height="35%"}
+
+### Contexto {width="40%"}
+
+Los **333 indicadores ODS de México** (INEGI, 1970–2026) revelan cinco problemáticas interconectadas que no pueden entenderse por separado: cada una alimenta a las demás en un ciclo que el dato aislado no logra mostrar.
+
+> *"El sistema no colapsó de golpe. Colapsó en silencio, indicador por indicador, año tras año."*
+
+Navega por las pestañas para explorar cada problemática en detalle.
+
+### Tabla de conexiones {width="60%"}
+
+```{=html}
+<table class="conn-table">
+  <thead>
+    <tr><th>#</th><th>Problemática</th><th>ODS</th><th>Mecanismo de contagio</th></tr>
+  </thead>
+  <tbody>
+    <tr><td><strong>01</strong></td><td>Colapso sanitario</td><td>ODS 3</td><td>Retracción presupuestal + epidemiología ambiental</td></tr>
+    <tr><td><strong>02</strong></td><td>Trilema consumo-agua-salud</td><td>ODS 6, 8, 12</td><td>Crecimiento que destruye recursos vitales</td></tr>
+    <tr><td><strong>03</strong></td><td>Desigualdad no medida</td><td>ODS 10, 1, 5</td><td>Sistema estadístico que invisibiliza brechas</td></tr>
+    <tr><td><strong>04</strong></td><td>Rezago educativo-institucional</td><td>ODS 4, 16</td><td>Violencia y corrupción como techos estructurales</td></tr>
+    <tr><td><strong>05</strong></td><td>Vacío de monitoreo</td><td>ODS 2, 14</td><td>Decisiones políticas sobre qué registrar</td></tr>
+  </tbody>
+</table>
+```
+
+## Row {height="60%"}
+
+### Problema 1 {width="20%"}
+
+```{=html}
+<div class="prob-tile p1-card">
+  <div class="pt-num">01</div>
+  <div class="pt-title">El Colapso Silencioso de la Salud Pública</div>
+  <div class="pt-ods">ODS 3 · Salud y Bienestar</div>
+  <div class="pt-kpi">76.5%</div>
+  <div class="pt-desc">cobertura vacunal 2024, por debajo del umbral OMS del 95%</div>
+</div>
+```
+
+### Problema 2 {width="20%"}
+
+```{=html}
+<div class="prob-tile p2-card">
+  <div class="pt-num">02</div>
+  <div class="pt-title">La Trampa Trabajo-Agua-Salud</div>
+  <div class="pt-ods">ODS 6 · ODS 8 · ODS 12</div>
+  <div class="pt-kpi">r = −1.0</div>
+  <div class="pt-desc">correlación perfectamente inversa entre consumo material y agua potable</div>
+</div>
+```
+
+### Problema 3 {width="20%"}
+
+```{=html}
+<div class="prob-tile p3-card">
+  <div class="pt-num">03</div>
+  <div class="pt-title">La Desigualdad que no se Mide</div>
+  <div class="pt-ods">ODS 10 · ODS 1 · ODS 5</div>
+  <div class="pt-kpi">3.6 obs</div>
+  <div class="pt-desc">promedio por indicador de género — estadísticamente inútil</div>
+</div>
+```
+
+### Problema 4 {width="20%"}
+
+```{=html}
+<div class="prob-tile p4-card">
+  <div class="pt-num">04</div>
+  <div class="pt-title">El Rezago Educativo como Deuda Sistémica</div>
+  <div class="pt-ods">ODS 4 · ODS 16</div>
+  <div class="pt-kpi">25.4 / 100k</div>
+  <div class="pt-desc">tasa de homicidios — 5× el límite ODS 16 de menos de 5 / 100k</div>
+</div>
+```
+
+### Problema 5 {width="20%"}
+
+```{=html}
+<div class="prob-tile p5-card">
+  <div class="pt-num">05</div>
+  <div class="pt-title">Los ODS que Nadie Monitorea</div>
+  <div class="pt-ods">ODS 2 · ODS 14 · Vacío estadístico</div>
+  <div class="pt-kpi">8 / 17</div>
+  <div class="pt-desc">ODS con cobertura completa de indicadores — solo la mitad</div>
+</div>
+```
+
+# Todo está conectado {data-icon="diagram-3-fill" scrolling="true"}
+
+```{python}
+#| label: create-graphs
+#| output: false
+
+# ── ACTO 1: Grafo de interdependencias ───────────────────────────────────────
+G = nx.Graph()
+for i in range(1, 18):
+    G.add_node(i)
+for _, row in pares_ods.iterrows():
+    pair = ast.literal_eval(row['ods_pair'])
+    a, b = pair
+    if a != b:
+        G.add_edge(a, b, weight=row['n_correlaciones'], avg_corr=row['corr_promedio'])
+
+weighted_degree = {n: sum(d['weight'] for _, _, d in G.edges(n, data=True)) for n in G.nodes()}
+pos = nx.kamada_kawai_layout(G, weight='weight')
+max_w = max(d['weight'] for _, _, d in G.edges(data=True))
+max_wd = max(weighted_degree.values())
+
+edge_traces = []
+for u, v, d in G.edges(data=True):
+    x0, y0 = pos[u]; x1, y1 = pos[v]
+    w = d['weight']; avg = d['avg_corr']
+    color = '#FF6B6B' if avg < -0.05 else '#4ECDC4' if avg > 0.05 else '#A8DADC'
+    edge_traces.append(go.Scatter(
+        x=[x0, x1, None], y=[y0, y1, None], mode='lines',
+        line=dict(width=0.5 + 7*(w/max_w), color=color),
+        opacity=0.15 + 0.65*(w/max_w), hoverinfo='none', showlegend=False,
+    ))
+
+node_trace = go.Scatter(
+    x=[pos[n][0] for n in G.nodes()], y=[pos[n][1] for n in G.nodes()],
+    mode='markers+text',
+    marker=dict(size=[20+50*(weighted_degree[n]/max_wd) for n in G.nodes()],
+                color=[ODS_COLORS[n] for n in G.nodes()],
+                line=dict(width=1.5, color='white')),
+    text=[f'ODS {n}' for n in G.nodes()],
+    textposition='middle center',
+    textfont=dict(size=10, color='white', family='Arial Black'),
+    hovertext=[f'<b>ODS {n}: {ODS_NAMES[n]}</b><br>Peso: {weighted_degree[n]}<br>Vecinos: {G.degree(n)}'
+               for n in G.nodes()],
+    hoverinfo='text', name='ODS',
+)
+
+fig_red = go.Figure(
+    data=edge_traces + [node_trace,
+        go.Scatter(x=[None], y=[None], mode='lines', line=dict(color='#FF6B6B', width=3), name='Trade-off (correlación negativa)'),
+        go.Scatter(x=[None], y=[None], mode='lines', line=dict(color='#4ECDC4', width=3), name='Sinergia (correlación positiva)'),
+    ],
+    layout=go.Layout(
+        **DARK_LAYOUT,
+        xaxis=dict(showgrid=False, zeroline=False, showticklabels=False),
+        yaxis=dict(showgrid=False, zeroline=False, showticklabels=False),
+        hovermode='closest',
+        #legend=dict(bgcolor='rgba(13,17,23,0.85)', bordercolor='#444c56', borderwidth=1,
+        #            font=dict(color='#E6EDF3', size=12),
+        #            orientation='v', xanchor='left', x=0.01, yanchor='bottom', y=0.01,
+        #            entrywidth=0, entrywidthmode='pixels'),
+        margin=dict(r=0),
+    )
+)
+
+# ── ACTO 2: Indicadores ODS 3 — figuras individuales para tabset ─────────────
+ods3 = largo[largo.ods_number == 3].copy()
+ods3_counts = ods3.groupby('indicator_id').size().reset_index(name='n')
+# Para FOCUS usamos n >= 1 (selección manual); fallback usa n >= 5
+ids_cualquier = set(ods3_counts[ods3_counts.n >= 1]['indicator_id'].str.lower())
+ids_validos   = set(ods3_counts[ods3_counts.n >= 5]['indicator_id'].str.lower())
+
+FOCUS = {
+    '3.b.1': ('Cobertura vacunación (%)',        '#FF6B6B'),
+    '3.3.3': ('Enfermedades vectoriales',         '#FF9F43'),
+    '3.4.1': ('Mortalidad cardiovascular',        '#EE5A24'),
+    '3.1.2': ('Partos con asistencia médica (%)', '#FDA7DF'),
+}
+focus_disp = {k: v for k, v in FOCUS.items() if k.lower() in ids_cualquier}
+if len(focus_disp) < 2:
+    top4 = ods3_counts[ods3_counts.n >= 5].sort_values('n', ascending=False).head(4)['indicator_id'].tolist()
+    focus_disp = {iid: (ods3[ods3.indicator_id==iid]['title'].iloc[0][:50], c)
+                  for iid, c in zip(top4, ['#FF6B6B','#FF9F43','#EE5A24','#FDA7DF'])}
+
+def make_ind_fig(ind_id, label, color):
+    serie = ods3[ods3.indicator_id == ind_id].sort_values('periodo')
+    x, y = serie['periodo'].values, serie['valor'].values
+    unit = serie['unit'].iloc[0] if 'unit' in serie.columns else ''
+    ultimo = f'{y[-1]:.1f} {unit}' if len(y) else 'N/D'
+    cambio = y[-1] - y[0] if len(y) >= 2 else 0
+    flecha = '↑' if cambio > 0 else '↓'
+
+    f = go.Figure()
+    f.add_trace(go.Scatter(x=x, y=y, fill='tozeroy',
+        fillcolor=hex_to_rgba(color, 0.18), line=dict(color=color, width=0),
+        hoverinfo='none', showlegend=False))
+    f.add_trace(go.Scatter(x=x, y=y, mode='lines+markers',
+        line=dict(color=color, width=2.5), marker=dict(size=7, color=color),
+        name=label,
+        hovertemplate=f'<b>{label}</b><br>Año: %{{x}}<br>Valor: %{{y:.2f}} {unit}<extra></extra>'))
+    if len(x) >= 3:
+        z = np.polyfit(x, y, 1); y_trend = np.poly1d(z)(x)
+        f.add_trace(go.Scatter(x=x, y=y_trend, mode='lines',
+            line=dict(color='white', width=1.5, dash='dash'),
+            name=f'Tendencia {flecha} {abs(z[0]):.2f}/año', hoverinfo='skip'))
+    f.add_annotation(x=0.02, y=0.97, xref='paper', yref='paper',
+        text=f'<b>Último: {ultimo}</b>  {flecha} {abs(cambio):.1f} vs inicio',
+        font=dict(color=color, size=13), showarrow=False,
+        align='left', bgcolor='rgba(13,17,23,0.7)', bordercolor=color, borderwidth=1)
+    f.update_layout(
+        **DARK_LAYOUT, height=560,
+        xaxis=dict(title='Año', gridcolor='#21262D', zerolinecolor='#30363D'),
+        yaxis=dict(title=unit, gridcolor='#21262D', zerolinecolor='#30363D'),
+        legend=dict(bgcolor='#161B22', bordercolor='#30363D', font=dict(color='white')),
+        hovermode='x unified', margin=dict(t=30, b=40, l=60, r=20),
+    )
+    return f
+
+# Dict por ID para referenciar de forma explícita en el tabset
+figs_salud = {k: make_ind_fig(k, v[0], v[1]) for k, v in focus_disp.items()}
+
+# ── ACTO 3: Heatmap trilema + barras pares (figuras independientes) ───────────
+matrix = pd.DataFrame(np.nan, index=range(1, 18), columns=range(1, 18))
+arr = matrix.to_numpy(copy=True); np.fill_diagonal(arr, 0)
+matrix = pd.DataFrame(arr, index=range(1, 18), columns=range(1, 18))
+for _, row in pares_ods.iterrows():
+    try: pair = ast.literal_eval(row['ods_pair'])
+    except: continue
+    a, b = pair; val = row['corr_promedio']
+    matrix.loc[a, b] = val; matrix.loc[b, a] = val
+
+labels_ods = [f'ODS {i}' for i in range(1, 18)]
+hover_matrix = []
+for i in range(1, 18):
+    rh = []
+    for j in range(1, 18):
+        val = matrix.loc[i, j]
+        if np.isnan(val): rh.append(f'ODS {i} ↔ ODS {j}<br>Sin datos suficientes')
+        elif i == j: rh.append(f'ODS {i}: {ODS_NAMES[i]}')
+        else:
+            tipo = 'Sinergia' if val > 0 else 'Trade-off'
+            rh.append(f'ODS {i}: {ODS_NAMES[i]}<br>ODS {j}: {ODS_NAMES[j]}<br>Correlación: {val:.3f}<br>Tipo: {tipo}')
+    hover_matrix.append(rh)
+
+z_lower = matrix.values.copy().astype(float)
+for i in range(17):
+    for j in range(i+1, 17): z_lower[i, j] = np.nan
+
+cross = pares_ods[pares_ods['ODS_A'] != pares_ods['ODS_B']].copy()
+cross = cross.sort_values('n_correlaciones', ascending=True).tail(12)
+pair_labels = [f"{r['ODS_A'].replace('ODS ','').split('(')[0].strip()} ↔ {r['ODS_B'].replace('ODS ','').split('(')[0].strip()}"
+               for _, r in cross.iterrows()]
+
+shapes_trilema = []
+for ods_a, ods_b in [(3,8),(6,8),(3,6)]:
+    for (r, c) in [(ods_a-1, ods_b-1),(ods_b-1, ods_a-1)]:
+        if r > c:
+            shapes_trilema.append(dict(type='rect', xref='x', yref='y',
+                x0=c-0.5, x1=c+0.5, y0=r-0.5, y1=r+0.5,
+                line=dict(color='white', width=2.5), fillcolor='rgba(0,0,0,0)'))
+
+# Figura 1: Heatmap de correlaciones
+fig_heatmap = go.Figure()
+fig_heatmap.add_trace(go.Heatmap(
+    z=z_lower, x=labels_ods, y=labels_ods,
+    colorscale=[[0.0,'#D62728'],[0.4,'#8B1A1A'],[0.5,'#21262D'],[0.6,'#1A4A1A'],[1.0,'#2CA02C']],
+    zmid=0, zmin=-0.5, zmax=0.5,
+    text=[[f'{v:.2f}' if not np.isnan(v) else '' for v in r] for r in z_lower],
+    texttemplate='%{text}', textfont=dict(size=7),
+    customdata=hover_matrix, hovertemplate='%{customdata}<extra></extra>',
+    colorbar=dict(title=dict(text='Corr. Spearman', font=dict(color='white')), tickfont=dict(color='white')),
+))
+fig_heatmap.update_layout(
+    title=dict(text='Correlaciones promedio entre ODS (|r| ≥ 0.7)<br><sup>□ = Trilema Trabajo ↔ Agua ↔ Salud identificado · Rojo = trade-off · Verde = sinergia</sup>',
+               font=dict(size=15, color='white')),
+    **DARK_LAYOUT, height=600, shapes=shapes_trilema,
+    xaxis=dict(gridcolor='#21262D', tickfont=dict(color='#8B949E')),
+    yaxis=dict(gridcolor='#21262D', tickfont=dict(color='#8B949E')),
+    margin=dict(t=80, b=40, l=80, r=20),
+)
+
+# Figura 2: Pares ODS más interconectados
+fig_pares = go.Figure()
+fig_pares.add_trace(go.Bar(
+    x=cross['n_correlaciones'].tolist(), y=pair_labels, orientation='h',
+    marker_color=['#FF6B6B' if r < -0.02 else '#4ECDC4' for r in cross['corr_promedio']],
+    marker_line_color='#30363D', marker_line_width=0.5,
+    customdata=[f"<b>{r['ODS_A']} ↔ {r['ODS_B']}</b><br>Correlaciones altas: {r['n_correlaciones']}<br>Corr. promedio: {r['corr_promedio']:.3f}<br>{'🔴 Trade-off' if r['corr_promedio'] < -0.02 else '🟢 Sinergia'}"
+                for _, r in cross.iterrows()],
+    hovertemplate='%{customdata}<extra></extra>',
+))
+fig_pares.update_layout(
+    title=dict(text='Pares de ODS más interconectados<br><sup>Número de indicadores con correlación alta (|r| ≥ 0.7)</sup>',
+               font=dict(size=15, color='white')),
+    **DARK_LAYOUT, height=600, showlegend=False,
+    xaxis=dict(title='Número de correlaciones altas', gridcolor='#21262D', tickfont=dict(color='#8B949E')),
+    yaxis=dict(gridcolor='#21262D', tickfont=dict(color='#8B949E'), automargin=True),
+    margin=dict(t=80, b=40, l=20, r=20),
+)
+
+# ── ACTO 4: Cobertura de datos por ODS (figuras independientes) ──────────────
+cob = meta.groupby('ods_number').agg(
+    total=('indicator_id','count'), cargados=('loaded','sum'), obs_promedio=('n_observations','mean')
+).reset_index()
+cob['pct_cargados'] = cob['cargados'] / cob['total'] * 100
+cob['color'] = cob['ods_number'].map(ODS_COLORS)
+cob['label'] = cob['ods_number'].apply(lambda n: f'ODS {int(n)}: {ODS_NAMES[int(n)][:22]}')
+
+sorted_pct = cob.sort_values('pct_cargados')
+sorted_obs = cob.sort_values('obs_promedio')
+
+# Figura 1: % de indicadores con datos
+fig_pct = go.Figure()
+fig_pct.add_trace(go.Bar(
+    x=sorted_pct['pct_cargados'].tolist(), y=sorted_pct['label'].tolist(), orientation='h',
+    marker_color=sorted_pct['color'].tolist(), marker_line_color='#30363D', marker_line_width=0.5,
+    customdata=[f"<b>{r['label']}</b><br>Con datos: {int(r['cargados'])}/{int(r['total'])}<br>Cobertura: {r['pct_cargados']:.1f}%"
+                for _, r in sorted_pct.iterrows()],
+    hovertemplate='%{customdata}<extra></extra>',
+))
+fig_pct.add_vline(x=75, line_dash='dot', line_color='#FF6B6B', line_width=1.5, opacity=0.6)
+fig_pct.add_annotation(x=75, y=1.03, xref='x', yref='paper',
+    text='Alerta 75%', font=dict(color='#FF6B6B', size=10), showarrow=False)
+fig_pct.update_layout(
+    title=dict(text='% de indicadores ODS con datos disponibles', font=dict(size=15, color='white')),
+    **DARK_LAYOUT, height=600, showlegend=False,
+    xaxis=dict(title='% con datos', gridcolor='#21262D', tickfont=dict(color='#8B949E')),
+    yaxis=dict(gridcolor='#21262D', tickfont=dict(color='#8B949E'), automargin=True),
+    margin=dict(t=80, b=40, l=20, r=20),
+)
+
+# Figura 2: Profundidad temporal promedio
+urgency_colors = ['#FF6B6B' if v < 8 else '#FF9F43' if v < 15 else '#4ECDC4'
+                  for v in sorted_obs['obs_promedio']]
+fig_obs = go.Figure()
+fig_obs.add_trace(go.Bar(
+    x=sorted_obs['obs_promedio'].tolist(), y=sorted_obs['label'].tolist(), orientation='h',
+    marker_color=urgency_colors, marker_line_color='#30363D', marker_line_width=0.5,
+    customdata=[f"<b>{r['label']}</b><br>Promedio: {r['obs_promedio']:.1f} años<br>"
+                + ('🔴 Crítico (< 8 obs)' if r['obs_promedio']<8 else '🟠 Insuficiente (< 15 obs)' if r['obs_promedio']<15 else '🟢 Aceptable')
+                for _, r in sorted_obs.iterrows()],
+    hovertemplate='%{customdata}<extra></extra>',
+))
+for xv, lcolor, lbl in [(8,'#FF6B6B','Mín. (8)'),(15,'#FF9F43','Rec. (15)')]:
+    fig_obs.add_vline(x=xv, line_dash='dot', line_color=lcolor, line_width=1.5, opacity=0.7)
+    fig_obs.add_annotation(x=xv, y=1.03, xref='x', yref='paper',
+        text=lbl, font=dict(color=lcolor, size=10), showarrow=False)
+fig_obs.update_layout(
+    title=dict(text='Profundidad temporal promedio por ODS (años con dato)', font=dict(size=15, color='white')),
+    **DARK_LAYOUT, height=600, showlegend=False,
+    xaxis=dict(title='Años con dato (promedio)', gridcolor='#21262D', tickfont=dict(color='#8B949E')),
+    yaxis=dict(gridcolor='#21262D', tickfont=dict(color='#8B949E'), automargin=True),
+    margin=dict(t=80, b=40, l=20, r=20),
+)
+
+# ── ACTO 5: Bubble chart ODS huérfanos ───────────────────────────────────────
+obs_reales = largo.groupby('ods_number').agg(
+    total_obs=('valor','count'), n_indicadores_con_dato=('indicator_id','nunique')
+).reset_index()
+bubble = cob.merge(obs_reales, on='ods_number', how='left').fillna(0)
+bubble['urgencia'] = (100 - bubble['pct_cargados']) * 0.5 + (20 - bubble['obs_promedio'].clip(0,20)) * 2.5
+bubble['ods_n'] = bubble['ods_number'].astype(int)
+
+fig_bubble = go.Figure()
+fig_bubble.add_trace(go.Scatter(
+    x=bubble['pct_cargados'].tolist(), y=bubble['obs_promedio'].tolist(),
+    mode='markers+text',
+    marker=dict(size=[t*4.5 for t in bubble['total'].tolist()], sizemode='diameter',
+                color=bubble['color'].tolist(), line=dict(width=1.5, color='white'), opacity=0.82),
+    text=[f'ODS {n}' for n in bubble['ods_n'].tolist()],
+    textposition='middle center', textfont=dict(size=12, color='white', family='Arial Black'),
+    customdata=[f"<b>ODS {int(r['ods_number'])}: {ODS_NAMES[int(r['ods_number'])]}</b><br>"
+                f"Indicadores: {int(r['total'])} | Con datos: {int(r['cargados'])} ({r['pct_cargados']:.0f}%)<br>"
+                f"Obs. prom: {r['obs_promedio']:.1f} | Score urgencia: {r['urgencia']:.1f}"
+                for _, r in bubble.iterrows()],
+    hovertemplate='%{customdata}<extra></extra>', name='ODS',
+))
+
+med_x, med_y = bubble['pct_cargados'].median(), bubble['obs_promedio'].median()
+fig_bubble.add_vline(x=med_x, line_dash='dash', line_color='#30363D', line_width=1.5)
+fig_bubble.add_hline(y=med_y, line_dash='dash', line_color='#30363D', line_width=1.5)
+fig_bubble.add_shape(type='rect', x0=40, x1=med_x, y0=0, y1=med_y,
+    fillcolor='rgba(255,107,107,0.07)', line_width=0)
+fig_bubble.add_annotation(x=(40+med_x)/2, y=med_y/2,
+    text='ZONA CRÍTICA<br>Poco monitoreo', font=dict(color='#FF6B6B', size=14), showarrow=False, opacity=0.75)
+
+
+fig_bubble.update_layout(
+    title=dict(text='¿Qué tan bien monitoreamos cada ODS?<br><sup>Tamaño = número total de indicadores del ODS</sup>',
+               font=dict(size=20, color='white')),
+    xaxis=dict(title='% de indicadores con al menos 1 observación', gridcolor='#21262D', range=[38, 107]),
+    yaxis=dict(title='Profundidad temporal promedio (años con dato)', gridcolor='#21262D'),
+    **DARK_LAYOUT, height=600, showlegend=False,
+)
+
+# ── ACTO 6: Resumen ejecutivo ─────────────────────────────────────────────────
+pct_cobertura_global = meta['loaded'].sum() / meta.shape[0] * 100
+n_pares_negativos    = corr_altas[corr_altas['correlation'] < -0.7].shape[0]
+obs_min_ods          = bubble.sort_values('obs_promedio').iloc[0]
+max_corr_par         = pares_ods[pares_ods['ODS_A'] != pares_ods['ODS_B']]['n_correlaciones'].max()
+
+cards = [
+    dict(value='−20 pts', unit='porcentuales', title='Cobertura de vacunación',
+         sub='ODS 3 · Caída 2015–2025', color='#FF6B6B', arrow='↓'),
+    dict(value=f'{pct_cobertura_global:.0f}%', unit='de indicadores', title='Tienen datos disponibles',
+         sub='292 de 333 indicadores ODS', color='#FF9F43', arrow=None),
+    dict(value=f'{n_pares_negativos:,}', unit='pares de indicadores', title='Con trade-off negativo',
+         sub='|r| ≥ 0.7, correlación inversa', color='#EE5A24', arrow='⚠'),
+    dict(value=f'{obs_min_ods["obs_promedio"]:.1f}', unit='años con dato (prom.)',
+         title=f'ODS {int(obs_min_ods.ods_number)}: {ODS_NAMES[int(obs_min_ods.ods_number)][:20]}',
+         sub='El ODS menos monitoreado', color='#DD1367', arrow=None),
+    dict(value=f'{int(max_corr_par)}', unit='correlaciones altas', title='Par ODS más conectado',
+         sub='ODS 3 (Salud) ↔ ODS 8 (Trabajo)', color='#26BDE2', arrow=None),
+    dict(value='2030', unit='', title='← Faltan 4 años',
+         sub='México firmó los ODS en 2015', color='#4C9F38', arrow=None),
+]
+
+fig_cards = make_subplots(rows=2, cols=3, subplot_titles=[c['title'] for c in cards],
+    vertical_spacing=0.18, horizontal_spacing=0.08)
+positions = [(1,1),(1,2),(1,3),(2,1),(2,2),(2,3)]
+for (r, c), card in zip(positions, cards):
+    fig_cards.add_trace(go.Scatter(x=[0], y=[0], mode='markers',
+        marker=dict(size=1, color='rgba(0,0,0,0)'), showlegend=False, hoverinfo='none'), row=r, col=c)
+    col_idx, row_idx = c-1, r-1
+    xc = (col_idx * 0.38) + 0.14; yc = 1.0 - (row_idx * 0.52) - 0.16
+    if card['arrow']:
+        fig_cards.add_annotation(xref='paper', yref='paper', x=xc, y=yc+0.10,
+            text=card['arrow'], font=dict(size=36, color=card['color'], family='Arial Black'), showarrow=False)
+    fig_cards.add_annotation(xref='paper', yref='paper', x=xc, y=yc,
+        text=f"<b>{card['value']}</b>", font=dict(size=34, color=card['color'], family='Arial Black'), showarrow=False)
+    fig_cards.add_annotation(xref='paper', yref='paper', x=xc, y=yc-0.07,
+        text=card['unit'], font=dict(size=24, color='#8B949E'), showarrow=False)
+    fig_cards.add_annotation(xref='paper', yref='paper', x=xc, y=yc-0.13,
+        text=f"<i>{card['sub']}</i>", font=dict(size=20, color='#8B949E'), showarrow=False)
+
+domain_x = [(0.0,0.30),(0.35,0.65),(0.70,1.0)]; domain_y = [(0.52,1.0),(0.0,0.48)]
+shapes_cards = []
+for idx, card in enumerate(cards):
+    r_i, c_i = divmod(idx, 3)
+    x0, x1 = domain_x[c_i]; y0, y1 = domain_y[r_i]
+    shapes_cards.append(dict(type='rect', xref='paper', yref='paper',
+        x0=x0+0.005, x1=x1-0.005, y0=y0+0.01, y1=y1-0.01,
+        line=dict(color=card['color'], width=2.5), fillcolor='#161B22'))
+
+fig_cards.update_layout(
+    title=dict(text='México y los ODS 2026 — Los Números que Importan', font=dict(size=18, color='white')),
+    **DARK_LAYOUT, height=600, shapes=shapes_cards, showlegend=False,
+)
+fig_cards.update_xaxes(showgrid=False, showticklabels=False, zeroline=False)
+fig_cards.update_yaxes(showgrid=False, showticklabels=False, zeroline=False)
+```
+
+## Row
+
+### ACTO 1 · El sistema interconectado {width="50%"}
+
+Cada nodo es un ODS. El grosor de cada arista indica cuántos indicadores tienen correlación alta (|r| ≥ 0.7). Las aristas en <span style="color:#FF6B6B;font-weight:700">rojo</span> son **trade-offs**; las <span style="color:#4ECDC4;font-weight:700">verdes-azules</span> son **sinergias**. Los ODS más conectados arrastran al resto cuando fallan.
+
+### ACTO 2 · El colapso de la salud pública {width="50%"}
+
+La cobertura de vacunación cayó **20 puntos porcentuales** en una década. Las enfermedades vectoriales (dengue, malaria, zika) crecen año con año. ODS 3 es el nodo más conectado del grafo — y está fallando.
+
+## Row {height="620px"}
+
+### Red de Interdependencias ODS {width="50%"}
+
+```{python}
+fig_red.show()
+```
+
+### ODS 3 — Indicadores de Salud {.tabset width="50%"}
+
+```{python}
+#| title: "Cobertura vacunación"
+figs_salud['3.b.1'].show() if '3.b.1' in figs_salud else None
+```
+
+```{python}
+#| title: "Enfermedades vectoriales"
+figs_salud['3.3.3'].show() if '3.3.3' in figs_salud else None
+```
+
+```{python}
+#| title: "Mortalidad cardiovascular"
+figs_salud['3.4.1'].show() if '3.4.1' in figs_salud else None
+```
+
+```{python}
+#| title: "Partos con asistencia médica"
+figs_salud['3.1.2'].show() if '3.1.2' in figs_salud else None
+```
+
+## Row
+
+### ACTO 3 · El trilema: Trabajo ↔ Agua ↔ Salud {width="50%"}
+
+El análisis de correlaciones revela una tensión estructural: conforme mejoran los indicadores de **empleo (ODS 8)**, los de **agua limpia (ODS 6)** y **salud (ODS 3)** tienden a empeorar. Los recuadros blancos marcan el trilema identificado.
+
+### ACTO 4 · La desigualdad que no se mide {width="50%"}
+
+México no puede rendir cuentas sobre objetivos que no monitorea. Pasa el cursor sobre cada barra para ver el número exacto de indicadores. Las líneas rojas marcan umbrales críticos de cobertura.
+
+## Row {height="620px"}
+
+### El Trilema del Desarrollo {.tabset width="50%"}
+
+```{python}
+#| title: "Heatmap de correlaciones"
+fig_heatmap.show()
+```
+
+```{python}
+#| title: "Pares más interconectados"
+fig_pares.show()
+```
+
+### Cobertura de Monitoreo por ODS {.tabset width="50%"}
+
+```{python}
+#| title: "% con datos disponibles"
+fig_pct.show()
+```
+
+```{python}
+#| title: "Profundidad temporal"
+fig_obs.show()
+```
+
+## Row
+
+### ACTO 5 · Los ODS huérfanos
+
+Cada burbuja es un ODS. Su tamaño representa cuántos indicadores tiene; su posición, cuántos datos reales tiene. Los ODS en la **zona crítica** (abajo a la izquierda) son los menos monitoreados y los más urgentes.
+
+## Row {height="600px"}
+
+### ¿Qué tan bien monitoreamos cada ODS en México?
+
+```{python}
+fig_bubble.show()
+```
+
+## Row
+
+### ACTO 6 · Resumen ejecutivo — Los números que México necesita enfrentar
+
+> *"No es falta de datos. Es una decisión de qué queremos ver. 2030 no es una fecha lejana. Es el próximo sexenio."*
+
+## Row {height="600px"}
+
+### México y los ODS 2026 — Los Números que Importan
+
+```{python}
+fig_cards.show()
+```
