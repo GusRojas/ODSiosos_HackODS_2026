@@ -30,7 +30,7 @@ Preocupados y ODSiosos por la creciente complejidad de los desafíos sociales y 
 <p align="right"> ODSiosos 
   <br> Metztli Donaji Pablo Aparicio 
   <br>Gustavo Mandujano Rojas 
-  <br>Rubén Oropeza Sánchez <br>Ingeniero bioquímico por el TeNM <br> M. en C. en Genética y Biología Molecular por el CINVESTAV
+  <br>Rubén Oropeza Sánchez <br> Estudiante de doctorado en Genética y Biología Molecular por el CINVESTAV
 </p>
 
 
