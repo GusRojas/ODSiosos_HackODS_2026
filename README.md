@@ -27,7 +27,7 @@ El propósito es comprender las interrelaciones existentes entre distintas probl
 Preocupados y ODSiosos por la creciente complejidad de los desafíos sociales y su impacto en la calidad de vida de la población, este proyecto busca aportar una perspectiva basada en datos que permita comprender mejor la interrelación entre distintos factores asociados a los ODS. A través de un enfoque analítico y visual, se pretende no solo evidenciar problemáticas, sino también contribuir a la reflexión y al desarrollo de estrategias que favorezcan un futuro más equitativo y sostenible.
 
 <br>
-<p align="right">ODSiosos 
+<p align="right"> ODSiosos 
   <br> Metztli Donaji Pablo Aparicio 
   <br>Gustavo Mandujano Rojas 
   <br>Rubén Oropeza Sánchez <br>Ingeniero bioquímico por el TeNM <br> M. en C. en Genética y Biología Molecular por el CINVESTAV
