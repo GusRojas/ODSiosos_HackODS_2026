@@ -14,7 +14,6 @@ como la pobreza, la desigualdad, el clima, la degradación ambiental, la prosper
 Para no dejar a nadie atrás, es importante que logremos cumplir con cada uno de estos objetivos para 2030 (ONU, 2026).
 
 <br>
-<br>
 
 ## Descripción del proyecto
 
@@ -24,8 +23,11 @@ A través del uso de técnicas de análisis de datos, como el cálculo de correl
 
 El proyecto integra procesamiento de datos, análisis en Jupyter Notebook y desarrollo de un dashboard, con el fin de generar herramientas que permitan comprender mejor los desafíos asociados a los ODS.
 
+<br>
 
+## Análisis de los ODS
 
+Este proyecto parte de un enfoque integral en el que se analizan de manera global todos los ODS, con el propósito de comprender las interrelaciones existentes entre distintas problemáticas a nivel social, económico y ambiental. A partir de este análisis general, se identificaron patrones y vínculos relevantes entre indicadores, lo que permitió focalizar el estudio en áreas específicas de mayor impacto. En particular, se profundiza en los ODS relacionados con la salud y la pobreza, debido a su alta relevancia en el contexto actual y a su estrecha conexión con otras dimensiones del desarrollo sostenible, lo que los convierte en ejes clave para la interpretación y construcción de la narrativa del proyecto.
 
 
 
