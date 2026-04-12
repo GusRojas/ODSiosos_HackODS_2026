@@ -1,4 +1,5 @@
-# Agenda 2030-ONU
+# México y los Objetivos de Desarrollo Sostenible: una deuda sistémica
+
 
 <p align="left">
   <img src="assets/ods.png" width="45%">
@@ -15,14 +16,27 @@ Para no dejar a nadie atrás, es importante que logremos cumplir con cada uno de
 
 <br>
 
-## Descripción del proyecto
-Este proyecto tiene como objetivo analizar datos relacionados con los Objetivos de Desarrollo Sostenible (ODS) para identificar relaciones relevantes entre distintos indicadores y problemáticas en México. A través del uso de técnicas de análisis de datos, como el cálculo de correlaciones entre indicadores, se busca explorar cómo diferentes dimensiones sociales, económicas y ambientales se interrelacionan. Los resultados se presentan mediante visualizaciones y un tablero interactivo que facilita la interpretación de los datos y apoya la construcción de una narrativa basada en evidencia. El proyecto integra procesamiento de datos, análisis en Jupyter Notebook y desarrollo de un dashboard, con el fin de generar herramientas que permitan comprender mejor los desafíos asociados a los ODS.
+## Objetivos de Desarrollo Sostenible y realidad mexicana: un análisis desde la evidencia
+Este proyecto tuvo como objetivo analizar datos relacionados con los Objetivos de Desarrollo Sostenible (ODS) para identificar relaciones relevantes entre distintos indicadores y problemáticas en México. A través del uso de técnicas de análisis de datos, como el cálculo de correlaciones entre indicadores, se busca explorar cómo diferentes dimensiones sociales, económicas y ambientales se interrelacionan. El proyecto integra procesamiento de datos, análisis en Jupyter Notebook y desarrollo de un dashboard, con el fin de generar herramientas que permitan comprender mejor los desafíos asociados a los ODS.
+
+El propósito es comprender las interrelaciones existentes entre distintas problemáticas a nivel social, económico y ambiental. A partir de este análisis general, se identificaron patrones y vínculos relevantes entre indicadores, lo que permitió focalizar el estudio en áreas específicas de mayor impacto. En particular, se profundiza en los ODS relacionados con la salud y la pobreza, debido a su alta relevancia en el contexto actual y a su estrecha conexión con otras dimensiones del desarrollo sostenible, lo que los convierte en ejes clave para la interpretación y construcción de la narrativa del proyecto.
 
 <br>
 
-## Análisis de los ODS
+## Conocenos
+Preocupados y ODSiosos por la creciente complejidad de los desafíos sociales y su impacto en la calidad de vida de la población, este proyecto busca aportar una perspectiva basada en datos que permita comprender mejor la interrelación entre distintos factores asociados a los ODS. A través de un enfoque analítico y visual, se pretende no solo evidenciar problemáticas, sino también contribuir a la reflexión y al desarrollo de estrategias que favorezcan un futuro más equitativo y sostenible.
 
-Este proyecto parte de un enfoque integral en el que se analizan de manera global todos los ODS, con el propósito de comprender las interrelaciones existentes entre distintas problemáticas a nivel social, económico y ambiental. A partir de este análisis general, se identificaron patrones y vínculos relevantes entre indicadores, lo que permitió focalizar el estudio en áreas específicas de mayor impacto. En particular, se profundiza en los ODS relacionados con la salud y la pobreza, debido a su alta relevancia en el contexto actual y a su estrecha conexión con otras dimensiones del desarrollo sostenible, lo que los convierte en ejes clave para la interpretación y construcción de la narrativa del proyecto.
+<br>
+<p align="right">ODSiosos 
+  <br> Metztli Donaji Pablo Aparicio 
+  <br>Gustavo Mandujano Rojas 
+  <br>Rubén Oropeza Sánchez <br>Ingeniero bioquímico por el TeNM <br> M. en C. en Genética y Biología Molecular por el CINVESTAV
+</p>
+
+
+
+
+
 
 
 
