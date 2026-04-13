@@ -10,89 +10,14 @@ format:
       dark: darkly
     scrolling: false
     logo: ""
+    css: 
+        - style.css
 execute:
   echo: false
   warning: false
   message: false
   freeze: true
 ---
-
-```{=html}
-<style>
-/* ── Problem color cards ─────────────────────────────── */
-.p1-card { background: linear-gradient(135deg, #c62828, #e53935); }
-.p2-card { background: linear-gradient(135deg, #1565c0, #1976d2); }
-.p3-card { background: linear-gradient(135deg, #4527a0, #5e35b1); }
-.p4-card { background: linear-gradient(135deg, #e65100, #ef6c00); }
-.p5-card { background: linear-gradient(135deg, #00695c, #00897b); }
-
-.prob-tile {
-  color: white;
-  padding: 1.4rem 1.2rem;
-  border-radius: 10px;
-  height: 100%;
-  display: flex;
-  flex-direction: column;
-  gap: 0.4rem;
-}
-.prob-tile .pt-num   { font-size: 2rem; font-weight: 800; opacity: 0.55; line-height: 1; }
-.prob-tile .pt-title { font-size: 1rem; font-weight: 700; line-height: 1.25; }
-.prob-tile .pt-ods   { font-size: 0.75rem; opacity: 0.82; }
-.prob-tile .pt-kpi   { font-size: 2rem; font-weight: 800; margin-top: auto; }
-.prob-tile .pt-desc  { font-size: 0.78rem; opacity: 0.88; }
-
-/* ── Connection table ───────────────────────────────── */
-.conn-table { width: 100%; border-collapse: collapse; font-size: 0.85rem; }
-.conn-table thead tr { background: #1565c0; color: white; }
-.conn-table th, .conn-table td { padding: 0.45rem 0.7rem; border-bottom: 1px solid #dee2e6; }
-.conn-table tbody tr:nth-child(odd) { background: #f8f9fa; }
-
-/* ── Hilo connector ─────────────────────────────────── */
-.hilo-box {
-  background: #e3f2fd;
-  border-left: 4px solid #1565c0;
-  border-radius: 0 8px 8px 0;
-  padding: 0.9rem 1.2rem;
-  font-style: italic;
-  color: #1a237e;
-  font-size: 0.9rem;
-}
-
-/* ── Section header ─────────────────────────────────── */
-.section-hero {
-  display: flex;
-  align-items: center;
-  gap: 1rem;
-  padding: 1rem 1.5rem;
-  border-radius: 8px;
-  color: white;
-}
-.section-hero .sh-num   { font-size: 2.5rem; font-weight: 800; opacity: 0.55; }
-.section-hero .sh-title { font-size: 1.3rem; font-weight: 700; }
-.section-hero .sh-ods   { font-size: 0.85rem; opacity: 0.85; }
-
-blockquote {
-  border-left: 4px solid #90caf9;
-  padding-left: 1rem;
-  font-style: italic;
-  color: #546e7a;
-  margin: 0.5rem 0;
-}
-
-.navbar {
-  background-color: #009EDB !important;
-}
-
-.navbar a {
-  color: white !important;
-}
-
-.navbar-nav .nav-link {
-  font-size: 0.75rem !important;
-}
-
-</style>
-```
 
 ```{python}
 #| output: false
@@ -172,7 +97,7 @@ def _add_source(fig, extra='', y=-0.10):
 #| title: "Indicadores ODS analizados"
 #| icon: "bar-chart-fill"
 #| color: "primary"
-"333"
+333
 ```
 
 ```{python}
@@ -569,7 +494,7 @@ Cada nodo es un ODS. El grosor de cada arista indica cuántos indicadores tienen
 
 ### ACTO 2 · El colapso de la salud pública {width="50%"}
 
-La cobertura de vacunación cayó **20 puntos porcentuales** en una década. Las enfermedades vectoriales (dengue, malaria, zika) crecen año con año. ODS 3 es el nodo más conectado del grafo — y está fallando.
+<p align="justify">La cobertura de vacunación cayó **20 puntos porcentuales** en una década. Las enfermedades vectoriales (dengue, malaria, zika) crecen año con año. ODS 3 es el nodo más conectado del grafo — y está fallando.</p>
 
 ## Row {height="620px"}
 
