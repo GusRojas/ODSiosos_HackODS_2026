@@ -78,6 +78,19 @@ blockquote {
   color: #546e7a;
   margin: 0.5rem 0;
 }
+
+.navbar {
+  background-color: #009EDB !important;
+}
+
+.navbar a {
+  color: white !important;
+}
+
+.navbar-nav .nav-link {
+  font-size: 0.75rem !important;
+}
+
 </style>
 ```
 
@@ -142,6 +155,15 @@ def _add_source(fig, extra='', y=-0.10):
 ```
 
 # Panorama {data-icon="house-fill"}
+## Row {height="50%"}
+
+### Agenda 2030 en México {width="50%"}
+<img src="agenda2030.png" style="width:80%; display:block; margin:auto; border-radius:10px;">
+
+### Video explicativo {width="50%"}
+<a href="https://www.youtube.com/watch?v=MCKH5xk8X-g" target="_blank">
+  <img src="https://img.youtube.com/vi/MCKH5xk8X-g/maxresdefault.jpg" style="width:100%; height:100%; object-fit:cover; border-radius:10px;">
+</a>
 
 ## Row {height="20%"}
 
@@ -175,95 +197,6 @@ def _add_source(fig, extra='', y=-0.10):
 #| icon: "diagram-3-fill"
 #| color: "warning"
 "5"
-```
-
-## Row {height="35%"}
-
-### Contexto {width="40%"}
-
-Los **333 indicadores ODS de México** (INEGI, 1970–2026) revelan cinco problemáticas interconectadas que no pueden entenderse por separado: cada una alimenta a las demás en un ciclo que el dato aislado no logra mostrar.
-
-> *"El sistema no colapsó de golpe. Colapsó en silencio, indicador por indicador, año tras año."*
-
-Navega por las pestañas para explorar cada problemática en detalle.
-
-### Tabla de conexiones {width="60%"}
-
-```{=html}
-<table class="conn-table">
-  <thead>
-    <tr><th>#</th><th>Problemática</th><th>ODS</th><th>Mecanismo de contagio</th></tr>
-  </thead>
-  <tbody>
-    <tr><td><strong>01</strong></td><td>Colapso sanitario</td><td>ODS 3</td><td>Retracción presupuestal + epidemiología ambiental</td></tr>
-    <tr><td><strong>02</strong></td><td>Trilema consumo-agua-salud</td><td>ODS 6, 8, 12</td><td>Crecimiento que destruye recursos vitales</td></tr>
-    <tr><td><strong>03</strong></td><td>Desigualdad no medida</td><td>ODS 10, 1, 5</td><td>Sistema estadístico que invisibiliza brechas</td></tr>
-    <tr><td><strong>04</strong></td><td>Rezago educativo-institucional</td><td>ODS 4, 16</td><td>Violencia y corrupción como techos estructurales</td></tr>
-    <tr><td><strong>05</strong></td><td>Vacío de monitoreo</td><td>ODS 2, 14</td><td>Decisiones políticas sobre qué registrar</td></tr>
-  </tbody>
-</table>
-```
-
-## Row {height="60%"}
-
-### Problema 1 {width="20%"}
-
-```{=html}
-<div class="prob-tile p1-card">
-  <div class="pt-num">01</div>
-  <div class="pt-title">El Colapso Silencioso de la Salud Pública</div>
-  <div class="pt-ods">ODS 3 · Salud y Bienestar</div>
-  <div class="pt-kpi">76.5%</div>
-  <div class="pt-desc">cobertura vacunal 2024, por debajo del umbral OMS del 95%</div>
-</div>
-```
-
-### Problema 2 {width="20%"}
-
-```{=html}
-<div class="prob-tile p2-card">
-  <div class="pt-num">02</div>
-  <div class="pt-title">La Trampa Trabajo-Agua-Salud</div>
-  <div class="pt-ods">ODS 6 · ODS 8 · ODS 12</div>
-  <div class="pt-kpi">r = −1.0</div>
-  <div class="pt-desc">correlación perfectamente inversa entre consumo material y agua potable</div>
-</div>
-```
-
-### Problema 3 {width="20%"}
-
-```{=html}
-<div class="prob-tile p3-card">
-  <div class="pt-num">03</div>
-  <div class="pt-title">La Desigualdad que no se Mide</div>
-  <div class="pt-ods">ODS 10 · ODS 1 · ODS 5</div>
-  <div class="pt-kpi">3.6 obs</div>
-  <div class="pt-desc">promedio por indicador de género — estadísticamente inútil</div>
-</div>
-```
-
-### Problema 4 {width="20%"}
-
-```{=html}
-<div class="prob-tile p4-card">
-  <div class="pt-num">04</div>
-  <div class="pt-title">El Rezago Educativo como Deuda Sistémica</div>
-  <div class="pt-ods">ODS 4 · ODS 16</div>
-  <div class="pt-kpi">25.4 / 100k</div>
-  <div class="pt-desc">tasa de homicidios — 5× el límite ODS 16 de menos de 5 / 100k</div>
-</div>
-```
-
-### Problema 5 {width="20%"}
-
-```{=html}
-<div class="prob-tile p5-card">
-  <div class="pt-num">05</div>
-  <div class="pt-title">Los ODS que Nadie Monitorea</div>
-  <div class="pt-ods">ODS 2 · ODS 14 · Vacío estadístico</div>
-  <div class="pt-kpi">8 / 17</div>
-  <div class="pt-desc">ODS con cobertura completa de indicadores — solo la mitad</div>
-</div>
 ```
 
 # Todo está conectado {data-icon="diagram-3-fill" scrolling="true"}
