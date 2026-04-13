@@ -8,3 +8,8 @@ wheels/
 
 # Virtual environments
 .venv
+
+.DS_Store
+.ipynb_checkpoints/
+dashboard/index_files/
+*.quarto_ipynb_*
