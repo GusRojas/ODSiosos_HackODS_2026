@@ -79,7 +79,7 @@ def _add_source(fig, extra='', y=-0.10):
     )
 ```
 
-# Panorama {data-icon="house-fill"}
+# Contexto {data-icon="house-fill"}
 ## Row {height="50%"}
 
 ### Agenda 2030 en México {width="50%"}
@@ -102,7 +102,7 @@ def _add_source(fig, extra='', y=-0.10):
 
 ```{python}
 #| content: valuebox
-#| title: "Con datos nacionales"
+#| title: "Información de datos nacionales"
 #| icon: "database-fill"
 #| color: "success"
 "292"
@@ -124,7 +124,7 @@ def _add_source(fig, extra='', y=-0.10):
 "5"
 ```
 
-# Todo está conectado {data-icon="diagram-3-fill" scrolling="true"}
+# Interdependencia {data-icon="diagram-3-fill" scrolling="true"}
 
 ```{python}
 #| label: create-graphs
@@ -490,11 +490,13 @@ _add_source(fig_cards,   'Correlaciones Spearman y metadatos del sistema de 333 
 
 ### ACTO 1 · El sistema interconectado {width="50%"}
 
-Cada nodo es un ODS. El grosor de cada arista indica cuántos indicadores tienen correlación alta (|r| ≥ 0.7). Las aristas en <span style="color:#FF6B6B;font-weight:700">rojo</span> son **trade-offs**; las <span style="color:#4ECDC4;font-weight:700">verdes-azules</span> son **sinergias**. Los ODS más conectados arrastran al resto cuando fallan.
+**Red de interdependencias entre los Objetivos de Desarrollo Sostenible (ODS) en México.**
+La figura representa una red donde cada nodo corresponde a un ODS y cada arista indica la existencia de correlaciones altas (|r| ≥ 0.7) entre sus indicadores asociados. Las aristas en <span style="color:#FF6B6B;font-weight:700">rojo</span> representan **trade-offs**, es decir, relaciones en las que el avance en un objetivo se asocia con retrocesos en otro; mientras que las aristas en <span style="color:#4ECDC4;font-weight:700">verdes-azules</span> indican **sinergias**, donde los progresos son mutuamente reforzados. La estructura de la red permite identificar ODS altamente interconectados que funcionan como nodos sistémicos, cuyos cambios tienen efectos amplificados sobre el conjunto del sistema.
+
 
 ### ACTO 2 · El colapso de la salud pública {width="50%"}
 
-<p align="justify">La cobertura de vacunación cayó **20 puntos porcentuales** en una década. Las enfermedades vectoriales (dengue, malaria, zika) crecen año con año. ODS 3 es el nodo más conectado del grafo — y está fallando.</p>
+<p align="justify"> **Análisis de indicadores críticos del sistema de salud (ODS 3)**. En esta sección se presentan los principales indicadores que reflejan el desempeño reciente del sistema de salud en México. A través de estos gráficos se analizan tendencias clave como la evolución de las enfermedades vectoriales, la mortalidad por enfermedades crónicas y la cobertura de servicios médicos, con el objetivo de identificar señales de deterioro y áreas donde el sistema aún muestra capacidad de respuesta.
 
 ## Row {height="620px"}
 
@@ -566,7 +568,7 @@ fig_obs.show()
 
 ### ACTO 5 · Los ODS huérfanos
 
-Cada burbuja es un ODS. Su tamaño representa cuántos indicadores tiene; su posición, cuántos datos reales tiene. Los ODS en la **zona crítica** (abajo a la izquierda) son los menos monitoreados y los más urgentes.
+La figura representa el nivel de monitoreo y la disponibilidad de datos de los Objetivos de Desarrollo Sostenible en México, cada burbuja corresponde a un ODS; su tamaño indica el número total de indicadores asociados y su posición refleja la disponibilidad de datos y el nivel de seguimiento. Los ODS ubicados en la zona crítica, en la parte inferior izquierda, presentan menor cobertura de información y mayores limitaciones para su monitoreo. En conjunto, la figura permite identificar qué objetivos están mejor medidos y cuáles presentan rezagos, evidenciando desequilibrios en la generación de datos que afectan la capacidad de análisis y toma de decisiones.
 
 ## Row {height="600px"}
 
@@ -590,7 +592,7 @@ fig_bubble.show()
 fig_cards.show()
 ```
 
-# 1. Salud {data-icon="heart-fill" scrolling="true"}
+# Salud {data-icon="heart-fill" scrolling="true"}
 
 ```{python}
 #| label: salud-setup
@@ -757,7 +759,7 @@ fig_inf_s = make_subplots(rows=1, cols=2,
 
 if not vector_s.empty:
     fig_inf_s.add_trace(go.Bar(
-        x=vector_s['periodo'], y=vector_s['valor'], name='Enf. vectoriales',
+        x=vector_s['periodo'], y=vector_s['valor'], name='Enfermedades vectoriales',
         marker_color=[C_ALERTA if v > 100 else C_ACENTO if v > 50 else C_NEUTRO
                       for v in vector_s['valor']],
         marker_line_color='#30363D', marker_line_width=0.5,
@@ -1110,17 +1112,18 @@ _add_source(fig_radar_s,'Indicadores ODS 3 · Puntajes normalizados propios (100
 <div class="section-hero" style="background: linear-gradient(135deg, #c62828, #e53935);">
   <div class="sh-num">01</div>
   <div>
-    <div class="sh-title">El Colapso Silencioso de la Salud Pública</div>
+    <div class="sh-title">El colapso silencioso de la salud pública</div>
     <div class="sh-ods">ODS 3 · Salud y Bienestar — 42 indicadores analizados</div>
   </div>
 </div>
+
 ```
 
 ## Row {height="10%"}
 
 ```{python}
 #| content: valuebox
-#| title: "Vacunación 2024"
+#| title: "Tasa de vacunación 2024"
 #| icon: "shield-fill-x"
 #| color: "danger"
 "76.5% — Meta OMS: ≥95%"
@@ -1128,7 +1131,7 @@ _add_source(fig_radar_s,'Indicadores ODS 3 · Puntajes normalizados propios (100
 
 ```{python}
 #| content: valuebox
-#| title: "Enf. vectoriales"
+#| title: "Enfermedades transmitidas por vectores"
 #| icon: "bug-fill"
 #| color: "danger"
 "+619% desde 2017"
@@ -1136,7 +1139,7 @@ _add_source(fig_radar_s,'Indicadores ODS 3 · Puntajes normalizados propios (100
 
 ```{python}
 #| content: valuebox
-#| title: "Mortalidad crónica"
+#| title: "Mortalidad por enfermedades crónicas"
 #| icon: "heart-pulse-fill"
 #| color: "warning"
 "272.9 /100k hab."
@@ -1154,11 +1157,11 @@ _add_source(fig_radar_s,'Indicadores ODS 3 · Puntajes normalizados propios (100
 
 ### Las 4 Alarmas del ODS 3 {width="50%"}
 
-El sistema de salud pública de México **no colapsó de golpe**. Colapsó en silencio, indicador por indicador, año tras año. Cuatro señales lo demuestran: la vacunación cayó 20 puntos en una década; las enfermedades que creíamos controladas regresaron multiplicadas; la epidemia crónica avanza sin freno; y la salud mental se deteriora invisible.
+El sistema de salud pública en México **no colapsó de golpe**; se deterioró en silencio, indicador tras indicador, año tras año. Cuatro señales lo evidencian: la caída sostenida en la cobertura de vacunación; el repunte de enfermedades que se creían controladas; el avance constante de las enfermedades crónicas; y el deterioro progresivo de la salud mental, muchas veces invisible.
 
 ### El contrapeso — lo que sí mejoró {width="50%"}
 
-La narrativa honesta también muestra los avances. La mortalidad materna cayó **60% desde 1990**. La mortalidad infantil se redujo a menos de la mitad. El personal sanitario creció sostenidamente. Entender dónde funcionó el sistema es tan importante como entender dónde falló.
+La narrativa honesta también reconoce los avances. La mortalidad materna disminuyó *60% desde 1990* y la mortalidad infantil se redujo a menos de la mitad. Además, el personal sanitario ha crecido de forma sostenida. Comprender dónde el sistema funcionó es tan crucial como reconocer dónde falló.
 
 ## Row {height="400px"}
 
@@ -1172,23 +1175,23 @@ fig_kpi_s.show()
 
 ### Alarma 1 · La vacunación que se derrumbó {width="50%"}
 
-En 2015, México alcanzó su **pico histórico**: 96.3% de cobertura vacunal. Era un logro de décadas de política pública. Nueve años después, estamos en 76.5% — **por debajo del umbral mínimo de la OMS** (95%) que garantiza inmunidad de rebaño. No hay una sola causa: recortes presupuestales, pandemia, y pérdida de confianza institucional se combinaron para deshacer décadas de avance.
+En 2015, México alcanzó su **pico histórico**: 96.3% de cobertura vacunal, resultado de décadas de política pública sostenida. Nueve años después, la cobertura disminuyó a 76.5%, situándose **por debajo del umbral mínimo de la OMS** (95%) necesario para garantizar la inmunidad de rebaño. Esta caída no responde a una sola causa, sino a la convergencia de factores como recortes presupuestales, el impacto de la pandemia y una creciente pérdida de confianza institucional, que en conjunto revirtieron avances construidos durante años.
 
 ### Alarma 2 · Las enfermedades que regresaron {width="50%"}
 
-El dengue, el chikungunya, el zika. México los había puesto bajo control. Pero en la última década, **las enfermedades transmitidas por vectores explotaron**: +619% entre 2017 y 2024. Al mismo tiempo, la tuberculosis — que tocó mínimos históricos en 2020 — rebotó un 50% en cuatro años. Dos retrocesos simultáneos que apuntan a un sistema de vigilancia epidemiológica debilitado.
+El dengue, el chikungunya y el zika habían sido contenidos en México. Sin embargo, en la última década, **las enfermedades transmitidas por vectores se dispararon**: un aumento de +619% entre 2017 y 2024. Al mismo tiempo, la tuberculosis, que alcanzó mínimos históricos en 2020, repuntó un 50% en apenas cuatro años. Dos retrocesos simultáneos que evidencian un debilitamiento en el sistema de vigilancia epidemiológica.
 
 ## Row {height="560px"}
 
 ### ODS 3 — Alarmas 1 y 2 {.tabset}
 
 ```{python}
-#| title: "Cobertura de vacunación"
+#| title: "Cobertura de vacunación a través del tiempo"
 fig_vacc_s.show()
 ```
 
 ```{python}
-#| title: "Enfermedades infecciosas"
+#| title: "Enfermedades infecciosas a traves del tiempo"
 fig_inf_s.show()
 ```
 
@@ -1196,11 +1199,11 @@ fig_inf_s.show()
 
 ### Alarma 3 · La epidemia crónica {width="50%"}
 
-Las enfermedades cardiovasculares, el cáncer, la diabetes y las enfermedades respiratorias crónicas matan a **272 personas por cada 100,000 habitantes** — un 22% más que en 1998. El COVID-19 agravó el pico, pero la tendencia ya era preocupante antes. El sobrepeso y la obesidad (39.1% de la población adulta) son el combustible estructural de esta epidemia.
+Las enfermedades cardiovasculares, el cáncer, la diabetes y las enfermedades respiratorias crónicas provocan **272 muertes por cada 100,000 habitantes**, lo que representa un aumento del 22% respecto a 1998. El sobrepeso y la obesidad, presentes en el 39.1% de la población adulta, actúan como el principal factor estructural que impulsa esta tendencia.
 
 ### Alarma 4 · La crisis de salud mental invisible {width="50%"}
 
-La tasa de suicidio en México se **triplicó en 30 años**: de 2.29 por 100,000 habitantes en 1990 a 6.17 en 2020. La tendencia es lineal y sostenida — sin inflexiones — lo que sugiere que no hay política de salud mental con impacto real. Cada crisis económica (1994, 2008) coincide con aceleraciones. El sistema nunca respondió.
+La tasa de suicidio en México se **triplicó en 30 años**, al pasar de 2.29 por cada 100,000 habitantes en 1990 a 6.17 en 2020. La tendencia ha sido sostenida y sin cambios significativos, lo que evidencia la ausencia de políticas de salud mental con impacto real. Además, los incrementos se acentúan en contextos de crisis económicas, lo que sugiere que el sistema no ha logrado responder de forma efectiva a estos periodos de mayor vulnerabilidad.
 
 ## Row {height="640px"}
 
@@ -1220,11 +1223,11 @@ fig_suic_s.show()
 
 ### Lo que sí funcionó {width="50%"}
 
-México tiene logros reales en salud que no deben ignorarse. La mortalidad materna bajó de 85 a 35 por 100,000 nacidos vivos. La mortalidad infantil se redujo de 41 a 16 por 1,000 nacidos vivos. El número de partos con asistencia médica supera el 88%. Estos avances muestran que **cuando hay voluntad política y presupuesto sostenido, el sistema funciona**.
+México presenta avances reales en salud que no deben pasarse por alto. La mortalidad materna se redujo de 85 a 35 por cada 100,000 nacidos vivos, mientras que la mortalidad infantil descendió de 41 a 16 por cada 1,000 nacidos vivos. Además, más del 88% de los partos cuentan con asistencia médica. Estos resultados evidencian que cuando existe continuidad institucional, financiamiento sostenido y capacidad operativa, el sistema responde.
 
 ### ODS 3 como nodo sistémico {width="50%"}
 
-ODS 3 (Salud) es el **nodo más conectado del grafo de interdependencias**: comparte correlaciones fuertes con prácticamente todos los demás objetivos. Cuando la salud falla, arrastra a los demás. La relación más fuerte es con **ODS 8 (Trabajo)** — el trilema Salud↔Trabajo↔Agua que atraviesa todo el análisis.
+El ODS de salud se configura como el nodo más interconectado del sistema, con correlaciones relevantes con la mayoría de los demás objetivos. Cuando la salud se deteriora, sus efectos se propagan al resto del sistema. La relación más crítica se observa con el ODS de trabajo, dando lugar al trilema Salud–Trabajo–Agua que estructura gran parte del análisis.
 
 ## Row {height="640px"}
 
@@ -1254,7 +1257,7 @@ fig_red3_s.show()
 fig_radar_s.show()
 ```
 
-# 2. Trilema {data-icon="droplet-fill" scrolling="true"}
+# Trilema {data-icon="droplet-fill" scrolling="true"}
 
 ```{python}
 #| label: trilema-setup
@@ -2075,7 +2078,7 @@ fig_sankey_t.show()
 
 > *"México crece. Su consumo material se multiplicó por 18 en 20 años. Al mismo tiempo, su acceso al agua segura retrocedió, sus cuerpos de agua se encogen, y sus aguas residuales volvieron a quedar sin tratar. No son hechos separados. Son el mismo hecho."*
 
-# 3. Desigualdad {data-icon="scale" scrolling="true"}
+# Desigualdad {data-icon="scale" scrolling="true"}
 
 ```{python}
 #| label: desigualdad-setup
@@ -3051,7 +3054,7 @@ fig_radar_d.show()
 
 > *"México tiene 11 indicadores para medir la desigualdad. Solo 4 tienen datos suficientes para análisis estadístico. No es un detalle técnico — es la historia del problema: aquello que más daño hace es aquello que menos capacidad tenemos de rastrear."*
 
-# 4. Educación {data-icon="book-fill" scrolling="true"}
+# Educación {data-icon="book-fill" scrolling="true"}
 
 ```{python}
 #| label: educacion-setup
@@ -3979,7 +3982,7 @@ fig8_e.show()
 
 > *"México casi universalizó la alfabetización. Ese logro es real. Pero no alcanza para ocultar tres décadas de deuda acumulada: docentes sin certificación, escuelas sin internet, instituciones sin confianza. Y una violencia que convierte el salón de clases en el lugar más difícil para aprender."*
 
-# 5. Monitoreo {data-icon="eye-fill" scrolling="true"}
+# Monitoreo {data-icon="eye-fill" scrolling="true"}
 
 ```{python}
 #| label: monitoreo-setup
