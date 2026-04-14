@@ -486,6 +486,20 @@ _add_source(fig_bubble,  'Metadatos del sistema de 333 indicadores ODS')
 _add_source(fig_cards,   'Correlaciones Spearman y metadatos del sistema de 333 indicadores ODS', y=-0.06)
 ```
 
+## Row {height="140px"}
+
+### ACTO 5 · Los ODS huérfanos
+
+La figura representa el nivel de monitoreo y la disponibilidad de datos de los Objetivos de Desarrollo Sostenible en México, cada burbuja corresponde a un ODS; su tamaño indica el número total de indicadores asociados y su posición refleja la disponibilidad de datos y el nivel de seguimiento. Los ODS ubicados en la zona crítica, en la parte inferior izquierda, presentan menor cobertura de información y mayores limitaciones para su monitoreo. En conjunto, la figura permite identificar qué objetivos están mejor medidos y cuáles presentan rezagos, evidenciando desequilibrios en la generación de datos que afectan la capacidad de análisis y toma de decisiones.
+
+## Row {height="600px"}
+
+### ¿Qué tan bien monitoreamos cada ODS en México?
+
+```{python}
+fig_bubble.show()
+```
+
 ## Row
 
 ### ACTO 1 · El sistema interconectado {width="50%"}
@@ -528,7 +542,7 @@ figs_salud['3.4.1'].show() if '3.4.1' in figs_salud else None
 figs_salud['3.1.2'].show() if '3.1.2' in figs_salud else None
 ```
 
-## Row
+## Row {height="120px"}
 
 ### ACTO 3 · El trilema: Trabajo ↔ Agua ↔ Salud {width="50%"}
 
@@ -564,19 +578,6 @@ fig_pct.show()
 fig_obs.show()
 ```
 
-## Row
-
-### ACTO 5 · Los ODS huérfanos
-
-La figura representa el nivel de monitoreo y la disponibilidad de datos de los Objetivos de Desarrollo Sostenible en México, cada burbuja corresponde a un ODS; su tamaño indica el número total de indicadores asociados y su posición refleja la disponibilidad de datos y el nivel de seguimiento. Los ODS ubicados en la zona crítica, en la parte inferior izquierda, presentan menor cobertura de información y mayores limitaciones para su monitoreo. En conjunto, la figura permite identificar qué objetivos están mejor medidos y cuáles presentan rezagos, evidenciando desequilibrios en la generación de datos que afectan la capacidad de análisis y toma de decisiones.
-
-## Row {height="600px"}
-
-### ¿Qué tan bien monitoreamos cada ODS en México?
-
-```{python}
-fig_bubble.show()
-```
 
 ## Row
 

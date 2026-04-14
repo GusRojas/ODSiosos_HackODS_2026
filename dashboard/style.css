@@ -46,8 +46,8 @@
   border-radius: 8px;
   color: white;
 }
-.section-hero .sh-num   { font-size: 2.5rem; font-weight: 800; opacity: 0.55; }
-.section-hero .sh-title { font-size: 1.3rem; font-weight: 700; }
+.section-hero .sh-num   { font-size: 1.3rem; font-weight: 700; opacity: 0.55; }
+.section-hero .sh-title { font-size: 2.5rem; font-weight: 800; }
 .section-hero .sh-ods   { font-size: 0.85rem; opacity: 0.85; }
 
 blockquote {
