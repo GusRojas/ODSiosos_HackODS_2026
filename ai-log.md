@@ -4,8 +4,7 @@
 
 - **Claude Code** (claude.ai/code · modelo claude-sonnet-4-6) — asistente principal para
   ingeniería de datos, visualización y desarrollo del dashboard.
-- **GitHub Copilot** — autocompletado puntual en celdas de notebooks durante la exploración
-  inicial de los datos crudos de INEGI.
+
 
 ---
 
@@ -165,28 +164,7 @@
 
 ---
 
-### 2026-04-09 | Claude Code | Citas de fuente en todas las figuras
-
-- **Tarea**: El equipo identificó la necesidad de citar las fuentes de datos en cada
-  figura del dashboard para cumplir con buenas prácticas de transparencia y los requisitos
-  del concurso.
-- **Prompt**: *"Me parecería buena práctica citar fuentes en cada una de las gráficas en
-  todos los dashboards. Agrega la cita del origen de los datos graficados y analizados."*
-- **Resultado**: Definió una función helper `_add_source(fig, extra, y)` en el setup
-  global y añadió llamadas a las ~40 figuras del dashboard, diferenciando las fuentes
-  específicas por indicador: ENSANUT, CONEVAL, ENIGH, ENADIS, ENVIPE, ENCIG, OCDE, FAO,
-  UNICEF/WHO JME, CONANP, CONAHCYT, entre otras.
-- **Modificación del equipo**: Revisamos que cada fuente citada correspondiera
-  efectivamente al instrumento estadístico de origen del indicador. Corregimos la cita del
-  indicador de stunting para referenciar UNICEF/WHO JME 2023 (no solo INEGI) dado que las
-  cifras de comparación internacional provienen de esa fuente.
-- **Decisión**: El equipo tomó la decisión de citar fuentes como práctica de rigor
-  académico. Claude Code identificó los instrumentos estadísticos de cada indicador;
-  el equipo validó la correspondencia.
-
----
-
-## Decisiones propias del equipo (transversales)
+## Decisiones propias del equipo
 
 1. **Elección de las 5 problemáticas**: La agrupación de ODS en 5 problemas sistémicos
    fue una decisión analítica del equipo tras revisar la matriz de correlaciones. La IA
