@@ -55,10 +55,10 @@ Los datos utilizados en este proyecto son públicos y abiertos, provistos por in
 
 | Fuente | Descripción | Enlace |
 | :--- | :--- | :--- |
-| **INEGI** | 333 indicadores ODS de México — series de tiempo nacionales y estatales (1970–2026) | [inegi.org.mx/temas/ods](https://www.inegi.org.mx/temas/ods/) |
+| **INEGI / Agenda 2030 México** | 333 indicadores ODS de México — series de tiempo nacionales y estatales (1970–2026) | [agenda2030.mx — Indicadores ODS](https://agenda2030.mx/ODSopc.html?ti=T&goal=0&lang=es#/ind) |
 | **ONU / IAEG-SDGs** | Marco global de indicadores ODS (metadata y definiciones oficiales) | [unstats.un.org/sdgs/indicators](https://unstats.un.org/sdgs/indicators/indicators-list/) |
 
-> Los microdatos del INEGI se distribuyen bajo la [Política de Datos Abiertos del Gobierno de México](https://datos.gob.mx/libreusomx) y pueden descargarse libremente desde el portal oficial.
+> Los datos se distribuyen de forma pública y abierta a través del portal oficial **Agenda 2030 México**, operado por el INEGI.
 
 <br>
 
