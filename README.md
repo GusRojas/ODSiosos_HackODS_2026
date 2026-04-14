@@ -81,6 +81,8 @@ Los datos utilizados en este proyecto son públicos y abiertos, provistos por in
 | Fuente | Descripción | Fecha de descarga | Licencia | Enlace |
 | :--- | :--- | :---: | :---: | :--- |
 | **INEGI / Agenda 2030 México** | 333 indicadores ODS de México — series de tiempo nacionales y estatales (1970–2026) | 2026-03-24 | [Libre uso MX](https://datos.gob.mx/libreusomx) | [agenda2030.mx — Indicadores ODS](https://agenda2030.mx/ODSopc.html?ti=T&goal=0&lang=es#/ind) |
+| **INEGI / ENSANUT 2006–2022** | Encuesta Nacional de Salud y Nutrición — indicador ODS 2.2.1 (prevalencia de retraso en talla en menores de 5 años) | 2026-03-24 | [Libre uso MX](https://datos.gob.mx/libreusomx) | [ensanut.insp.mx](https://ensanut.insp.mx/) |
+| **UNICEF / WHO / World Bank — JME 2023** | Joint Malnutrition Estimates: estimaciones globales y regionales de desnutrición infantil (~2022) usadas como referencia comparativa para México | 2026-03-24 | Uso libre con atribución | [data.unicef.org/topic/nutrition/malnutrition](https://data.unicef.org/topic/nutrition/malnutrition/) |
 | **ONU / IAEG-SDGs** | Marco global de indicadores ODS — metadata y definiciones oficiales | — | Uso libre con atribución | [unstats.un.org/sdgs/indicators](https://unstats.un.org/sdgs/indicators/indicators-list/) |
 
 ### Descripción de variables principales
