@@ -1,4 +1,4 @@
-# México y los Objetivos de Desarrollo Sostenible: una deuda sistémica
+# México y los Objetivos de Desarrollo Sostenible: Una Deuda Sistémica
 
 
 <p align="left">
@@ -20,6 +20,18 @@ Para no dejar a nadie atrás, es importante que logremos cumplir con cada uno de
 <p align="justify">Este proyecto tuvo como objetivo analizar datos relacionados con los Objetivos de Desarrollo Sostenible (ODS) para identificar relaciones relevantes entre distintos indicadores y problemáticas en México. A través del uso de técnicas de análisis de datos, como el cálculo de correlaciones entre indicadores, se busca explorar cómo diferentes dimensiones sociales, económicas y ambientales se interrelacionan. El proyecto integra procesamiento de datos, análisis en Jupyter Notebook y desarrollo de un dashboard, con el fin de generar herramientas que permitan comprender mejor los desafíos asociados a los ODS.</p>
 
 <p align="justify">El propósito es comprender las interrelaciones existentes entre distintas problemáticas a nivel social, económico y ambiental. A partir de este análisis general, se identificaron patrones y vínculos relevantes entre indicadores, lo que permitió focalizar el estudio en áreas específicas de mayor impacto. En particular, se profundiza en los ODS relacionados con la salud y la pobreza, debido a su alta relevancia en el contexto actual y a su estrecha conexión con otras dimensiones del desarrollo sostenible, lo que los convierte en ejes clave para la interpretación y construcción de la narrativa del proyecto.</p>
+
+<p align="justify">Los 333 indicadores ODS de México (INEGI, 1970–2026) revelan cinco problemáticas interconectadas que no pueden entenderse por separado: cada una alimenta a las demás en un ciclo que el dato aislado no logra mostrar.
+
+El sistema no colapsó de golpe. Colapsó en silencio, indicador por indicador, año tras año. </p>
+
+| # | Problemática | ODS | Mecanismo de contagio |
+| :--- | :--- | :--- | :--- |
+| **01** | Colapso sanitario | ODS 3 | Retracción presupuestal + epidemiología ambiental |
+| **02** | Trilema consumo-agua-salud | ODS 6, 8, 12 | Crecimiento que destruye recursos vitales |
+| **03** | Desigualdad no medida | ODS 10, 1, 5 | Sistema estadístico que invisibiliza brechas |
+| **04** | Rezago educativo-institucional | ODS 4, 16 | Violencia y corrupción como techos estructurales |
+| **05** | Vacío de monitoreo | ODS 2, 14 | Decisiones políticas sobre qué registrar |
 
 <br>
 
