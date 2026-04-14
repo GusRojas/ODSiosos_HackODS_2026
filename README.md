@@ -29,11 +29,11 @@ Para no dejar a nadie atrás, es importante que logremos cumplir con cada uno de
 <br>
 <p align="right"> ODSiosos
   <br> Metztli Donaji Pablo Aparicio <br> Estudiante de Maestría en Ciencias de Computación por el CIC - IPN
-  <br>Gustavo Mandujano Rojas <br> Estudiante de Maestría en Ingeniería de Computación por el CIC - IPN
+  <br>Gustavo Mandujano Rojas <br> Estudiante de Maestría en Ingeniería de Cómputo, del Lab RyM, por el CIC - IPN
   <br>Rubén Oropeza Sánchez <br> Estudiante de Doctorado en Genética y Biología Molecular por el CINVESTAV
 </p>
 
-
+Este trabajo está bajo una Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional.
 
 
 
