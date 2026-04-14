@@ -35,6 +35,31 @@ El sistema no colapsó de golpe. Colapsó en silencio, indicador por indicador, 
 
 <br>
 
+## Decisiones metodológicas
+
+### ¿Por qué correlación de Spearman y no Pearson?
+
+Los 333 indicadores ODS cubren dimensiones muy distintas (pobreza, salud, medio ambiente, instituciones) con escalas, unidades y distribuciones heterogéneas. Pearson asume linealidad y sensibilidad a valores atípicos, condiciones que rara vez se cumplen en series socioeconómicas de largo plazo. Spearman opera sobre rangos, lo que lo hace robusto ante relaciones no lineales, series con datos dispersos y diferencias de escala entre indicadores. Dado que el objetivo era detectar *si dos indicadores se mueven juntos*, no *cuánto*, Spearman es la elección metodológicamente más honesta para este conjunto de datos.
+
+### ¿Por qué estos 5 problemas y no otros?
+
+A partir de las 3,758 correlaciones significativas (|r| ≥ 0.7, p < 0.05) se construyó un grafo de red entre los 17 ODS. Los 5 problemas seleccionados responden a tres criterios aplicados simultáneamente:
+
+1. **Centralidad en la red**: ODS con mayor número de conexiones fuertes con otros objetivos (ODS 3, 6, 8).
+2. **Magnitud del deterioro**: indicadores con tendencias negativas sostenidas en la serie de tiempo disponible.
+3. **Vacíos de monitoreo**: ODS con cobertura de datos críticamente baja, donde la ausencia de medición es en sí misma una señal de política pública (ODS 2, 14).
+
+Los problemas que quedaron fuera (p. ej. cambio climático — ODS 13, o biodiversidad — ODS 15) tienen pocas series con datos suficientes para análisis estadístico robusto, por lo que incluirlos habría comprometido la integridad del argumento.
+
+### Audiencia objetivo
+
+Este análisis está dirigido a dos audiencias:
+
+- **Academia e investigación**: equipos de ciencias sociales, salud pública y ciencias de datos interesados en el uso de correlaciones multidimensionales para diagnóstico sistémico de indicadores de desarrollo.
+- **Ciudadanía informada y sociedad civil**: personas y organizaciones que buscan evidencia accesible sobre la interrelación de problemas estructurales en México, más allá de los indicadores aislados que suelen reportarse en medios.
+
+<br>
+
 ## Conocenos
 <p align="justify">Preocupados y ODSiosos por la creciente complejidad de los desafíos sociales y su impacto en la calidad de vida de la población, este proyecto busca aportar una perspectiva basada en datos que permita comprender mejor la interrelación entre distintos factores asociados a los ODS. A través de un enfoque analítico y visual, se pretende no solo evidenciar problemáticas, sino también contribuir a la reflexión y al desarrollo de estrategias que favorezcan un futuro más equitativo y sostenible.</p>
 
@@ -53,12 +78,22 @@ El sistema no colapsó de golpe. Colapsó en silencio, indicador por indicador, 
 
 Los datos utilizados en este proyecto son públicos y abiertos, provistos por instituciones oficiales:
 
-| Fuente | Descripción | Enlace |
-| :--- | :--- | :--- |
-| **INEGI / Agenda 2030 México** | 333 indicadores ODS de México — series de tiempo nacionales y estatales (1970–2026) | [agenda2030.mx — Indicadores ODS](https://agenda2030.mx/ODSopc.html?ti=T&goal=0&lang=es#/ind) |
-| **ONU / IAEG-SDGs** | Marco global de indicadores ODS (metadata y definiciones oficiales) | [unstats.un.org/sdgs/indicators](https://unstats.un.org/sdgs/indicators/indicators-list/) |
+| Fuente | Descripción | Fecha de descarga | Licencia | Enlace |
+| :--- | :--- | :---: | :---: | :--- |
+| **INEGI / Agenda 2030 México** | 333 indicadores ODS de México — series de tiempo nacionales y estatales (1970–2026) | 2026-03-24 | [Libre uso MX](https://datos.gob.mx/libreusomx) | [agenda2030.mx — Indicadores ODS](https://agenda2030.mx/ODSopc.html?ti=T&goal=0&lang=es#/ind) |
+| **ONU / IAEG-SDGs** | Marco global de indicadores ODS — metadata y definiciones oficiales | — | Uso libre con atribución | [unstats.un.org/sdgs/indicators](https://unstats.un.org/sdgs/indicators/indicators-list/) |
 
-> Los datos se distribuyen de forma pública y abierta a través del portal oficial **Agenda 2030 México**, operado por el INEGI.
+### Descripción de variables principales
+
+Cada indicador descargado del portal Agenda 2030 México incluye tres archivos:
+
+| Archivo | Contenido |
+| :--- | :--- |
+| `conjunto_de_datos/*_sh_es.csv` | Serie de tiempo del indicador. Columnas principales: `anio` (año de observación), `valor` (valor numérico del indicador), `cvegeo` (clave geográfica; `'00'` = nivel nacional) |
+| `metadatos/*_met_es.txt` | Ficha descriptiva: nombre del indicador, unidad de medida, ODS al que pertenece, meta específica y tipo de indicador (global, nacional adaptado `N`, o reformulado `R`) |
+| `catalogos/claves_codigos_indicadores_es.csv` | Catálogo de códigos: mapeo entre el identificador ODS (p. ej. `3.B.1`) y su descripción textual |
+
+Los identificadores de indicador siguen la numeración oficial ODS (p. ej. `1.1.1`, `3N.2.1`, `16R.3A`). El sufijo `N` indica indicadores adaptados a nivel nacional; `R` indica indicadores reformulados por México.
 
 <br>
 
