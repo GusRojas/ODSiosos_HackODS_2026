@@ -490,7 +490,7 @@ _add_source(fig_cards,   'Correlaciones Spearman y metadatos del sistema de 333 
 
 ### ACTO 5 · Los ODS huérfanos
 
-La figura representa el nivel de monitoreo y la disponibilidad de datos de los Objetivos de Desarrollo Sostenible en México, cada burbuja corresponde a un ODS; su tamaño indica el número total de indicadores asociados y su posición refleja la disponibilidad de datos y el nivel de seguimiento. Los ODS ubicados en la zona crítica, en la parte inferior izquierda, presentan menor cobertura de información y mayores limitaciones para su monitoreo. En conjunto, la figura permite identificar qué objetivos están mejor medidos y cuáles presentan rezagos, evidenciando desequilibrios en la generación de datos que afectan la capacidad de análisis y toma de decisiones.
+**Monitoreo y cobertura de datos en los ODS.** La siguiente figura representa el nivel de monitoreo y la disponibilidad de datos de los Objetivos de Desarrollo Sostenible en México, cada burbuja corresponde a un ODS; su tamaño indica el número total de indicadores asociados y su posición refleja la disponibilidad de datos y el nivel de seguimiento. Los ODS ubicados en la zona crítica, en la parte inferior izquierda, presentan menor cobertura de información y mayores limitaciones para su monitoreo. En conjunto, la figura permite identificar qué objetivos están mejor medidos y cuáles presentan rezagos, evidenciando desequilibrios en la generación de datos que afectan la capacidad de análisis y toma de decisiones.
 
 ## Row {height="600px"}
 
@@ -504,8 +504,7 @@ fig_bubble.show()
 
 ### ACTO 1 · El sistema interconectado {width="50%"}
 
-**Red de interdependencias entre los Objetivos de Desarrollo Sostenible (ODS) en México.**
-La figura representa una red donde cada nodo corresponde a un ODS y cada arista indica la existencia de correlaciones altas (|r| ≥ 0.7) entre sus indicadores asociados. Las aristas en <span style="color:#FF6B6B;font-weight:700">rojo</span> representan **trade-offs**, es decir, relaciones en las que el avance en un objetivo se asocia con retrocesos en otro; mientras que las aristas en <span style="color:#4ECDC4;font-weight:700">verdes-azules</span> indican **sinergias**, donde los progresos son mutuamente reforzados. La estructura de la red permite identificar ODS altamente interconectados que funcionan como nodos sistémicos, cuyos cambios tienen efectos amplificados sobre el conjunto del sistema.
+**Red de interdependencias entre los Objetivos de Desarrollo Sostenible (ODS) en México.** La figura representa una red donde cada nodo corresponde a un ODS y cada arista indica la existencia de correlaciones altas (|r| ≥ 0.7) entre sus indicadores asociados. Las aristas en <span style="color:#FF6B6B;font-weight:700">rojo</span> representan **trade-offs**, es decir, relaciones en las que el avance en un objetivo se asocia con retrocesos en otro; mientras que las aristas en <span style="color:#4ECDC4;font-weight:700">verdes-azules</span> indican **sinergias**, donde los progresos son mutuamente reforzados. La estructura de la red permite identificar ODS altamente interconectados que funcionan como nodos sistémicos, cuyos cambios tienen efectos amplificados sobre el conjunto del sistema.
 
 
 ### ACTO 2 · El colapso de la salud pública {width="50%"}
@@ -2980,7 +2979,7 @@ México tiene **11 indicadores para medir la desigualdad en ODS 10**. Solo 4 tie
 
 ### El Gini: la mejora que necesita contexto {width="50%"}
 
-El Gini oficial bajó de **0.449** en 2016 a **0.391** en 2024 — una mejora real. Pero el Gini *sin transferencias del gobierno* es **0.450** hoy. La diferencia es la distancia entre lo que México redistribuye y lo que estructuralmente produce. El sistema vive de su propio correctivo.
+El **índice de Gini**, que mide la desigualdad en la distribución del ingreso, bajó de 0.449 en 2016 a 0.391 en 2024, lo que refleja una mejora real en términos de equidad. Sin embargo, si se excluyen las transferencias del gobierno, el Gini se mantiene en 0.450. Esta diferencia muestra que la reducción de la desigualdad no proviene de cambios estructurales en la economía, sino de mecanismos de redistribución. En otras palabras, el sistema depende de sus propios correctivos para compensar las desigualdades que genera.
 
 ## Row {height="520px"}
 
@@ -3004,7 +3003,7 @@ Los salarios capturan apenas el **29.8% del PIB** — cuando el rango saludable 
 
 ### La pobreza en tres retratos {width="50%"}
 
-La pobreza extrema cayó del 18.3% al 5.9% — un logro histórico. Pero el 43.5% de los mexicanos sigue en pobreza según la definición nacional (2022). Y el 36.3% en pobreza multidimensional. Son tres maneras de medir el mismo problema, y ninguna cuenta una historia de triunfo completo.
+La pobreza extrema disminuyó del 18.3% al 5.9%, un logro histórico. Pero el 43.5% de los mexicanos sigue en pobreza según la definición nacional (2022). El 36.3% en pobreza multidimensional. Estas son tres maneras de medir el mismo problema, y ninguna cuenta una historia de triunfo completo.
 
 ## Row {height="620px"}
 
@@ -3024,11 +3023,13 @@ fig_pob_d.show()
 
 ### Género: avances reales, brechas persistentes {width="50%"}
 
-Las mujeres ocupan el **48.2%** de la Cámara de Diputados — uno de los avances más notables del sistema ODS mexicano. Pero la brecha salarial persiste: **~0.90 pesos por cada peso masculino**. Y las mujeres realizan en promedio **7.6 horas semanales más** de trabajo doméstico no remunerado.
+Las mujeres ocupan el **48.2%** de la Cámara de Diputados uno de los avances más notables del sistema ODS mexicano, sin embargo, la brecha salarial persiste: **~0.90 pesos por cada peso masculino**. Y las mujeres realizan en promedio **7.6 horas semanales más** de trabajo doméstico no remunerado.
 
 ### La discriminación: lo que los números no alcanzan a ver {width="50%"}
 
-El ODS 10.3.1 mide discriminación declarada. Hay **dos puntos de datos** en cinco años: 2017 y 2022. En ese lapso subió de 20.2% a **23.7%**. No sabemos si sigue subiendo. El sistema de monitoreo no fue diseñado para rastrear lo que más duele — y esa ceguera estadística es, en sí misma, una forma de desigualdad.
+Te lo dejo mucho más claro y directo:
+
+El indicador ODS 10 mide la discriminación, pero casi no hay datos. Solo se registró en 2017 y en 2022. En ese tiempo aumentó de 20.2% a 23.7%, lo que indica que el problema creció. Sin embargo, no sabemos qué pasó en los años intermedios ni si la tendencia continúa. Esto muestra un problema más grande: el sistema no mide de forma constante uno de los temas más importantes, y cuando algo no se mide bien, no se puede entender ni atender.
 
 ## Row {height="650px"}
 
@@ -3053,7 +3054,7 @@ fig_radar_d.show()
 
 ### Síntesis · La desigualdad que no se mide
 
-> *"México tiene 11 indicadores para medir la desigualdad. Solo 4 tienen datos suficientes para análisis estadístico. No es un detalle técnico — es la historia del problema: aquello que más daño hace es aquello que menos capacidad tenemos de rastrear."*
+> *"México tiene 11 indicadores para medir la desigualdad. Solo 4 tienen datos suficientes para análisis estadístico."*
 
 # Educación {data-icon="book-fill" scrolling="true"}
 
@@ -3885,11 +3886,11 @@ fig_kpi_e.show()
 
 ### La ilusión del éxito {width="50%"}
 
-México celebra el **99.2%** de alfabetización — pero esa cifra oculta dos crisis. La matrícula de educación superior apenas alcanza el **43.8%**, 21 puntos por debajo del promedio OCDE. Y solo el **37%** de los adultos participa en formación continua, sin recuperación post-COVID. El titular tapa el fondo.
+El titular tapa el fondo. México celebra el **99.2%** de alfabetización pero esa cifra oculta dos crisis. La matrícula de educación superior apenas alcanza el **43.8%**, 21 puntos por debajo del promedio OCDE. Y solo el **37%** de los adultos participa en formación continua, sin recuperación post-COVID.
 
 ### La brecha digital en el salón de clases {width="50%"}
 
-Electricidad llega al **95.6%** de las escuelas. Internet solo al **46.7%**. Y las computadoras en funcionamiento — **47.6%**, menos que en 2018 (54.3%)**. La pandemia aceleró la necesidad de conectividad digital justo cuando el sistema la retrocedía. La brecha no es técnica: es estructural.
+Electricidad llega al **95.6%** de las escuelas. Internet solo al **46.7%** y las computadoras en funcionamiento es aprox. **47.6%**, menos que en 2018 (54.3%)**. La pandemia aceleró la necesidad de conectividad digital justo cuando el sistema la retrocedía. La brecha no es técnica: es estructural.
 
 ## Row {height="500px"}
 
@@ -3909,11 +3910,11 @@ fig2_e.show()
 
 ### El docente desarmado {width="50%"}
 
-**1 de cada 5 maestros de preescolar** no cuenta con la certificación mínima requerida. En secundaria el porcentaje sin certificación es del **13%**. Además, el **15%** de las escuelas opera en modelo multigrado — un docente para varios grados, con recursos mínimos, en las zonas más alejadas.
+**1 de cada 5 maestros de preescolar** no cuenta con la certificación mínima requerida. En secundaria el porcentaje sin certificación es del **13%**. Además, el **15%** de las escuelas opera en modelo multigrado, un docente para varios grados, con recursos mínimos, en las zonas más alejadas.
 
 ### La violencia como techo de cristal {width="50%"}
 
-La tasa de homicidios en México (**25.4/100k en 2024**) quintuplica el umbral de epidemia de la OMS (5/100k). El **24%** de la población fue víctima de un delito en 2024. Cuando el entorno inmediato es violento, el aprendizaje no es imposible — pero el sistema lo hace mucho más difícil.
+La tasa de homicidios en México (**25.4/100k en 2024**) quintuplica el umbral de epidemia de la OMS (5/100k). El **24%** de la población fue víctima de un delito en 2024. Cuando el entorno inmediato es violento, el aprendizaje no es imposible pero el sistema lo hace mucho más difícil.
 
 ## Row {height="500px"}
 
@@ -4699,11 +4700,11 @@ fig_kpi_m.show()
 
 ### El mapa del silencio {width="50%"}
 
-De los 17 ODS, solo 8 tienen el **100% de sus indicadores** con algún dato. El ODS 1 (Pobreza) es el peor: apenas el **58%** de sus indicadores reporta datos. ODS 5 (Género) tiene 93% de cobertura pero **0% con ≥15 observaciones** — presencia nominal, ausencia analítica.
+De los 17 ODS, solo 8 tienen el **100% de sus indicadores** con algún dato. El ODS 1 (Pobreza) es el peor: apenas el **58%** de sus indicadores reporta datos. ODS 5 (Género) tiene 93% de cobertura pero **0% con ≥15 observaciones** presencia nominal pero ausencia analítica.
 
 ### El hambre en cámara lenta {width="50%"}
 
-En **18 años** el stunting infantil pasó de 15.4% a **15.1%**: esencialmente sin movimiento. La inseguridad alimentaria moderada o severa afecta al **16.2%** de los mexicanos (2022) — 1 de cada 6. Y el rendimiento del maíz sigue un 33% por debajo del promedio mundial.
+En 18 años, el **stunting infantil**, retraso en el crecimiento de niñas y niños causado por desnutrición crónica, pasó de 15.4% a 15.1%, prácticamente sin cambios. Al mismo tiempo, la inseguridad alimentaria moderada o severa afecta al 16.2% de la población en 2022, es decir, 1 de cada 6 personas. A esto se suma que el rendimiento del maíz se mantiene un 33% por debajo del promedio mundial, lo que refleja limitaciones persistentes en la capacidad productiva del sistema alimentario.
 
 <small style="color:#8B949E">Fuentes: INEGI · ENSANUT (ODS 2.2.1); FAO · SOFI 2023 (inseguridad alimentaria); FAOSTAT (rendimiento maíz).</small>
 
@@ -4725,8 +4726,7 @@ fig2_m.show()
 
 ### El océano con 4 indicadores {width="50%"}
 
-México tiene **11,592 km de litoral** — el 11º más largo del mundo — y para todo su ecosistema marino registra exactamente **4 indicadores ODS**. El logro es real: las áreas marinas protegidas saltaron al 22.5%. Pero el presupuesto para estudiar ese mar colapsó **−78%** desde 2012.
-
+México tiene **11,592 km de litoral**, una de las mayores extensiones costeras del mundo, y sin embargo registra únicamente **4 indicadores ODS** para monitorear todo su ecosistema marino. El avance es tangible, las áreas marinas protegidas alcanzaron el 22.5%, pero el presupuesto destinado a estudiar ese mar se redujo **−78%** desde 2012, lo que evidencia una brecha entre conservación declarada y capacidad real de conocimiento y seguimiento.
 ### La salud de los datos {width="50%"}
 
 De los **333 indicadores** del sistema ODS: **41** sin ningún dato, **63** con apenas 1–4 observaciones, **78** con 5–14. Solo el **34%** tiene datos suficientes para análisis estadístico riguroso. Estamos midiendo nuestras metas con instrumentos rotos — y sin saberlo.
